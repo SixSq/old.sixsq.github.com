@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: untitled
 title: ThalesAlenia Space
 category: customer
 ---

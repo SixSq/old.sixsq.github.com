@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: untitled
 title: European Commission Seventh Framework Programme (FP7)
 category: customer
 ---

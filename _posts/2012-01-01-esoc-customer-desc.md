@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: untitled
 title: European Space Operations Centre (ESOC)
 category: customer
 ---
