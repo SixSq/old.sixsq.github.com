@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>{{ page.title }}</title>
+    <link href="/shared/css/sixsq-style.css" media="screen" rel="stylesheet" type="text/css">
+    <link href="/shared/css/syntax.css" media="screen" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="shared/js/jquery.js"></script>
+    <script type="text/javascript" src="shared/js/ie5fixes.js"></script>
+    <script type="text/javascript" src="shared/js/resourcebase2-dom-fp.js"></script>
+    <script type="text/javascript" src="shared/js/input-label.js"></script>
+  </head>
+  
+  <body>
+    <div id="main">
+
+      {% include header.html %}
+
+        <div id="content" class="site">
+
+          {{ content }}
+
+        </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>
