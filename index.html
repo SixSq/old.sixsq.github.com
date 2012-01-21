@@ -15,7 +15,7 @@ production SixSq site at <a href="http://sixsq.com/">http://sixsq.com/.</a>
         <td>
           <ul>
             <li id="post-title">{{ product.title }}</li>
-            <li id="post-content">{{ product.content }}</li>
+            <li id="post-content">{{ product.content | strip_html | truncatewords:25 }}</li>
             <li id="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
           </ul>
         </td>

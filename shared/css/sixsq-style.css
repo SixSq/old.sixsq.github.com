@@ -1,0 +1,23 @@
+body {
+  font-family: Ariel, Verdana, Sans-serif;
+}
+
+h1 {
+  font-family: Impact, sans-serif;
+}
+
+div.header {
+  background: red;
+  color: white;
+}
+
+div.header > a:link, div.header > a:hover, div.header > a:visited, div.header > a:active {
+  color: white;
+  text-decoration:none;
+}
+
+div.footer {
+  background: black;
+  color: white;
+}
+
