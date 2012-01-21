@@ -6,6 +6,8 @@ body {
 
 h1 {
   font-family: Impact, sans-serif;
+  font-variant: small-caps;
+  font-size: 150%;
   color: DarkSlateGray;
 }
 
@@ -17,12 +19,18 @@ table.panel {
   width: 25%;
 }
 
+div.left, div.middle, div.right {
+  width: 30%;
+}
+
 td {
   vertical-align: top;
 }
 
 .post-title {
-  font-style: bold;
+  font-family: Impact;
+  font-variant: small-caps;
+  font-size: 150%;
   color: DarkSlateGray;
 }
 
@@ -49,6 +57,7 @@ td {
   color: blue;
   text-decoration:none;
 }
+
 .learn a:active {
   font-style: italic;
   color: blue;
@@ -81,11 +90,10 @@ div.header {
 }
 
 div.footer {
-  background: DarkSlateGray;
+  background: black;
   color: white;
 }
 
 ul {
   list-style-type: none;
-  background-color: grey;
 }
