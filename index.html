@@ -8,21 +8,21 @@ This is a mock site for testing the web site layout.  Please see the
 production SixSq site at <a href="http://sixsq.com/">http://sixsq.com/.</a>
 </p>
 
-{% for product in site.categories.products %}
-    <div class="product-panel">
-      <table>
-        <tr>
-          <td>
-            <ul>
-              <li id="post-title">{{product.title}}</li>
-              <li id="post-content">{{ product.content }}</li>
-              <li id="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
-            </ul>
-          </td>
-          <td>
-            <div id="image">PRODUCT IMAGE</div>
-          </td>
-        <tr>
-      </table>
-    </div>
+{% for product in site.categories.product limit:4 %}
+  <div class="product-panel">
+    <table>
+      <tr>
+        <td>
+          <ul>
+            <li id="post-title">{{ product.title }}</li>
+            <li id="post-content">{{ product.content }}</li>
+            <li id="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
+          </ul>
+        </td>
+        <td>
+          <div id="image">PRODUCT IMAGE</div>
+        </td>
+      <tr>
+    </table>
+  </div>
 {% endfor %}
