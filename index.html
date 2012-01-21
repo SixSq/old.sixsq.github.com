@@ -6,9 +6,9 @@ title: SixSq Sarl
 <p>
 This is a mock site for testing the web site layout.  Please see the
 production SixSq site at <a href="http://sixsq.com/">http://sixsq.com/.</a>
+</p>
 
 {% for product in site.categories.products %}
-  {% if forloop.index0 < 4 %}
     <div class="product-panel">
       <table>
         <tr>
@@ -25,5 +25,4 @@ production SixSq site at <a href="http://sixsq.com/">http://sixsq.com/.</a>
         <tr>
       </table>
     </div>
-  {% endif %}
 {% endfor %}
