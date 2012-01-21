@@ -21,8 +21,14 @@ td {
   vertical-align: top;
 }
 
-li.post-title {
+.post-title {
   font-style: bold;
+  color: DarkSlateGray;
+}
+
+.post-content {
+  font-style: bold;
+  font-size: 75%;
   color: DarkSlateGray;
 }
 
@@ -77,4 +83,9 @@ div.header {
 div.footer {
   background: DarkSlateGray;
   color: white;
+}
+
+ul {
+  list-style-type: none;
+  background-color: grey;
 }

@@ -6,9 +6,9 @@ title: Products
 <ul class="posts">
   {% for post in site.categories.product %}
     <li>
-      <div class="post-title"><span>{{ post.date | date_to_string }}</span> &raquo; {{post.title}}</div>
+      <div class="post-title">{{post.title}}</div>
       <div class="post-content">{{ post.content | strip_html | truncatewords:25 }}</div>
-      <a href="{{ post.url }}">Learn more &raquo;</a>
+      <div class="learn"><a href="{{ post.url }}">Learn more &raquo;</a></div>
     </li>
   {% endfor %}
 </ul>
