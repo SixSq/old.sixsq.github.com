@@ -1,11 +1,12 @@
 body {
-  font-family: Ariel, Verdana, Sans-serif;
+  font-family: Tahoma, Geneva, "Trebuchet MS", Sans-serif;
   width: 750px;
   margin: 0 auto;
 }
 
 h1 {
   font-family: Impact, sans-serif;
+  color: DarkSlateGray;
 }
 
 img {
@@ -16,57 +17,64 @@ table.panel {
   width: 25%;
 }
 
-li.post-title {
-  font-style: bold;
+td {
+  vertical-align: top;
 }
 
-li.learn {
-  a:link {
-    color: blue;
-    text-decoration:none;
-  }
-  a:hover {
-    color: blue;
-    text-decoration:none;
-  }
-  a:visited {
-    color: blue;
-    text-decoration:none;
-  }
-  a:active {
-    color: blue;
-    text-decoration:none;
-  }
+li.post-title {
+  font-style: bold;
+  color: DarkSlateGray;
+}
+
+.learn a:link {
+  font-style: italic;
+  color: blue;
+  text-decoration:none;
+}
+
+.learn a:hover {
+  font-style: italic;
+  color: blue;
+  text-decoration:none;
+}
+
+.learn a:visited {
+  font-style: italic;
+  color: blue;
+  text-decoration:none;
+}
+.learn a:active {
+  font-style: italic;
+  color: blue;
+  text-decoration:none;
 }
 
 div.header {
   background: #650504;
   color: white;
+}
 
-  a:link {
-    color: white;
-    text-decoration:none;
-  }
+.header a:link {
+  color: white;
+  text-decoration:none;
+}
 
-  a:hover {
-    color: white;
-    text-decoration:none;
-  }
+.header a:hover {
+  color: white;
+  text-decoration:none;
+}
 
-  a:visited {
-    color: white;
-    text-decoration:none;
-  }
+.header a:visited {
+  color: white;
+  text-decoration:none;
+}
 
-  a:active {
-    color: white;
-    text-decoration:none;
-  }
-
+.header a:active {
+  color: white;
+  text-decoration:none;
 }
 
 div.footer {
-  background: black;
+  background: DarkSlateGray;
   color: white;
 }
-
