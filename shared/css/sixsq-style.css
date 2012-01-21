@@ -5,9 +5,7 @@ body {
 }
 
 h1 {
-  font-family: Impact, sans-serif;
   font-variant: small-caps;
-  font-size: 150%;
   color: DarkSlateGray;
 }
 
@@ -15,20 +13,11 @@ img {
   vertical-align: text-top;
 }
 
-table.panel {
-  width: 25%;
-}
-
-div.left, div.middle, div.right {
-  width: 30%;
-}
-
 td {
   vertical-align: top;
 }
 
 .post-title {
-  font-family: Impact;
   font-variant: small-caps;
   font-size: 150%;
   color: DarkSlateGray;
