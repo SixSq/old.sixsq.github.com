@@ -3,4 +3,23 @@ layout: front-page
 title: SixSq Sarl
 ---
 
-<h1>INDEX PAGE</h1>
+{% for product in site.categories.products %}
+  {% if forloop.index0 < 4 %}
+    <div class="product-panel">
+      <table>
+        <tr>
+          <td>
+            <ul>
+              <li id="post-title">{{product.title}}</li>
+              <li id="post-content">{{ product.excerpt }}</li>
+              <li id="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
+            </ul>
+          </td>
+          <td>
+            <div id="image">PRODUCT IMAGE</div>
+          </td>
+        <tr>
+      </table>
+    </div>
+  {% endif %}
+{% endfor %}
