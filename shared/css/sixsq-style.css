@@ -1,5 +1,5 @@
 body {
-  font-family: Tahoma, Geneva, "Trebuchet MS", Sans-serif;
+  font-family: Ariel, Verdana, "Trebuchet MS", Sans-serif;
   width: 750px;
   margin: 0 auto;
 }
@@ -19,14 +19,15 @@ td {
 
 .post-title {
   font-variant: small-caps;
-  font-size: 150%;
-  color: DarkSlateGray;
+}
+
+div.footer.post-title {
+  text-transform: uppercase;
+  font-variant: none;
 }
 
 .post-content {
-  font-style: bold;
   font-size: 75%;
-  color: DarkSlateGray;
 }
 
 .learn a:link {
