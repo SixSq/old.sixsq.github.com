@@ -1,19 +1,68 @@
 body {
   font-family: Ariel, Verdana, Sans-serif;
+  width: 750px;
+  margin: 0 auto;
 }
 
 h1 {
   font-family: Impact, sans-serif;
 }
 
-div.header {
-  background: red;
-  color: white;
+img {
+  vertical-align: text-top;
 }
 
-div.header > a:link, div.header > a:hover, div.header > a:visited, div.header > a:active {
+table.panel {
+  width: 25%;
+}
+
+li.post-title {
+  font-style: bold;
+}
+
+li.learn {
+  a:link {
+    color: blue;
+    text-decoration:none;
+  }
+  a:hover {
+    color: blue;
+    text-decoration:none;
+  }
+  a:visited {
+    color: blue;
+    text-decoration:none;
+  }
+  a:active {
+    color: blue;
+    text-decoration:none;
+  }
+}
+
+div.header {
+  background: #650504;
   color: white;
-  text-decoration:none;
+
+  a:link {
+    color: white;
+    text-decoration:none;
+  }
+
+  a:hover {
+    color: white;
+    text-decoration:none;
+  }
+
+  a:visited {
+    color: white;
+    text-decoration:none;
+  }
+
+  a:active {
+    color: white;
+    text-decoration:none;
+  }
+
 }
 
 div.footer {

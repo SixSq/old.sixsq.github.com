@@ -14,13 +14,13 @@ production SixSq site at <a href="http://sixsq.com/">http://sixsq.com/.</a>
       <tr>
         <td>
           <ul>
-            <li id="post-title">{{ product.title }}</li>
-            <li id="post-content">{{ product.content | strip_html | truncatewords:25 }}</li>
-            <li id="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
+            <li class="post-title">{{ product.title }}</li>
+            <li class="post-content">{{ product.content | strip_html | truncatewords:25 }}</li>
+            <li class="learn"><a href="{{ product.url }}">Learn more &raquo;</a></li>
           </ul>
         </td>
         <td>
-          <div id="image">PRODUCT IMAGE</div>
+          <div class="image">PRODUCT IMAGE</div>
         </td>
       <tr>
     </table>
