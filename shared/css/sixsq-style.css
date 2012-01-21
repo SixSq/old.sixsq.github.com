@@ -17,13 +17,18 @@ td {
   vertical-align: top;
 }
 
+.section {
+  color: orange;
+  font-variant: small-caps;
+}
+
 .post-title {
   font-variant: small-caps;
 }
 
 div.footer.post-title {
   text-transform: uppercase;
-  font-variant: none;
+  font-variant: inherit;
 }
 
 .post-content {
