@@ -20,21 +20,26 @@
   <body class="front_page">
 
     <div id="wrapper">
+
       <div id="header">
+        
+        {% include top.html %}
+        
+        {% include banner.html %}
 
-      {% include top.html %}
+      </div>
 
-      {% include banner.html %}
+      <div id="content">
+        
+        {% include products.html %}
+        
+        {% include latest.html %}
+        
+        {% include customers.html %}
+        
+        {% include footer.html %}
 
-        <div id="content">
-
-      {% include products.html %}
-      
-      {% include latest.html %}
-      
-      {% include customers.html %}
-      
-      {% include footer.html %}
+      </div>
       
     </div>
   </body>
