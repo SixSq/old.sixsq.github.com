@@ -1,7 +1,7 @@
 ---
-layout: untitled
+layout: article
 title: European Space Operations Centre (ESOC)
-category: customer
+category: customers
 ---
 
 Since its creation in 1967, the European Space Operations Centre

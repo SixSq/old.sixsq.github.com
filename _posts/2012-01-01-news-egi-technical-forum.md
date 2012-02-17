@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: article
 title: SixSq at European Grid Infrastructure Technical Forum
 image: img/content/img_01.png
 category: news

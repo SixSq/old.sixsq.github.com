@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: article
 title: Training &amp; Coaching
 class: training_coatching
-category: product
+category: products
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing.

@@ -1,47 +1,37 @@
-<div class="front latest">
+<div class="news">
+  {% for post in site.categories.news limit:1 %}
+  <h3>{{ post.title }}</h3>
+  <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+  <a href="{{ post.url }}">Learn more</a>
+  {% endfor %}
+</div>
 
-  <div class="news">
-    {% for post in site.categories.news limit:1 %}
-    <h3>{{ post.title }}</h3>
-    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-    <a href="{{ post.url }}">Learn more</a>
-    {% endfor %}
-  </div>
-
-  <div class="tweets">
-    <h3>Tweets</h3>
-
-    <p>
-    <div class="twitters" id="sixsq">  
-      Loading tweets... <img alt="" src="images/common/spinner.gif">
-    </div>
-    </p>
-    <a href="http://twitter.com/sixsq">Learn more</a>
-
-    <script src="https://twitterjs.googlecode.com/svn/trunk/src/twitter.min.js" type="text/javascript">
-    </script>
-    <script charset="utf-8" type="text/javascript">
+<div class="tweets">
+  <h3>Tweets</h3>
   
+  <p class="twitters" id="sixsq">Loading tweets...</p>
+  
+  <script charset="utf-8" type="text/javascript">  
   jQuery(function() {
   getTwitters('sixsq', { 
   id: 'sixsq', 
   count: 2,
-  enableLinks: true, 
-  ignoreReplies: false, 
-  template: '<span class="twitterPrefix"><span class="twitterStatus"> %text%</span><em class="twitterTime"> - <a href="http://twitter.com/%user_screen_name%/statuses/%id_str%">%time%</a></em></span>'
+  enableLinks: false, 
+  ignoreReplies: true, 
+  template: '%text% (%time%)'
   });
   })
   
-    </script>
+  </script>
 
-  </div>
+  <a href="http://twitter.com/sixsq">Learn more</a>
 
-  <div class="blog_entries">
-    {% for post in site.categories.blog limit:1 %}
-    <h3>{{ post.title }}</h3>
-    <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-    <a href="{{ post.url }}">Learn more</a>
-    {% endfor %}
-  </div>
+</div>
 
+<div class="blog_entries">
+  {% for post in site.categories.blog limit:1 %}
+  <h3>{{ post.title }}</h3>
+  <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
+  <a href="{{ post.url }}">Learn more</a>
+  {% endfor %}
 </div>

@@ -1,7 +1,7 @@
 ---
-layout: untitled
+layout: article
 title: ThalesAlenia Space
-category: customer
+category: customers
 ---
 
 European leader for satellite systems and at the forefront of orbital

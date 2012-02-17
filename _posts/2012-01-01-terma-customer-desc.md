@@ -1,7 +1,7 @@
 ---
-layout: untitled
+layout: article
 title: Terma
-category: customer
+category: customers
 ---
 
 Terma develops and markets high-tech solutions, systems, and products

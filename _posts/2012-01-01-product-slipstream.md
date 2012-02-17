@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: article
 title: SlipStream
 class: slip_stream
-category: product
+category: products
 ---
 
 Automated, on-demand, creation of multi-machine runtime

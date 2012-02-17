@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: article
 title: Release With Confidence
 subtitle: SixSq provides agile applications and tools, as well as software services and consultancy.
 category: banner

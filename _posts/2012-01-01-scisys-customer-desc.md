@@ -1,7 +1,7 @@
 ---
-layout: untitled
+layout: article
 title: SciSys
-category: customer
+category: customers
 ---
 
 The SciSys Group is a leading developer of ICT services, e-Business

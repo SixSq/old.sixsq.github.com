@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: article
 title: ReadyPack
 class: ready_pack 
-category: product
+category: products
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do

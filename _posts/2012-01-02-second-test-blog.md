@@ -1,6 +1,6 @@
 
 ---
-layout: default
+layout: article
 title: Test Blog Number 2
 category: blog
 ---

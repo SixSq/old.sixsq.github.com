@@ -1,7 +1,7 @@
 ---
-layout: untitled
+layout: article
 title: European Commission Seventh Framework Programme (FP7)
-category: customer
+category: customers
 ---
 
 The Seventh Framework Programme for research and technological
