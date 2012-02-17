@@ -1,6 +1,7 @@
 ---
 layout: article
 title: ThalesAlenia Space
+image: img/design/logo_thales.png
 category: customers
 ---
 

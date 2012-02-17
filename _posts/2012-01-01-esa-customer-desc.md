@@ -1,6 +1,7 @@
 ---
 layout: article
 title: European Space Agency (ESA)
+image: img/design/logo_esa.png
 category: customers
 ---
 

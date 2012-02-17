@@ -1,6 +1,7 @@
 ---
 layout: article
 title: European Space Operations Centre (ESOC)
+image: img/design/logo_esoc.png
 category: customers
 ---
 

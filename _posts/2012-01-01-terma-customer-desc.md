@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Terma
+image: img/design/logo_terma.png
 category: customers
 ---
 
