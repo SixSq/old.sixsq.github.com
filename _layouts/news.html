@@ -53,7 +53,7 @@
 	          <img src="{{ post.image }}" />
                   <a href="{{ post.url }}" class="title">{{ post.title }}</a>
                   <div class="teaser">
-                    {{ post.content }}
+                    {{ post.content | strip_html | truncatewords: 25 }}
                   </div>
                   <div class="date">{{ post.date }}</div>
                 </li>
