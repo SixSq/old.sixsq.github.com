@@ -1,7 +1,7 @@
 {% for post in site.categories.products %}
 <div class="{{ post.class }}">
   <h2>{{ post.title }}</h2>
-  {{ post.content }}
+  {{ post.content | strip_html | truncatewords: 15 }}
   
   <a href="{{ post.url }}">Learn more</a>
 </div>
