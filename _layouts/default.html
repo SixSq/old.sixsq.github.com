@@ -25,10 +25,14 @@
       </div>
 
       <div id="content">
-        {{ page.content }}
-      </div>
+        <div class="content_bg">
+          
+          {{ page.content }}
+          
+          {% include side-products.html %}
 
-      {% include side-products.html %}
+        </div>
+      </div>
 
       {% include customers.html %}
 
