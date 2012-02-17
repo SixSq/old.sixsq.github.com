@@ -38,7 +38,7 @@
             <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
 
             <div class="article">
-              {{ page.content }}
+              {{ page.content | markdownify }}
             </div>
 
           </div>
