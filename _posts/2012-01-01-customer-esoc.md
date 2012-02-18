@@ -3,6 +3,7 @@ layout: article
 title: European Space Operations Centre (ESOC)
 image: img/design/logo_esoc.png
 category: customers
+permalink: customers/esoc
 ---
 
 Since its creation in 1967, the European Space Operations Centre

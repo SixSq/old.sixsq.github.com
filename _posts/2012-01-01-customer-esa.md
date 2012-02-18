@@ -3,6 +3,7 @@ layout: article
 title: European Space Agency (ESA)
 image: img/design/logo_esa.png
 category: customers
+permalink: customers/esa
 ---
 
 The European Space Agency (ESA) is Europe's gateway to space. Its

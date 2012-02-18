@@ -3,6 +3,7 @@ layout: article
 title: SlipStream
 class: slip_stream
 category: products
+permalink: products/slipstream
 ---
 
 Automated, on-demand, creation of multi-machine runtime environments. In other

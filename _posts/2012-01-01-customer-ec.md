@@ -3,6 +3,7 @@ layout: article
 title: European Commission Seventh Framework Programme (FP7)
 image: img/design/logo_eu.png
 category: customers
+permalink: customers/eu
 ---
 
 The Seventh Framework Programme for research and technological

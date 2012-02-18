@@ -3,6 +3,7 @@ layout: article
 title: StratusLab
 class: status_lab
 category: products
+permalink: products/stratuslab
 ---
 
 Open-source IaaS cloud distribution. Turn your physical infrastructure into a
