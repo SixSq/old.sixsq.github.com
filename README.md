@@ -50,9 +50,6 @@ Comments on design (Cal):
   * The "Lorem ipsum..." text in the customers footer needs to be
     changed.  What is it that we want to say here? 
 
-  * Should the URLs for non-blog/non-news entries have the dates
-    removed?
-
   * Need to find images for products (and services if they're kept). 
 
   * The mechanism used to add images to the products requires two
