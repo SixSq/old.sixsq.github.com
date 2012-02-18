@@ -3,7 +3,7 @@ layout: article
 title: ReadyPack
 class: ready_pack 
 category: products
-permalink: products/readypack
+permalink: products/readypack.html
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do

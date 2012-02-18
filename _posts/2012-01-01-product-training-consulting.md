@@ -3,7 +3,7 @@ layout: article
 title: Training &amp; Coaching
 class: training_coatching
 category: products
-permalink: products/training-coaching
+permalink: products/training-coaching.html
 ---
 
 SixSq offers consultancy, training and coaching, on agile software development

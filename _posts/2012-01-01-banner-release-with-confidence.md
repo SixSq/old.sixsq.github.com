@@ -4,7 +4,7 @@ layout: article
 title: Release With Confidence
 subtitle: SixSq provides agile applications and tools
 category: banner
-permalink: banner/release-with-confidence
+permalink: banner/release-with-confidence.html
 ---
 
 We deliver solutions to reduce costs in managing software and IT
