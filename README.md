@@ -7,7 +7,10 @@ Please see the company's main web page at
 
 Comments on design (Cal):
 
-  * "Latest Blogs Entries" should be "Latest Blog Entries" in images
+  * "Latest Blogs Entries" should be "Latest Blog Entry" in images
+
+  * "Latest Tweets" should be "Latest Tweet" in images (if we stick
+    with one tweet)
 
   * Wrong SixSq logo being used; should have dot cropped by square
 
@@ -15,6 +18,10 @@ Comments on design (Cal):
 
   * Links can't be used in twitter block because stylesheet makes all
     links look like "Learn more >>".  Fix stylesheet.
+
+  * Stylesheet has been updated to style ul in the tweet block.  But,
+    this embeds an ul inside a paragraph; this should be a div
+    instead to make legal HTML.
 
   * Compressed font in banner title makes word boundries too small.
     Is it possible to compress text without compressing the spaces? 
@@ -24,10 +31,12 @@ Comments on design (Cal):
     having to maintain the list in two separate files? 
 
   * I'm finding the banner rotation annoying.  It would help if it
-    were slower, but also a fade effect might be less jarring. 
+    were slower, but also a fade effect might be less jarring.  If
+    fade is used, then there is an issue with the bottom of the banner
+    being cut off. 
 
   * See if we can add some indicator of the number of banner images in
-    the rotation. 
+    the rotation.  Use the pager from bxslider? 
 
   * There are currently no "Services".  Should we maintain the
     distinction between "Products" and "Services"? 
@@ -38,7 +47,8 @@ Comments on design (Cal):
   * The "Lorem ipsum..." text in the customers footer needs to be
     changed.  What is it that we want to say here? 
 
-  * Should the URLs for non-blog entries have the dates removed? 
+  * Should the URLs for non-blog/non-news entries have the dates
+    removed?
 
   * Need to find images for products (and services if they're kept). 
 
@@ -51,4 +61,3 @@ Comments on design (Cal):
     should be instead pulled from an "image" keyword (or keywords) in
     the product "blog" entry to avoid having to edit the CSS everytime
     a change is made. 
-

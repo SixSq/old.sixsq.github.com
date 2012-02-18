@@ -507,6 +507,14 @@ img {
 	margin: 0px;
 }
 
+/* DEAL WITH UL USED FOR TWEETS (CAL) */
+.latest div p ul {
+        margin: 0px;
+        list-style: none;
+        padding-left: 0em;
+        text-indent: 0em;
+}
+
 .latest div h3 {
 	text-transform: uppercase;
 	font-size: 1.6em;/*22px*/
