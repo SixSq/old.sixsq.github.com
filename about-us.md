@@ -3,4 +3,5 @@ layout: plain
 title: About Us
 ---
 
-<p>SixSq Rocks!</p>
+SixSq Rocks!
+

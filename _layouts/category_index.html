@@ -45,10 +45,12 @@
               </ul>
             </div>
             
+            {% capture downcase_title %}{{page.title | downcase}}{% endcapture %} 
             <div class="list_news">
               <ul>
                 
-                {% for post in category_items %}
+                {% for post in site.posts %}
+                {% if post.category == downcase_title %}
                 <li>
 	          <img src="{{ post.image }}" />
                   <a href="{{ post.url }}" class="title">{{ post.title }}</a>
@@ -57,6 +59,7 @@
                   </div>
                   <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
                 </li>
+                {% endif %}
                 {% endfor %}
                 
               </ul>
