@@ -14,6 +14,9 @@ Comments on design (Cal):
 
   * Wrong SixSq logo being used; should have dot cropped by square
 
+  * Would like to see "Learn more" links on "front latest" to be
+    aligned along the bottom of boxes.
+
   * Stylesheet cuts text on edges in rotating banner. 
 
   * Links can't be used in twitter block because stylesheet makes all
