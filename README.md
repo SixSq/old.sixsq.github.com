@@ -64,3 +64,5 @@ Comments on design (Cal):
     should be instead pulled from an "image" keyword (or keywords) in
     the product "blog" entry to avoid having to edit the CSS everytime
     a change is made. 
+
+  * Article pages look dull.
