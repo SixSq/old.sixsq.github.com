@@ -1,8 +1,9 @@
 
 ---
 layout: article
-title: Test Blog
+title: Test News
 category: news
+image: img/content/img_01.png
 ---
 
-This is a test blog just to see how jekyll works. 
+This is a test news just to see how jekyll works. 
