@@ -3,9 +3,11 @@
 
     {% for post in site.categories.banner %}
     <div>
-      <h1>{{ post.title }}</h1>
-      <h3>{{ post.subtitle }}</h3>
-      {{ post.content }}
+	  <a href="{{ post.permalink }}">
+        <h1>{{ post.title }}</h1>
+        <h3>{{ post.subtitle }}</h3>
+        {{ post.content }}
+      </a>
     </div>
     {% endfor %}
 
