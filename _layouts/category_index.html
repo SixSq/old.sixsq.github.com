@@ -35,16 +35,6 @@
           <div class="main">
             <h1 class="list_title">{{ page.title }}</h1>
             
-            <div class="pager">
-              <ul>
-                <li class="prev"><a href="">prev</a></li>
-                <li><a href="#">1</a></li>
-                <li class="current"><a href="#">2</a></li>
-                <li><a href="#">3</a></li>
-                <li class="next"><a href="">next</a></li>
-              </ul>
-            </div>
-            
             {% capture downcase_title %}{{page.title | downcase}}{% endcapture %} 
             <div class="list_news">
               <ul>
@@ -57,7 +47,9 @@
                   <div class="teaser">
                     {{ post.content | strip_html | truncatewords: 25 }}
                   </div>
+                  {% if post.category == news %}
                   <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
+                  {% endif %}
                 </li>
                 {% endif %}
                 {% endfor %}
