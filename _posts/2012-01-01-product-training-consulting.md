@@ -18,14 +18,15 @@ flexible and adaptive manner.
 Process Automation Consultancy
 ------------------------------
 
-Using SlipStream™ is straightforward, however we can help customers take
+Using [SlipStream™](/products/slipstream.html) is straightforward, however we can help customers take
 maximum advantage of our technology with simple and practical advice.
 
 Agile Software Development Services
 -----------------------------------
 
-SixSq provides agile software development services and consultancy, inspired
-from SCRUM and Test Driven Development techniques. We build flexibility and
-change into all or our contracts, to ensure our customers get what they want
-from us.
+SixSq provides agile software development services and consultancy, focused
+on Scrum and eXtreme Programming (XP) practices such as Test Driven Development
+(TDD) and Continuous Integration and Delivery techniques.
+We build flexibility and change into all or our contracts, to ensure our
+customers get what they want from us.
 
