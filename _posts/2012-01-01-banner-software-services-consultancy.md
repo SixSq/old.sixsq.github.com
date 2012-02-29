@@ -1,4 +1,3 @@
-
 ---
 layout: article
 title: Software Services and Consultancy
