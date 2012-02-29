@@ -189,6 +189,7 @@ img {
 #slider1 div h1,
 #slider1 div h3 {
 	line-height: 1;
+	width: 850px;
 }
 
 #slider1 div h1 {
@@ -206,6 +207,7 @@ img {
 
 #slider1 div p {
 	color: #c9c9c9;
+	width: 850px;
 }
 
 .bx-prev,
