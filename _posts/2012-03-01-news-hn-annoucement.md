@@ -5,7 +5,7 @@ category: news
 image: img/content/img_01.png
 ---
 
-Geneva, 1 March 2012. Today a consortium of leading IT providers and three of Europe’s biggest research centres ([CERN][1], [EMBL][2] and [ESA][3]) announced a partnership to launch a European cloud computing platform. "Helix Nebula - the Science Cloud", will support the massive IT requirements of European scientists, and become available to governmental organisations and industry after an initial pilot phase.
+Geneva, 1 March 2012. Today a consortium of leading IT providers and three of Europe’s biggest research centres (CERN \[1\], EMBL \[2\] and ESA \[3\]) announced a partnership to launch a European cloud computing platform. "Helix Nebula - the Science Cloud", will support the massive IT requirements of European scientists, and become available to governmental organisations and industry after an initial pilot phase.
 
 The partnership is working to establish a sustainable European cloud computing infrastructure, supported by industrial partners, which will provide stable computing capacities and services that elastically meet demand.
 
@@ -48,6 +48,7 @@ Dr. Maryline Lengert
 Senior Advisor  
 +39 06 941 80430  
 [maryline.lengert@esa.int](mailto:maryline.lengert@esa.int)
+
 
 1- CERN, the European Organization for Nuclear Research, is the world's leading laboratory for particle physics. It has its headquarters in Geneva. At present, its Member States are Austria, Belgium, Bulgaria, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, Italy, the Netherlands, Norway, Poland, Portugal, Slovakia, Spain, Sweden, Switzerland and the United Kingdom. Romania is a candidate for accession. Israel is an Associate Member in the pre-stage to Membership. India, Japan, the Russian Federation, the United States of America, Turkey, the European Commission and UNESCO have Observer status.
 
