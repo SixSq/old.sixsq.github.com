@@ -487,7 +487,7 @@ img {
 	display: block;
 	width: 252px;
 	margin-left: 2px;
-	padding: 62px 20px 0px 60px;
+	padding: 62px 0px 0px 60px;
 	color: #9b9b9b;
 }
 
@@ -507,15 +507,24 @@ img {
 
 .latest div h3,
 .latest div p {
-	margin: 0px;
+	margin: 5px 0px;
+	font-size: 1.15em;/*16px*/
 }
+
 
 /* DEAL WITH UL USED FOR TWEETS (CAL) */
 .latest div p ul {
-        margin: 0px;
-        list-style: none;
-        padding-left: 0em;
-        text-indent: 0em;
+	margin: 0px;
+	list-style: none;
+	padding-left: 0em;
+	text-indent: 0em;
+}
+
+.latest div p ul li a {
+	color: #9B9B9B;
+	font-size: 1.15em;/*16px*/
+	font-weight: normal;
+	font-style: normal;
 }
 
 .latest div h3 {
@@ -526,11 +535,6 @@ img {
 
 .sidebar.latest div h3 {
 	font-size: 1.45em;/*20px*/
-}
-
-.latest div p {
-	margin: 10px 0px;
-	font-size: 0.85em;/*12px*/
 }
 
 .sidebar.latest div p {
