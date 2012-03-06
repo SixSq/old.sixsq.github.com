@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Amazon  ISV
+title: Amazon Independent Service Provider
 subtitle: Amazon selected SixSq for its ISV program, following SlipStream deployment on AWS
 category: banner
 permalink: /services/index.html
