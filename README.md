@@ -7,17 +7,17 @@ Please see the company's main web page at
 
 Comments on design (Cal):
 
-  * "Latest Blogs Entries" should be "Latest Blog Entry" in images
+  * ~~"Latest Blogs Entries" should be "Latest Blog Entry" in images~~
 
-  * "Latest Tweets" should be "Latest Tweet" in images (if we stick
-    with one tweet)
+  * ~~"Latest Tweets" should be "Latest Tweet" in images (if we stick
+    with one tweet)~~
 
   * Wrong SixSq logo being used; should have dot cropped by square
 
   * Would like to see "Learn more" links on "front latest" to be
     aligned along the bottom of boxes.
 
-  * Stylesheet cuts text on edges in rotating banner. 
+  * ~~Stylesheet cuts text on edges in rotating banner.~~ 
 
   * Links can't be used in twitter block because stylesheet makes all
     links look like "Learn more >>".  Fix stylesheet.
@@ -41,16 +41,16 @@ Comments on design (Cal):
   * See if we can add some indicator of the number of banner images in
     the rotation.  Use the pager from bxslider? 
 
-  * There are currently no "Services".  Should we maintain the
-    distinction between "Products" and "Services"? 
+  * ~~There are currently no "Services".  Should we maintain the
+    distinction between "Products" and "Services"?~~ 
 
-  * Pagination is not working yet.  Paging by category type requires a
-    plugin. 
+  * ~~Pagination is not working yet.  Paging by category type requires a
+    plugin.~~ (removed for the moment) 
 
-  * The "Lorem ipsum..." text in the customers footer needs to be
-    changed.  What is it that we want to say here? 
+  * ~~The "Lorem ipsum..." text in the customers footer needs to be
+    changed.  What is it that we want to say here? ~~
 
-  * Need to find images for products (and services if they're kept). 
+  * Need to find images for products ~~(and services if they're kept)~~. 
 
   * The mechanism used to add images to the products requires two
     different images to be made for each product.  This will be
@@ -63,3 +63,8 @@ Comments on design (Cal):
     a change is made. 
 
   * Article pages look dull.
+
+  * Need square-ish images for each main tile (StratusLab, SlipStream, etc)
+    to be used for blog and news entries
+
+  * Need an image for the CiB
