@@ -1,7 +1,6 @@
 <div class="news">
-  {% for post in site.categories.news limit:1 %}
-  <h3>{{ post.title }}</h3>
-  <p>{{ post.content | markdownify | strip_html | truncatewords: 25 }}</p>
+  {% for post in site.categories.news limit:2 %}
+  <p>{{ post.title | truncatewords: 10 }}</p>
   <a href="{{ post.url }}">Learn more</a>
   {% endfor %}
 </div>
@@ -15,7 +14,7 @@
   getTwitters('sixsq', { 
   id: 'sixsq', 
   count: 1,
-  enableLinks: false, 
+  enableLinks: true, 
   ignoreReplies: true, 
   template: '%text% (%time%)'
   });
@@ -29,8 +28,7 @@
 
 <div class="blog_entries">
   {% for post in site.categories.blog limit:1 %}
-  <h3>{{ post.title }}</h3>
-  <p>{{ post.content | markdownify | strip_html | truncatewords: 25 }}</p>
+  <p>{{ post.title | truncatewords: 10 }}</p>
   <a href="{{ post.url }}">Learn more</a>
   {% endfor %}
 </div>
