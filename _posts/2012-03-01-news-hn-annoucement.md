@@ -21,7 +21,7 @@ Second, the European Molecular Biology Laboratory (EMBL) is setting up a new ser
 
 “The quantities of genomic sequence data are vast and the needs for high performance computing infrastructures and bioinformatics expertise to analyse these data pose a challenge for many laboratories. EMBL’s novel cloud-based whole-genome-assembly and annotation pipeline involves expertise from the Genomics Core facility in Germany, EMBL’s European Bioinformatics Instituteand EMBL Heidelberg's IT Services. It will allow scientists, at EMBL and around the world, to overcome these hurdles and provide the right infrastructure on demand,” said Rupert Lueck, head of IT services at EMBL. 
 
-Third, the European Space Agency (ESA), in partnership with the Centre National d’Etudes Spatiales (CNES) in France, and the German Aerospace Center (DLR) is collaborating with the National Research Council (CNR)in Italy, to create an Earth observation platform focusing on earthquake and volcano research.
+Third, the European Space Agency (ESA), in partnership with the Centre National d’Etudes Spatiales (CNES) in France, and the German Aerospace Center (DLR) is collaborating with the National Research Council (CNR) in Italy, to create an Earth observation platform focusing on earthquake and volcano research.
 
 This undertaking is done in the framework of the Group on Earth Observations (GEO), a voluntary partnership of governments and international organisations. Volker Liebig, ESA Director for Earth observation programmes, said, “Helix Nebula- the Science Cloud is a partnership with the potential to support an utmost exploitation of ESA satellite data, as well as to bring other communities on board to better understand the geophysical phenomena of our planet.”
 
