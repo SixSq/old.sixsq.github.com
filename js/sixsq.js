@@ -2,7 +2,9 @@
 $(document).ready(function(){
 	$('#slider1').bxSlider({
 		auto: true,
-		speed: 700,
+		speed: 500,
+		mode: 'fade',
+		pause: 5000,
 		prevImage: 'img/design/prev.png',
 		nextImage: 'img/design/next.png',
 	});
