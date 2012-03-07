@@ -1,12 +1,12 @@
 ---
 layout: article
-title: Introducing Agile in what use to be a waterfall strong hold
+title: Transition towards Agile and Scrum at ESA/ESOC
 category: blog
 image: img/content/img_01.png
 author: Marc-Elian Bégin
 ---
 
-Over the last couple of years, I've been involved in a coaching/training project with [ESA/ESOC](http://esa.int/esoc), in Darmstadt, Germany.
+Over the last couple of years, I've been involved in a coaching/training project with [ESA/ESOC](http://www.esa.int/esoc), in Darmstadt, Germany.
 
 What now feels like a bizilion years ago, I worked for with ESA for nearly ten years. Doing my best
 to make sense of waterfall processes, since that's what ESA mandated and it's also what I was
