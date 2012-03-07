@@ -33,10 +33,10 @@ Comments on design (Cal):
     possible to use the CSS to style these menus differently and avoid
     having to maintain the list in two separate files? 
 
-  * I'm finding the banner rotation annoying.  It would help if it
+  * ~~I'm finding the banner rotation annoying.  It would help if it
     were slower, but also a fade effect might be less jarring.  If
     fade is used, then there is an issue with the bottom of the banner
-    being cut off. 
+    being cut off.~~ 
 
   * See if we can add some indicator of the number of banner images in
     the rotation.  Use the pager from bxslider? 
@@ -68,3 +68,7 @@ Comments on design (Cal):
     to be used for blog and news entries
 
   * Need an image for the CiB
+
+  * Blogs entries -> Blog entries 
+
+  * Add link to latest titles to the corresponding list
