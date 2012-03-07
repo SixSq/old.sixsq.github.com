@@ -6,8 +6,8 @@ category: products
 permalink: products/stratuslab.html
 ---
 
-Open-source IaaS cloud distribution. Turn your physical infrastructure into a
-powerful IaaS cloud in minutes.
+Open-source IaaS cloud distribution. Turn your physical infrastructure into
+powerful IaaS cloud in minutes, based on solid and proven open source software.
 
 
 European Project
