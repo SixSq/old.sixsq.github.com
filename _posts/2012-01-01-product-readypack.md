@@ -29,5 +29,5 @@ A series of innovative services are also offered, with for example:
   organisation. This offer is managed as dedicated projects, where the DS-Cloud Ready Pack is
   a core building block.
 
-The DS-Cloud Ready Pack can also be interconnected to an elastic cloud service, making cloud busting possible, therefore allowing users to seize their private cloud for nominal operations, instead of over-provisioning their solution. Further, the outbursting solution, being pre-integrated, comes at no extra software or configuration costs.
+The DS-Cloud Ready Pack can also be interconnected to an elastic cloud service, making cloud bursting possible, therefore allowing users to seize their private cloud for nominal operations, instead of over-provisioning their solution. Further, the outbursting solution, being pre-integrated, comes at no extra software or configuration costs.
 
