@@ -57,6 +57,7 @@ Try Me
 ======
 
 Give SlipStream™ SaaS a try. You now have the choice of cloud back-ends:
+
   * [SlipStream™ on Amazon EC2](http://slipstream.sixsq.com)
   * [SlipStream™ on StratusLab](http://slipstream.stratuslab.eu)
 
