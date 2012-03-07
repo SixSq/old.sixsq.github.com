@@ -6,14 +6,12 @@ category: products
 permalink: products/training-coaching.html
 ---
 
-SixSq offers consultancy, training and coaching, on agile software development
+SixSq provides no nonsense software development consultancy and services, in a
+flexible and adaptive manner.
+
+More specifically, we offers consultancy, training and coaching, on agile software development
 techniques, SlipStream™ and cloud migration and integration.
 
-Software Development Services and Consultancy
-=============================================
-
-SixSq provides no-nonsense software development consultancy and services, in a
-flexible and adaptive manner.
 
 Process Automation Consultancy
 ------------------------------
@@ -23,6 +21,7 @@ maximum advantage of our technology with simple and practical advice.
 
 The integration of such technology in existing or new engineering infrastructure 
 and tools is also a field where SixSq can offer great benefit.
+
 
 Agile Software Development Services
 -----------------------------------
