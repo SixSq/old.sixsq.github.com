@@ -172,6 +172,7 @@ img {
 .bx-window {
 	width: 850px !important;
 	margin-left: 75px;
+	height: 300px !important;
 }
 
 .bx-wrapper {
