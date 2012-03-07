@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Release With Confidence
+title: Release &nbsp; With &nbsp; Confidence
 subtitle: SixSq provides agile applications and tools
 category: banner
 permalink: /products/index.html
