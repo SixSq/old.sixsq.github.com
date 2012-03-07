@@ -23,8 +23,8 @@ The integration of such technology in existing or new engineering infrastructure
 and tools is also a field where SixSq can offer great benefit.
 
 
-Agile Software Development Services
------------------------------------
+Agile Software Development
+--------------------------
 
 SixSq provides agile software development services and consultancy, focused
 on Scrum and eXtreme Programming (XP) practices such as Test Driven Development
