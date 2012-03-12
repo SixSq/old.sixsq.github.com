@@ -55,12 +55,13 @@ img {
 .main h1 {
 	margin: 0px;
 	line-height: 1;
-	font-size: 1.85em;/*26px*/
+	font-size: 2.15em;
 	color: #a00100;
 }
 
 .main h1.list_title {
 	color: #545454;
+	font-size: 2.35em;
 }
 
 .date {
@@ -279,41 +280,41 @@ img {
 	width: 278px;
 }
 
-.front.products .status_lab,
+.front.products .stratuslab,
 .front.products .ready_pack {
 	margin-right: 10px;
 }
 
-.front.products .status_lab {
-	background: transparent url(img/design/status_lab.png) no-repeat scroll left top;
+.front.products .stratuslab {
+	background: transparent url(img/design/stratuslab.png) no-repeat scroll left top;
 }
 
-.front.products .slip_stream {
-	background: transparent url(img/design/slip_stream.png) no-repeat scroll left top;
+.front.products .slipstream {
+	background: transparent url(img/design/slipstream.png) no-repeat scroll left top;
 }
 
 .front.products .ready_pack {
 	background: transparent url(img/design/ready_pack.png) no-repeat scroll left top;
 }
 
-.front.products .training_coatching {
-	background: transparent url(img/design/training_coatching.png) no-repeat scroll left top;
+.front.products .training_coaching {
+	background: transparent url(img/design/training_coaching.png) no-repeat scroll left top;
 }
 
-.sidebar.products .status_lab {
-	background: transparent url(img/design/status_lab_box.png) no-repeat scroll left top;
+.sidebar.products .stratuslab {
+	background: transparent url(img/design/stratuslab_box.png) no-repeat scroll left top;
 }
 
-.sidebar.products .slip_stream {
-	background: transparent url(img/design/slip_stream_box.png) no-repeat scroll left top;
+.sidebar.products .slipstream {
+	background: transparent url(img/design/slipstream_box.png) no-repeat scroll left top;
 }
 
 .sidebar.products .ready_pack {
 	background: transparent url(img/design/ready_pack_box.png) no-repeat scroll left top;
 }
 
-.sidebar.products .training_coatching {
-	background: transparent url(img/design/training_coatching_box.png) no-repeat scroll left top;
+.sidebar.products .training_coaching {
+	background: transparent url(img/design/training_coaching_box.png) no-repeat scroll left top;
 }
 
 .products div h2,
@@ -350,17 +351,17 @@ img {
 	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 4px;
 }
 
-.front.products .status_lab h2,
-.front.products .status_lab p,
+.front.products .stratuslab h2,
+.front.products .stratuslab p,
 .front.products .ready_pack h2,
 .front.products .ready_pack p {
 	width: 260px;
 }
 
-.front.products .slip_stream h2,
-.front.products .slip_stream p,
-.front.products .training_coatching h2,
-.front.products .training_coatching p {
+.front.products .slipstream h2,
+.front.products .slipstream p,
+.front.products .training_coaching h2,
+.front.products .training_coaching p {
 	width: 240px;
 }
 
@@ -523,9 +524,10 @@ img {
 
 .latest div p ul li a {
 	color: #9B9B9B;
-	font-size: 1.15em;/*16px*/
+	font-size: 0.85em;
 	font-weight: normal;
 	font-style: normal;
+	background: none;
 }
 
 .latest div h3 {
@@ -555,6 +557,10 @@ img {
 	padding-right: 20px;
 	color: #9e0100;
 	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 4px;
+}
+
+.sidebar.latest #sixsq a {
+	background: none;
 }
 
 .front.latest .news {
