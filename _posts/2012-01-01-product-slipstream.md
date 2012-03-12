@@ -1,9 +1,10 @@
 ---
 layout: article
 title: SlipStream
-class: slip_stream
+class: slipstream
 category: products
 permalink: products/slipstream.html
+image: /img/design/slipstream_category.png
 ---
 
 Automated, on-demand, creation of multi-machine runtime environments. In other
@@ -51,7 +52,7 @@ on-the-fly runtime or test environments, close to production deployments,
 which allow you to assert that your good ideas and bug fixes can be deployed
 into production to deliver value to your users. SlipStream™ can work on a
 variety of IaaS clouds. We also share some of the knowledge we have amassed in
-integrating and test systems over the years in the for of patterns.
+integrating and test systems over the years in the form of patterns.
 
 Try Me
 ======
@@ -82,7 +83,7 @@ FAQ
 
 **Q1: I don't know cloud computing, will I be able to use SlipStream?**
 
-A1: Sure. We've designed SlipStream not too expose cloud-isms in the
+A1: Sure. We've designed SlipStream not to expose cloud-isms in the
 interface. Cloud computing offers many rich features that are very interesting
 when deploying runtime systems, but the defaults we've put in place will hide
 most of these details so that you can get going quickly without needing a
@@ -102,7 +103,7 @@ deployments.
 that do the trick nicely.**
 
 A3: Great. But chances are that you're the only one using these scripts, or
-other find it difficult to use them. Further, as your software, its
+others find it difficult to use them. Further, as your software, its
 configuration and dependencies change and evolve over time, you have to adapt
 and change these scripts, in a controlled manner and version control them.
 Furthermore, you might end-up with mixed logic between the steps required to

@@ -1,20 +1,21 @@
 ---
 layout: article
 title: Training &amp; Coaching
-class: training_coatching
+class: training_coaching
 category: products
 permalink: products/training-coaching.html
+image: /img/design/training_coaching_category.png
 ---
 
-SixSq provides no nonsense software development consultancy and services, in a
+SixSq provides no-nonsense software development consultancy and services, in a
 flexible and adaptive manner.
 
-More specifically, we offers consultancy, training and coaching, on agile software development
+More specifically, we offer consultancy, training and coaching, on agile software development
 techniques, SlipStream™ and cloud migration and integration.
 
 
 Process Automation Consultancy
-------------------------------
+==============================
 
 Using [SlipStream™](/products/slipstream.html) is straightforward, however we can help customers take
 maximum advantage of our technology with simple and practical advice.
@@ -24,7 +25,7 @@ and tools is also a field where SixSq can offer great benefit.
 
 
 Agile Software Development
---------------------------
+==========================
 
 SixSq provides agile software development services and consultancy, focused
 on Scrum and eXtreme Programming (XP) practices such as Test Driven Development
@@ -32,9 +33,9 @@ on Scrum and eXtreme Programming (XP) practices such as Test Driven Development
 We build flexibility and change into all or our contracts, to ensure our
 customers get what they want from us.
 
-Our two-day introduction course, mixes theory and practices, in a ludic atmosphere,
+Our two-day introduction course mixes theory and practices, in a ludic atmosphere,
 such that participants leave with a real feel for what Scrum is, its amazing
-potential as well as its pitfalls.
+potential, as well as its pitfalls.
 
 Our coaching service allows teams to be coached before, during and after
 real key events, such as Planning Meetings, Demo Meetings and Retrospectives.
