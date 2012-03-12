@@ -48,7 +48,7 @@ Comments on design (Cal):
     plugin.~~ (removed for the moment) 
 
   * ~~The "Lorem ipsum..." text in the customers footer needs to be
-    changed.  What is it that we want to say here? ~~
+    changed.  What is it that we want to say here?~~
 
   * Need to find images for products ~~(and services if they're kept)~~. 
 
@@ -64,11 +64,21 @@ Comments on design (Cal):
 
   * Article pages look dull.
 
-  * Need square-ish images for each main tile (StratusLab, SlipStream, etc)
-    to be used for blog and news entries
+  * ~~Need square-ish images for each main tile (StratusLab, SlipStream, etc)
+    to be used for blog and news entries~~
 
   * Need an image for the CiB
 
-  * Blogs entries -> Blog entries 
+  * ~~Blogs entries -> Blog entries~~ 
 
   * Add link to latest titles to the corresponding list
+
+  * ~~Remove >> from tweets with link~~
+
+  * Cufon removes spaces between words.
+
+  * Add paging for news and blogs
+
+  * Add comments feature for blogs
+
+  * Increase font for page title
