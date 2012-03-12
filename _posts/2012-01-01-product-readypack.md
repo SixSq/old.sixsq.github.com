@@ -1,9 +1,11 @@
 ---
 layout: article
-title: DS-Cloud &nbsp; Ready &nbsp; Pack
+title: DS-Cloud Ready Pack
+title2: DS-Cloud &nbsp; Ready &nbsp; Pack
 class: ready_pack 
 category: products
 permalink: products/readypack.html
+image: /img/design/ready_pack_category.png
 ---
 
 Simple, yet powerful, cloud solution for small and medium enterprises.  The DS-Cloud Ready Pack is the result of a tight collaboration between [IBM](http://ibm.com), [Darest](http://www.darest.ch) and SixSq.

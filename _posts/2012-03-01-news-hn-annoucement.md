@@ -2,7 +2,7 @@
 layout: article
 title: Big science teams up with big business to kick-start European cloud computing
 category: news
-image: img/content/img_01.png
+image: img/design/stratuslab_category.png
 ---
 
 Geneva, 1 March 2012. Today a consortium of leading IT providers and three of Europe’s biggest research centres (CERN \[1\], EMBL \[2\] and ESA \[3\]) announced a partnership to launch a European cloud computing platform. "Helix Nebula - the Science Cloud", will support the massive IT requirements of European scientists, and become available to governmental organisations and industry after an initial pilot phase.

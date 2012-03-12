@@ -1,9 +1,10 @@
 ---
 layout: article
 title: StratusLab
-class: status_lab
+class: stratuslab
 category: products
 permalink: products/stratuslab.html
+image: /img/design/stratuslab_category.png
 ---
 
 Open-source IaaS cloud distribution. Turn your physical infrastructure into

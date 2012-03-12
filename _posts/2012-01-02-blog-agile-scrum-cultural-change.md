@@ -2,7 +2,7 @@
 layout: article
 title: Transition towards Agile and Scrum at ESA/ESOC
 category: blog
-image: img/content/img_01.png
+image: img/design/training_coaching_category.png
 author: Marc-Elian Bégin
 ---
 

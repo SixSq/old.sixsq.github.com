@@ -2,7 +2,7 @@
 ---
 layout: article
 title: DS-Cloud Ready Pack launch with IBM and Darest
-image: img/content/img_01.png
+image: img/design/ready_pack_category.png
 category: news
 ---
 

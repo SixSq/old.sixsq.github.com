@@ -2,7 +2,7 @@
 layout: article
 title: A short history of SlipStream (presentation at CERN)
 category: blog
-image: img/content/img_01.png
+image: img/design/slipstream_category.png
 author: Marc-Elian Bégin
 ---
 
