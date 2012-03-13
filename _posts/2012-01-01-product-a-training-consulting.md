@@ -7,7 +7,7 @@ permalink: products/training-coaching.html
 image: /img/design/training_coaching_category.png
 ---
 
-SixSq provides no-nonsense software development consultancy and services, in a
+SixSq provides no nonsense software development consultancy and services, in a
 flexible and adaptive manner.
 
 More specifically, we offer consultancy, training and coaching, on agile software development
