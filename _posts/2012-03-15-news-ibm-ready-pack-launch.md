@@ -1,57 +1,45 @@
 
 ---
 layout: article
-title: DS-Cloud Ready Pack launch with IBM and Darest
+title: DS-Cloud Ready Pack launched by IBM, Darest and SixSq
 image: img/design/ready_pack_category.png
 category: news
 ---
 
-Europe researchers require a powerful, flexible and sophisticated IT
-infrastructure to support their important work. To help define the path
-towards this important goal, organizations such as CERN, ESA and EGI are
-working together. SixSq was invited to join the discussion.
+[IBM](http://ibm.com), [Darest](http://www.darest.ch) and SixSq
+announced today the release of
+the DS-Cloud Ready Pack.  This commercial cloud solution is a turnkey
+Infrastructure as a Service (IaaS) cloud solution, which makes use of
+the StratusLab project's open-source cloud computing distribution.
 
-From the grid to the cloud, Europe is paving the way to a new pan-European
-cloud-based IT infrastructure.
+"For Darest, the creation of the DS-ReadyPack is an opportunity
+to join forces with IBM and SixSq to create a new offer in the growing
+field of cloud computing" says Samuel Mellot, CTO of Darest.  The Swiss
+IT Solutions provider will distribute the product which runs on IBM
+hardware and is integrated by SixSq.
 
-Organizations such as CERN, ESA and EGI are working together in defining a
-common roadmap and perhaps joining forces.
+The nervous system of this software solution is provided by 
+[StratusLab](/products/stratuslab.html)
+v1.4+ and SixSq's [SlipStream](/products/slipstream.html).
+StratusLab provides the cloud
+functionality, while Slipstream allows for automated deployment,
+ensuring simple, reproducible and safe provisioning of virtual
+environments.
 
-SixSq brings to the discussion its SME and industrial perspective, but also
-shared knowledge of the European space business and large scale IT systems
-required for big science.
+This new product targets small and medium enterprises looking for a
+private cloud solution.  A series of managed services are also being
+delivered, including a public StratusLab Marketplace and SlipStream
+services, providing users with up-to-date images, as well as
+construction and deployment recipes.
 
-The workshop organized on July 28-29 at ESRIN in Rome is composed of several
-roundtables with moderated discussions. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Nulla mattis ornare quam euismod sollicitudin.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin.
+"Being able to create a commercial product, based on StratusLab
+software, with companies like IBM and Darest is very exciting." says
+Marc-Elian Bégin, Co-founder of SixSq.  "This shows how well focused FP7
+projects can really make a difference in the commercial world and give
+SMEs like SixSq a significant edge."
 
-The workshop organized on July 28-29 at ESRIN in Rome is composed of several
-roundtables with moderated discussions. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Nulla mattis ornare quam euismod sollicitudin.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin. Lorem ipsum dolor sit amet, consectetur adipiscing
-elit. Nulla mattis ornare quam euismod sollicitudin. Lorem ipsum dolor sit
-amet, consectetur adipiscing elit.
-
-The workshop organized on July 28-29 at ESRIN in Rome is composed of several
-roundtables with moderated discussions. Lorem ipsum dolor sit amet,
-consectetur adipiscing elit. Nulla mattis ornare quam euismod sollicitudin.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin. The workshop organised on July 28-29 at ESRIN in
-Rome is composed of several roundtables with moderated discussions. Lorem
-ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare quam
-euismod sollicitudin.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin.The workshop organised on July 28-29 at ESRIN in
-Rome is composed of several roundtables with moderated discussions.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mattis ornare
-quam euismod sollicitudin.
+The [StratusLab](/products/stratuslab.html) project is an EU-funded initiative to develop an
+open-source cloud computing distribution designed for grid and cluster
+computing.  This latest announcement underlines the success of the
+project and shows how such EU initiatives are adding real value to
+European businesses.
