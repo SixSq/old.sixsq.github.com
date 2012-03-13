@@ -565,10 +565,12 @@ img {
 
 .front.latest .news {
 	background: transparent url(img/design/news.png) no-repeat scroll 6px 7px;
+        margin-right: 22px;
 }
 
 .front.latest .tweets {
 	background: transparent url(img/design/tweets.png) no-repeat scroll 6px 7px;
+        margin-right: 22px;
 }
 
 .front.latest .blog_entries {
