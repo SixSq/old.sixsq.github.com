@@ -5,7 +5,7 @@ title: DS-Cloud Ready Pack launched Darest and SixSq
 image: img/design/ready_pack_category.png
 category: news
 ---
-
+ 
 [Darest](http://www.darest.ch) and SixSq
 announced today the release of
 the DS-Cloud Ready Pack.  This commercial cloud solution is a turnkey
