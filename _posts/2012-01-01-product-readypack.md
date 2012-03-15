@@ -8,11 +8,11 @@ permalink: products/readypack.html
 image: /img/design/ready_pack_category.png
 ---
 
-Simple, yet powerful, cloud solution for small and medium enterprises.  The DS-Cloud Ready Pack is the result of a tight collaboration between [IBM](http://ibm.com), [Darest](http://www.darest.ch) and SixSq.
+Simple, yet powerful, cloud solution for small and medium enterprises.  The DS-Cloud Ready Pack is the result of a tight collaboration between [Darest](http://www.darest.ch) and SixSq.
 
-This new product announced by IBM on March 15 is an entry point into private cloud computing, based
+This new product announced on March 15 is an entry point into private cloud computing, based
 on open source software.
-The solution, hosted on IBM hardware, packaged and distributed by Darest and powered by SixSq's cloud
+The solution packaged and distributed by Darest and powered by SixSq's cloud
 software solution, offers an affordable solution for small to moderate cloud size.
 
 This Infrastructure as a Service (IaaS) solution includes the [StratusLab](http://stratuslab.eu) stack (which includes [OpenNebula](http://opennebula.org) for managing virtual machines) and is configured
