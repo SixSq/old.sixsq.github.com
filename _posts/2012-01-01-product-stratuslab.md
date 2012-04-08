@@ -127,7 +127,7 @@ distribution, or to get access to the StratusLab reference installation.
 Commercial Support
 ==================
 
-Need support for your evaluation of StratusLab? [Get in touch](support@sixsq.com) directly with
+Need support for your evaluation of StratusLab? [Get in touch](mailto:support@sixsq.com) directly with
 SixSq.
 
 Further to providing support, we can also help you better understand how to
