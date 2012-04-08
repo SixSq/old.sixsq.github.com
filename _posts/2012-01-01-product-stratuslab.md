@@ -41,29 +41,29 @@ StratusLab Features
 
 The features of StratusLab v1.0 include:
 
-  * Fully production-ready release with many bug-fixes and enhancements over
-    previous versions OpenNebula 2.2 virtual infrastructure manager
+* Fully production-ready release with many bug-fixes and enhancements over
+  previous versions OpenNebula 2.2 virtual infrastructure manager
 
-  * Claudia platform service management toolkit for dynamic service
-    provisioning and scalability
+* Claudia platform service management toolkit for dynamic service
+  provisioning and scalability
 
-  * Marketplace allowing user communities to create, search for and share
-    customised digitally-signed virtual machine images
+* Marketplace allowing user communities to create, search for and share
+  customised digitally-signed virtual machine images
 
-  * Base OS images available in the Marketplace as well as grid and
-    bioinformatics appliances
+* Base OS images available in the Marketplace as well as grid and
+  bioinformatics appliances
 
-  * Persistent storage allowing users to create and access disks on remote
-    cloud storage resources
+* Persistent storage allowing users to create and access disks on remote
+  cloud storage resources
 
-  * Sophisticated web-monitoring tool
+* Sophisticated web-monitoring tool
 
-  * easy-to-use command-line tools for system administrators and users
+* easy-to-use command-line tools for system administrators and users
 
-  * authentication proxy service which allows cloud authentication via X509
-    grid certificates
+* authentication proxy service which allows cloud authentication via X509
+  grid certificates
 
-  * Manual and Quattor installation options
+* Manual and Quattor installation options
 
 The StratusLab cloud distribution also includes unique features to facilitate
 the integration of cloud and grid technologies, such as the authentication
