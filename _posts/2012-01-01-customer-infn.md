@@ -1,7 +1,7 @@
 ---
 layout: article
 title: INFN
-image: img/content/logo_infn.png
+image: /img/content/logo_infn.png
 category: customers
 permalink: /customers/infn.html
 ---

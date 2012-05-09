@@ -1,7 +1,7 @@
 ---
 layout: article
 title: EBU/UER
-image: img/content/logo_ebu-uer.png
+image: /img/content/logo_ebu-uer.png
 category: customers
 permalink: /customers/ebu.html
 ---

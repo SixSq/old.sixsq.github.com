@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Atos
-image: img/content/logo_atos.png
+image: /img/content/logo_atos.png
 category: customers
 permalink: /customers/atos.html
 ---

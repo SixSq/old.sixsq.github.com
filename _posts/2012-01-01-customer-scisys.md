@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SciSys
-image: img/design/logo_scisys.png
+image: /img/design/logo_scisys.png
 category: customers
 permalink: /customers/scisys.html
 ---
