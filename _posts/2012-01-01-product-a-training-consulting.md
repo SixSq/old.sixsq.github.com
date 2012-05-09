@@ -3,7 +3,7 @@ layout: article
 title: Training &amp; Coaching
 class: training_coaching
 category: products
-permalink: products/training-coaching.html
+permalink: /products/training-coaching.html
 image: /img/design/training_coaching_category.png
 ---
 

@@ -3,7 +3,7 @@ layout: article
 title: SciSys
 image: img/design/logo_scisys.png
 category: customers
-permalink: customers/scisys.html
+permalink: /customers/scisys.html
 ---
 
 The SciSys Group is a leading developer of ICT services, e-Business

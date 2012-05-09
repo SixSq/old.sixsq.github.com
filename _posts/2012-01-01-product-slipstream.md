@@ -3,7 +3,7 @@ layout: article
 title: SlipStream
 class: slipstream
 category: products
-permalink: products/slipstream.html
+permalink: /products/slipstream.html
 image: /img/design/slipstream_category.png
 ---
 

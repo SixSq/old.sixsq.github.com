@@ -3,7 +3,7 @@ layout: article
 title: StratusLab
 class: stratuslab
 category: products
-permalink: products/stratuslab.html
+permalink: /products/stratuslab.html
 image: /img/design/stratuslab_category.png
 ---
 

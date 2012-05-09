@@ -3,7 +3,7 @@ layout: article
 title: ThalesAlenia Space
 image: img/design/logo_thales.png
 category: customers
-permalink: customers/thales.html
+permalink: /customers/thales.html
 ---
 
 European leader for satellite systems and at the forefront of orbital

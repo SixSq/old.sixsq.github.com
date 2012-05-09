@@ -4,7 +4,7 @@ title: DS-Cloud Ready Pack
 title2: DS-Cloud &nbsp; Ready &nbsp; Pack
 class: ready_pack 
 category: products
-permalink: products/readypack.html
+permalink: /products/readypack.html
 image: /img/design/ready_pack_category.png
 ---
 

@@ -3,7 +3,7 @@ layout: article
 title: Terma
 image: img/design/logo_terma.png
 category: customers
-permalink: customers/terma.html
+permalink: /customers/terma.html
 ---
 
 Terma develops and markets high-tech solutions, systems, and products
