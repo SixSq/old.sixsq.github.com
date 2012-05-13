@@ -3,7 +3,7 @@ layout: article
 title: Software &nbsp; Services &nbsp; and &nbsp; Consultancy
 subtitle: Benefit from our experience in software process automation
 category: banner
-permalink: /services/index.html
+permalink: /products/training-coaching.html
 ---
 
 SixSq collaborators share a passion for excellence and innovation, with
