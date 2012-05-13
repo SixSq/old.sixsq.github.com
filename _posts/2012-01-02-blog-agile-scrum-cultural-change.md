@@ -4,6 +4,7 @@ title: Transition towards Agile and Scrum at ESA/ESOC
 category: blog
 image: /img/design/training_coaching_category.png
 author: Marc-Elian Bégin
+comments: true
 ---
 
 Over the last couple of years, I've been involved in a coaching/training project with [ESA/ESOC](http://www.esa.int/esoc), in Darmstadt, Germany.
