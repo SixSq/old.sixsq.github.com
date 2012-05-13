@@ -43,16 +43,7 @@ could build confidence in our ability to deliver in time.
 Six months later, we delivered this system for production use. During the acceptance of the system, only
 three observations (as opposed to snags - i.e. bugs). Which put the cherry on the sunday.
 
-The rest is history. In fact it did
+The rest is history...
 
-
-
-
-
-
-
-
-
-
-
-  
+It took time for people, me included, to understand that this was not only an anomaly in the history of ESOC, resulting
+in a new generation of projects using agile and Scrum to emulate the success of this project.  I'm honoured to be involved in some of theme.
