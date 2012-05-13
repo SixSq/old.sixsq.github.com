@@ -4,6 +4,7 @@ title: A short history of SlipStream (presentation at CERN)
 category: blog
 image: /img/design/slipstream_category.png
 author: Marc-Elian Bégin
+comments: true
 ---
 
 On February 1st, I gave a talk at CERN on [SlipStream](/products/slipstream.html).  It was an opportunity to go back to some of the original thoughts Cal Loomis and I had, since we met at CERN through the EGEE project, which eventually gave birth to SlipStream.  It's also while at CERN that I discover the cloud, in 2007, where it became obvious that this technology would be a big deal and had much more relevance than the grid as it was then proposed.  The [position paper](https://edms.cern.ch/file/925013/3/EGEE-Grid-Cloud.pdf) I wrote following a comparative study between the EGEE Grid (as used to compute LHC data for example) and the Amazon Web Services (EC2 and S3 back then).
