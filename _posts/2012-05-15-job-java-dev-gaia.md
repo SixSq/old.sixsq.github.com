@@ -109,6 +109,7 @@ The candidates are required to send an up-to-date CV by [email](mailto:jobs@sixs
 Selection Process
 -----------------
 
-Following phone interviews a selection board will be held early June. The selected candidate is expected to start later in June.
+Following phone interviews a selection board will be held early June. The selected candidate would
+ideally start later in June.
 
 Interested? [Get in touch](mailto:jobs@sixsq.com).
