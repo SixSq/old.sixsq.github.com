@@ -104,7 +104,7 @@ Dates and Selection Process
 Dates
 -----
 
-The candidates are required to send an up-to-date CV by [email](mailto:jobs@sixsq.com) by May 31st 2012 at the latest.
+The candidates are required to send an up-to-date CV by [email](mailto:jobs@sixsq.com?subject=Java%20Developer%20for%20Gaia%20European%20Space%20Agency%20mission) by May 31st 2012 at the latest.
 
 Selection Process
 -----------------
@@ -112,4 +112,4 @@ Selection Process
 Following phone interviews a selection board will be held early June. The selected candidate would
 ideally start later in June.
 
-Interested? [Get in touch](mailto:jobs@sixsq.com).
+Interested? [Get in touch](mailto:jobs@sixsq.com?subject=Java%20Developer%20for%20Gaia%20European%20Space%20Agency%20mission).
