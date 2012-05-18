@@ -13,8 +13,8 @@ ground data processing.
 
 Gaia is a European Space Agency ambitious mission to chart a three-dimensional map of our Galaxy, the Milky Way, in the process revealing the composition, formation and evolution of the Galaxy. Gaia will provide unprecedented positional and radial velocity measurements with the accuracies needed to produce a stereoscopic and kinematic census of about one billion stars in our Galaxy and throughout the Local Group. This amounts to about 1 per cent of the Galactic stellar population.
 
-The selected candidate will be integrated in the Gaia mission team in Versoix, Switzerland. This team is responsible for the variability processing chain, one of the key scientific data exploitation parts
-of the Gaia mission. The team is composed of innovative, fast learning, highly motivated and multi-disciplinary members.
+The selected candidate will be integrated in the Gaia team at the Geneva Observatory, the astronomy department of the University of Geneva,
+located in Versoix/Sauverny, Swizterland. This team is responsible for the variability processing chain, one of the key scientific data exploitation parts of the Gaia mission. The team is composed of innovative, fast learning, highly motivated and multi-disciplinary members.
 
 The selected candidate will be involved in the entire development cycle of the data processing chain, including requirements analysis, architecture, design, implementation, testing, certification, deployment and maintenance. The team is using an agile-like development methodology. Further, the
 selected candidate will be involved in regular interactions with the rest of the European Gaia
