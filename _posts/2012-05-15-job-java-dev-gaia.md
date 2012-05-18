@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Java Developer for Gaia European Space Agency mission
+title: Software Engineer (Java) for the Gaia mission of the European Space Agency
 category: jobs
 image: /img/design/training_coaching_category.png
 ---
