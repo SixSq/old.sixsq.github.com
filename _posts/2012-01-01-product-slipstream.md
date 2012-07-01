@@ -8,7 +8,9 @@ image: /img/design/slipstream_category.png
 ---
 
 Automated, on-demand, creation of multi-machine runtime environments. In other
-words, your software engineering PaaS solution, as product and service.
+words, your software engineering PaaS solution, as product and service. 
+SlipStream will soon be released under an open source license. This means that
+all SixSq cloud solutions will be available under a coherent open source license.
 
 Your Software Engineering on Cloud (PaaS)
 =========================================
