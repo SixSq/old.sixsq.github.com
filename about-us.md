@@ -7,8 +7,9 @@ SixSq provides agile applications and tools, as well as software services and co
 
 Recently we have helped our customers do the following:
 * Build public cloud based on the Open Source [StratusLab](/products/stratuslab.html) IaaS solution
+* Build vertical solutions using [StratusLab](/products/stratuslab.html) and [SlipStream](/products/slipstream.html) to provide self-provisioning services of pre-certified domain specific systems
 * Help adopt and transition large parts of organisations from waterfall to agile and Scrum processes, using [training and coaching](/products/training-coaching.html)
-* Integrate [SlipStream](/products/slipstream.html) into public cloud services, making it much simpler to manage complex multi-machine deployments in the cloud
+* Integrate [SlipStream](/products/slipstream.html) into public and private cloud services, making it much simpler to manage image creation and complex multi-machine deployments in the cloud
 * Automate the entire software development pipeline, using [SlipStream](/products/slipstream.html), doing in a few minutes, on a continuous basis what used to take days
 
 We thrive to push the envelope of what is possible, both at process and technology levels. Challenge us... we love it!
