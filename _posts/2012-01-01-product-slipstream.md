@@ -61,22 +61,22 @@ Try Me
 
 Give SlipStream™ SaaS a try. You now have the choice of cloud back-ends:
 
-* [SlipStream™ on Amazon EC2](http://slipstream.sixsq.com)
-* [SlipStream™ on StratusLab](http://slipstream.stratuslab.eu)
+* [SlipStream™ on Amazon EC2](https://slipstream.sixsq.com)
+* [SlipStream™ on StratusLab](https://slipstream.stratuslab.eu)
 
 To use the [StratusLab](http://stratuslab.eu) SaaS version, simply request a
 StratusLab evaluation account
 ([support@stratuslab.eu](mailto:support@stratuslab.eu) or
 [support@sixsq.com](mailto:support@sixsq.com)), register with
-[SlipStream™](http://slipstream.stratuslab.eu) and follow the
-[tutorial](http://slipstream.stratuslab.org/html/tutorial.html). StratusLab
+[SlipStream™](https://slipstream.stratuslab.eu) and follow the
+[tutorial](https://slipstream.stratuslab.org/html/tutorial.html). StratusLab
 usage is free for evaluation (commercial or not) and free for non-commercial
 applications.
 
 To use the [Amazon EC2](http://aws.amazon.com/) SaaS version, simply create an
-account on [SlipStream™](http://slipstream.sixsq.com), configure it with your
+account on [SlipStream™](https://slipstream.sixsq.com), configure it with your
 AWS credentials, and you're good to go. We suggest you start with a look at
-the [tutorial](http://slipstream.sixsq.com/html/tutorial.html). During the
+the [tutorial](https://slipstream.sixsq.com/html/tutorial.html). During the
 beta program, this service is free of any extra charges, so take advantage of
 this unique opportunity.
 
