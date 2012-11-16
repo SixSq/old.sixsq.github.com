@@ -1,6 +1,6 @@
 ---
 layout: article
-title: CELAR - 3.5 EUR Million Grant to Deliver Automatic Multi-Grained Elasticity-Provisioning for Cloud
+title: CELAR - Automatic Multi-Grained Elasticity-Provisioning for Cloud
 category: news
 image: /img/design/slipstream_category.png
 ---
@@ -17,7 +17,7 @@ CELAR is a €3.5 million project funded under the EU’s Seventh Framework Prog
  
 As part of the consortium, SixSq brings its knowledge in fields of cloud computing, distributed systems, system integration and agile software development. Furthermore, SixSq is responsible for the integration of the solution. Integration of the elastic feature in SlipStream™ will also provide a production ready case study.
  
-Marc-Elian Bégin, co-founder at SixSq said, *“Automation in the cloud is key in helping organisations in their transition to cloud infrastructures and services. SlipStream™, our flagship product, is already doing a good job for that.  What CELAR will allow SixSq to do is to add dynamic and auto-scale behaviour to deployments, and this in a cloud neutral manner. This is new and we're very excited about it.  In return, we hope to bring to the consortium our knowledge in building distributed, robust and production quality software in an iterative and agile way.”*
+Marc-Elian Bégin, co-founder at SixSq said, *“Automation in the cloud is key in helping organisations in their transition to cloud infrastructures and services. SlipStream™, our flagship product, is already doing a good job for that.  What CELAR will allow SixSq to do is add dynamic and auto-scale behaviour to SlipStream deployments in a cloud-neutral manner. This is new and we're very excited about it.  In return, we hope to bring to the consortium our knowledge in building distributed, robust and production quality software in an iterative and agile way.”*
 
 CELAR technology will be used for massive data management and large-scale collaboration for the on-line gaming realm and also in the area of scientific computing, requiring compute- and storage-intensive genome computations.
  
