@@ -3,7 +3,7 @@ layout: article
 title: Release &nbsp; With &nbsp; Confidence
 subtitle: SixSq provides agile applications and tools
 category: banner
-permalink: /products/index.html
+link: /products/index.html
 ---
 
 We deliver solutions to reduce costs in managing software and IT
