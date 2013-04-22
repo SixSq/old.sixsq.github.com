@@ -9,7 +9,7 @@ comments: true
 
 The SlipStream Client is now published to PyPi and can therefore be installed with:
 
-    pip install slipstream-client
+    pip install httplib2 slipstream-client
 
 This installs `ss-*` commands and provides possibilities to:
 
