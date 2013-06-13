@@ -8,5 +8,5 @@ link: /jobs/index.html
 
 SixSq collaborators share a passion for excellence and innovation.
 Three positions are currently open in Geneva. 
-Join the team and take part in brining to the market the next generation
-cloud solutions.
+Join the team and take part in bringing the next generation
+cloud solutions to the market.
