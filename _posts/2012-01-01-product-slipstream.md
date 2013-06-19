@@ -199,7 +199,7 @@ the [tutorial](https://slipstream.sixsq.com/html/tutorial.html).
 Software Bundles and Products
 ====
 
-SixSq delivers certified SlipStream™ bundles, containing software in the form of binary packages, documentation, started kit and examples. The bundles can be created 'à la carte', including open sourced and proprietary connectors, as well as custom image and deployment recipes and scripts. The bundles also include, maintenance and support so that you stay up to date with our fast release cycles.
+SixSq delivers certified SlipStream™ bundles, containing software in the form of binary packages, documentation, starter kit and examples. The bundles can be created 'à la carte', including open sourced and proprietary connectors, as well as custom image and deployment recipes and scripts. The bundles also include, maintenance and support so that you stay up to date with our fast release cycles.
 
 We also deliver SlipStream™ as in a hardware turn key solution, called [emCloud](/products/readypack.html). You can also rely on our [SlipStream™ hosted service](https://slipstream.sixsq.com), if you prefer the piece of mind of a SaaS delivery model. 
 
