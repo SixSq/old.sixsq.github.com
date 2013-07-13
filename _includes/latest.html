@@ -7,21 +7,27 @@
 
 <div class="tweets">
   
-  <p id="sixsq">Loading tweets...</p>
+    <div id="latest-tweets"></div>
+    <script>
+      $(function() {
+        Siutsur.load('356005667552768001', function(obj) {
+          var html = '';
+          var trimLength = 50;
+          $(obj).slice(0,2).each(function(i, tweet) {
+              var post = '<p>' + tweet.title.plain.slice(0,trimLength);
+              if (tweet.title.plain.length > trimLength) {
+                  post += '...'
+              }
+              post += ' (' + tweet.user.nickname + ')' + '</p>'
+              html += post;
+          });
+          $('#latest-tweets').html(html);
+        }, function() {
+          $('#latest-tweets').append('<li>Error loading tweets</li>');
+        });
+      });
+    </script>
   
-  <script charset="utf-8" type="text/javascript">  
-  jQuery(function() {
-  getTwitters('sixsq', { 
-  id: 'sixsq', 
-  count: 1,
-  enableLinks: true, 
-  ignoreReplies: true, 
-  template: '%text% (%time%)'
-  });
-  })
-  
-  </script>
-
   <a href="http://twitter.com/sixsq">Learn more</a>
 
 </div>
