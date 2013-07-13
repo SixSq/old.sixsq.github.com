@@ -43,12 +43,12 @@ SlipStream™ communicates to IaaS clouds services via a connector architecture.
 
 The following is the latest update on availability of cloud connectors:
 
-* **StratusLab** (currently including OpenNebula)
+* **StratusLab** (including OpenNebula)
 * **OpenStack**
 * **Abiquo**
 * **CloudSigma**
 * **Amazon EC2**
-* **VMWare vCloud Director** (soon)
+* **VMWare vCloud** (new!!)
 * **OCCI** (soon)
 * **Physical / Fixed**
 * **CloudStack** (soon)
