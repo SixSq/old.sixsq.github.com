@@ -14,7 +14,7 @@ Recently we have helped our customers do the following:
 
 We thrive to push the envelope of what is possible, both at process and technology levels. Challenge us... we love it!
 
-Partnerships, Collaborations and Memberships
+Partnerships and Collaborations
 ==============
 
 Amazon
@@ -28,7 +28,7 @@ SixSq is a registered Amazon Solution Provider, with a dedicated [SlipStream ser
 IBM Partner World Member
 ------
 
-SixSq is member of the [IBM Partner World](http://www.ibm.com/partnerworld) program. We have certified [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.
+SixSq is member of the [IBM Partner World](http://www.ibm.com/partnerworld) program. We have certified [SlipStream™](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.
 
 
 Helix Nebula - The Science Cloud
@@ -36,7 +36,13 @@ Helix Nebula - The Science Cloud
 
 ![Helix Nebula](/img/content/helix-nebula.jpg "Open Virtualization Alliance Member")
 
-SixSq is a founding member of the [Helix Nebula collaboration](http://www.facebook.com/HelixNebula.TheScienceCloud). More information is available [here](news/2012/03/01/news-hn-annoucement.html).
+SixSq is a founding member of the [Helix Nebula collaboration](http://www.facebook.com/HelixNebula.TheScienceCloud). 
+
+The collaboration is using [SlipStream™](/products/slipstream.html) as a unified gateway to the different
+Helix Nebula cloud providers.  This provides the Helix Nebula users (CERN, ESA and EMBL) with a single
+entry point to provision, configure, coordinate and manage their cloud resources. 
+
+More information is available [here](news/2012/03/01/news-hn-annoucement.html).
 
 
 Open Virtualization Alliance
