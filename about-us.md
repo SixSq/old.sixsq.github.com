@@ -38,7 +38,7 @@ Helix Nebula - The Science Cloud
 
 SixSq is a founding member of the [Helix Nebula collaboration](http://www.facebook.com/HelixNebula.TheScienceCloud). 
 
-The collaboration is using [SlipStream™](/products/slipstream.html) as a unified gateway to the different
+The collaboration is using [SlipStream™](/products/slipstream.html) as a unified gateway to the various
 Helix Nebula cloud providers.  This provides the Helix Nebula users (CERN, ESA and EMBL) with a single
 entry point to provision, configure, coordinate and manage their cloud resources. 
 
