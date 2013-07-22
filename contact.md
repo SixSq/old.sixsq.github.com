@@ -21,6 +21,6 @@ Tel: +41 77 44 68 170
 
 **Or come and visit**  
 SixSq  
-15 rue du Pré-de-la-Fontaine  
+Rue du Bois-du-Lan, 8
 1217, Geneva  
 Switzerland
