@@ -282,7 +282,7 @@ default name of the connector or its instance name.
 ### Configuring the Connector
 
 The connector is now ready to be configured by providing the values to the 
-corresponding parameters.  The parameters now available are the ones define in
+corresponding parameters.  The parameters now available are the ones defined in
 `ExampleSystemConfigurationParametersFactory.java`.
 
 Please note the following regarding `URL with the cloud client specific connector`
