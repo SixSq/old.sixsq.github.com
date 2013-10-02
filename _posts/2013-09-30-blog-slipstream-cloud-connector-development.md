@@ -101,6 +101,18 @@ some required artifacts into your `~/.m2/settings.xml`
       </repositories>
     </profile>
 
+Also, the following dependencies are required to be able to build the example project:
+
++ `maven 3`
++ Python `nose` (for running Python unit tests and reporting results). Can be installed 
+  with: `pip install nose`
++ `pylint` (Python source code analyzer). Can be installed with: `pip install pylint`
+
+To verify that you can successfully build the example project change to 
+`SlipStreamConnector-Example` project directory and run
+
+    mvn clean verify
+
 After the connector is developed, both its parts -- server as .jar(s) and client 
 as tarball -- should be installed on the SlipStream™ server.  The Java connector 
 should be made available in the class path of the server and the connector's 
