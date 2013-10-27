@@ -49,16 +49,16 @@ The following is the latest update on availability of cloud connectors:
 * **CloudSigma**
 * **Amazon EC2**
 * **VMWare vCloud** (new!!)
-* **OCCI** (soon)
+* **OCCI** (new!!)
 * **Physical / Fixed**
-* **CloudStack** (soon)
+* **CloudStack** (new!!)
+* **IBM Smart Cloud Entry** (new!!)
 * **Microsoft IaaS Azure** (soon)
 
 Notes: 
 
-1. The Abiquo, Amazon EC2 and CloudSigma connectors are released under a SixSq proprietary license. 
-1. A VMWare vCloud Director connector is under development, such that SlipStream™ will be able to interface to VMWare-based IaaS cloud services.
-1. An OCCI compliant connector is also under development, such that SlipStream™ will be able to interface with OCCI compliant cloud services, e.g. the EGI Federated Cloud services.
+1. The Abiquo, Amazon EC2, CloudSigma and VMWare vCloud connectors are released under a SixSq proprietary license. 
+1. The OCCI compliant connector enables SlipStream™ to interface with OCCI compliant cloud services, e.g. the EGI Federated Cloud services.
 
 Coming soon
 ======
@@ -67,7 +67,6 @@ The following features are currently under development and will be delivered in 
 
 * **Auto-scale and elastic behaviour**: users will be able to describe elastic rules, such that SlipStream™ can throttle up and down the cloud resources used.  For example, a peak in requests could trigger an increase in the number of worker nodes in a cluster, or the number of web servers in a distributed web service.  Inversely, idle resources could be decommissioned so that resource utilization and costs are rationalized. 
 * **Accounting and usage records**: users will have the ability to visualize their current resource consumption (e.g. VMs, CPUs, RAM, storage, deployments), per configured cloud. Further, usage records will also be available, allowing users to request a consolidated statement, from two given dates, again per configured cloud.  Finally, SlipStream™ system administrators will have the ability to visualize aggregated usage consumption and usage records for each user, such that they can better understand overall resource consumption.
-* **New look-and-feel with dynamic dashboard**: a new skin is under development, improving the user experience and browser support.
 
 Easy access to the cloud
 =========================================
