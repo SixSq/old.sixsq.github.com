@@ -48,11 +48,12 @@ The following is the latest update on availability of cloud connectors:
 * **Abiquo**
 * **CloudSigma**
 * **Amazon EC2**
-* **VMWare vCloud** (new!!)
-* **OCCI** (new!!)
 * **Physical / Fixed**
-* **CloudStack** (new!!)
-* **IBM Smart Cloud Entry** (new!!)
+* **VMWare vCloud** (new)
+* **OCCI** (new)
+* **CloudStack** (new)
+* **IBM Smart Cloud Entry** (soon)
+* **Okeanos** (soon)
 * **Microsoft IaaS Azure** (soon)
 
 Notes: 
