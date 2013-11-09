@@ -3,7 +3,7 @@ layout: plain
 title: About Us
 ---
 
-SixSq provides agile applications and tools, as well as software services and consultancy. We deliver solutions to reduce costs in managing software and IT infrastructures. SlipStream, our software integration, test and deployment application allows our customers to release software with confidence, minimize risk and reduce time-to-market. SixSq's team members share a passion for excellence and innovation, with dedicated attention to customer needs. We take pride in building long lasting partnerships and collaborations with all of our customers.
+SixSq is a cloud computing and distributed system solution provider specialised in agile delivery and process automation. Following DEVOPS principals, our solutions, such as SlipStream™, provide an unprecedented level of automation for cloud users, managed service providers, independent service vendors and large enterprises. Working with all mainstream cloud infrastructures and solutions, SixSq prides itself in promoting cloud neutral solutions for this fast moving IT sector.  Based in Geneva, Switzerland, SixSq employs highly skilled software engineers, developers and system administrators.  Our customers are small high-tech organisations, large enterprises and European and international organisations.  SixSq team members share a passion for excellence and innovation, with dedicated attention to customer needs. We strive to build long lasting partnerships and collaborations with all of our customers.
 
 Recently we have helped our customers do the following:
 * Build public cloud based on the Open Source [StratusLab](/products/stratuslab.html) IaaS solution
