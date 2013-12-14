@@ -29,7 +29,7 @@ within minutes. The idea being that simple things should be simple, this is
 why the StratusLab distribution ships with sensible defaults, which will work
 in most of the standard deployment scenarios.
 
-With the release of version 2.1, the fully open-source StratusLab distribution
+With the release of version 13.10, the fully open-source StratusLab distribution
 offers a complete solution for creating and managing cloud-based
 infrastructures. It includes the OpenNebula virtual infrastructure manager;
 a Marketplace allowing cloud users to create, search for and share
@@ -52,7 +52,7 @@ with an unmatched level of automation.
 StratusLab Features
 ===================
 
-The features of StratusLab v2.1 include:
+The features of StratusLab v13.10 include:
 
 * Marketplace allowing user communities to create, search for and share
   customised digitally-signed virtual machine images
@@ -84,7 +84,7 @@ Visit the website for more information on how to use the StratusLab
 cloud reference infrastructure, to install your own cloud and/or to 
 contribute.
 
-Get Started with StratusLab v2.1
+Get Started with StratusLab v13.10
 ================================
 
 StratusLab Client
@@ -98,14 +98,14 @@ Install Your Own StratusLab Cloud
 ---------------------------------
 
 Resource providers install your own public or private cloud with StratusLab
-2.1. Find all the [documentation and instructions](http://stratuslab.eu/install/) for
+13.10. Find all the [documentation and instructions](http://stratuslab.eu/install/) for
 downloading and installing the software.
 
 Documentation and Community Support
 -----------------------------------
 
 [Documentation](http://stratuslab.eu/documentation/) for
-StratusLab version 2.1 is also available.
+StratusLab version 13.10 is also available.
 
 The collaboration provides best effort [support
 page](http://stratuslab.eu/about/), or contact the StratusLab
