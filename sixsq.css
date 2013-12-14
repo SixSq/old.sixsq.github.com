@@ -279,11 +279,6 @@ img {
 	width: 278px;
 }
 
-.front.products .stratuslab,
-.front.products .ready_pack {
-	margin-right: 10px;
-}
-
 .front.products .stratuslab {
 	background: transparent url(img/design/stratuslab.png) no-repeat scroll left top;
 }
