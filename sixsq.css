@@ -241,7 +241,6 @@ img {
 .breadcrumb a {
 	padding-right: 10px;
 	padding-left: 20px;
-	font-style: italic;
 	font-size: 1.1em;/*15px*/
 	color: #8b0000;
 	background: transparent url(img/design/arrow_breadcrumb.png) no-repeat scroll left center;
@@ -344,11 +343,14 @@ img {
 	position: absolute;
 	bottom: 25px;
 	padding-right: 20px;
-	font-style: italic;
-	font-size: 1.1em;/*15px*/
+	font-size: 1.8em;
 	font-weight: bold;
 	color: #9e0100;
-	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 4px;
+	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 10px;
+}
+
+.products div a:nth-of-type(2) {
+    left: 180px;
 }
 
 .front.products .stratuslab h2,
@@ -546,7 +548,6 @@ img {
 
 .latest div a {
 	padding-right: 18px;
-	font-style: italic;
 	font-size: 1.1em;/*15px*/
 	font-weight: bold;
 	color: #009dc6;

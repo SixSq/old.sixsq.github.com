@@ -8,5 +8,8 @@
   <p>{{ post.content | markdownify | strip_html | truncatewords: 14 }}</p>
   
   <a href="{{ post.url }}">Learn more</a>
+  {% if post.tryme  %}
+  <a href="{{ post.tryme }}">Try me</a>
+  {% endif %}
 </div>
 {% endfor %}

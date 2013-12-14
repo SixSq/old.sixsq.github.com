@@ -5,6 +5,7 @@ class: stratuslab
 category: products
 permalink: /products/stratuslab.html
 image: /img/design/stratuslab_category.png
+tryme: http://www.stratuslab.eu
 ---
 
 Open-source IaaS cloud distribution. Turn your physical infrastructure into
