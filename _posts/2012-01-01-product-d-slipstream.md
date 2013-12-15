@@ -6,6 +6,7 @@ category: products
 permalink: /products/slipstream.html
 image: /img/design/slipstream_category.png
 tryme: https://slipstream.sixsq.com
+summary: Multi-cloud application deployment made easy. Give users single-click deployment capability, in the cloud of their choice. 
 ---
 
 Developed by SixSq, SlipStream™ is a multi-cloud coordinated provisioning and image factory engine. In other words, it is an engineering Platform as a Service (PaaS) solution to support production deployment in the cloud, as well as development, testing, certification and deployment processes into Infrastructure as a Service (IaaS) cloud environments. 
