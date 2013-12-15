@@ -5,7 +5,11 @@
   {% else %}
     <h2>{{ post.title }}</h2>
   {% endif %}
-  <p>{{ post.content | markdownify | strip_html | truncatewords: 14 }}</p>
+  {% if post.summary  %}
+    <p>{{ post.summary }}</p>
+  {% else %}
+    <p>{{ post.content | markdownify | strip_html | truncatewords: 14 }}</p>
+  {% endif %}
   
   <a href="{{ post.url }}">Learn more</a>
   {% if post.tryme  %}
