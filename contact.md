@@ -7,11 +7,13 @@ Need information? Give feedback? Get in touch!
 -----------
 
 **Phone**  
-Tel: +41 77 44 68 119  
-Tel: +41 77 44 68 170
+Info: +41 77 44 68 119  
+Support: +41 22 57 52 229
 
 **Email**  
-[info@sixsq.com](mailto:info@sixsq.com)
+[info@sixsq.com](mailto:info@sixsq.com)  
+[support@sixsq.com](mailto:support@sixsq.com)
+
 
 **Twitter**  
 [@sixsq](https://twitter.com/#!/sixsq)  
@@ -21,6 +23,6 @@ Tel: +41 77 44 68 170
 
 **Or come and visit**  
 SixSq  
-Rue du Bois-du-Lan, 8
+Rue du Bois-du-Lan, 8  
 1217, Geneva  
 Switzerland
