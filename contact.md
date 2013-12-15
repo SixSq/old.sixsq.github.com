@@ -6,7 +6,7 @@ title: Contact
 Need information? Give feedback? Get in touch!
 -----------
 
-**Phone**  
+**Phone**
 Info: +41 77 44 68 119  
 Support: +41 22 57 52 229
 
