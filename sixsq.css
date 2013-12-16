@@ -344,8 +344,22 @@ img {
 	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 10px;
 }
 
+.products.sidebar div a {
+	position: absolute;
+	bottom: 25px;
+	padding-right: 20px;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #9e0100;
+	background: none;
+}
+
 .products div a:nth-of-type(2) {
     left: 180px;
+}
+
+.products.sidebar div a:nth-of-type(2) {
+    left: 95px;
 }
 
 .front.products .stratuslab h2,
