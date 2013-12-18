@@ -10,7 +10,7 @@ comments: true
 ![Abiquo](/img/content/logo_abiquo.jpg "Abiquo logo")
 ![SixSq](/img/design/logo_clean.png "SixSq logo")
 
-(blog [co-authored](http://www.abiquo.com/2013/12/18/end-year-round-abiquo-sixsq/) with Abiquo)
+(blog [co-authored](http://www.abiquo.com/2013/12/18/end-year-round-abiquo-sixsq/) with [Abiquo](http://abiquo.com))
 
 Important events from 2013
 =====
