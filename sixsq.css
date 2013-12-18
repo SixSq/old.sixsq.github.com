@@ -455,6 +455,7 @@ img {
 .list_news img {
 	float: left;
 	margin-right: 20px;
+    margin-bottom: 15px;
 }
 
 .list_news a.title,
