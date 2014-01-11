@@ -263,7 +263,6 @@ img {
 }
 
 .front-section-title {
-	position: block;
 	font-size: 1.8em;
 	font-weight: bold;
 	color: #9e0100;
@@ -302,8 +301,8 @@ img {
 	background: transparent url(img/design/slipstream.png) no-repeat scroll left top;
 }
 
-.front.personae .ready_pack {
-	background: transparent url(img/design/ready_pack.png) no-repeat scroll left top;
+.front.personae .nuvlabox {
+	background: transparent url(img/design/nuvlabox.png) no-repeat scroll left top;
 }
 
 .front.personae .training_coaching {
@@ -400,8 +399,8 @@ img {
 	background: transparent url(img/design/slipstream.png) no-repeat scroll left top;
 }
 
-.front.products .ready_pack {
-	background: transparent url(img/design/ready_pack.png) no-repeat scroll left top;
+.front.products .nuvlabox {
+	background: transparent url(img/design/nuvlabox.png) no-repeat scroll left top;
 }
 
 .front.products .training_coaching {
@@ -416,8 +415,8 @@ img {
 	background: transparent url(img/design/slipstream_box.png) no-repeat scroll left top;
 }
 
-.sidebar.products .ready_pack {
-	background: transparent url(img/design/ready_pack_box.png) no-repeat scroll left top;
+.sidebar.products .nuvlabox {
+	background: transparent url(img/design/nuvlabox_box.png) no-repeat scroll left top;
 }
 
 .sidebar.products .training_coaching {
@@ -477,8 +476,8 @@ img {
 
 .front.products .stratuslab h2,
 .front.products .stratuslab p,
-.front.products .ready_pack h2,
-.front.products .ready_pack p {
+.front.products .nuvlabox h2,
+.front.products .nuvlabox p {
 	width: 260px;
 }
 
@@ -721,7 +720,8 @@ img {
 	width: 952px;
 	height: 181px;
 	margin-left: 3px;
-	margin-bottom: 30px;
+    margin-bottom: 10px;
+    margin-top: 7px;
 	padding: 25px;
 	background: transparent url(img/design/customers.png) no-repeat scroll left top;
 }
