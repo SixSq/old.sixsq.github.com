@@ -5,7 +5,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 0.875em;/*14px*/
 	color: #232323;
-	background: #ffffff url(img/design/body.jpg) repeat-x scroll left top;
+	background: #E2E2E2;/*#ffffff url(img/design/body.jpg) repeat-x scroll left top;*/
 }
 
 /* Main content */
@@ -30,7 +30,7 @@ img {
 
 #content {
 	float: left;
-	margin: 30px 0px 25px 0px;
+    margin-top: 10px;
 }
 
 .not_front_page #content {
@@ -90,13 +90,13 @@ img {
 .top {
 	position: relative;
 	margin: 0px -52px;
-	padding: 40px 52px 0px 52px;
-	background: transparent url(img/design/top.png) no-repeat scroll center top;
+	padding: 10px 52px 0px 52px;
+	/*background: transparent url(img/design/top.png) no-repeat scroll center top;*/
 }
 
 .logo {
 	position: absolute;
-	top: 38px;
+	top: 8px;
 	left: 122px;
 	display: block;
 	width: 99px;
@@ -262,13 +262,126 @@ img {
 	padding-top: 85px;
 }
 
+.front-section-title {
+	position: block;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #9e0100;
+	width: 325px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px !important;
+	margin-bottom: 10px;
+}
+
+/* Personae */
+.personae div {
+	position: relative;
+	float: left;
+	display: block;
+	height: 245px;
+}
+
+.front {
+    margin-left: 6px;
+}
+
+.front.personae div {
+	width: 499px;
+}
+
+.sidebar.personae div {
+	width: 278px;
+}
+
+.front.personae .stratuslab {
+	background: transparent url(img/design/stratuslab.png) no-repeat scroll left top;
+}
+
+.front.personae .slipstream {
+	background: transparent url(img/design/slipstream.png) no-repeat scroll left top;
+}
+
+.front.personae .ready_pack {
+	background: transparent url(img/design/ready_pack.png) no-repeat scroll left top;
+}
+
+.front.personae .training_coaching {
+	background: transparent url(img/design/training_coaching.png) no-repeat scroll left top;
+}
+
+.personae div h2,
+.personae div p,
+.personae div a {
+	padding-left: 25px;
+}
+
+.personae div h2 {
+	margin: 25px 0px;
+	line-height: 1;
+	letter-spacing: -2px;
+	font-size: 38px;
+	color: #4e4e4e;
+}
+
+.sidebar.personae div h2 {
+	margin-bottom: 10px;
+}
+
+.personae div p {
+	margin: 0px;
+	font-size: 1.15em;/*16px*/
+}
+
+.personae div a {
+	position: absolute;
+	bottom: 25px;
+	padding-right: 20px;
+	font-size: 1.8em;
+	font-weight: bold;
+	color: #9e0100;
+	background: transparent url(img/design/arrow_red.png) no-repeat scroll right 10px;
+}
+
+.personae.sidebar div a {
+	position: absolute;
+	bottom: 25px;
+	padding-right: 20px;
+	font-size: 1.1em;
+	font-weight: bold;
+	color: #9e0100;
+	background: none;
+}
+
+.personae div a:nth-of-type(2) {
+    left: 180px;
+}
+
+.personae.sidebar div a:nth-of-type(2) {
+    left: 95px;
+}
+
+.front.personae .stratuslab h2,
+.front.personae .stratuslab p,
+.front.personae .ready_pack h2,
+.front.personae .ready_pack p {
+	width: 260px;
+}
+
+.front.personae .slipstream h2,
+.front.personae .slipstream p,
+.front.personae .training_coaching h2,
+.front.personae .training_coaching p {
+	width: 240px;
+}
+
 /* Products */
 .products div {
 	position: relative;
 	float: left;
 	display: block;
 	height: 245px;
-	margin-bottom: 12px;
+	/*margin-bottom: 12px;*/
 }
 
 .front.products div {
@@ -493,6 +606,7 @@ img {
 	width: 1008px;
 	height: 205px;
 	margin-top: 15px;
+    margin-left: 1px;
 	background: transparent url(img/design/latest.png) no-repeat scroll left top;
 }
 
@@ -616,6 +730,7 @@ img {
 .customers p,
 .customers .logos {
 	float: left;
+	color: black;
 }
 
 .customers h3 {

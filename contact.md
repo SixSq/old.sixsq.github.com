@@ -22,7 +22,7 @@ Support: +41 22 57 52 229
   [SlipStream](/products/slipstream.html) related tweets)
 
 **Or come and visit**  
-SixSq  
+SixSq.  
 Rue du Bois-du-Lan, 8  
 1217, Geneva  
 Switzerland
