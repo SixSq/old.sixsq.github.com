@@ -29,7 +29,11 @@
 
           <div class="breadcrumb">
             <a href="/" class="first">Home</a>
+			{% if page.parent %}
+            <a href="{{ page.parent }}">{{ page.category | capitalize }}</a>
+			{% else %}
             <a href="/{{ page.category }}/index.html">{{ page.category | capitalize }}</a>
+            {% endif %}
             <a href="{{ page.url }}" class="current">{{ page.title }}</a>
           </div>
           
