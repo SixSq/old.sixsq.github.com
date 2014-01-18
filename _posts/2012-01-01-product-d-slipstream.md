@@ -1,6 +1,7 @@
 ---
 layout: article
 title: SlipStream™
+title_gfx: /img/design/slipstream_logo.png
 class: slipstream
 category: products
 permalink: /products/slipstream.html

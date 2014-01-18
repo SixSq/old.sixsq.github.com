@@ -2,7 +2,7 @@
 layout: article
 title: End of year round up with Abiquo and SixSq
 category: blog
-image: /img/design/slipstream_category.png
+image: /img/design/seethroughcloud_category.png
 author: Charles Loomis
 comments: true
 ---

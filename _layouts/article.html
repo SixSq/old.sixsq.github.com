@@ -34,7 +34,11 @@
           </div>
           
           <div class="main">
+            {% if page.title_gfx %}
+            <img src="{{ page.title_gfx }}" alt="{{ page.title }}" /> 
+            {% else %}
             <h1 class="list_title">{{ page.title }}</h1>
+            {% endif %}
             {% if page.category == "news" %}
             <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
             {% endif %}
