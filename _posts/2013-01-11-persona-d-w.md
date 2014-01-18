@@ -5,7 +5,7 @@ class: slipstream
 category: personae
 permalink: /persona/persona-x.html
 image: /img/design/slipstream_category.png
-summary: This is for Bob the big cheese... asda sda sda sd as da sd as da sd a sd asd asdasdasdasd asd asd 
+summary: As CEO, I need to improve time to market and return on investment. How can SlipStream help me? 
 ---
 
 TOTO sdfasdfa sasdfasdf

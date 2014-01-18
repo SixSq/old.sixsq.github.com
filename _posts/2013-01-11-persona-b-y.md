@@ -3,9 +3,9 @@ layout: article
 title: Persona X
 class: slipstream
 category: personae
-permalink: /persona/persona-x.html
+permalink: /persona/regain-control.html
 image: /img/design/slipstream_category.png
-summary: This is for Bob the big cheese... asda sda sda sd as da sd as da sd a sd asd asdasdasdasd asd asd 
+summary: As Director of Operations, I need control over use of resources & quicker reaction to changes in demand. How can SlipStream help me? 
 ---
 
 TOTO
