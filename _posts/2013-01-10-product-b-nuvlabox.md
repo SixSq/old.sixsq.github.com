@@ -1,13 +1,12 @@
 ---
 layout: article
 title: NuvlaBox
+title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
 class: nuvlabox
 category: products
 permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 ---
-
-![NuvlaBox](/img/design/nuvlabox_logo_transparent_medium.png "NuvlaBox")
 
 **The simplest cloud solution in the world!** Nuvla, by SixSq, is a **turn key IaaS and PaaS cloud solution** for small and medium enterprises, with enough horsepower, **bringing the cloud to you in no time**. Nuvla is delivered as a factory certified hardware and software solution, including support, maintenance and training services, allowing you to focus on your core operations, while taking advantage of cloud technology.
 
