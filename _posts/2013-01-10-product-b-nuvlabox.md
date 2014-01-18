@@ -8,8 +8,6 @@ permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 ---
 
-![NuvlaBox](/img/design/nuvlabox_logo_transparent_medium.png "NuvlaBox")
-
 **NuvlaBox is a blah blah which offers you the following advantages:**
 The power of the cloud in a fanless PC
 
