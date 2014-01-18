@@ -6,20 +6,40 @@ category: products
 permalink: /products/slipstream.html
 image: /img/design/slipstream_category.png
 tryme: https://slipstream.sixsq.com
-summary: Multi-cloud application deployment made easy. A PaaS that gives users single-click deployment capability, in the cloud of their choice. 
+summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own Enterprise Open App Store and DevOps process...
 ---
 
-Developed by SixSq, SlipStream™ is a multi-cloud coordinated provisioning and image factory engine. In other words, it is an engineering Platform as a Service (PaaS) solution to support production deployment in the cloud, as well as development, testing, certification and deployment processes into Infrastructure as a Service (IaaS) cloud environments. 
+**SlipStream is an application deployment automation platform, built on the following key principals:**
 
-**Try our new [SlipStream™ hosted service](https://slipstream.sixsq.com) for free and experience real application deployment automation.**
+* **Real multi-cloud**: SlipStream supports all mainstream cloud solutions and more. You're recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently.
 
-The core of SlipStream™, as well as several connectors, are released under the open source Apache 2.0 license.
-Check it out on [GitHub](http://github.com/slipstream).
+* **No voodoo magic**: Everything is above board, with a simple yet rich set of functionality to create, share and use application deployments.
 
-Main Features
-=====
+* **Freedom of choice**: SlipStream supports all mainstream IaaS cloud solutions, giving you the freedom to choose the right cloud solutions and providers to do the job
 
-In more detail, SlipStream™ currently provides the following features: 
+* **No modification to your application required**: SlipStream's simple script based automation means that you can deploy any apps without any changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+
+* **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
+
+* **Built-in version control**: All key artefacts in the system are version controlled, ensuring nothing is ever lost.
+
+**SlipStream offers clear and tangible business benefits:**
+
+* **Fed up with spending time configuring and installing applications?** SlipStream™ allows you to automate deployments thereby saving time and money
+
+* **Need to improve your time to market, while reducing operational costs?** Use SlipStream™ as a solid foundation for your DevOps process.
+
+* **Having trouble getting your users to install and configure your software?** Use SlipStream™ as your Enterprise Open App Store™.
+
+* **Want to remain independent from the cloud you deploy to?** SlipStream™ deployments are cloud agnostic and it supports all popular clouds.
+
+The use of SlipStream™ is currently free of charge.  You only pay the cloud providers for the cloud resources you consume.
+
+We have put a lot of effort in the documentation, including several tutorials, which will give you great insight into the capabilities of SlipStream™.
+
+CREATE ACCOUNT
+
+In more detail, SlipStream™ provides the following features: 
 
 * **Multi-machine Provisioning System**: SlipStream™ allows users to define and execute deployments, based on high-level recipes, independently from the cloud on which the recipes will be applied.  Deployments include coordination and orchestration of virtual machines, including ordering and synchronisation of services. Figure 1 shows a screenshot of the SlipStream™ control dashboard of a multi-machine deployment.
 
@@ -46,36 +66,9 @@ SlipStream™ communicates to IaaS clouds services via a connector architecture.
 
 ![Supported Clouds](/img/content/connectors.png "SlipStream™ Supported Clouds")
 
-The following is the latest update on availability of cloud connectors:
-
-* **StratusLab** (including OpenNebula)
-* **OpenStack**
-* **Abiquo**
-* **CloudSigma**
-* **Amazon EC2**
-* **Physical / Fixed**
-* **VMWare vCloud** (new)
-* **OCCI** (new)
-* **CloudStack** (new)
-* **IBM Smart Cloud Entry** (soon)
-* **Okeanos** (soon)
-* **Microsoft IaaS Azure** (soon)
-
-Notes: 
-
-1. The Abiquo, Amazon EC2, CloudSigma and VMWare vCloud connectors are released under a SixSq proprietary license. 
-1. The OCCI compliant connector enables SlipStream™ to interface with OCCI compliant cloud services, e.g. the EGI Federated Cloud services.
-
-Coming soon
-======
-
-The following features are currently under development and will be delivered in 2013:
-
-* **Auto-scale and elastic behaviour**: users will be able to describe elastic rules, such that SlipStream™ can throttle up and down the cloud resources used.  For example, a peak in requests could trigger an increase in the number of worker nodes in a cluster, or the number of web servers in a distributed web service.  Inversely, idle resources could be decommissioned so that resource utilization and costs are rationalized. 
-* **Accounting and usage records**: users will have the ability to visualize their current resource consumption (e.g. VMs, CPUs, RAM, storage, deployments), per configured cloud. Further, usage records will also be available, allowing users to request a consolidated statement, from two given dates, again per configured cloud.  Finally, SlipStream™ system administrators will have the ability to visualize aggregated usage consumption and usage records for each user, such that they can better understand overall resource consumption.
 
 Easy access to the cloud
-=========================================
+=========================
 
 SlipStream™ provides simple interfaces (web and command-line client) to interact with cloud environments. All clouds are not equal and several clouds have their own approach to VM lifecycle and configuration. SlipStream™'s connector architecture provides an abstraction layer giving the opportunity to each connector to leverage the advantages, and work around the inconveniences, of each cloud. The result is a consistent behaviour, across clouds. The following are examples of harmonisation SlipStream™ provides:
 
@@ -104,28 +97,15 @@ With SlipStream™, once your deployment is automated, you can assess, from any 
 
 SlipStream™ is a simple to use, yet powerful, application built on top of public clouds or your own infrastructure. Evaluation of SlipStream™ takes a few minutes, using our hosted secure on-line service (SaaS), tutorials and documentation.
 
-The initial idea
+
+TECH CORNER: In more detail
 ======================================
 
-How stressful are your production releases? How much confidence do you
-have in each new release you push to production? These are some of the
-problems that motivated us in building SlipStream™.
+SlipStream™ is a multi-cloud coordinated provisioning and image factory engine. In other words, it is an engineering Platform as a Service (PaaS) solution to support production deployment in the cloud, as well as development, testing, certification and deployment processes into Infrastructure as a Service (IaaS) cloud environments. 
 
-With SlipStream™ we can build on-the-fly runtime or test environments,
-close to production deployments, which allow us to assert that our good
-ideas and bug fixes can be deployed into production to deliver value to
-our users. SlipStream™ works on a variety of IaaS clouds, so that we
-don’t have to learn the detail of each cloud every time we need to deploy
-our systems there. This also allows us to share knowledge we have amassed
-in integrating and testing systems over the years in the form of patterns,
-machine image creation recipes and multi-machine deployments, configuration
-and orchestration.  You can do the same!
 
-We think SlipStream™ fills this gap. If you see a missing feature, please
-let us know. We’ll be more than happy to explore adding it to the system.
-
-For techies... How does it work?
-======================================
+The core of SlipStream™, as well as several connectors, are released under the open source Apache 2.0 license.
+Check it out on [GitHub](http://github.com/slipstream).
 
 SlipStream™ provides two main features:
 
@@ -206,62 +186,4 @@ Software Bundles and Products
 
 SixSq delivers certified SlipStream™ bundles, containing software in the form of binary packages, documentation, starter kit and examples. The bundles can be created 'à la carte', including open sourced and proprietary connectors, as well as custom image and deployment recipes and scripts. The bundles also include, maintenance and support so that you stay up to date with our fast release cycles.
 
-We also deliver SlipStream™ as in a hardware turn key solution, called [emCloud](/products/readypack.html). You can also rely on our [SlipStream™ hosted service](https://slipstream.sixsq.com), if you prefer the piece of mind of a SaaS delivery model. 
-
-
-FAQ
-===
-
-**Q1: I don't know cloud computing, will I be able to use SlipStream™?**
-
-**A1**: Sure. We’ve designed SlipStream™ not to expose cloud-isms in the
-interface. Cloud computing offers many rich features that are very
-interesting when deploying runtime systems, but the defaults we’ve put
-in place will hide most of these details so that you can get going
-quickly without facing a steep learning curve.
-
-**Q2: I know cloud computing, will I be able to do more with SlipStream™?**
-
-**A2**: Absolutely. SlipStream™ does not expose all the richness of each
-underlying IaaS cloud service it supports. However, it allows you to automate
-routine operations, such as machine image creation and
-multi-machine / complex deployments, with a version control system keeping
-track of your changes. We are leveraging more and more cloud features at
-the level of SlipStream™, such that you can leverage these features in your
-deployments.
-
-**Q3: What's the big deal with automating deployments? I've got a few scripts 
-that do the trick nicely.**
-
-**A3**: Great. But chances are that you are the only one using these scripts, or
-others find it difficult to use them. In addition, as your software, its
-configuration and dependencies change and evolve over time, you have to adapt
-and change these scripts in a controlled manner and version control them.
-Furthermore, you might end-up with mixed logic between the steps required to
-install, configure and start your services and components, from the logic
-required to bring up your services in the right order. SlipStream™ provides a
-clear and clean separation of concerns between the installation and
-configuration of individual services, from the synchronisation logic between
-services running inside machines. Finally, you should be able to reuse a lot
-of your current scripts in SlipStream™ and since SlipStream™ has a web
-interface, others in your team will be able to leverage your efforts by
-creating private deployments at the click of a button. Finally, your ability to
-deploy your applications will be independent of the target cloud.
-
-**Q4: Can I reuse the same deployment to test different aspects of my system
-(e.g. functional tests, performance)?**
-
-**A4**: Yes. Each *node* in a deployment can be instantiated any number of times
-per deployment. This mean that, for example, you could have a client test that
-could perform functional tests on its own on a regular basis, while from time
-to time, you might want to perform the same test with say 100 or 1000 clients
-running in parallel. You could also control the number of parallel
-threads/processes your client test uses to contact the server and record
-access time.
-
-**Q5: Can I reuse existing virtual machines in SlipStream™?**
-
-**A5**: Yes. Depending on the cloud back-end you are using, you can create *base
-images* that point to existing virtual machines. See the reference manual for
-further details.
-
+We also deliver SlipStream™ in a hardware turn key solution, called [NuvlaBox](/products/readypack.html). You can also rely on our [SlipStream™ hosted service](https://slipstream.sixsq.com), if you prefer the peace of mind of a SaaS delivery model. 

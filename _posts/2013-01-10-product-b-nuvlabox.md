@@ -9,6 +9,8 @@ image: /img/design/nuvlabox_category.png
 
 ![NuvlaBox](/img/design/nuvlabox_logo_transparent_medium.png "NuvlaBox")
 
+**NuvlaBox is a blah blah which offers you the following advantages:**
+The power of the cloud in a fanless PC
 **The simplest cloud solution in the world!** Nuvla, by SixSq, is a **turn key IaaS and PaaS cloud solution** for small and medium enterprises, with enough horsepower, **bringing the cloud to you in no time**. Nuvla is delivered as a factory certified hardware and software solution, including support, maintenance and training services, allowing you to focus on your core operations, while taking advantage of cloud technology.
 
 This new product is an entry point into private cloud computing, **based entirely on open source software**.
@@ -38,4 +40,5 @@ development, certification and production deployment value chain.
 
 Finally, SixSq has a strong heritage in distributed systems, which we bring to this solution in the form of federated Nuvla solutions.  This means several Nuvla solutions can be interconnected to **maximise sharing and optimise resource utilisation**. 
 
-Note: *Nuvla* means *Cloud* in romansch, a Swiss official language, very close to latin.
+TECH CORNER: In more detail
+======================================
