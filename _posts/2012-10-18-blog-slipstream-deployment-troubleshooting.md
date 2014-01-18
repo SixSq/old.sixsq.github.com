@@ -7,7 +7,7 @@ author: Marc-Elian Bégin
 comments: true
 ---
 
-Troubleshooting SlipStream deployment is simple and quick, but some of the tips and trick
+Troubleshooting SlipStream deployment is simple and quick, but some of the tips and tricks
 are not known to all. I hope to clarify this now.
 
 The perhaps default reflex when a deployment fails is to modify the deployment and re-run
