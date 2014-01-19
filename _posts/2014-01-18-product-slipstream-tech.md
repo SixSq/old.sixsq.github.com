@@ -3,7 +3,7 @@ layout: article
 title: SlipStream™ Tech Details
 title_gfx: /img/design/slipstream_logo.png
 class: slipstream
-category: SlipStream
+category: SlipStream™
 parent: /products/slipstream.html
 permalink: /products/slipstream-tech.html
 image: /img/design/slipstream_category.png
