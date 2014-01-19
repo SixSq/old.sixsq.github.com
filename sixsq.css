@@ -598,6 +598,10 @@ img {
 	margin-top: 0px;
 }
 
+.article {
+	line-height: 18px;
+}
+
 /* Latest staffs */
 .front.latest {
 	float: left;
