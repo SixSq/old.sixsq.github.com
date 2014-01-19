@@ -28,13 +28,13 @@ Key Principals
 
 **SlipStream is an application deployment automation platform, built on the following key principals:**
 
-* **Real multi-cloud**: SlipStream supports all mainstream cloud solutions and more. You're recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently.
+* **Real multi-cloud**: SlipStream supports all mainstream cloud solutions and more. Your recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently.
 
 * **No voodoo magic**: Everything is above board, with a simple yet rich set of functionality to create, share and use application deployments.
 
 * **Freedom of choice**: SlipStream supports all mainstream IaaS cloud solutions, giving you the freedom to choose the right cloud solutions and providers to do the job
 
-* **No modification to your application required**: SlipStream's simple script based automation means that you can deploy any apps without any changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+* **No modification to your application required**: SlipStream's simple script-based automation means that you can deploy any apps without any changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
 
 * **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
 
@@ -44,7 +44,7 @@ Key Principals
 Try SlipStream™ For Free
 ======
 
-Give SlipStream™ a try on our [hosted service](https://slipstream.sixsq.com). The use of SlipStream™ is currently free of charge.  You only pay the cloud providers for the cloud resources you consume.
+Give SlipStream™ a try on our hosted service. The use of SlipStream™ is currently free of charge.  You only pay the cloud providers for the cloud resources you consume.
 
 <p align="center">
 	<a href="https://slipstream.sixsq.com">
@@ -70,17 +70,14 @@ Software Bundles and Products
 
 SixSq delivers certified SlipStream™ bundles, containing software in the form of binary packages, documentation, starter kit and examples. The bundles can be created 'à la carte', including open sourced and proprietary connectors, as well as custom image and deployment recipes and scripts. The bundles also include maintenance and support so that you stay up to date with our fast release cycles.
 
-We also deliver SlipStream™ in a hardware turn key solution, called [NuvlaBox](/products/nuvlabox.html). You can also rely on our [SlipStream™ hosted service](https://slipstream.sixsq.com), if you prefer the peace of mind of a SaaS delivery model.
+In addition, we deliver SlipStream™ in a hardware turn key solution, called [NuvlaBox](/products/nuvlabox.html). You can also rely on our [SlipStream™ hosted service](https://slipstream.sixsq.com), if you prefer the peace of mind of a SaaS delivery model.
 
 
 Want to Know More?
 ====
 
-Interested and want to know more? Get in touch:
+Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
 
-* [Request a demo](mailto:support@sixsq.com).
-* Get a sales representative to [call you](mailto:support@sixsq.com).
-
-And if you want to know more technical details, [keep on reading](/products/slipstream-tech.html).
+If you would like more in-depth technical information, [keep on reading](/products/slipstream-tech.html).
 
 
