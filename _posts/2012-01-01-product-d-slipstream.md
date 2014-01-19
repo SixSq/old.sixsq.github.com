@@ -7,7 +7,7 @@ category: products
 permalink: /products/slipstream.html
 image: /img/design/slipstream_category.png
 tryme: https://slipstream.sixsq.com
-summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own Enterprise Open App Store and DevOps process...
+summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own app store and DevOps process.
 ---
 
 **1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
