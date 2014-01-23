@@ -1,40 +1,50 @@
 ---
 layout: article
-title: NuvlaBox
-//title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
+title: NuvlaBox™
+title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
 class: nuvlabox
 category: products
 permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 ---
 
-**The simplest cloud solution in the world!** Nuvla, by SixSq, is a **turn key IaaS and PaaS cloud solution** for small and medium enterprises, with enough horsepower, **bringing the cloud to you in no time**. Nuvla is delivered as a factory certified hardware and software solution, including support, maintenance and training services, allowing you to focus on your core operations, while taking advantage of cloud technology.
+**The simplest cloud solution in the world!** NuvlaBox is literally what it says: a box, about the size of a modem, which has enough horsepower to **bring the cloud to you in an instant**. It is a smart device which gives you plug & play advantages in a business context.
 
-This new product is an entry point into private cloud computing, **based entirely on open source software**.
-The solution, packaged and distributed by SixSq, offers an affordable solution for small to moderate sized clouds, ideal for the SME market or larger enterprise needing to federate smaller sites.
+Business Benefits
+=================
 
-**Put in a DevOps context, Nuvla forms to workhorse of an automation strategy**, able to seamlessly integrate with tools such as Jenkins and Maven.  It can also deploy for production or in hybrid mode to public cloud solutions like Amazon EC2, Interoute VDC, HP Cloud or CloudSigma, as well as a private enterprise cloud solutions (e.g. VMWare vCloud).
+* **Perfect for SMEs wishing to access a small to medium-sized cloud** NuvlaBox™ offers an affordable entry point into private cloud computing
+* **Ideal for larger enterprises wishing to federate smaller sites** NuvlaBox™ can be interconnected to maximise sharing and optimise resource utilisation.
+* **Focus on your core operations, while taking advantage of cloud technology** NuvlaBox™ is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
+* **Model solution for franchise networks** 
 
-The Infrastructure as a Service (IaaS) solution includes the [StratusLab](http://stratuslab.eu) stack for managing virtual machines and is configured to work with the open source industry leader [KVM hypervisor](http://www.linux-kvm.org). The solution also includes the [SlipStream™](/products/slipstream.html) PaaS, SixSq's multi-cloud provisioning and image factory automation engine. This means that automated, reproducible and safe provisioning of entire virtual environments is available, right from the start. Further, SlipStream™ provides a cloud neutral way of defining image construction and deployment recipes, avoiding lock-in and keeping all doors open.
+Key Principals
+=================
 
+**NuvlaBox is a turn key IaaS and PaaS cloud solution, built on the following key principals:**
+
+* **Acces to cloud**: NuvlaBox uses Stratuslab, a European open source cloud. 
+* **In a DevOps context**: NuvlaBox forms the workhorse of an automation strategy
+  
 ![Overview](/img/content/cib-overview.png "Services Federation Overview")
 
-**The hardware solution comes in two flavours**. Note that both solutions can be *stacked*, meaning that more hardware can be
-added to increase the capacity of the system, if and when demand grows.
+FAQs
+=================
 
-* **NuvlaBox**: a small form factor with enough resources to manage a small number of VMs. Can be placed in an office or meeting
-  environment.
-* **NuvlaEnterprise**: a mini-tower or blade-type packaging, able to nicely integrate in rack-based installations or back-office environment.
+Can I use the NuvlaBox instead of a PC?
+You can certainly plug in a keyboard and screen
 
-This compact cloud solution can be interfaced with SixSq's innovative services:
+How long is the range of the WiFi in the NuvlaBox?
 
-* **Reference Marketplace Service**: including certified and updated base virtual machines
-* **Reference SlipStream™ Service**: including automatically created reference virtual machines
-  ready to use in deployments
-  
-Via its [Professional Services](/products/training-coaching.html), SixSq can also develop **custom deployments and image creation recipes** to help you automate part of or your entire
-development, certification and production deployment value chain.
+Will SixSq help me to install the NuvlaBox?
 
-Finally, SixSq has a strong heritage in distributed systems, which we bring to this solution in the form of federated Nuvla solutions.  This means several Nuvla solutions can be interconnected to **maximise sharing and optimise resource utilisation**. 
+Give me an example of how it can be used
 
-Note: *Nuvla* means *Cloud* in romansch, a Swiss official language, very close to latin.
+Want to Know More?
+====
+
+Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+
+If you would like more in-depth technical information, [keep on reading](/products/nuvlabox-tech.html).
+
+
