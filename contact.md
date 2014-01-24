@@ -18,7 +18,7 @@ Support: +41 22 57 52 229
 **Twitter**  
 [@sixsq](https://twitter.com/#!/sixsq)  
 (please use
-  [#slipstream](https://twitter.com/#!/search/%23slipstream) for
+  [#slips3m](https://twitter.com/#!/search/%23slips3m) for
   [SlipStream](/products/slipstream.html) related tweets)
 
 **Or come and visit**  
