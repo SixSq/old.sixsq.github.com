@@ -3,7 +3,7 @@ layout: article
 title: SlipStream™ Tech Details
 title_gfx: /img/design/slipstream_logo.png
 class: slipstream
-category: SlipStream
+category: SlipStream™
 parent: /products/slipstream.html
 permalink: /products/slipstream-tech.html
 image: /img/design/slipstream_category.png
@@ -138,8 +138,8 @@ with the VMs to debug and test the deployments and images. Once in place,
 standard users can then self-provision VMs and parameterise pre-configured
 systems, in the click of a button.
 
-For more details, please read the [reference documentation](https://slipstream.sixsq.com/html/reference-manual.html)
-and the [tutorial](https://slipstream.sixsq.com/html/tutorial.html), included with our [SlipStream™ hosted service](https://slipstream.sixsq.com).
+For more details, please read the [documentation](https://slipstream.sixsq.com/documentation)
+available from our [SlipStream™ hosted service](https://slipstream.sixsq.com).
 
 
 Try SlipStream™ For Free
