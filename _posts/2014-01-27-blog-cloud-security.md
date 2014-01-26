@@ -13,16 +13,19 @@ Following on from my [last post](/blog/2014/01/20/blog-see-through-cloud-intro.h
 
 **At the cloud level:**
 
-* **For some users, geographical location of the data is an issue**. Where is the data farm? Does the cloud provider have several locations and do you have control over which of them is used for YOUR data? [Exoscale](http://exoscale.com), for example, is a Swiss company with a data farm located exclusively in Switzerland, so customers know where there data is located. It's not just chocolate here you know. Do you need to have data spread over several locations to provide more resilience? In this way, if there is a problem with one site, you can still continue to operate. 
-* **A large number of security breaches are due to human error** Using cloud resources means you can hand over the responsibility of security to a professional.
+* **For some users, geographical location of the data is an issue**. Where is the data farm? Does the cloud provider have several locations and do you have control over which of them is used for YOUR data? [Exoscale](http://exoscale.com), for example, is a Swiss company with a data farm located exclusively in Switzerland, so customers know where there data is located. It's not just chocolate here you know. On the other hand, you might need to have data spread over several locations to provide more resilience? In this way, if there is a problem with one site, you can still continue to operate. 
+* **A large number of security breaches are due to human error**. Using cloud resources means you can hand over the responsibility for security of running the underlying IT infrastructure to a professional.
 * **When you sign up to your cloud provider, make sure you read those terms and conditions no one reads** at least the section regarding security.  Are you happy with their guarantees?  If not, choose another cloud provider.  And remember that Amazon and Google are not the only stores in town.
-* **A private cloud is managed solely for your organisation and could provide a higher level of security** Watch for more on that in a later blog.
+* **A private cloud is managed solely for your organisation and could provide a higher level of security**. Watch for more on that in a later blog.
+
+* **Consider a local cloud**, such as the [NuvlaBox™](/products/nuvlabox.html), then your data is stored at your location, giving full control, but also implies responsibility.
 
 **At the application level:**
 
-* **You can’t blame the cloud provider for the security of the applications you deploy there** Check security at that level too. 
-* **An application like SlipStream can help** SlipStream deploys applications for you and tests.
+* **You can’t blame the cloud provider for the security of the applications you deploy there**. Check security at that level too. 
 
-An additional advantage is that your data is backed up off-site so you don’t have to worry about the making additional provision for that yourself.
+* **An application like [SlipStream™](/products/slipstream.html) can help**. SlipStream™ deploys applications automatically, in 1-click, removing any pilot error in the process.  You can even include post-deployment tests to ensure everything is working correctly before you switch the light on.
 
-At the end of the day, it’s like the security of your home or business. As alarm systems become more sophisticated, criminals will discover more inventive ways of breaking in.  **Basic rules apply.** Only give your key to someone you trust and don’t leave the back door open. The same applies to cloud or any IT system. 
+An additional advantage is that your data is backed up off-site so you don’t have to worry about making additional provision for that yourself.
+
+At the end of the day, it’s like the security of your home or business. As alarm systems become more sophisticated, criminals will discover more inventive ways of breaking in.  **Basic rules apply.** Only give your key to someone you trust and don’t leave the back door open. The same applies to cloud or any IT system.
