@@ -1,50 +1,41 @@
 ---
 layout: article
 title: NuvlaBox™
-title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
+title_gfx: /img/design/nuvlabox_logo.png
 class: nuvlabox
 category: products
 permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 ---
 
-**The simplest cloud solution in the world!** NuvlaBox is literally what it says: a box, about the size of a modem, which has enough horsepower to **bring the cloud to you in an instant**. It is a smart device which gives you plug & play advantages in a business context.
+Coming Soon!
+============
 
-Business Benefits
-=================
+**The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
 
-* **Perfect for SMEs wishing to access a small to medium-sized cloud** NuvlaBox™ offers an affordable entry point into private cloud computing
-* **Ideal for larger enterprises wishing to federate smaller sites** NuvlaBox™ can be interconnected to maximise sharing and optimise resource utilisation.
-* **Focus on your core operations, while taking advantage of cloud technology** NuvlaBox™ is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
-* **Model solution for franchise networks** 
+* The NuvlaBox™ is a **local cloud solution** for small and medium-sized enterprises and home use
 
-Key Principals
-=================
+* The **power of the cloud** at an **affordable price**
 
-**NuvlaBox is a turn key IaaS and PaaS cloud solution, built on the following key principals:**
+* **240 GB of storage on a solid-state drive** providing high local read/write performance
 
-* **Acces to cloud**: NuvlaBox uses Stratuslab, a European open source cloud. 
-* **In a DevOps context**: NuvlaBox forms the workhorse of an automation strategy
-  
-![Overview](/img/content/cib-overview.png "Services Federation Overview")
+* Able to **replace up to 8 of your servers**, thereby **significantly reducing costs**
 
-FAQs
-=================
+* Powered by SlipStream™, **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-Can I use the NuvlaBox instead of a PC?
-You can certainly plug in a keyboard and screen
+* **Designed in Switzerland** and **built in Europe** 
 
-How long is the range of the WiFi in the NuvlaBox?
+* Entirely built out of **open source software**
 
-Will SixSq help me to install the NuvlaBox?
+* Not interested in the cloud? Use NuvlaBox as a **higher density application server**.
 
-Give me an example of how it can be used
+Watch this space!
+============
+
+NuvlaBox™ will be launched at the [Mobile World Congress](http://www.mobileworldcongress.com)
+in Barcelona, 24-27 February 2014.
 
 Want to Know More?
 ====
 
-Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
-
-If you would like more in-depth technical information, [keep on reading](/products/nuvlabox-tech.html).
-
-
+Interested and want to know more? Want to pre-order to avoid the rush?  We'd be pleased to provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
