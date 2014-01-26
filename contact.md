@@ -1,6 +1,6 @@
 ---
 layout: plain
-title: Contact
+title: Help
 ---
 
 Need information? Give feedback? Get in touch!
@@ -14,11 +14,10 @@ Support: +41 22 57 52 229
 [info@sixsq.com](mailto:info@sixsq.com)  
 [support@sixsq.com](mailto:support@sixsq.com)
 
-
 **Twitter**  
 [@sixsq](https://twitter.com/#!/sixsq)  
 (please use
-  [#slipstream](https://twitter.com/#!/search/%23slipstream) for
+  [#slips3m](https://twitter.com/#!/search/%23slipstream) for
   [SlipStream](/products/slipstream.html) related tweets)
 
 **Or come and visit**  
