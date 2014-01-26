@@ -8,12 +8,12 @@ permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 ---
 
+**NuvlaBox™: The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
+
 Coming Soon!
 ============
 
-**The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
-
-* The NuvlaBox™ is a **local cloud solution** for small and medium-sized enterprises and home use
+* The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
 
 * The **power of the cloud** at an **affordable price**
 
@@ -27,7 +27,13 @@ Coming Soon!
 
 * Entirely built out of **open source software**
 
-* Not interested in the cloud? Use NuvlaBox as a **higher density application server**.
+* Can be used as a **local cloud** or as a **remote controlled appliance**, or both.
+
+<p style="margin-top: 30px" align="center">
+	<a href="/products/nuvlabox.html">
+		<img src="/img/content/nuvlabox_indexcard_front.png" alt="NuvlaBox" />
+	</a>
+</p>
 
 Watch this space!
 ============
