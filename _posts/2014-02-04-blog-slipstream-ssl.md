@@ -57,7 +57,7 @@ StackOverflow](http://stackoverflow.com/a/18108668) leading to a
 Looking at the documentation of [ssl.wrap_socket](http://docs.python.org
 /2/library/ssl.html#ssl.wrap_socket) – used behind the scenes by both
 `urllib2` and `httplib2` – we found the root of the problem: SlipStream
-server is setup to deal with SSlv3 protocol only whereas Python is using
+server is setup to deal with SSLv3 protocol only whereas Python is using
 [SSLv23](http://docs.python.org/2/library/ssl.html#ssl.PROTOCOL_SSLv23)
 by default, and the two  are incompatible according to the protocol
 version table.
@@ -158,17 +158,16 @@ writing) gave us a hint:
     [...]
 
 Catch it? Renegotiation is not supported for SSL protocol SSLv2, as
-mentionned in the OpenSSL [SECURE RENEGOTIATION](https://www.openssl.org
-/docs/ssl/SSL_CTX_set_options.html#SECURE_RENEGOTIATION) documentation.
+mentioned in the OpenSSL [Secure Renegotiation](https://www.openssl.org/docs/ssl/SSL_CTX_set_options.html#SECURE_RENEGOTIATION) documentation.
 
-Looking at our implementation,  we're trying to upgrade SSL protocol
+Looking at our implementation, we're trying to upgrade SSL protocol
 using the same open connection. But since the first negotiation is
-done with SSlv2 any further renegotiation with an upgraded protocol will
+done with SSLv2 any further renegotiation with an upgraded protocol will
 fail.
 
 To handle that issue there are two solutions:
 
-* closing connection when SSlv23 attempt failed, then open a
+* closing connection when SSLv23 attempt failed, then open a
   new connection and try to upgrade to SSLv3 or TLSv1 otherwise;
 
 * only deal with SSLv3
@@ -176,7 +175,7 @@ To handle that issue there are two solutions:
 We finally chose the latter for the sake of simplicity.
 
 So we [rewote our patch](https://github.com/slipstream/SlipStreamClient/commit/0
-0f70229ae2f09cbbb221836363e9cb0daf2cd35) to enforce SSlv3 protocol from
+0f70229ae2f09cbbb221836363e9cb0daf2cd35) to enforce SSLv3 protocol from
 the beginning.
 
 That final patch resolved our issue with SSL and all operations are
