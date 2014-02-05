@@ -7,9 +7,9 @@ author: Sébastien Fievet
 comments: true
 ---
 
-Lately, we struggled with OpenSSL when trying to deploy VMs in
-SlipStream. Each time we were deploying new VMs on a cloud provider we
-were seeing the following error in our logs:
+Lately, after updating SlipStream server to CentOS 6.5, we struggled
+with OpenSSL when trying to deploy VMs. Each time we were deploying new
+VMs on a cloud provider we were seeing the following error in our logs:
 
     [Errno 8] _ssl.c:504: EOF occurred in violation of protocol
 
@@ -50,15 +50,13 @@ On the orchestrator running Ubuntu 12.04:
     $ openssl version
     OpenSSL 1.0.1 14 Mar 2012
 
-Then, after a quick investigation, we found an [anwser on
-StackOverflow](http://stackoverflow.com/a/18108668) leading to a
-[referenced issue](http://bugs.python.org/issue11220) in Python tracker.
+Then, after a quick investigation, we found an [anwser on StackOverflow](http://stackoverflow.com/a/18108668)
+leading to a [referenced issue](http://bugs.python.org/issue11220) in Python tracker.
 
-Looking at the documentation of [ssl.wrap_socket](http://docs.python.org
-/2/library/ssl.html#ssl.wrap_socket) – used behind the scenes by both
-`urllib2` and `httplib2` – we found the root of the problem: SlipStream
-server is setup to deal with SSLv3 protocol only whereas Python is using
-[SSLv23](http://docs.python.org/2/library/ssl.html#ssl.PROTOCOL_SSLv23)
+Looking at the documentation of [ssl.wrap_socket](http://docs.python.org/2/library/ssl.html#ssl.wrap_socket)
+ – used behind the scenes by both `urllib2` and `httplib2` – we found
+the root of the problem: SlipStream server is setup to deal with SSLv3
+protocol only whereas Python is using [SSLv23](http://docs.python.org/2/library/ssl.html#ssl.PROTOCOL_SSLv23)
 by default, and the two  are incompatible according to the protocol
 version table.
 
@@ -108,9 +106,8 @@ On the other hand, `httplib2` is not really extensible. Since we're
 already vendorizing it in our project, we decided to directly patch it
 instead of relying on a monkey patch approach.
 (We're really looking forward to ditch `httplib2` in favor of
-`requests` in the near future, shipping our [custom adapter](http://docs
-.python-requests.org/en/latest/user/advanced/#example-specific-ssl-
-version) dealing with SSLv3 protocol.)
+`requests` in the near future, shipping our [custom adapter](http://docs.python-requests.org/en/latest/user/advanced/#example-specific-ssl-version)
+dealing with SSLv3 protocol.)
 
 See the [commit](https://github.com/slipstream/SlipStreamClient/commit/5
 33733dfa9863f1379a46ed2fb14b5ad9f336d04) in our GitHub repository for
@@ -174,14 +171,13 @@ To handle that issue there are two solutions:
 
 We finally chose the latter for the sake of simplicity.
 
-So we [rewote our patch](https://github.com/slipstream/SlipStreamClient/commit/0
-0f70229ae2f09cbbb221836363e9cb0daf2cd35) to enforce SSLv3 protocol from
-the beginning.
+So we [rewrote our patch](https://github.com/slipstream/SlipStreamClient/commit/00f70229ae2f09cbbb221836363e9cb0daf2cd35)
+to enforce SSLv3 protocol from the beginning.
 
 That final patch resolved our issue with SSL and all operations are
 running as expected.
 
 As a corollary, starting from now, any connector developer using Python
 bindings should be aware of using SSL protocol SSLv3 when communicating
-with SlipStream server. For example, we already [proposed a patch for
-Stratuslab](https://github.com/StratusLab/client/pull/116).
+with SlipStream server. For example, we already
+[proposed a patch for Stratuslab](https://github.com/StratusLab/client/pull/116).
