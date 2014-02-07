@@ -20,8 +20,10 @@ NuvlaBox™ can be used in two main modes:
 
 From a user point-of-view, the process is very similar for these two modes. Let's look at what a user needs to do to get going. First, we'll consider the NuvlaBox™ in a standalone mode. This means that the box is not connected the a network that has access to the external world. 
 
-1. **Power-up the box**: NuvlaBox™ only needs power at this stage. Once powered-up, the box will create its own WIFI local network, which can be used from any deviceThe user connects to the box on the default url: then creates a new account using the self-registration process. This is done accessing by default the [url](http://172.0.0.1).
+1. **Power-up the box**: To work in standalone mode, the NuvlaBox™ only needs power. Once powered-up, the box will create its own wifi local network, which can be used from any device (e.g.laptop, smart phone, tablet, pc). By the default the wifi network is open. The ssid will start with *nuvlabox*. Once the device has joined the wifi, the user can connects to the box on the default url: [url](https://172.0.0.1). This is the address at on which SlipStream run, which acts as the local app store for NuvlaBox. The user connects as   then creates a new account using the self-registration process. This is done accessing by default the .
 2. 
+
+Note: communications with NuvlaBox are going over HTTPS, an encrypted communication, making it impossible to intercept the communication, even over a wifi network.
 
 The following diagram shows how NuvlaBox™ can be interconnected with a 
 
