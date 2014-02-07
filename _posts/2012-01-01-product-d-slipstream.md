@@ -1,14 +1,19 @@
 ---
 layout: article
 title: SlipStream™
-title_gfx: /img/design/slipstream_logo.png
 class: slipstream
 category: products
 permalink: /products/slipstream.html
 image: /img/design/slipstream_category.png
 tryme: https://slipstream.sixsq.com
 summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own app store and DevOps process.
+features: /products/slipstream.html
+techspecs: /products/slipstream-tech.html
 ---
+
+<p align="center">
+    <img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" />
+</p>
 
 **1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
 
@@ -62,7 +67,9 @@ Supported Clouds
 
 SlipStream™ communicates to IaaS clouds services via a connector architecture. A growing number of connectors are available. The connectors talking to open source IaaS implementations are released under the same open source license as the SlipStream™ core, while connectors to proprietary solutions are closed source and available via a commercial license.
 
-![Supported Clouds](/img/content/connectors.png "SlipStream™ Supported Clouds")
+<p align="center">
+    <img src="/img/content/connectors.png" alt="SlipStream™ Supported Clouds" />
+</p>
 
 
 Software Bundles and Products

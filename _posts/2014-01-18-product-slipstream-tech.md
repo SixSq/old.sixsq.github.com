@@ -9,6 +9,8 @@ permalink: /products/slipstream-tech.html
 image: /img/design/slipstream_category.png
 tryme: https://slipstream.sixsq.com
 summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own Enterprise Open App Store and DevOps process...
+features: /products/slipstream.html
+techspecs: /products/slipstream-tech.html
 ---
 
 In more detail, SlipStream™ provides the following features: 
@@ -30,6 +32,10 @@ In more detail, SlipStream™ provides the following features:
   For example, users can seamlessly apply the same image construction recipes and multi-machine deployments to different cloud providers, yielding the same results every time.
 
 * **Community sharing platform**: the SlipStream™ data model permits users to decide to share their image and deployment recipes with other users, thus contributing to a community effort, something dear to agile and DevOps principles.
+
+<p align="center">
+    <img src="/img/content/slipstream/dashboard.png" alt="SlipStream™ Dashboard" width="700" />
+</p>
 
 Easy access to the cloud
 =========================
@@ -110,7 +116,9 @@ between the VMs:
 * A ready state, telling the client that the web server is configured
   and ready to accept connections
 
-![Overview](/img/content/slipstream-deployment-overview.png "SlipStream™ Simple Deployment Overview")
+<p align="center">
+    <img src="/img/content/slipstream-deployment-overview.png" alt="SlipStream™ Simple Deployment Overview" />
+</p>
 
 In order to use these messages, scripts are defined by the user in
 SlipStream™. For more details, please refer to the online tutorial
@@ -129,7 +137,9 @@ life-cycle. The following diagram shows how different users can take
 advantage of different cloud services, while maintaining their investment
 in terms of image creation recipes and deployment models.
 
-![Overview Clouds](/img/content/slipstream-cloud-overview.png "SlipStream™ Deployment Over Different Clouds")
+<p align="center">
+    <img src="/img/content/slipstream-cloud-overview.png" alt="SlipStream™ Deployment Over Different Clouds" />
+</p>
 
 The figure above also shows how different user profiles can interact
 with SlipStream™. Here an advanced user will be creating new deployments

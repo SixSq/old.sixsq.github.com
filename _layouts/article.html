@@ -18,6 +18,7 @@
   {% include head.html %}
   
   <body class="not_front_page">
+
     <div id="wrapper">
 
       <div id="header">
@@ -27,24 +28,24 @@
       <div id="content">
         <div class="content_bg">
 
-          <div class="breadcrumb">
-            <a href="/" class="first">Home</a>
-			{% if page.parent %}
-            <a href="{{ page.parent }}">{{ page.category | capitalize }}</a>
-			{% else %}
-            <a href="/{{ page.category }}/index.html">{{ page.category | capitalize }}</a>
-            {% endif %}
-            <a href="{{ page.url }}" class="current">{{ page.title }}</a>
-          </div>
-          
-          <div class="main">
-            {% if page.title_gfx %}
-			<p align="center">
-            	<img src="{{ page.title_gfx }}" alt="{{ page.title }}" />
-			</p>
-            {% else %}
-            <h1 class="list_title">{{ page.title }}</h1>
-            {% endif %}
+            <div class="main">
+                <nav>
+                    <h1 class="list_title">{{ page.title }}</h1>
+                    <ul>
+                        {% if page.features %}
+                        <li><a href="{{ page.features }}">Features</a></li>
+                        {% endif %}
+                        {% if page.techspecs %}
+                        <li><a href="{{ page.techspecs }}">Tech Specs</a></li>
+                        {% endif %}
+                        {% if page.pricing %}
+                        <li><a href="{{ page.pricing }}">Pricing</a></li>
+                        {% endif %}
+                        {% if page.buynow %}
+                        <li><a href="{{ page.buynow }}">Buy Now</a></li>
+                        {% endif %}
+                    </ul>
+                </nav>
             {% if page.category == "news" %}
             <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
             {% endif %}
@@ -72,8 +73,6 @@
 			<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>			{% endif %}
           </div>
           
-          {% include side-latest.html %}
-
         </div>
       </div>
 
@@ -82,6 +81,14 @@
       {% include footer.html %}
 
     </div>
+
+    {% if page.class == "slipstream" %}
+    <script type="text/javascript">$("#menu_{{ page.class }} > a").addClass("current");</script>
+    {% elsif page.class == "nuvlabox"" %}
+    <script type="text/javascript">$("#menu_{{ page.class }} > a").addClass("current");</script>
+    {% else %}
+    <script type="text/javascript">$("#menu_{{ page.category }} > a").addClass("current");</script>
+    {% endif %}
 
   </body>
 </html>

@@ -1,6 +1,7 @@
 ---
 layout: plain
 title: Contact
+class: contact
 ---
 
 Need information? Give feedback? Get in touch!

@@ -35,7 +35,7 @@ img {
 
 .not_front_page #content {
 	width: 1002px;
-	margin: -5px 0px 25px 4px;
+	margin: -5px 0px 5px 4px;
 	padding-bottom: 12px;
 	background: transparent url(img/design/content_bg_bottom.png) no-repeat scroll left bottom;
 }
@@ -46,10 +46,13 @@ img {
 	background: transparent url(img/design/content_bg.png) repeat-y scroll left top;
 }
 
+.twothirdscolumn {
+    width: 650px;
+}
+
 .main {
+	padding: 35px 30px 30px 30px;
 	float: left;
-	width: 650px;
-	padding: 85px 26px 30px 30px;
 }
 
 .main h1 {
@@ -62,6 +65,32 @@ img {
 .main h1.list_title {
 	color: #545454;
 	font-size: 2.35em;
+}
+
+.main nav {
+    overflow: hidden;
+    border-bottom: 1px solid #e6e6e6;
+    padding=right: 25px;
+}
+
+.main nav h1 {
+    display: inline;
+    float: left;
+}
+
+.main nav ul {
+    display: inline;
+    float: right;
+}
+
+.main nav ul li {
+    display: inline;
+	list-style: none;
+	list-style-image: none;
+}
+
+.main nav ul li a {
+    margin-left:24px; 
 }
 
 .date {
@@ -127,9 +156,8 @@ img {
 	background: transparent url(img/design/menu_separator.png) no-repeat scroll right top;
 }
 
-.menu_bar ul li.home {
+.menu_bar ul line {
 	width: 76px;
-	margin-right: 90px;
 	background: transparent none repeat scroll 0px 0px;
 }
 
@@ -152,6 +180,7 @@ img {
 	background: transparent url(img/design/home.png) no-repeat scroll 30px center;
 }
 
+.menu_bar ul li a.current,
 .menu_bar ul li a.active,
 .menu_bar ul li a:hover {
 	background: transparent url(img/design/menu_active.png) repeat-x scroll left top;
@@ -257,9 +286,10 @@ img {
 
 /* Sidebar */
 .sidebar {
-	float: left;
-	width: 278px;
-	padding-top: 85px;
+    float: right;
+    width: 278px;
+    margin-top: 25px;
+    margin-right: 15px;
 }
 
 .front-section-title {
@@ -380,7 +410,6 @@ img {
 	float: left;
 	display: block;
 	height: 245px;
-	/*margin-bottom: 12px;*/
 }
 
 .front.products div {
@@ -389,6 +418,7 @@ img {
 
 .sidebar.products div {
 	width: 278px;
+	float: right;
 }
 
 .front.products .stratuslab {
@@ -606,6 +636,10 @@ img {
 	margin-top: 25px;
 }
 
+.article ul li p {
+    line-height: 18px;
+}
+
 /* Latest staffs */
 .front.latest {
 	float: left;
@@ -624,20 +658,6 @@ img {
 	margin-left: 2px;
 	padding: 62px 0px 0px 60px;
 	color: #9b9b9b;
-}
-
-.sidebar.latest > div {
-	position: relative;
-	display: block;
-	width: 223px;
-	height: 192px;
-	margin-bottom: 5px;
-	padding: 85px 25px 0px 30px;
-	color: #1a1a1a;
-}
-
-.sidebar.latest div.blog_entries {
-	padding-top: 101px;
 }
 
 .latest div h3,
