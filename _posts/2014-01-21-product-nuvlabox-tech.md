@@ -1,9 +1,9 @@
 ---
 layout: article
-title: NuvlaBox™
+title: NuvlaBox
 title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
 class: nuvlabox
-category: NuvlaBox™
+category: NuvlaBox
 parent: /products/nuvlabox.html
 permalink: /products/nuvlabox-tech.html
 image: /img/design/nuvlabox_category.png
@@ -11,7 +11,7 @@ features: /products/nuvlabox.html
 techspecs: /products/nuvlabox-tech.html
 ---
 
-In more detail, NuvlaBox™ provides the following features: 
+In more detail, NuvlaBox<sup>®</sup> provides the following features: 
 
 NuvlaBox™ can be used in two main modes:
 

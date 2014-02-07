@@ -5,7 +5,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 0.875em;/*14px*/
 	color: #232323;
-	background: #E2E2E2;/*#ffffff url(img/design/body.jpg) repeat-x scroll left top;*/
+	background: #E2E2E2;
 }
 
 /* Main content */
@@ -785,19 +785,20 @@ img {
 
 /* Footer */
 #footer {
-	float: left;
-	display: block;
-	width: 1008px;
-	height: 200px;
-	color: #9b9b9b;
-	background-color: #262626;
+    float: left;
+    display: block;
+    width: 942px;
+    color: #9b9b9b;
+    background-color: #262626;
+    padding: 20px 20px 40px 30px;
+    margin-left: 8px;
+    margin-right: 8px;
 }
 
 .footer_menu {
 	float: left;
 	width: 175px;
 	height: 170px;
-	padding: 30px 15px 0px 35px;
 	background: transparent url(img/design/footer_separator.jpg) no-repeat scroll right top;
 }
 
@@ -819,44 +820,45 @@ img {
 	color: #ca1212;
 }
 
-.adress_copyright {
+.address_copyright {
 	float: left;
 	width: 295px;
 	height: 170px;
-	padding: 30px 15px 0px 25px;
+	padding: 0px 25px 0px 25px;
 	font-size: 12px;
 	background: transparent url(img/design/footer_separator.jpg) no-repeat scroll right top;
 }
 
-.adress_copyright div {
+.address_copyright div {
 	line-height: 1.5;
 }
 
-.adress_copyright span {
-	font-size: 18px;
+.address_copyright span {
+	font-size: 14px;
 	font-weight: bold;
 }
 
-.adress_copyright .copyright {
+.address_copyright .copyright {
 	margin: 20px 0px 0px 0px;
 }
 
-.adress_copyright .design a {
-	color: #ffffff;
+.address_copyright .design a {
+	color: #EDEDED;
 }
 
 .contact_us {
 	float: left;
 	width: 190px;
 	height: 170px;
-	padding: 30px 35px 0px 25px;
+	padding: 0px 25px 0px 25px;
 	line-height: 1.5;
 	font-size: 12px;
+	background: transparent url(img/design/footer_separator.jpg) no-repeat scroll right top;
 }
 
 .contact_us span {
 	font-size: 14px;
-	color: #ffffff;
+	color: #EDEDED;
 }
 
 .contact_us .phone,
@@ -874,13 +876,13 @@ img {
 }
 
 .contact_us a {
-	color: #ffffff;
+	color: #EDEDED;
 }
 
 .follow_us {
 	float: left;
 	height: 170px;
-	padding: 30px 15px 0px 25px;
+	padding: 0px 25px 0px 25px;
 }
 
 .follow_us img {
