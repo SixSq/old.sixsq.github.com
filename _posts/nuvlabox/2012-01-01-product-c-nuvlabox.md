@@ -16,8 +16,8 @@ sub: overview
 ---
 
 <h1 class="slogan" align="center">
-Smallest and smartest cloud<p/>
-... plug and play at the office or at home.
+The cloud is now personal<p/>
+... driven by an open app store.
 </h1>
 
 <p align="center">
@@ -25,7 +25,7 @@ Smallest and smartest cloud<p/>
 </p>
 
 
-**NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
+**NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Coming Soon!
 ============

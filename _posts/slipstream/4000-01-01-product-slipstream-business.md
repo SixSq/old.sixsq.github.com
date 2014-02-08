@@ -16,7 +16,7 @@ sub: business
 Business Benefits
 =================
 
-Using SlipStream makes business sense. Here are few questions we provide answers to:
+Using SlipStream makes business sense. Here are problems we provide solutions for:
 
 * **Fed up with spending time configuring and installing applications?** SlipStream™ allows you to automate deployments thereby saving time and money.
 
