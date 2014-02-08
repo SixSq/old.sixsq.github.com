@@ -15,7 +15,7 @@
    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
-  {% include head.html %}
+   {% include head.html %}
   
   <body class="not_front_page">
 
@@ -32,17 +32,26 @@
                 <nav>
                     <h1 class="list_title">{{ page.title }}</h1>
                     <ul>
+                        {% if page.overview %}
+                        <li id="sub_overview"><a href="{{ page.overview }}">Overview</a></li>
+                        {% endif %}
                         {% if page.features %}
-                        <li><a href="{{ page.features }}">Features</a></li>
+                        <li id="sub_features"><a href="{{ page.features }}">Features</a></li>
+                        {% endif %}
+                        {% if page.business %}
+                        <li id="sub_business"><a href="{{ page.business }}">Business Benefits</a></li>
+                        {% endif %}
+                        {% if page.tryme %}
+                        <li id="sub_tryme"><a href="{{ page.tryme }}">Try Me</a></li>
                         {% endif %}
                         {% if page.techspecs %}
-                        <li><a href="{{ page.techspecs }}">Tech Specs</a></li>
+                        <li id="sub_techspecs"><a href="{{ page.techspecs }}">Tech Specs</a></li>
                         {% endif %}
                         {% if page.pricing %}
-                        <li><a href="{{ page.pricing }}">Pricing</a></li>
+                        <li id="sub_pricing"><a href="{{ page.pricing }}">Pricing</a></li>
                         {% endif %}
                         {% if page.buynow %}
-                        <li><a href="{{ page.buynow }}">Buy Now</a></li>
+                        <li id="sub_buynow"><a href="{{ page.buynow }}">Buy Now</a></li>
                         {% endif %}
                     </ul>
                 </nav>
@@ -76,18 +85,16 @@
         </div>
       </div>
 
-      {% include customers.html %}
-
       {% include footer.html %}
 
     </div>
 
     {% if page.class == "slipstream" %}
-    <script type="text/javascript">$("#menu_{{ page.class }} > a").addClass("current");</script>
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
     {% elsif page.class == "nuvlabox"" %}
-    <script type="text/javascript">$("#menu_{{ page.class }} > a").addClass("current");</script>
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
     {% else %}
-    <script type="text/javascript">$("#menu_{{ page.category }} > a").addClass("current");</script>
+    <script type="text/javascript">$("#menu_{{ page.category }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
     {% endif %}
 
   </body>

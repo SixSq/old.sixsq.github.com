@@ -1,27 +1,41 @@
 ---
 layout: article
-title: NuvlaBox™
+title: NuvlaBox
 title_gfx: /img/design/nuvlabox_logo.png
 class: nuvlabox
 category: products
 permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
-features: /products/nuvlabox.html
+overview: /products/nuvlabox.html
+features: /products/nuvlabox-features.html
+business: /products/nuvlabox-business.html
+buynow: /products/nuvlabox-buynow.html
 techspecs: /products/nuvlabox-tech.html
+pricing: /products/nuvlabox-pricing.html
+sub: overview
 ---
+
+<h1 class="slogan" align="center">
+Smallest and smartest cloud<p/>
+... plug and play at the office or at home.
+</h1>
 
 <p align="center">
     <img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" />
 </p>
 
-**NuvlaBox™: The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
+
+**NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
 
 Coming Soon!
 ============
 
-* **Zero config** means it's a child's play to use
 * The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
+
 * The **power of the cloud** at an **affordable price**
+
+* **Zero config** means it's a child's play to use
+
 * **240 GB of storage on a solid-state drive** providing high local read/write performance
 
 * Able to **replace up to 8 of your servers**, thereby **significantly reducing costs**
