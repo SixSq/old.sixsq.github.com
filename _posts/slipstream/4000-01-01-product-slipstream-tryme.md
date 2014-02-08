@@ -13,10 +13,10 @@ pricing: /products/slipstream-pricing.html
 sub: tryme
 ---
 
-Try SlipStream™ For Free
+Try SlipStream For Free
 ======
 
-Give SlipStream™ a try on our hosted service. The use of SlipStream™ is currently free of charge.  You only pay the cloud providers for the cloud resources you consume.
+Give SlipStream a try on our hosted service. The use of SlipStream is currently free of charge.  You only pay the cloud providers for the cloud resources you consume.
 
 <p align="center">
 	<a href="https://slipstream.sixsq.com">

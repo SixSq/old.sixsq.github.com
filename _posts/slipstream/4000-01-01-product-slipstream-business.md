@@ -16,7 +16,9 @@ sub: business
 Business Benefits
 =================
 
-* **Fed up with spending time configuring and installing applications?** SlipStream™ allows you to automate deployments thereby saving time and money
+Using SlipStream makes business sense. Here are few questions we provide answers to:
+
+* **Fed up with spending time configuring and installing applications?** SlipStream™ allows you to automate deployments thereby saving time and money.
 
 * **Need to improve your time to market, while reducing operational costs?** Use SlipStream™ as a solid foundation for your DevOps process.
 

@@ -1,6 +1,6 @@
 ---
 layout: article
-title: SlipStream™ &nbsp; Hosted &nbsp; Service &nbsp; (SaaS)
+title: SlipStream &nbsp; Hosted &nbsp; Service &nbsp; (SaaS)
 subtitle: Using the cloud has never been this easy! Single click your way to application deployment automation
 category: banner
 link: /products/slipstream.html
