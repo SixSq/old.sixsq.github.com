@@ -16,13 +16,9 @@ pricing: /products/slipstream-pricing.html
 sub: overview
 ---
 
-<h1 class="slogan" align="center">
-You get the power of the cloud<p></p>... we take away the complexity.
-</h1>
+<h1 class="slogan" align="center">You get the power of the cloud<p></p>... we take away the complexity.</h1>
 
-<p align="center">
-    <img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" />
-</p>
+<p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" /></p>
 
 **1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
 
@@ -31,9 +27,7 @@ All Clouds Supported
 
 SlipStream communicates with IaaS clouds services via a connector architecture. We now support all mainstream clouds.
 
-<p align="center">
-    <img src="/img/content/connectors.png" alt="SlipStream™ Supported Clouds" width="600" />
-</p>
+<p align="center"><img src="/img/content/connectors.png" alt="SlipStream™ Supported Clouds" width="600" /></p>
 
 This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, such that you can focus on your business.
 
