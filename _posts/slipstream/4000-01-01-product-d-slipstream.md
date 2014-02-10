@@ -44,7 +44,7 @@ SlipStream is an application deployment automation platform, built on the follow
 
 * **Real multi-cloud**: SlipStream supports all mainstream cloud solutions and more. Your recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently.
 
-* **No voodoo magic**: Everything is above board, with a simple yet rich set of functionality to create, share and use application deployments.
+* **No voodoo magic**: Everything is above board, with a simple yet rich set of functionalities to create, share and use application deployments.
 
 * **Freedom of choice**: SlipStream supports all mainstream IaaS cloud solutions, giving you the freedom to choose the right cloud solutions and providers to do the job
 

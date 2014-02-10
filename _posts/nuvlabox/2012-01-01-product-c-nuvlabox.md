@@ -24,45 +24,43 @@ The cloud is now personal<p/>
     <img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" />
 </p>
 
-
+**Now you can hold the cloud in your hand**
 **NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Key Principals
 ========
 
-* NuvlaBox is a turn key IaaS and PaaS cloud solution
-* Acces to cloud via Stratuslab, a European open source cloud. 
-* In a DevOps context NuvlaBox forms the workhorse of an automation strategy
-* Can be used as a local cloud or as a remote-controlled appliance, or both
-* Powered by SlipStream, applications can be installed and configured remotely, relieving the headache of frequent updates
-* Entirely built out of open source software
-* 240 GB of storage on a solid-state drive providing high local read/write performance
+* **Designed in Switzerland** and **built in Europe** 
 
+* The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
+
+* NuvlaBox is a turn key **IaaS** and **PaaS** cloud solution
+
+* Acces to cloud via Stratuslab, a European **open source** cloud. 
+
+* Can be used as a local cloud or as a remote-controlled appliance, or both
+
+* Powered by SlipStream, **applications can be installed and configured remotely**, relieving the headache of frequent updates
+
+* Entirely built out of open source software
+
+* **240 GB** of storage on a solid-state drive providing high local read/write performance
+
+* **Zero config** means it's a child's play to use
 
 Business Benefits
 ============
 
-<<<<<<< HEAD:_posts/2012-01-01-product-c-nuvlabox.md
-* **Cost savings** 
-=======
->>>>>>> a19589fe96db16cb56da5e095b71ba06a9a8d184:_posts/nuvlabox/2012-01-01-product-c-nuvlabox.md
-* The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
+* **Cost savings** Able to replace up to 8 of your servers, thereby significantly reducing costs
 
-* The **power of the cloud** at an **affordable price**
+* Perfect for SMEs wishing to access a small to medium-sized cloud: NuvlaBox™ offers an **affordable entry point** into private cloud computing
 
-* **Zero config** means it's a child's play to use
+* Ideal for larger enterprises wishing to federate smaller sites: NuvlaBox™ can be interconnected to maximise sharing and optimise resource utilisation.
 
-* **240 GB of storage on a solid-state drive** providing high local read/write performance
+* Focus on your core operations, while taking advantage of cloud technology: NuvlaBox™ is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
 
-* Able to **replace up to 8 of your servers**, thereby **significantly reducing costs**
+* Model solution for **franchise** networks
 
-* Powered by SlipStream™, **applications can be installed and configured remotely**, relieving the headache of frequent updates
-
-* **Designed in Switzerland** and **built in Europe** 
-
-* Entirely built out of **open source software**
-
-* Can be used as a **local cloud** or as a **remote controlled appliance**, or both.
 
 Watch this space!
 ============
