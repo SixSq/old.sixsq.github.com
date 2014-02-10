@@ -48,7 +48,7 @@ SlipStream is an application deployment automation platform, built on the follow
 
 * **Freedom of choice**: SlipStream supports all mainstream IaaS cloud solutions, giving you the freedom to choose the right cloud solutions and providers to do the job
 
-* **No modification to your application required**: SlipStream's simple script-based automation means that you can deploy any apps without any changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+* **No modification to your application required**: SlipStream's simple script-based automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
 
 * **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
 
