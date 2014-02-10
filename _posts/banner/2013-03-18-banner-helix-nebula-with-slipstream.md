@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Helix &nbsp; Nebula &nbsp; Chooses &nbsp; SlipStream
-subtitle: The Science Cloud starts its pilot phase with SlipStream to provision complex applications on multi-clouds 
+subtitle: The Science Cloud uses SlipStream to provision complex applications on multi-clouds 
 category: banner
 link: /products/slipstream.html
 ---
