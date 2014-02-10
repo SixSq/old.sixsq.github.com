@@ -33,6 +33,3 @@ Want to Know More?
 
 Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
 
-If you would like more in-depth technical information, [keep on reading](/products/slipstream-tech.html).
-
-
