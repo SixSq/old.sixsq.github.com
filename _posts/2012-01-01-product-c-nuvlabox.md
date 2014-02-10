@@ -16,10 +16,22 @@ techspecs: /products/nuvlabox-tech.html
 
 **NuvlaBox™: The power of the cloud as a remote controlled appliance packaged in a fanless PC** 
 
-Coming Soon!
+Key Principals
+========
+
+* NuvlaBox is a turn key IaaS and PaaS cloud solution
+* Acces to cloud via Stratuslab, a European open source cloud. 
+* In a DevOps context NuvlaBox forms the workhorse of an automation strategy
+* Can be used as a local cloud or as a remote-controlled appliance, or both
+* Powered by SlipStream, applications can be installed and configured remotely, relieving the headache of frequent updates
+* Entirely built out of open source software
+* 240 GB of storage on a solid-state drive providing high local read/write performance
+
+
+Business Benefits
 ============
 
-* **Zero config** means it's a child's play to use
+* **Cost savings** 
 * The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
 * The **power of the cloud** at an **affordable price**
 * **240 GB of storage on a solid-state drive** providing high local read/write performance
