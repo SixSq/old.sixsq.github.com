@@ -33,7 +33,7 @@ SixSq will help you:
 Process Automation Consultancy
 ==============================
 
-Using [SlipStream™](/products/slipstream.html) is straightforward. But its full benefit comes when
+Using [SlipStream](/products/slipstream.html) is straightforward. But its full benefit comes when
 integrated into the overall product and/or service chain of its users.
 
 We provide consultancy in the form of simple and practical advice, as well as recipes (i.e. installation,
