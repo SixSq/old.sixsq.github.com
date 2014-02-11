@@ -22,15 +22,6 @@ sub: overview
 
 **1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
 
-All Clouds Supported
-========
-
-SlipStream communicates with IaaS clouds services via a connector architecture. We now support all mainstream clouds.
-
-<p align="center"><img src="/img/content/connectors.png" alt="SlipStream™ Supported Clouds" width="600" /></p>
-
-This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, such that you can focus on your business.
-
 Key Principals
 =========
 
@@ -47,6 +38,15 @@ SlipStream is an application deployment automation platform, built on the follow
 * **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
 
 * **Built-in version control**: All key artefacts in the system are version controlled, ensuring nothing is ever lost.
+
+All Clouds Supported
+========
+
+SlipStream communicates with IaaS clouds services via a connector architecture. We now support all mainstream clouds.
+
+<p align="center"><img src="/img/content/connectors.png" alt="SlipStream™ Supported Clouds" width="600" /></p>
+
+This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, such that you can focus on your business.
 
 Want to Know More?
 ====

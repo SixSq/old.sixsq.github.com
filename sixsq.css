@@ -175,9 +175,9 @@ img {
 
 .menu_bar ul li.home a {
 	width: 76px;
-	height: 43px;
+	height: 42px;
 	padding: 0px;
-	background: transparent url(img/design/home.png) no-repeat scroll 30px center;
+	background: transparent url(img/design/home.png) no-repeat scroll 25px center;
 }
 
 .menu_bar ul li a.current,
@@ -188,7 +188,7 @@ img {
 
 .menu_bar ul li.home a.active,
 .menu_bar ul li.home a:hover {
-	background: transparent url(img/design/home.png) no-repeat scroll 30px center;
+	background: transparent url(img/design/home.png) no-repeat scroll 25px center;
 }
 
 nav a.current {
@@ -917,7 +917,7 @@ h1.slogan {
 #pricing-table .plan {
 	font: 12px 'Lucida Sans', 'trebuchet MS', Arial, Helvetica;
 	text-shadow: 0 1px rgba(255,255,255,.8);        
-	background: #fff;      
+	background: #fff;
 	border: 1px solid #ddd;
 	color: #333;
 	padding: 20px;
@@ -965,6 +965,22 @@ h1.slogan {
 	background-image: -o-linear-gradient(#fff, #eee);
 	background-image: -ms-linear-gradient(#fff, #eee);
 	background-image: linear-gradient(#fff, #eee);
+}
+
+#pricing-table h3.soon {
+	font-size: 20px;
+	font-weight: normal;
+	padding: 20px;
+	margin: -20px -20px 50px -20px;
+	background-color: #eee;
+	background-image: url(img/design/soon_label.png), -moz-linear-gradient(#fff,#eee);
+	background-image: url(img/design/soon_label.png), -webkit-gradient(linear, left top, left bottom, from(#fff), to(#eee));    
+	background-image: url(img/design/soon_label.png), -webkit-linear-gradient(#fff, #eee);
+	background-image: url(img/design/soon_label.png), -o-linear-gradient(#fff, #eee);
+	background-image: url(img/design/soon_label.png), -ms-linear-gradient(#fff, #eee);
+	background-image: url(img/design/soon_label.png), linear-gradient(#fff, #eee);
+	background-repeat: no-repeat, repeat;
+	background-position: top right, 0 0;
 }
 
 #pricing-table #most-popular h3 {
@@ -1079,7 +1095,16 @@ h1.slogan {
 	box-shadow: 0 0 3px rgba(0, 0, 0, .7) inset; 
 }
 
-.soon {
-	background: transparent url(img/design/soon_label.png) no-repeat scroll left top !important;
+.create-account {
+    background: url(img/design/button_create_account_idle.png) no-repeat center center;
+    border:none;
+    width: 200px;
+    height: 40px;
+    margin-left: -9px;
+    margin-right: 0px;
 }
 
+.create-account:hover {
+    background: url(img/design/button_create_account_hover.png) no-repeat center center;
+    cursor: pointer;
+}
