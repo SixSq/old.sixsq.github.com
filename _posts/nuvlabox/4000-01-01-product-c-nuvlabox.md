@@ -15,9 +15,7 @@ pricing: /products/nuvlabox-pricing.html
 sub: overview
 ---
 
-<p/>
-
-<h1 class="slogan" align="center">The cloud is now personal<p/>... driven by an open app store.</h1>
+<h1 class="slogan" align="center">The cloud is now personal<p></p>... driven by an open app store.</h1>
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
