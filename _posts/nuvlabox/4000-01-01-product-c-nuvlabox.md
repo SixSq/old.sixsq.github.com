@@ -46,20 +46,6 @@ Key Principals
 
 * **Zero config** means it's a child's play to use
 
-Business Benefits
-============
-
-* **Cost savings** Able to replace up to 8 of your servers, thereby significantly reducing costs
-
-* Perfect for SMEs wishing to access a small to medium-sized cloud: NuvlaBox™ offers an **affordable entry point** into private cloud computing
-
-* Ideal for larger enterprises wishing to federate smaller sites: NuvlaBox™ can be interconnected to maximise sharing and optimise resource utilisation.
-
-* Focus on your core operations, while taking advantage of cloud technology: NuvlaBox™ is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
-
-* Model solution for **franchise** networks
-
-
 Watch this space!
 ============
 
