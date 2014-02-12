@@ -9,7 +9,6 @@ image: /img/design/nuvlabox_category.png
 overview: /products/nuvlabox.html
 features: /products/nuvlabox-features.html
 business: /products/nuvlabox-business.html
-buynow: /products/nuvlabox-buynow.html
 techspecs: /products/nuvlabox-tech.html
 pricing: /products/nuvlabox-pricing.html
 sub: overview
