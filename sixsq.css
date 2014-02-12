@@ -188,7 +188,7 @@ img {
 
 .menu_bar ul li.home a.active,
 .menu_bar ul li.home a:hover {
-	background: transparent url(img/design/home.png) no-repeat scroll 25px center;
+	background: transparent url(img/design/home_hover.png) no-repeat scroll 25px center;
 }
 
 nav a.current {
