@@ -20,13 +20,13 @@ Using SlipStream makes business sense. Here are some of the benefits it can brin
 
 * **Financial benefits:** SlipStream allows you to automate deployments thereby reducing time spent on configuring and installing applications
 
-* **Reduced time to market** Use SlipStream as a solid foundation for your DevOps process.
+* **Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
 
-* **Reduced operational costs** 
+* **Reduced operational costs:** Redeploy your engineering skills to more innovative and creative tasks.
 
-* **Simplified configuration and installation of your software** Use SlipStream as your Enterprise Open App Store™.
+* **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store™.
 
-* **Independence** SlipStream deployments are cloud agnostic, allowing you to stay independent from the cloud to which you deploy. It supports all popular clouds.
+* **Independence:** SlipStream deployments are cloud agnostic, allowing you to stay independent from the cloud to which you deploy. It supports all popular clouds.
 
 Want to Know More?
 ====
