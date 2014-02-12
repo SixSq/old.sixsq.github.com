@@ -14,11 +14,11 @@ pricing: /products/nuvlabox-pricing.html
 sub: overview
 ---
 
-<h1 class="slogan" align="center">The cloud is now personal<p></p>... driven by an open app store.</h1>
+<p/>
+
+<h1 class="slogan" align="center">The cloud is now personal<p/>... driven by an open app store.</h1>
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
-
-**Now you can hold the cloud in your hand**
 
 **NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
