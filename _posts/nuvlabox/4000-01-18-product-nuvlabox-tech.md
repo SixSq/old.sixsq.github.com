@@ -1,15 +1,12 @@
 ---
 layout: article
 title: NuvlaBox
-title_gfx: /img/design/nuvlabox_logo_transparent_medium.png
 class: nuvlabox
 category: NuvlaBox
-parent: /products/nuvlabox.html
 permalink: /products/nuvlabox-tech.html
 overview: /products/nuvlabox.html
 features: /products/nuvlabox-features.html
 business: /products/nuvlabox-business.html
-buynow: /products/nuvlabox-buynow.html
 techspecs: /products/nuvlabox-tech.html
 pricing: /products/nuvlabox-pricing.html
 sub: techspecs

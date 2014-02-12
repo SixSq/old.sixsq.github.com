@@ -2,12 +2,11 @@
 layout: article
 title: NuvlaBox
 class: nuvlabox
-permalink: /products/nuvlabox-features.html
 image: /img/design/nuvlabox_category.png
+permalink: /products/nuvlabox-features.html
 overview: /products/nuvlabox.html
 features: /products/nuvlabox-features.html
 business: /products/nuvlabox-business.html
-tryme: /products/nuvlabox-tryme.html
 techspecs: /products/nuvlabox-tech.html
 pricing: /products/nuvlabox-pricing.html
 sub: features
