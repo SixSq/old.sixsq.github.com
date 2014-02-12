@@ -6,6 +6,8 @@ title: Help
 Need information? Give feedback? Get in touch!
 -----------
 
+![SixSq logo](img/design/sixsq_logo_128px.png)
+
 **Phone**  
 Info: +41 77 44 68 119  
 Support: +41 22 57 52 229

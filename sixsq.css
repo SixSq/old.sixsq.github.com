@@ -809,6 +809,17 @@ pre {
 	color: #ca1212;
 }
 
+.footer_logo img {
+  background: transparent;
+    float: left;
+    padding-top: 4px;
+    margin: 0px 8px 0px 0px;
+}
+
+.footer_logo img:hover {
+  background: url(img/design/sixsq_logo_46px.png) no-repeat center top 4px;
+}
+
 .adress_copyright {
 	float: left;
 	width: 295px;
