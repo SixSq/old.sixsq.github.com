@@ -4,6 +4,7 @@ title: NuvlaBox
 title_gfx: /img/design/nuvlabox_logo.png
 class: nuvlabox
 category: products
+summary: "NuvlaBox: the power of the cloud as a remote controlled appliance packaged in a fanless PC."
 permalink: /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 overview: /products/nuvlabox.html
