@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: contact
 title: Contact
 class: contact
 ---
