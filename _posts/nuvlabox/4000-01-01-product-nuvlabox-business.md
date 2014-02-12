@@ -1,14 +1,12 @@
-
 ---
 layout: article
-title: nuvlabox
+title: NuvlaBox
 class: nuvlabox
 category: nuvlabox
 permalink: /products/nuvlabox-business.html
 overview: /products/nuvlabox.html
 features: /products/nuvlabox-features.html
 business: /products/nuvlabox-business.html
-tryme: /products/nuvlabox-tryme.html
 techspecs: /products/nuvlabox-tech.html
 pricing: /products/nuvlabox-pricing.html
 sub: business

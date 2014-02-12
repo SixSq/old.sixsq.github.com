@@ -21,8 +21,6 @@ sub: overview
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
-**Now you can hold the cloud in your hand**
-
 **NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Key Principals
