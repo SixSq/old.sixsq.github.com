@@ -827,12 +827,12 @@ nav a.current {
 .footer_logo img {
   background: transparent;
     float: left;
-    padding-top: 4px;
+    padding-top: 2px;
     margin: 0px 8px 0px 0px;
 }
 
 .footer_logo img:hover {
-  background: url(img/design/sixsq_logo_46px.png) no-repeat center top 4px;
+  background: url(img/design/sixsq_logo_52px.png) no-repeat center top 2px;
 }
 
 .adress_copyright {
