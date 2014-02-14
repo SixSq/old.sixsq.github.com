@@ -29,9 +29,9 @@ In more detail, the NuvlaBox provides the following features:
 
 * **Full Power of the cloud**: NuvlaBox includes a complete Infrastructure as a Service (IaaS) solution, powered by the [StratusLab](/products/stratuslab.html), and a Platform as a Service (PaaS), powered by [SlipStream](/products/slipstream.html). This means that NuvlaBox makes no compromises on cloud capabilities. It's batteries included, from virtual machine lifecycle management, all the way to application deployment and configuration.
 
-* **Take advantage of the power of an App Store**: You choose your store (local or SixSq Enterprise Open App Store), NuvlaBox deploys. This means applications and virtual machines are provisioned in 1-click, from a catalog of pre-defined blueprints. Blueprints can be provided by you, SixSq or any third party vendor.
+* **Take advantage of the power of an App Store**: You choose your store (local or SixSq Enterprise Open App Store™), NuvlaBox deploys. This means applications and virtual machines are provisioned in 1-click, from a catalog of pre-defined blueprints. Blueprints can be provided by you, SixSq or any third party vendor.
 
-* **Remote control your box**: NuvlaBox can be remotely controlled from the SixSq Enterprise Open App Store.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature even works if the NuvlaBox is connected to the network via a private IP.
+* **Remote control your box**: NuvlaBox can be remotely controlled from the SixSq Enterprise Open App Store™.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature even works if the NuvlaBox is connected to the network via a private IP.
 
 * **Build entirely from open source software**: NuvlaBox is entirely build from open source software, including the CentOS base operating system, [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) solutions. 
 
