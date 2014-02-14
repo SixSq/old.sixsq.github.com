@@ -14,7 +14,7 @@ sub: pricing
 
 <h1>Pricing</h1>
 
-We will soon accept pre-orders for the NuvlaBox. Once we have confirmation if the delivery schedule from our fanufacturing, you will be able to place a pre-order. From the moment of the pre-order, we will commit to a delivery date. Stay tuned and thank you for you interest in this novel and exciting new product. 
+We are now accepting pre-orders for the NuvlaBox. From the moment of the pre-order, we will commit to a delivery date. Stay tuned and thank you for you interest in this novel and exciting new product. 
 
 <div id="pricing-table" class="clear" style="margin-left: 340px; margin-right: 340px;">
     <div class="plan">
