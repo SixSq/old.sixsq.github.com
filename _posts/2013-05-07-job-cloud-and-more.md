@@ -7,8 +7,7 @@ image: /img/design/training_coaching_category.png
 
 There is an opening with SixSq to join the Geneva team working on our core open source
 cloud technologies
-([SlipStream \\
-](/products/slipstream.html) and [StratusLab](/products/stratuslab.html)), as well
+([SlipStream™](/products/slipstream.html) and [StratusLab](/products/stratuslab.html)), as well
 as special projects (e.g. cloud deployments, distributed systems, integration projects).
 
 This position is of unlimited duration, once the initial probation period is passed.  The candidate must be a Swiss or European citizen, or have a valid Swiss working permit. For European citizens not currently holding a

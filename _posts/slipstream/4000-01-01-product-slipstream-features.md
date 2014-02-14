@@ -18,14 +18,11 @@ Features
 
 In more detail, SlipStream provides the following features: 
 
-* **Multi-machine Provisioning System**: SlipStream allows users to define and execute deployments, based on high-level recipes, independently from the cloud on which the recipes will be applied.  Deployments include coordination and orchestration of virtual machines, including ordering and synchronisation of services. Figure 1 shows a screenshot of the SlipStream \\
- control dashboard of a multi-machine deployment.
+* **Multi-machine Provisioning System**: SlipStream allows users to define and execute deployments, based on high-level recipes, independently from the cloud on which the recipes will be applied.  Deployments include coordination and orchestration of virtual machines, including ordering and synchronisation of services. Figure 1 shows a screenshot of the SlipStream™ control dashboard of a multi-machine deployment.
 
   For example, users can deploy, in a single action, on-demand, entire mutli-tier software systems. With SlipStream, this operation takes a few minutes, often compared to hours if not days using custom solutions. 
 
-* **Multi-cloud Provisioning**: SlipStream supports multi-cloud deployments. This means users have the choice of a number of cloud service providers and technologies (public and/or private) when deploying virtual machines, from within the same SlipStream service. Furthermore, users can choose to deploy different parts of a deployment on different cloud services or regions, such that redundant and resilient behaviour is reached.  Figure 2 shows a screenshot of the SlipStream \\
- control dashboard of a multi-cloud deployment.  SlipStream \\
- supports different clouds using a connector design.  The available connectors are listed in Table 1.
+* **Multi-cloud Provisioning**: SlipStream supports multi-cloud deployments. This means users have the choice of a number of cloud service providers and technologies (public and/or private) when deploying virtual machines, from within the same SlipStream service. Furthermore, users can choose to deploy different parts of a deployment on different cloud services or regions, such that redundant and resilient behaviour is reached.  Figure 2 shows a screenshot of the SlipStream™ control dashboard of a multi-cloud deployment.  SlipStream™ supports different clouds using a connector design.  The available connectors are listed in Table 1.
 
   To illustrate, users can deploy applications (e.g. computing clusters, load balanced applications, multi-media processing pipelines) across several cloud providers, in order to improve data proximity & resilience, while reducing costs.
 

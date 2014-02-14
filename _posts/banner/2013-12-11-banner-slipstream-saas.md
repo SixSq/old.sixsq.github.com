@@ -6,5 +6,4 @@ category: banner
 link: /products/slipstream.html
 ---
 
-SixSq released SlipStream \\
- v2 as a hosted service (SaaS). Connected to Amazon EC2 and Exoscale. Find a wealth of tutorials and examples showing how to automate application deployment in the cloud.
+SixSq released SlipStream™ v2 as a hosted service (SaaS). Connected to Amazon EC2 and Exoscale. Find a wealth of tutorials and examples showing how to automate application deployment in the cloud.
