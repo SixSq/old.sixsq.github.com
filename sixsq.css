@@ -825,14 +825,44 @@ nav a.current {
 }
 
 .footer_logo img {
-  background: transparent;
+  	background: transparent;
     float: left;
     padding-top: 2px;
     margin: 0px 8px 0px 0px;
 }
 
 .footer_logo img:hover {
-  background: url(img/design/sixsq_logo_52px.png) no-repeat center top 2px;
+  	background: url(img/design/sixsq_logo_52px.png) no-repeat center top 2px;
+}
+
+#footer_logo_twitter {
+   height: 64px;
+   width: 64px;
+   display: inline-block;
+   background-image: url(img/design/twitter_logo_white_on_transparent_48px.png);
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+#footer_logo_twitter:hover {
+    background-image: url(img/design/twitter_logo_blue_on_transparent_48px.png);
+ 	background-repeat: no-repeat;
+	background-position: center;
+}
+
+#footer_logo_googleplus {
+   height: 64px;
+   width: 64px;
+   display: inline-block;
+   background-image: url(img/design/googleplus_logo_transparent_on_white_48px.png);
+   background-repeat: no-repeat;
+   background-position: center;
+}
+
+#footer_logo_googleplus:hover {
+    background-image: url(img/design/googleplus_logo_white_on_red_48px.png);
+ 	background-repeat: no-repeat;
+	background-position: center;
 }
 
 .adress_copyright {
