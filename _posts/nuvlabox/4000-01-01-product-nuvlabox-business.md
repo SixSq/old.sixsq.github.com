@@ -23,9 +23,9 @@ Using the NuvlaBox makes business sense. Here are some of the benefits it can br
 
 * **Perfect for SMEs wishing to access a small to medium-sized cloud** NuvlaBox offers an **affordable entry point** into private cloud computing
 
-* **Ideal for larger enterprises wishing to federate smaller sites.** NuvlaBox™ can be interconnected to maximise sharing and optimise resource utilisation.
+* **Ideal for larger enterprises wishing to federate smaller sites.** NuvlaBox can be interconnected to maximise sharing and optimise resource utilisation.
 
-* **Focus on your core operations, while taking advantage of cloud technology.** NuvlaBox™ is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
+* **Focus on your core operations, while taking advantage of cloud technology.** NuvlaBox is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
 
 * Model solution for **franchise** networks
 

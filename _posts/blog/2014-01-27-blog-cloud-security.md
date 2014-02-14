@@ -18,13 +18,13 @@ Following on from my [last post](/blog/2014/01/20/blog-see-through-cloud-intro.h
 * **When you sign up to your cloud provider, make sure you read those terms and conditions no one reads** at least the section regarding security.  Are you happy with their guarantees?  If not, choose another cloud provider.  And remember that Amazon and Google are not the only stores in town.
 * **A private cloud is managed solely for your organisation and could provide a higher level of security**. Watch for more on that in a later blog.
 
-* **Consider a local cloud**, such as the [NuvlaBox™](/products/nuvlabox.html), then your data is stored at your location, giving full control, but also implies responsibility.
+* **Consider a local cloud**, such as the [NuvlaBox](/products/nuvlabox.html), then your data is stored at your location, giving full control, but also implies responsibility.
 
 **At the application level:**
 
 * **You can’t blame the cloud provider for the security of the applications you deploy there**. Check security at that level too. 
 
-* **An application like [SlipStream™](/products/slipstream.html) can help**. SlipStream™ deploys applications automatically, in 1-click, removing any pilot error in the process.  You can even include post-deployment tests to ensure everything is working correctly before you switch the light on.
+* **An application like [SlipStream](/products/slipstream.html) can help**. SlipStream deploys applications automatically, in 1-click, removing any pilot error in the process.  You can even include post-deployment tests to ensure everything is working correctly before you switch the light on.
 
 An additional advantage is that your data is backed up off-site so you don’t have to worry about making additional provision for that yourself.
 

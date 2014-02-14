@@ -40,7 +40,7 @@ We provide consultancy in the form of simple and practical advice, as well as re
 configuration and coordination), to accelerate the integration of our technology into existing or new  infrastructure and tools.
 
 A standard process automation pattern is a **DevOps style delivery pipeline**.  SixSq can help customers
-put this pipeline in place, using tooling (such as SlipStream™) and agile processes.
+put this pipeline in place, using tooling (such as SlipStream) and agile processes.
 
 
 Custom Software Development

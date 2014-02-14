@@ -188,7 +188,7 @@ img {
 
 .menu_bar ul li.home a.active,
 .menu_bar ul li.home a:hover {
-	background: transparent url(img/design/home_hover.png) no-repeat scroll 25px center;
+	background: transparent url(img/design/home.png) no-repeat scroll 25px center;
 }
 
 nav a.current {
@@ -1147,5 +1147,10 @@ h1.slogan {
 
 .create-account:hover {
     background: url(img/design/button_create_account_hover.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.create-account:active {
+    background: url(img/design/button_create_account_pressed.png) no-repeat center center;
     cursor: pointer;
 }

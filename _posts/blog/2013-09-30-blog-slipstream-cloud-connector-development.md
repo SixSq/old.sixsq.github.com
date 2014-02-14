@@ -1,17 +1,17 @@
 ---
 layout: article
-title: Development of Cloud connector for SlipStream™
+title: Development of Cloud connector for SlipStream
 category: blog
 image: /img/design/slipstream_category.png
 author: Konstantin Skaburskas
 comments: true
 ---
 
-[SlipStream™][SS] offers a plugable model for the development of the cloud 
+[SlipStream][SS] offers a plugable model for the development of the cloud 
 connectors.
 
 Third-party cloud connectors can be developed outside of the 
-SlipStream™ core, by inheriting from its core base classes, and dynamically
+SlipStream core, by inheriting from its core base classes, and dynamically
 loaded at runtime.
 
 A *connector* consists of two parts: *server side* (Java) and *client side* (Python).  
@@ -19,8 +19,8 @@ The main job of the Java connector is to deploy the *Orchestrator* VM, get infor
 about running cloud instances and terminate the running deployments.  The Python 
 connector is used by the Orchestrator VM to provision the requested deployment.
 
-For more technical details on how SlipStream™ works please see 
-[SlipStream™ technical information][SStech].
+For more technical details on how SlipStream works please see 
+[SlipStream technical information][SStech].
 
 ## Development project and notes on deployment
 
@@ -61,19 +61,19 @@ project structure.
 
 To get started clone the following git repositories:
 
-    # SlipStream™ Example Cloud connector
+    # SlipStream Example Cloud connector
     git clone https://github.com/slipstream/SlipStreamConnector-Example.git
 
-    # SlipStream™ Server
+    # SlipStream Server
     git clone https://github.com/slipstream/SlipStreamServer.git
 
-    # SlipStream™ Client
+    # SlipStream Client
     git clone https://github.com/slipstream/SlipStreamClient.git
 
 In your IDE for the `SlipStreamConnector-Example` project set up project level 
 dependencies on `SlipStreamServer` and `SlipStreamClient`.
 
-You will need to add the following SlipStream™ Maven repositories that contain 
+You will need to add the following SlipStream Maven repositories that contain 
 some required artifacts into your `~/.m2/settings.xml` 
 
     <profile>
@@ -114,12 +114,12 @@ To verify that you can successfully build the example project change to
     mvn clean verify
 
 After the connector is developed, both its parts -- server as .jar(s) and client 
-as tarball -- should be installed on the SlipStream™ server.  The Java connector 
+as tarball -- should be installed on the SlipStream server.  The Java connector 
 should be made available in the class path of the server and the connector's 
-entry point (main class) configured in the SlipStream™'s system parameters.  
+entry point (main class) configured in the SlipStream's system parameters.  
 After the connector gets loaded by the server the *System/User/Image* 
 configuration parameters from the connector implementation will become available 
-in the respective SlipStream™ modules.  In turn, the tarball with the Python 
+in the respective SlipStream modules.  In turn, the tarball with the Python 
 client connector must be placed into a predefined location and the tarball's file 
 name configured in the connector's system parameters.  More on this in details in 
 the **Packaging**, **Installation** and **Configuration** sections.
@@ -226,7 +226,7 @@ the `python/pom.xml`, so that it can later be referred to from e.g.
 
 ### Server part
 
-The SlipStream™ server runs under Jetty.  The connector jars (connector jar and its 
+The SlipStream server runs under Jetty.  The connector jars (connector jar and its 
 dependencies) must be installed into `/opt/slipstream/server/lib/ext/<connector_name>/`
 
 Unfortunately, due to a bug in the Jetty version that is used at the moment the 
@@ -263,7 +263,7 @@ Connectors are configured in two steps.
 
 ### Loading the Connector
 
-First, we need to point SlipStream™ to the connector we want loading. This is why we had to 
+First, we need to point SlipStream to the connector we want loading. This is why we had to 
 make sure in the **Installation** that the jar with the connector class is in the 
 class path of the server.  This is done by adding the 
 canonical java class name of the connector to `SlipStream Basic -> Cloud 
@@ -301,7 +301,7 @@ Please note the following regarding `URL with the cloud client specific connecto
 parameter. The Python cloud client connector tarball (which gets installed under 
 `/opt/slipstream/downloads/`) should be configured as `https://<IP>/downloads/<tarball-file.tgz>`.  
 The usage of `IP` is preferable here to remove the necessity for forward lookups 
-of the SlipStream™ server when bootstrapping the deployment orchestration 
+of the SlipStream server when bootstrapping the deployment orchestration 
 process on the Orchestrator VM. 
 
 After the connector system parameters are specified, the connector is ready to be 
@@ -310,8 +310,8 @@ sections named after the connector and exposing parameters defined in
 `ExampleUserParametersFactory.java` and `ExampleImageParametersFactory.java` 
 respectively.
 
-[SS]: /products/slipstream.html "SlipStream™"
-[SStech]: /products/slipstream.html#for_techies_how_does_it_work "SlipStream™ technical info"
+[SS]: /products/slipstream.html "SlipStream"
+[SStech]: /products/slipstream.html#for_techies_how_does_it_work "SlipStream technical info"
 [mvn_assembly]: http://maven.apache.org/plugins/maven-assembly-plugin/ "Maven Assembly Plugin"
 [mvn_rpm]: http://mojo.codehaus.org/rpm-maven-plugin/ "RPM Maven Plugin"
 [example_project]: https://github.com/slipstream/SlipStreamConnector-Example "Example project on GitHub"
@@ -319,6 +319,6 @@ respectively.
 [SLpython]: https://github.com/slipstream/SlipStreamClient/tree/master/client/src/main/python/slipstream/cloudconnectors/stratuslab "StratusLab connector Python"
 [OSjava]: https://github.com/slipstream/SlipStreamServer/tree/master/jar/src/main/java/com/sixsq/slipstream/connector/openstack "OpenStack connector Java"
 [OSpython]: https://github.com/slipstream/SlipStreamClient/tree/master/client/src/main/python/slipstream/cloudconnectors/openstack "OpenStack connector Python"
-[SSParent]: https://github.com/slipstream/SlipStreamParent "SlipStream™ Parent project"
+[SSParent]: https://github.com/slipstream/SlipStreamParent "SlipStream Parent project"
 [jclouds]: http://jclouds.incubator.apache.org "Jclouds"
 [libcloud]: http://libcloud.apache.org/ "Apache Libcloud"
