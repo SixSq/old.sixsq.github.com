@@ -28,7 +28,7 @@ Key Principals
 
 * **Designed in Switzerland** and **built in Europe** 
 
-* The NuvlaBox™ is a **local cloud solution** for small to medium-sized enterprises and home use
+* The NuvlaBox is a **local cloud solution** for small to medium-sized enterprises and home use
 
 * NuvlaBox is a turn key **IaaS** and **PaaS** cloud solution
 
@@ -47,7 +47,7 @@ Key Principals
 Watch this space!
 ============
 
-NuvlaBox™ will be launched at the [Mobile World Congress](http://www.mobileworldcongress.com)
+NuvlaBox will be launched at the [Mobile World Congress](http://www.mobileworldcongress.com)
 in Barcelona, 24-27 February 2014.
 
 Want to Know More?

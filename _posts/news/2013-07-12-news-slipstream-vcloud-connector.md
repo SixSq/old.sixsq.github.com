@@ -5,7 +5,7 @@ image: /img/design/slipstream_category.png
 category: news
 ---
 
-SixSq just released a new [SlipStream™](/products/slipstream.html) connector to [VMWare's](http://www.vmware.com) [vCloud](http://www.vmware.com/products/datacenter-virtualization/vcloud-suite/overview.html) IaaS solution. This connector allows SlipStream™ users to deploy, configure and coordinate parameterised deployments of multi-VM applications on VMWare's enterprise solution, as well as automate the creation of new machine images.
+SixSq just released a new [SlipStream](/products/slipstream.html) connector to [VMWare's](http://www.vmware.com) [vCloud](http://www.vmware.com/products/datacenter-virtualization/vcloud-suite/overview.html) IaaS solution. This connector allows SlipStream users to deploy, configure and coordinate parameterised deployments of multi-VM applications on VMWare's enterprise solution, as well as automate the creation of new machine images.
 
 This latest connector adds to an already rich set including OpenStack, StratusLab, OpenNebula, Abiquo, Amazon EC2 and CloudSigma. With this new capability, SixSq increases the neutral zone it offers to its customers with respect to abstracting them from specific IaaS solutions.
 
@@ -17,6 +17,6 @@ This connector has been validated jointly with [T-Systems](http://www.t-systems.
 
 This new connector is released under a proprietary license and is compatible with the open source core SlipStream server.
 
-More information on [SlipStream™](http://sixsq.com/products/slipstream.html) is available. 
+More information on [SlipStream](http://sixsq.com/products/slipstream.html) is available. 
 
 For more details on this news please [contact SixSq](mailto:info@sixsq.com).

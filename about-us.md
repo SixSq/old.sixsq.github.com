@@ -15,13 +15,13 @@ Amazon
 
 ![Amazon Solution Provider](/img/content/AWS_SolutionProvider_logo_RGB_Trans.png "Amazon Solution Provider")
 
-SixSq is a registered Amazon Solution Provider, with a dedicated [SlipStream service](https://slipstream.sixsq.com) configured to deploy on Amazon's EC2 service.  This means you can use SlipStream™'s simplicity and automation features to take advantage of Amazon's public cloud.
+SixSq is a registered Amazon Solution Provider, with a dedicated [SlipStream service](https://slipstream.sixsq.com) configured to deploy on Amazon's EC2 service.  This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.
 
 
 IBM Partner World Member
 ------
 
-SixSq is member of the [IBM Partner World](http://www.ibm.com/partnerworld) program. We have certified [SlipStream™](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.
+SixSq is member of the [IBM Partner World](http://www.ibm.com/partnerworld) program. We have certified [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.
 
 
 Helix Nebula - The Science Cloud
