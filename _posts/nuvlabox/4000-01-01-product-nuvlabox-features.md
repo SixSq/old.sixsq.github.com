@@ -17,6 +17,26 @@ Features
 
 In more detail, the NuvlaBox provides the following features: 
 
+* **Private Cloud turnkey cloud solution for small to medium-sized enterprises**. NuvlaBox is about the size of a modem and comes pre-configured making it simple to use.
+
+* **Run up to 8 virtual machines on the NuvlaBox**. No need for a farm of server, with different maintenance contracts and headaches. You size your virtual machines and deploy applications, without needing to procure new hardware. If you run out of resources on the NuvlaBox, simply stack NuvlaBoxes together, as a single unit.
+
+* **Security built in.** NuvlaBox is secure, from design to manufacturing, including software and hardware.
+
+* **Preconfigured with standard operating systems.** NuvlaBox comes with a library of standard operating system images, including different flavours of Linux and Windows.
+
+* **Zero Configuration**: NuvlaBox is a turn-key solution. You plug it in, power it up and you are good to go.
+
+* **Full Power of the cloud**: NuvlaBox includes a complete Infrastructure as a Service (IaaS) solution, powered by the [StratusLab](/products/stratuslab.html), and a Platform as a Service (PaaS), powered by [SlipStream](/products/slipstream.html). This means that NuvlaBox makes no compromises on cloud capabilities. It's batteries included, from virtual machine lifecycle management, all the way to application deployment and configuration.
+
+* **Take advantage of the power of an App Store**: You choose your store (local or SixSq Enterprise Open App Store), NuvlaBox deploys. This means applications and virtual machines are provisioned in 1-click, from a catalog of pre-defined blueprints. Blueprints can be provided by you, SixSq or any third party vendor.
+
+* **Remote control your box**: NuvlaBox can be remotely controlled from the SixSq Enterprise Open App Store.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature even works if the NuvlaBox is connected to the network via a private IP.
+
+* **Build entirely from open source software**: NuvlaBox is entirely build from open source software, including the CentOS base operating system, [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) solutions. 
+
+* **Designed in Switzerland - Made in Europe**: NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping. 
+
 Want to Know More?
 ====
 
