@@ -1149,3 +1149,8 @@ h1.slogan {
     background: url(img/design/button_create_account_hover.png) no-repeat center center;
     cursor: pointer;
 }
+
+.create-account:active {
+    background: url(img/design/button_create_account_pressed.png) no-repeat center center;
+    cursor: pointer;
+}
