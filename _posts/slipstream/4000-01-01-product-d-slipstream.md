@@ -44,7 +44,8 @@ All Clouds Supported
 
 SlipStream communicates with IaaS clouds services via a connector architecture. We now support all mainstream clouds.
 
-<p align="center"><img src="/img/content/cloud_providers_color_on_transparent_1000px.png" alt="SlipStream™ Supported Clouds" width="600" /></p>
+<p align="center"><img src="/img/content/cloud_providers_color_on_transparent_1000px.png" alt="SlipStream \\
+ Supported Clouds" width="600" /></p>
 
 This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, such that you can focus on your business.
 
