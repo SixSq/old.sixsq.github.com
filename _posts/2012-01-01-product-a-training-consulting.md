@@ -33,14 +33,14 @@ SixSq will help you:
 Process Automation Consultancy
 ==============================
 
-Using [SlipStream™](/products/slipstream.html) is straightforward. But its full benefit comes when
+Using [SlipStream](/products/slipstream.html) is straightforward. But its full benefit comes when
 integrated into the overall product and/or service chain of its users.
 
 We provide consultancy in the form of simple and practical advice, as well as recipes (i.e. installation,
 configuration and coordination), to accelerate the integration of our technology into existing or new  infrastructure and tools.
 
 A standard process automation pattern is a **DevOps style delivery pipeline**.  SixSq can help customers
-put this pipeline in place, using tooling (such as SlipStream™) and agile processes.
+put this pipeline in place, using tooling (such as SlipStream) and agile processes.
 
 
 Custom Software Development
