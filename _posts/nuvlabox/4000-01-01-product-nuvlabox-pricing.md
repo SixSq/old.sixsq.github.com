@@ -49,7 +49,7 @@ A suite of NuvlaBox services will soon follow.
         </ul> 
     </div>
     <div class="plan">
-        <h3 class="soon">Application Deployment Support<span>Soon</span></h3>
+        <h3 class="soon">Recipe Creation Service<span>Soon</span></h3>
         <ul>
             <li><b>Let us help automate application deployment</b></li>
         </ul> 

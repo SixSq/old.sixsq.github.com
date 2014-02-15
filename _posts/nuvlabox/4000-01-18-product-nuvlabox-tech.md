@@ -32,12 +32,12 @@ First, we'll consider the NuvlaBox in a standalone mode. This means that the box
 <img src="/img/content/nuvlabox/nuvlabox-local.png" alt="NuvlaBox standalone" width="700" />
 </p>
 
-1. **Power-up the box**: To work in standalone mode, the NuvlaBox only needs power. Once powered-up, the box will create its own local wifi network, which can be used by any device (e.g. laptop, smart phone, tablet, pc). By default the wifi network is open. The ssid starts with *nuvlabox* so that it's simple to find. Once the device has joined the wifi, the user can connect to the box on a default url. From this landing page, the user can access the local App Stores, powered by SlipStream.
+1. **Power-up the box**: To work in standalone mode, the NuvlaBox only needs power. Once powered-up, the box will create its own local Wi-Fi network, which can be used by any device (e.g. laptop, smart phone, tablet, pc). By default the Wi-Fi network is open. The ssid starts with *nuvlabox* so that it's simple to find. Once the device has joined the Wi-Fi, the user can connect to the box on a default url. From this landing page, the user can access the local App Stores, powered by SlipStream.
 2. **Select App**: The user can then choose to deploy virtual servers (or machines) into the box. SlipStream offers a range of standard operating systems (e.g. Linux, Windows) to deploy. But the beauty of the system is in its ability to directly deploy and configure complete applications in the box.  From the catalogue of apps, the user only needs a single click to provision the right application (or only the operating system) in his/her NuvlaBox .
 3. **Deploy**: This step is automatic. Once the user has selected an app to deploy, SlipStream submits the requests to the cloud layer in the box (powered by StratusLab). This will allocate a virtual machine with the right resource profile, including the base operating system, and boot it. Once the machine has booted, SlipStream takes over and completes the installation of the application, including configuration. From this point on, the virtual machine is up and the application fully ready.
 4. **Enjoy**: The user can now enjoy the application :-)
 
-NuvlaBox communicates over HTTPS, an encrypted protocol, making it impossible to intercept the communication, even over a wifi network.
+NuvlaBox communicates over HTTPS, an encrypted protocol, making it impossible to intercept the communication, even over a Wi-Fi network.
 
 In standalone mode, only locally cached operating system and applications can be deployed.  However, images can be created and cached locally while connected to the network, such that they will be available in standalone from that point onwards.
 

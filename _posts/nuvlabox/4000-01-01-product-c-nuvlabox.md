@@ -30,17 +30,15 @@ Key Principals
 
 * The NuvlaBox is a **local cloud solution** for small to medium-sized enterprises and home use
 
-* NuvlaBox is a turn key **IaaS** and **PaaS** cloud solution
+* NuvlaBox includes a turn-key **IaaS** and **PaaS** cloud solution
 
-* Acces to cloud via Stratuslab, a European **open source** cloud. 
-
-* Can be used as a local cloud or as a remote-controlled appliance, or both
+* Can be used as a local cloud or as a **remote-controlled appliance**, or both
 
 * Powered by SlipStream, **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-* Entirely built out of open source software
+* Entirely built out of **open source software**
 
-* **240 GB** of storage on a solid-state drive providing high local read/write performance
+* Control all your NuvlaBoxes from the same **dashboard**
 
 * **Zero config** means it's a child's play to use
 

@@ -27,11 +27,13 @@ In more detail, the NuvlaBox provides the following features:
 
 * **Ability to run up to 8 virtual machines on the NuvlaBox:** No need for a farm of servers, with different maintenance contracts and corresponding administrative headaches. You size your virtual machines and deploy applications, without needing to procure new hardware. If you run out of resources on the NuvlaBox, simply stack NuvlaBoxes together, as a single unit.
 
-* **In-built security:** NuvlaBox is secure, from design to manufacturing, including software and hardware.
+* **Control several NuvlaBoxes from the same dashboard:** NuvlaBoxes can be controlled from the dashboard provided by ... is secure, from design to manufacturing, including software and hardware.
+
+* **Built-in security:** NuvlaBox is secure, from design to manufacturing, including software and hardware.
 
 * **Preconfigured with standard operating systems:** NuvlaBox comes with a library of standard operating system images, including different flavours of Linux and Windows.
 
-* **Zero Configuration:** NuvlaBox is a turnkey solution. You plug it in, power it up and you are good to go.
+* **Zero Configuration:** NuvlaBox is a turn-key solution. You plug it in, power it up and you are good to go.
 
 * **Full Power of the cloud:** NuvlaBox includes a complete Infrastructure as a Service (IaaS) solution, powered by  [StratusLab](/products/stratuslab.html), and a Platform as a Service (PaaS), powered by [SlipStream](/products/slipstream.html). This means that NuvlaBox makes no compromises on cloud capabilities. It's batteries included, from virtual machine lifecycle management, all the way to application deployment and configuration.
 
@@ -43,7 +45,7 @@ In more detail, the NuvlaBox provides the following features:
 
 * **Designed in Switzerland - Made in Europe:** NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping. 
 
-* **Wifi network to reach your devices.** NuvlaBox can establish a wifi network allowing you to reach devices and sensors.
+* **Wifi network to reach your devices.** NuvlaBox can establish a Wi-Fi network allowing you to reach devices and sensors.
 
 Want to Know More?
 ====
