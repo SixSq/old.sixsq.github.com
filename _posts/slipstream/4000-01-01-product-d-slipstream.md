@@ -20,7 +20,7 @@ sub: overview
 
 <p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" /></p>
 
-**1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
+**SlipStream<sup>®</sup>: 1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
 
 Key Principals
 =========

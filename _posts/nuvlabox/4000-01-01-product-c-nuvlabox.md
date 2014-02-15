@@ -17,11 +17,11 @@ sub: overview
 
 <p/>
 
-<h1 class="slogan" align="center">The cloud is now personal<p/>... driven by an open app store.</h1>
+<h1 class="slogan" align="center">Real cloud appliance<p/>... driven by an Enterprise Open App Store™.</h1>
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
-**NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
+**NuvlaBox<sup>®</sup>: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Key Principals
 ========
@@ -30,17 +30,15 @@ Key Principals
 
 * The NuvlaBox is a **local cloud solution** for small to medium-sized enterprises and home use
 
-* NuvlaBox is a turn key **IaaS** and **PaaS** cloud solution
+* NuvlaBox includes a turn-key **IaaS** and **PaaS** cloud solution
 
-* Acces to cloud via Stratuslab, a European **open source** cloud. 
-
-* Can be used as a local cloud or as a remote-controlled appliance, or both
+* Can be used as a local cloud or as a **remote-controlled appliance**, or both
 
 * Powered by SlipStream, **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-* Entirely built out of open source software
+* Entirely built out of **open source software**
 
-* **240 GB** of storage on a solid-state drive providing high local read/write performance
+* Control all your NuvlaBoxes from the same **dashboard**
 
 * **Zero config** means it's a child's play to use
 
