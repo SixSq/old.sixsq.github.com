@@ -15,9 +15,15 @@ sub: features
 Features
 ==============
 
+NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers with a single NuvlaBox, with the corresponding reduction in complexity, costs and headaches. 
+
+<p align="center">
+<img src="/img/content/nuvlabox/nuvlabox-4-in-1.png" alt="NuvlaBox 4 in 1" width="400" />
+</p>
+
 In more detail, the NuvlaBox provides the following features: 
 
-* **Private cloud turnkey cloud solution for small to medium-sized enterprises:** NuvlaBox is about the size of a modem and comes pre-configured making it simple to use.
+* **Private cloud turn-key cloud solution for small to medium-sized enterprises:** NuvlaBox is about the size of a modem and comes pre-configured making it simple to use.
 
 * **Ability to run up to 8 virtual machines on the NuvlaBox:** No need for a farm of servers, with different maintenance contracts and corresponding administrative headaches. You size your virtual machines and deploy applications, without needing to procure new hardware. If you run out of resources on the NuvlaBox, simply stack NuvlaBoxes together, as a single unit.
 
@@ -36,6 +42,8 @@ In more detail, the NuvlaBox provides the following features:
 * **Build entirely from open source software:** NuvlaBox is entirely build from open source software, including the CentOS base operating system, [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) solutions. 
 
 * **Designed in Switzerland - Made in Europe:** NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping. 
+
+* **Wifi network to reach your devices.** NuvlaBox can establish a wifi network allowing you to reach devices and sensors.
 
 Want to Know More?
 ====

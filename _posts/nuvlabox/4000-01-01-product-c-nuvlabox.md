@@ -17,11 +17,11 @@ sub: overview
 
 <p/>
 
-<h1 class="slogan" align="center">The cloud is now personal<p/>... driven by an open app store.</h1>
+<h1 class="slogan" align="center">Real cloud appliance<p/>... driven by an Enterprise Open App Store™.</h1>
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
-**NuvlaBox: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
+**NuvlaBox<sup>®</sup>: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Key Principals
 ========
