@@ -835,36 +835,6 @@ nav a.current {
   	background: url(img/design/sixsq_logo_52px.png) no-repeat center top 2px;
 }
 
-#footer_logo_twitter {
-   height: 64px;
-   width: 64px;
-   display: inline-block;
-   background-image: url(img/design/social_logos/twitter.png);
-   background-repeat: no-repeat;
-   background-position: center;
-}
-
-#footer_logo_twitter:hover {
-    background-image: url(img/design/social_logos/twitter_hover.png);
- 	/*background-repeat: no-repeat;*/
-	/*background-position: center;*/
-}
-
-#footer_logo_googleplus {
-   height: 64px;
-   width: 64px;
-   display: inline-block;
-   background-image: url(img/design/social_logos/googleplus.png);
-   background-repeat: no-repeat;
-   background-position: center;
-}
-
-#footer_logo_googleplus:hover {
-    background-image: url(img/design/social_logos/googleplus_hover.png);
- 	/*background-repeat: no-repeat;*/
-	/*background-position: center;*/
-}
-
 .adress_copyright {
 	float: left;
 	width: 295px;
@@ -927,13 +897,47 @@ nav a.current {
 .follow_us {
 	float: left;
 	height: 170px;
-	padding: 0px 25px 0px 25px;
+	padding: 0px 0px 0px 25px;
 }
 
 .follow_us img {
 	float: left;
 	margin-top: 10px;
 	margin-right: 5px;
+}
+
+.follow_us a div {
+	height: 40px;
+	width: 40px;
+	margin:  14px 4px 0px 4px;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-position: center;
+	border-radius: 5px;
+}
+
+#footer_logo_twitter {
+   background-image: url(img/design/social_logos/twitter.png);
+}
+
+#footer_logo_twitter:hover {
+    background-image: url(img/design/social_logos/twitter_hover.png);
+}
+
+#footer_logo_googleplus {
+   background-image: url(img/design/social_logos/googleplus.png);
+}
+
+#footer_logo_googleplus:hover {
+    background-image: url(img/design/social_logos/googleplus_hover.png);
+}
+
+#footer_logo_linkedin {
+   background-image: url(img/design/social_logos/linkedin.png);
+}
+
+#footer_logo_linkedin:hover {
+    background-image: url(img/design/social_logos/linkedin_hover.png);
 }
 
 .tweets > div {
