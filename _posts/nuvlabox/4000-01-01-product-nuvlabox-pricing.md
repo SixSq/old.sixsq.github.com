@@ -37,6 +37,14 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
                 <b>Pre-loaded Apps</b><br />
                 (Ubuntu, CentOS, Windows...)
             </li>
+            <li>
+                <b>
+                    Runs
+                    <a class="stratuslab" href="http://stratuslab.eu">
+                        StratusLab&#8482;
+                    </a>
+                </b>
+            </li>
             <li><b>Hosts up to 8 VMs</b></li>
             <li><b>Fanless (silent!)</b></li>
             <li><b>Smaller than<br />2 Swiss chocolate boxes</b></li>
