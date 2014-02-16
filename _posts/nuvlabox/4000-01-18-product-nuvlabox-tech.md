@@ -88,7 +88,7 @@ No other cloud solution provides this level of functionality and integration.
 * 16 GB RAM
 * 240 GB SSD storage
 * 120W external power supply
-* Wifi card
+* Wi-Fi card
 * Plenty of USB ports
 * HDMI interface
 * RJ-45 network adapter
