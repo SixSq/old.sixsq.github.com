@@ -40,7 +40,7 @@ NuvlaBox will launch at the <a href="http://www.mobileworldcongress.com">Mobile 
             <li>
                 <b>
                     Runs
-                    <a class="stratuslab" href="http://stratuslab.eu">
+                    <a class="stratuslab" href="/products/stratuslab.html">
                         StratusLab&#8482;
                     </a>
                 </b>
