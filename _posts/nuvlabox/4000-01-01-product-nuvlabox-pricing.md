@@ -27,14 +27,14 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
             <li>
                 <b>
                     <a href="/products/slipstream.html">
-                        SlipStream&reg;
+                        SlipStream<sup>&reg;</sup>
                     </a>
                     inside
                 </b>
             </li>
             <li><b>Entreprise Open App Store&#8482;</b></li>
             <li>
-                <b>Pre-loaded Apps</b><br />
+                <b>Pre-loaded Operating Systems</b><br />
                 (Ubuntu, CentOS, Windows...)
             </li>
             <li>
