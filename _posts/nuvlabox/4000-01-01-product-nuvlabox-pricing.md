@@ -14,7 +14,7 @@ sub: pricing
 
 <h1>Pricing</h1>
 
-NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, Spain. Want to reserve your NuvlaBox? Get in touch. 
+NuvlaBox will launch at the <a href="http://www.mobileworldcongress.com">Mobile World Congress</a> February 24-27 in Barcelona, Spain. Want to reserve your NuvlaBox? [Get in touch](mailto:support@sixsq.com). 
 
 <h1>NuvlaBox Appliance</h1>
 
