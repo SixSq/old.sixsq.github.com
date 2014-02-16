@@ -18,7 +18,7 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
 
 <h1>NuvlaBox Appliance</h1>
 
-<div class="launch_at_mwc">
+<div class="launch-at-mwc" style="background-position: top left 60px;">
     <div id="pricing-table" class="clear" style="margin-left: 340px; margin-right: 340px;">
         <div class="plan">
             <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"> <span>€1495</span></h3>
