@@ -26,6 +26,13 @@ img {
 	border: none;
 }
 
+.launch_at_mwc {
+	background-repeat: no-repeat;
+	background-position: top left;
+	background-image: url(img/content/mobile-world-congress-launch-label.png);
+}
+
+
 #wrapper {
 	position: relative;
 	width: 1008px;

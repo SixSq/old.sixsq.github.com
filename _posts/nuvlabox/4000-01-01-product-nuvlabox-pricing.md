@@ -18,37 +18,39 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
 
 <h1>NuvlaBox Appliance</h1>
 
-<div id="pricing-table" class="clear" style="margin-left: 340px; margin-right: 340px;">
-    <div class="plan">
-        <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"> <span>€1495</span></h3>
-        <ul>
-            <li><b>Integral cloud solution</b></li>
-            <li><b>Plug-and-play</b></li>
-            <li>
-                <b>
-                    <a href="/products/slipstream.html">
-                        SlipStream&reg;
-                    </a>
-                    inside
-                </b>
-            </li>
-            <li><b>Entreprise Open App Store&#8482;</b></li>
-            <li>
-                <b>Pre-loaded Apps</b><br />
-                (Ubuntu, CentOS, Windows...)
-            </li>
-            <li>
-                <b>
-                    Runs
-                    <a class="stratuslab" href="http://stratuslab.eu">
-                        StratusLab&#8482;
-                    </a>
-                </b>
-            </li>
-            <li><b>Hosts up to 8 VMs</b></li>
-            <li><b>Fanless (silent!)</b></li>
-            <li><b>Smaller than<br />2 Swiss chocolate boxes</b></li>
-        </ul>
+<div class="launch_at_mwc">
+    <div id="pricing-table" class="clear" style="margin-left: 340px; margin-right: 340px;">
+        <div class="plan">
+            <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"> <span>€1495</span></h3>
+            <ul>
+                <li><b>Integral cloud solution</b></li>
+                <li><b>Plug-and-play</b></li>
+                <li>
+                    <b>
+                        <a href="/products/slipstream.html">
+                            SlipStream&reg;
+                        </a>
+                        inside
+                    </b>
+                </li>
+                <li><b>Entreprise Open App Store&#8482;</b></li>
+                <li>
+                    <b>Pre-loaded Apps</b><br />
+                    (Ubuntu, CentOS, Windows...)
+                </li>
+                <li>
+                    <b>
+                        Runs
+                        <a class="stratuslab" href="http://stratuslab.eu">
+                            StratusLab&#8482;
+                        </a>
+                    </b>
+                </li>
+                <li><b>Hosts up to 8 VMs</b></li>
+                <li><b>Fanless (silent!)</b></li>
+                <li><b>Smaller than<br />2 Swiss chocolate boxes</b></li>
+            </ul>
+        </div>
     </div>
 </div>
 
