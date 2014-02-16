@@ -28,7 +28,7 @@ NuvlaBox will launch at the <a href="http://www.mobileworldcongress.com">Mobile 
                 <li>
                     <b>
                         <a href="/products/slipstream.html">
-                            SlipStream<sup>&reg;</sup>
+                            SlipStream&reg;
                         </a>
                         inside
                     </b>
