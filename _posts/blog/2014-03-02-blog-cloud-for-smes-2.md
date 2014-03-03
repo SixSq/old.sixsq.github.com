@@ -9,7 +9,7 @@ comments: true
 
 **What cloud solutions are available for SMEs?**
 
-We can’t leave [Mr. Johnson](/blog/2014/02/10/blog-cloud-for-smes-2.html) hanging in the air now he has decided that the cloud is for him.  He wants to start making those **cost savings** but has no idea how to go about it, so what should he do and what pitfalls should he watch out for?  
+We can’t leave [Mr. Johnson](/blog/2014/02/10/blog-cloud-for-smes-1.html) hanging in the air now he has decided that the cloud is for him.  He wants to start making those **cost savings** but has no idea how to go about it, so what should he do and what pitfalls should he watch out for?  
 
 Mr Johnson's current IT company does not provide cloud services.  In all probability, Mr Johnson would do an internet search, like we all do when we are looking for something, to find a solution. So I did exactly that and I spent a rather long time trying to come up with an answer for him. I tried many different search terms, and although it is true that there are hundreds of cloud providers out there, there doesn't seem to be anyone rushing forward to get the SME business. It's clear that Eric Enormous Enterprise has huge wads of money, but **[99%](http://ec.europa.eu/enterprise/policies/sme/facts-figures-analysis/index_en.htm) of all European businesses are SMEs**, so surely someone should want that business?
 
