@@ -1,7 +1,7 @@
 ---
 layout: article
-title: SlipStream – a new web interface for the EGI Federated Cloud
-image: /img/design/slipstream_category.png
+title: NuvlaBox officially launched at Mobile World Congress
+image: /img/design/seethroughcloud_category.png
 category: news
 ---
 
