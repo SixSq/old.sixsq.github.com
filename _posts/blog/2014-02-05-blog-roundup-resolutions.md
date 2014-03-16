@@ -7,8 +7,6 @@ author: Louise Merifield
 comments: true
 ---
 
-**New Year's Resolutions**
-
 Here is a summary of the New Year's Resolutions we published during the course of January this year. Don't let your resolve slip now February has arrived! 
 
 **Number 1: Get fit for cloud**

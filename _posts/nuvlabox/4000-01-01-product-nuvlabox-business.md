@@ -19,7 +19,7 @@ Using the NuvlaBox makes business sense. Here are some of the benefits it can br
 
 * **Financial benefits** The NuvlaBox can replace up to 8 or your servers, thereby saving money on hardware and running costs.
 
-* **Provides aggregation of sensor networks** Individual sensor readings are of limited use, but forwarding raw data via broadband network is expensive and not always possible due to scarce bandwith and resources. NuvlaBox solves that problem.
+* **Provides aggregation of sensor networks** Individual sensor readings are of limited use, but forwarding raw data via broadband network is expensive and not always possible due to scarce bandwidth and resources. NuvlaBox solves that problem.
 
 * **Perfect for SMEs wishing to access a small to medium-sized cloud** NuvlaBox offers an **affordable entry point** into private cloud computing
 

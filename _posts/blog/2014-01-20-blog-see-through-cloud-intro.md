@@ -7,8 +7,6 @@ author: Louise Merifield
 comments: true
 ---
 
-![SeeThrougCloud](/img/design/seethroughcloud_category.png "See Through Cloud")
-
 **A new blog series to demystify cloud**
 
 In the role of Operations Manager in our organisation I have to wear many hats, but as I don't have a background in software or anything technical for that matter, I was unable to fully contribute to communicating the SixSq offer.  This has forced me up a very steep learning curve and has also led me to put pen to paper, or rather fingers to keyboard, to share my journey through the cloudscape.

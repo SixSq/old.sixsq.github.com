@@ -17,13 +17,13 @@ Support: +41 22 57 52 229
 [info@sixsq.com](mailto:info@sixsq.com)  
 [support@sixsq.com](mailto:support@sixsq.com)
 
-
-**Twitter**  
-[@sixsq](https://twitter.com/#!/sixsq)  
-(please use
+**Social Networks:**  
+Twitter: [@sixsq](https://twitter.com/#!/sixsq) (please use
   [#slips3m](https://twitter.com/#!/search/%23slips3m) for
-  [SlipStream](/products/slipstream.html) related tweets)
-
+  [SlipStream](/products/slipstream.html) related tweets)  
+[LinkedIn](http://www.linkedin.com/company/sixsq)  
+[Google+](https://plus.google.com/u/0/b/115601684384239978812/115601684384239978812/posts)
+    
 **Or come and visit**  
 SixSq.  
 Rue du Bois-du-Lan, 8  

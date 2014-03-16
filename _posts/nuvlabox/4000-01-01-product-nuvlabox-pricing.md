@@ -14,14 +14,14 @@ sub: pricing
 
 <h1>Pricing</h1>
 
-NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, Spain. Want to reserve your NuvlaBox? Get in touch. 
+NuvlaBox was launched at the <a href="http://www.mobileworldcongress.com">Mobile World Congress</a> February 24-27 in Barcelona, Spain. Want to reserve your NuvlaBox? [Get in touch](mailto:support@sixsq.com). 
 
 <h1>NuvlaBox Appliance</h1>
 
-<div class="launch-at-mwc" style="background-position: top left 60px;">
-    <div id="pricing-table" class="clear" style="margin-left: 340px; margin-right: 340px;">
+<div class="launch-at-mwc" style="background-position: top left 60px">
+    <div class="pricing-table" style="margin-left: 340px; margin-right: 340px;">
         <div class="plan">
-            <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"> <span>€1495</span></h3>
+            <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"><span>€1495</span></h3>
             <ul>
                 <li><b>Integral cloud solution</b></li>
                 <li><b>Plug-and-play</b></li>
@@ -35,13 +35,13 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
                 </li>
                 <li><b>Entreprise Open App Store&#8482;</b></li>
                 <li>
-                    <b>Pre-loaded Apps</b><br />
+                    <b>Pre-loaded Operating Systems</b><br />
                     (Ubuntu, CentOS, Windows...)
                 </li>
                 <li>
                     <b>
                         Runs
-                        <a class="stratuslab" href="http://stratuslab.eu">
+                        <a class="stratuslab" href="/products/stratuslab.html">
                             StratusLab&#8482;
                         </a>
                     </b>
@@ -58,7 +58,7 @@ NuvlaBox will launch at the Mobile World Congress February 24-27 in Barcelona, S
 
 A suite of NuvlaBox services will soon follow.
 
-<div id="pricing-table" class="clear" style="margin-left: 120px; margin-right: 120px;">
+<div class="pricing-table clear" style="margin-left: 120px; margin-right: 120px;">
     <div class="plan">
         <h3 class="soon">Maintenance<br/>and Support<span>Soon</span></h3>
         <ul>
