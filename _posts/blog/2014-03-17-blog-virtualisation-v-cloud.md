@@ -13,7 +13,7 @@ And what is virtualisation anyway? And does cloud have to be distributed, at lea
 
 The fact that [Babbage](http://en.wikipedia.org/wiki/Babbage) came up with the idea of the first programmable computer  way back in 1837 totally blows my mind. How did he do that? I guess he was the very first geek. And these IT geeks continue to amaze me. Some clever clogs came up with the idea that you can run [virtual machines](http://en.wikipedia.org/wiki/Virtual_machine) inside a computer, so a piece of software pretends it is a real server. In this way, you can have one physical box running many operating systems and applications at the same time. This brings many advantages, including energy savings, faster server installation (you don't have to fill out a form and wait for a physical box to be delivered) and higher availability and uptime. So from a cost standpoint virtualisation is a great move. You can do much more with much less, which is why, reportedly, more than 70% of companies run at least some of their workload on virtual machines.  This diagram gives an idea of the principal:
 
-<IMAGE>
+<p align="center"><img src="/img/content/virtualisation.png" alt="Virtualisation" width="900" /></p>
 
 However (isn't there always one of those?), there is still a lot of work to do. You need an expert in virtualisation to deploy the operating systems and applications you want, so it is not a self-service system. The IT department has to find a physical server on which to start and stop, or *provision* in IT speak, the virtual machines, i.e. act as the *waiter*. Also, usage cannot be quickly scaled up and down, as the waiter has to bring in extra supplies or clear away what you don't need.
 
