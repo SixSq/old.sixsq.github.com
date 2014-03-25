@@ -15,7 +15,7 @@ The Linux foundation has announced the speakers for the [Cloudstack Collaboratio
 
 The conference will take place in Westin Denver Downtown Denver, Colorado, USA from April 9 to 11 2014 and Marc-Elian is presenting on the topic of Multi-Cloud Application Deployment Automation with open source SlipStream PaaS.  He will focus on the benefits of automation and explore the uses of SlipStream, SixSq’s cloud deployment platform.
 
-During hiw presentation, Marc-Elian will present [SlipStream](/products/slipstream.html), an open source multi-cloud PaaS that support a large number of IaaS, including CloudStack. His presentation will present the PaaS and explore the interface requirements between such a PaaS and a IaaS, including design choices involved in such integration.
+During his presentation, Marc-Elian will present [SlipStream](/products/slipstream.html), an open source multi-cloud PaaS that supports a large number of IaaS, including CloudStack. His presentation will present the PaaS and explore the interface requirements between such a PaaS and a IaaS, including design choices involved in such integration.
 
 **About Marc-Elian Bégin**
 
