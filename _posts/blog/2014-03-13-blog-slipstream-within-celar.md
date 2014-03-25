@@ -22,7 +22,7 @@ First, let's look at the role SlipStream fulfils to deliver multi-cloud capabili
 * Provide a number of base functions for standard driver implenmentations: jclouds, libcloud, custom drivers
 * Provide a pluggable connector architecture 
 
-For more technical details on writing a connector for SlipStream, take a look at [this blog](/blog/2013/12/17/blog-connector-development-and-state-machine.html) on the SixSq website.
+For more technical details on writing a connector for SlipStream, take a look at [this blog](/blog/2013/09/30/blog-slipstream-cloud-connector-development.html) on the SixSq website.
 
 From that point on, users have to provide the following information, generally through the SlipStream UI.
 
