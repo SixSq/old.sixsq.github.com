@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Virtualisation and cloud
+title: Geeks and their brilliant ideas
 category: blog
 image: /img/design/seethroughcloud_category.png
 author: Louise Merifield
