@@ -47,7 +47,7 @@ $(document).ready(function() {
 			Thank you very much for your business. We will be in touch shortly to arrange payment and shipping. \
 		</div> \
 		<div id='order-now-dialog'> \
-		<form id='order-now-form' action='http://getsimpleform.com/messages/ajax?form_api_token=41a4490122d9e89317f059a72bb119cf' method='get'> \
+		<form id='order-now-form' action='http://getsimpleform.com/messages/ajax?form_api_token=7673c6c3500a57c2403047aaa5ba9ca4' method='get'> \
 			<input class='hidden' type='text' name='subject' value='order' ></input> \
 			<br/> \
 			Want to order NuvlaBoxes?  Please give us the following information and we will get in touch \
@@ -125,7 +125,7 @@ $(document).ready(function() {
 			Thank you very much for your enquiry. We will be in touch shortly. \
 		</div> \
 		<div id='contact-us-dialog'> \
-			<form id='contact-us-form' action='http://getsimpleform.com/messages/ajax?form_api_token=41a4490122d9e89317f059a72bb119cf' method='post'> \
+			<form id='contact-us-form' action='http://getsimpleform.com/messages/ajax?form_api_token=7673c6c3500a57c2403047aaa5ba9ca4' method='post'> \
 				<input class='hidden' type='text' name='subject' value='enquiry' ></input> \
 				<br/> \
 				You email: <input type='text' name='email' placeholder='me@example.com'></input> \
