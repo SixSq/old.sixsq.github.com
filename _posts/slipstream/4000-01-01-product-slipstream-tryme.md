@@ -31,5 +31,6 @@ We have put a lot of effort in the documentation, including several tutorials, w
 Want to Know More?
 ====
 
-Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+Interested and want to know more? We'd be pleased to provide you with further information. Get in touch.
 
+<span class='contact-us-placeholder'></span>
