@@ -19,7 +19,7 @@ sub: overview
 
 <h1 class="slogan" align="center">Real cloud appliance<p/>... driven by an Enterprise Open App Store™.</h1>
 
-<p align="center"><img class="launch-at-mwc" src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
+<p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
 **NuvlaBox<sup>®</sup>: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
@@ -42,13 +42,11 @@ Key Principals
 
 * **Zero config** means it's a child's play to use
 
-Watch this space!
-============
-
-NuvlaBox will be launched at the [Mobile World Congress](http://www.mobileworldcongress.com)
-in Barcelona, 24-27 February 2014.
-
-Want to Know More?
+What's next?
 ====
 
-Interested and want to know more? Want to pre-order to avoid the rush?  We'd be pleased to provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
+
+<span class='contact-us-placeholder'></span>
+
+<span class='order-now-placeholder'></span>

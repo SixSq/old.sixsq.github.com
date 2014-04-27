@@ -47,7 +47,11 @@ In more detail, the NuvlaBox provides the following features:
 
 * **Wifi network to reach your devices.** NuvlaBox can establish a Wi-Fi network allowing you to reach devices and sensors.
 
-Want to Know More?
+What's next?
 ====
 
-Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
+
+<span class='contact-us-placeholder'></span>
+
+<span class='order-now-placeholder'></span>

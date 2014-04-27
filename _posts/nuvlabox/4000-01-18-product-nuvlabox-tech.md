@@ -105,7 +105,11 @@ NuvlaBox comes with pre-loaded operating system images, giving you solid foundat
 * Windows Server 2012 (option)
 
 
-Want to Know More?
+What's next?
 ====
 
-Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
+
+<span class='contact-us-placeholder'></span>
+
+<span class='order-now-placeholder'></span>
