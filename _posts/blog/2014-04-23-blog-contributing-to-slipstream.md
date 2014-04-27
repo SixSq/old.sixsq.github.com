@@ -7,35 +7,36 @@ author: Lionel Schaub
 comments: true
 ---
 
-**Why contributing?**
+**Why contribute?**
 
-Maybe you had a dream about a new, cool and exciting feature that SlipStream should have, maybe you want to use SlipStream with a Cloud which is not on the “List of supported Clouds” or you simply found a bug. All these reasons may lead you to contribute to SlipStream.
+Perhaps there's a new, cool and exciting feature that you're dying to see in SlipStream, maybe you want to use SlipStream with a Cloud not on the [list of supported clouds](/products/slipstream.html) or you simply found a bug. All these reasons may lead you to want to contribute to SlipStream.
 
 
 **How to contribute?**
 
-Depending on your level/skill in computer sciences you have different ways to contribute.
+Depending on your level/skill in software development and computer sciences there are different ways to contribute.
 
 
-***As a standard computer user***
+***As a user***
 
 You can go on GitHub ([https://github.com/slipstream/](https://github.com/slipstream/)) and add an issue to the corresponding repository. Please tag your issue with a relevant label.
-If you are not comfortable with the GitHub website you can send a mail to [support@sixsq.com](mailto:support@sixsq.com), call the support number [+41 22 57 52 229](tel:0041225752229) or call our Skype support account [sixsq.support](callto:sixsq.support).
+If you are not comfortable with the GitHub website you can fill a form on the website (see in the footer), send a mail to [support@sixsq.com](mailto:support@sixsq.com), call the support number [+41 22 57 52 229](tel:0041225752229) or call our Skype support account [sixsq.support](callto:sixsq.support). You can also contact us via Twitter (please use #slips3m). 
 In the near future we will add a tool like UserVoice where you will be able to ask for new features and vote for them. This tool will also enable you to easily give your opinion about SlipStream.
 
 
 ***As a developer or user with development skills***
 
-You can contribute to SlipStream by improving the code by yourself.
+You can contribute to SlipStream by improving the code itself.
 If the change you want to do is very small (~1-4 lines of code in the same file) you can edit the file directly on GitHub. 
-When you will save the file, GitHub will fork the repository in your account and save the file in this newly created repository. 
+When you save the file, GitHub will fork the repository in your account and copy the file with your changes in this newly created repository. 
 After that, you can create a pull request (still on the GitHub website).
-If your modifications are more consequent, you have to fork the corresponding repository (you can do that on the GitHub website) and get a local development version of SlipStream to test your modifications.
+If your modifications are more significant, you're better to fork the corresponding repository (you can do that on the GitHub website) and get a local development version of SlipStream to test your modifications.
 
-All of the steps to get a working development environment are detailed in the [administrator manual](https://github.com/slipstream/SlipStreamDocumentation/tree/master/docs/administrator-manual/src/main/markdown). 
+All of the steps to get a working development environment are detailed in the [administrator manual](https://github.com/slipstream/SlipStreamDocumentation/tree/master/docs/administrator-manual/src/main/markdown) or [online](https://slipstream.sixsq.com/documentation).
 
-These steps can be summarized as follow:
-1.  Fork (on GitHub) the repositories you want to contribute to. [https://github.com/slipstream/](https://github.com/slipstream/)
+Here are the steps to follow:
+
+1.  Fork (on GitHub) the repositories to which you want to contribute. [https://github.com/slipstream/](https://github.com/slipstream/)
 2.  Install prerequisites (Git, Maven, Hsqldb, Eclipse<sup>[1](#note1)</sup> , …). [Administrator Manual - 2 Prerequisites](https://github.com/slipstream/SlipStreamDocumentation/blob/master/docs/administrator-manual/src/main/markdown/02-prerequisites.md)
 3.  Clone on your machine (with Git) the forked repositories. [Administrator Manual - 3 Building - Checkout sources](https://github.com/slipstream/SlipStreamDocumentation/blob/master/docs/administrator-manual/src/main/markdown/03-building.md#checkout-sources)
 4.  Clone other base repositories from SlipStream repositories ([SlipStreamParent](https://github.com/slipstream/SlipStreamParent), [SlipStreamServer](https://github.com/slipstream/SlipStreamServer), [SlipStreamClient](https://github.com/slipstream/SlipStreamClient), [SlipStreamServerDeps](https://github.com/slipstream/SlipStreamServerDeps), […](https://github.com/slipstream/)).
@@ -54,6 +55,8 @@ These steps can be summarized as follow:
 
 ***Note on Connectors development***
 
-Developing a connector can take time if you are not accustomed to the connector development process. The SixSq team is very efficient in this task so it can be more profitable for you to ask for a quote and let the SixSq team develop the connector for you.
+Developing a connector can take time if you are not accustomed to the connector development process and SlipStream's connector architecture. The SixSq team is very efficient at this task as we do it all the time so it can be more cost effective for you to ask for a quote and let the SixSq team develop the connector for you, or help you get started.
+
+<span class='contact-us-placeholder'></span>
 
 
