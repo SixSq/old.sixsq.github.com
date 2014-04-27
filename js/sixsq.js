@@ -120,21 +120,8 @@ $(document).ready(function() {
 
 	$('.contact-us-placeholder').html("<center> \
 			<button type='button' class='contact-us' onclick='$(\"#contact-us-dialog\").dialog(\"open\");' /> \
-		</center> \
-		<div id='contact-us-thanks-dialog'> \
-			Thank you very much for your enquiry. We will be in touch shortly. \
-		</div> \
-		<div id='contact-us-dialog'> \
-			<form id='contact-us-form' action='http://getsimpleform.com/messages/ajax?form_api_token=7673c6c3500a57c2403047aaa5ba9ca4' method='post'> \
-				<input class='hidden' type='text' name='subject' value='enquiry' ></input> \
-				<br/> \
-				You email: <input type='text' name='email' placeholder='me@example.com'></input> \
-				<br/> \
-				<br/> \
-				Question: \
-				<textarea type='text' name='message' placeholder='What can we help you with?...'></textarea> \
-			</form> \
-		</div>");
+		</center>");
+		
 	$('#contact-us-dialog').dialog({
 		autoOpen: false,
 		title: 'Contact us',
