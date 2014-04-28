@@ -1200,13 +1200,13 @@ h1.slogan {
     margin-right: 0px;
 }
 
-.order-now:hover {
-    background: url(img/design/button_order_now_hover.png) no-repeat center center;
+.contact-us:hover {
+    background: url(img/design/button_contact_us_hover.png) no-repeat center center;
     cursor: pointer;
 }
 
-.order-now:active {
-    background: url(img/design/button_order_now_pressed.png) no-repeat center center;
+.contact-us:active {
+    background: url(img/design/button_contact_us_pressed.png) no-repeat center center;
     cursor: pointer;
 }
 
@@ -1219,13 +1219,32 @@ h1.slogan {
     margin-right: 0px;
 }
 
-.contact-us:hover {
-    background: url(img/design/button_contact_us_hover.png) no-repeat center center;
+.order-now:hover {
+    background: url(img/design/button_order_now_hover.png) no-repeat center center;
     cursor: pointer;
 }
 
-.contact-us:active {
-    background: url(img/design/button_contact_us_pressed.png) no-repeat center center;
+.order-now:active {
+    background: url(img/design/button_order_now_pressed.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.create-account {
+    background: url(img/design/button_create_account_idle.png) no-repeat center center;
+    border:none;
+    width: 200px;
+    height: 40px;
+    margin-left: -9px;
+    margin-right: 0px;
+}
+
+.create-account:hover {
+    background: url(img/design/button_create_account_hover.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.create-account:active {
+    background: url(img/design/button_create_account_pressed.png) no-repeat center center;
     cursor: pointer;
 }
 
