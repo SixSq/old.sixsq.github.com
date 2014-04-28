@@ -40,7 +40,7 @@ Here are the steps to follow:
 2.  Install prerequisites (Git, Maven, Hsqldb, Eclipse<sup>[1](#note1)</sup> , …). [Administrator Manual - 2 Prerequisites](https://github.com/slipstream/SlipStreamDocumentation/blob/master/docs/administrator-manual/src/main/markdown/02-prerequisites.md)
 3.  Clone on your machine (with Git) the forked repositories. [Administrator Manual - 3 Building - Checkout sources](https://github.com/slipstream/SlipStreamDocumentation/blob/master/docs/administrator-manual/src/main/markdown/03-building.md#checkout-sources)
 4.  Clone other base repositories from SlipStream repositories ([SlipStreamParent](https://github.com/slipstream/SlipStreamParent), [SlipStreamServer](https://github.com/slipstream/SlipStreamServer), [SlipStreamClient](https://github.com/slipstream/SlipStreamClient), [SlipStreamServerDeps](https://github.com/slipstream/SlipStreamServerDeps), […](https://github.com/slipstream/)).
-5.  Modify the source code of the forked repositories.
+5.  Create a branch in the forked repositories and modify the source code.
 6.  Compile, run unittest, generate JAR and RPM by running `mvn clean install` inside the directories corresponding to the forked repositories. [Administrator Manual - 3 Building - Build and package](https://github.com/slipstream/SlipStreamDocumentation/blob/master/docs/administrator-manual/src/main/markdown/03-building.md#build-and-package)
 7.  Run SlipStream to test your modifications on a real environment. You have two ways to do that:
     1. Run a local hsqldb server and run a local SlipStream server. [SlipStreamParent - Readme](https://github.com/slipstream/SlipStreamParent/blob/master/README.md)
@@ -49,6 +49,7 @@ Here are the steps to follow:
         2. Copy all RPMs found in repositories subdirectory like this one: `rpm/target/rpm/slipstream-server-el6/RPMS/*.rpm` into the directory called “repo”.
         3. Then create a local yum repository with: `createrepo repo` and add it to your yum configuration `vi /etc/yum.repo.d/local`
         4. Install SlipStream with the yum command. E.g.: `yum install slipstream-server`
+8. When you are happy with your changes, commit them and then create a pull request on GitHub for each forked repositories.
 
 <sup id="note1">1</sup> Using Eclipse is recommended but not mandatory. If you want to use Eclipse you can import Maven projects by clicking on: `File -> Import -> Maven -> Existing Maven project`.
 
