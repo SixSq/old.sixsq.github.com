@@ -80,7 +80,7 @@ img {
 .main nav {
     overflow: hidden;
     border-bottom: 1px solid #e6e6e6;
-    padding=right: 25px;
+	padding-bottom: 5px;
 }
 
 .main nav h1 {
