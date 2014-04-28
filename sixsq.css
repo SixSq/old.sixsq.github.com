@@ -80,7 +80,7 @@ img {
 .main nav {
     overflow: hidden;
     border-bottom: 1px solid #e6e6e6;
-    padding=right: 25px;
+    padding-right: 25px;
 }
 
 .main nav h1 {
@@ -219,8 +219,47 @@ nav a.current {
 	height: 300px !important;
 }
 
+/* PAGER */
+
 .bx-wrapper {
 	height: 324px;
+}
+
+.bx-wrapper .bx-pager {
+	text-align: center;
+	font-size: .85em;
+	font-family: Arial;
+	font-weight: bold;
+	color: #666;
+	padding-top: 20px;
+	position: absolute;
+	top: 240px;
+	left: 460Px;
+}
+
+.bx-wrapper .bx-pager .bx-pager-item,
+.bx-wrapper .bx-controls-auto .bx-controls-auto-item {
+	display: inline-block;
+	*zoom: 1;
+	*display: inline;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a {
+	background: #666;
+	text-indent: -9999px;
+	display: block;
+	width: 10px;
+	height: 10px;
+	margin: 0 5px;
+	outline: 0;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+.bx-wrapper .bx-pager.bx-default-pager a:hover,
+.bx-wrapper .bx-pager.bx-default-pager a.active {
+	background: #000;
 }
 
 #slider1 {
@@ -229,7 +268,8 @@ nav a.current {
 }
 
 #slider1 div {
-	margin-top: 52px;
+	width: auto !important;
+	margin: 50px 70px;
 }
 
 #slider1 div h1,
@@ -259,7 +299,8 @@ nav a.current {
 .bx-prev,
 .bx-next {
 	position: absolute;
-	top: 90px;
+	top: 140px;
+	z-index: 60;
 }
 
 .bx-prev {
@@ -1150,6 +1191,44 @@ h1.slogan {
 	box-shadow: 0 0 3px rgba(0, 0, 0, .7) inset;
 }
 
+.contact-us {
+    background: url(img/design/button_contact_us_idle.png) no-repeat center center;
+    border:none;
+    width: 200px;
+    height: 40px;
+    margin-left: -9px;
+    margin-right: 0px;
+}
+
+.contact-us:hover {
+    background: url(img/design/button_contact_us_hover.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.contact-us:active {
+    background: url(img/design/button_contact_us_pressed.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.order-now {
+    background: url(img/design/button_order_now_idle.png) no-repeat center center;
+    border:none;
+    width: 200px;
+    height: 40px;
+    margin-left: -9px;
+    margin-right: 0px;
+}
+
+.order-now:hover {
+    background: url(img/design/button_order_now_hover.png) no-repeat center center;
+    cursor: pointer;
+}
+
+.order-now:active {
+    background: url(img/design/button_order_now_pressed.png) no-repeat center center;
+    cursor: pointer;
+}
+
 .create-account {
     background: url(img/design/button_create_account_idle.png) no-repeat center center;
     border:none;
@@ -1172,4 +1251,13 @@ h1.slogan {
 img.blog-category {
     padding: 20px 20px 10px 10px;
     float: left;
+}
+
+.hidden {
+	display: none;
+}
+
+textarea {
+	width: 100%; 
+	height: 7em; 
 }

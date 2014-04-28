@@ -14,14 +14,14 @@ sub: pricing
 
 <h1>Pricing</h1>
 
-NuvlaBox was launched at the <a href="http://www.mobileworldcongress.com">Mobile World Congress</a> February 24-27 in Barcelona, Spain. Want to reserve your NuvlaBox? [Get in touch](mailto:support@sixsq.com). 
+NuvlaBox is not just an appliance, it can also be supported by our online service.
 
 <h1>NuvlaBox Appliance</h1>
 
-<div class="launch-at-mwc" style="background-position: top left 60px">
+<div style="background-position: top left 60px">
     <div class="pricing-table" style="margin-left: 340px; margin-right: 340px;">
         <div class="plan">
-            <h3 class="soon"><img style="width: 80%" src="img/design/nuvlabox_logo.png"><span>€1495</span></h3>
+            <h3><img style="width: 80%" src="img/design/nuvlabox_logo.png"><span>€1495</span></h3>
             <ul>
                 <li><b>Integral cloud solution</b></li>
                 <li><b>Plug-and-play</b></li>
@@ -49,6 +49,7 @@ NuvlaBox was launched at the <a href="http://www.mobileworldcongress.com">Mobile
                 <li><b>Hosts up to 8 VMs</b></li>
                 <li><b>Fanless (silent!)</b></li>
                 <li><b>Smaller than<br />2 Swiss chocolate boxes</b></li>
+                <li>Two years <b>warranty</b></li>
             </ul>
         </div>
     </div>
@@ -58,7 +59,7 @@ NuvlaBox was launched at the <a href="http://www.mobileworldcongress.com">Mobile
 
 A suite of NuvlaBox services will soon follow.
 
-<div class="pricing-table clear" style="margin-left: 120px; margin-right: 120px;">
+<div class="pricing-table clear" style="margin-left: 220px; margin-right: 220px;">
     <div class="plan">
         <h3 class="soon">Maintenance<br/>and Support<span>Soon</span></h3>
         <ul>
@@ -72,15 +73,27 @@ A suite of NuvlaBox services will soon follow.
             <li><b>Backup your NuvlaBox and applications off-site</b></li>
         </ul> 
     </div>
+</div>
+<div class="pricing-table clear" style="margin-left: 220px; margin-right: 220px;">
     <div class="plan">
         <h3 class="soon">Recipe Creation Service<span>Soon</span></h3>
         <ul>
             <li><b>Let us help automate application deployment</b></li>
         </ul> 
     </div>
+    <div class="plan">
+        <h3 class="soon">Remote Control<span>Soon</span></h3>
+        <ul>
+            <li><b>Access your NuvlaBox in a secure way, from anywhere, anytime</b></li>
+        </ul> 
+    </div>
 </div>
 
-Want to Know More?
+Enquiry and order
 ====
 
-Interested and want to know more? We'd be pleased to give you a demo or provide you with further information. Request a member of the SixSq team to [contact you](mailto:support@sixsq.com).
+Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
+
+<span class='contact-us-placeholder'></span>
+
+<span class='order-now-placeholder'></span>
