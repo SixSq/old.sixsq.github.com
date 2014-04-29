@@ -2,6 +2,7 @@
 layout: article
 title: NuvlaBox
 class: nuvlabox
+category: nuvlabox
 image: /img/design/nuvlabox_category.png
 permalink: /products/nuvlabox-features.html
 overview: /products/nuvlabox.html

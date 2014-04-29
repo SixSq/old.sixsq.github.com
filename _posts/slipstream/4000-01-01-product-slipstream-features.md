@@ -2,6 +2,7 @@
 layout: article
 title: SlipStream
 class: slipstream
+category: slipstream
 permalink: /products/slipstream-features.html
 image: /img/design/slipstream_category.png
 overview: /products/slipstream.html
