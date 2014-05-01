@@ -20,7 +20,7 @@ sub: overview
 
 <p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" /></p>
 
-**SlipStream<sup>®</sup>: 1-click multi-cloud application deployment platform. Real multi-cloud solution built on open source software.**
+**SlipStream<sup>®</sup>: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software.**
 
 Key Principals
 =========
@@ -38,6 +38,8 @@ SlipStream is an application deployment automation platform, built on the follow
 * **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
 
 * **Built-in version control**: All key artefacts in the system are version controlled, ensuring nothing is ever lost.
+
+* **Enterprise App Store**: Use SlipStream to build your app store through simplified configuration and installation of your software
 
 All Clouds Supported
 ========
