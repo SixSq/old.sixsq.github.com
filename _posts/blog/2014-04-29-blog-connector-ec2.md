@@ -9,8 +9,8 @@ comments: true
 
 
 Here are instructions on how to configure the SlipStream Amazon EC2 connector.
-This connector is distributed by SixSq under a commercial license and is available for sale.
-Refer to the [pricing page](/products/slipstream-pricing.html) for details.
+This connector is distributed by SixSq under a commercial license and is available for purchase.
+Please refer to the [pricing page](/products/slipstream-pricing.html) for details or please feel free to contact the [SlipStream Support team](mailto:support@sixsq.com) with any questions on how the SlipStream Amazon EC2 connector can be beneficial to you.
 
 
 Prerequisite
@@ -24,13 +24,12 @@ For details on how to install the service, please refer to the
 Install the connector
 ----
 
-With each new commercial connector purchased, SixSq will provide you with a specific yum configuration.
+Once you have purchased a new commercial connector, SixSq will provide you with a specific yum configuration.
 Once your yum configuration is in place, you can install the connector executing the following command:
 
 	yum install slipstream-connector-ec2
 
-With the software installed, you need to restart the SlipStream service in order for it to take into account
-the new connector:
+With the software installed, you need to restart the SlipStream service in order for it to take the new connector into account:
 
 	service slipstream restart
 
@@ -63,7 +62,7 @@ connector by prepending the name followed by a semi colon (i.e. `:`). Here is an
 
 	cloud.connector.class = my-ec2:com.sixsq.slipstream.connector.aws.Ec2Connector
 
-You can also instantiate several times the connector (in compliance with your license) by
+You can also instantiate the connector several times (in compliance with your license) by
 comma separating the connector string. Here is an example:
 
 	cloud.connector.class = my-ec2-1:com.sixsq.slipstream.connector.aws.Ec2Connector, my-ec2-2:com.sixsq...
