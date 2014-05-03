@@ -24,17 +24,8 @@ For details on how to install the service, please refer to the
 Install the connector
 ----
 
-With each new commercial connector purchased, SixSq will provide you with a specific yum configuration.
-Once your yum configuration is in place, you can install the connector executing the following command:
-
-	yum install slipstream-connector-openstack
-
-With the software installed, you need to restart the SlipStream service in order for it to take into account
-the new connector:
-
-	service slipstream restart
-
-Now we need to configure SlipStream to take advantage of the new connector.
+The OpenStack connector is currently bundled with the SlipStream service. Your therefore don't need to
+do anything special to have access to the connector software, once you have installed the service.
 
 
 Load the connector in SlipStream
