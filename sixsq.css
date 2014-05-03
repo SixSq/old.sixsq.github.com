@@ -1297,3 +1297,12 @@ pre {
     border-radius: 3px;
     word-wrap: normal;
 }
+
+.shadow {
+    box-shadow: 0 0 10px #888888, 0 0 2px rgba(0,0,0,0.7);
+    -moz-box-shadow: 0 0 10px #888888, 0 0 2px rgba(0,0,0,0.7);
+    -webkit-box-shadow: 0 0 10px #888888, 0 0 2px rgba(0,0,0,0.7);
+
+   margin: 5px;
+}
+
