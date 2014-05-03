@@ -21,7 +21,7 @@ sub: overview
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
 
-**NuvlaBox<sup>®</sup>: The power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
+**NuvlaBox<sup>®</sup>: A simple cloud solution giving you the power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
 
 Key Principals
 ========
@@ -32,7 +32,7 @@ Key Principals
 
 * NuvlaBox includes a turn-key **IaaS** and **PaaS** cloud solution
 
-* Can be used as a local cloud or as a **remote-controlled appliance**, or both
+* Can be used as a local cloud server or as a **remote-controlled appliance**, or both
 
 * Powered by SlipStream, **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
@@ -41,6 +41,8 @@ Key Principals
 * Control all your NuvlaBoxes from the same **dashboard**
 
 * **Zero config** means it's a child's play to use
+
+* NuvlaBox gives you an affordable private cloud with the chance to scale out to a public cloud, giving you a simple hybrid cloud solution
 
 What's next?
 ====

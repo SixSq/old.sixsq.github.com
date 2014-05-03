@@ -26,6 +26,14 @@ img {
 	border: none;
 }
 
+ol ol {
+    list-style-type: lower-alpha;
+}
+
+ol ol ol {
+    list-style-type: lower-roman;
+}
+
 .launch-at-mwc {
 	background-repeat: no-repeat;
 	background-position: top left;
@@ -1286,9 +1294,6 @@ pre {
     line-height: 19px;
     overflow: auto;
     padding: 6px 10px;
-    border-radius: 3px
-}
-
-pre {
-    word-wrap: normal
+    border-radius: 3px;
+    word-wrap: normal;
 }

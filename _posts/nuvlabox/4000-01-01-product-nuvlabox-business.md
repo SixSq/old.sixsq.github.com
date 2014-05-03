@@ -21,13 +21,13 @@ Using the NuvlaBox makes business sense. Here are some of the benefits it can br
 
 * **Provides aggregation of sensor networks** Individual sensor readings are of limited use, but forwarding raw data via broadband network is expensive and not always possible due to scarce bandwidth and resources. NuvlaBox solves that problem.
 
-* **Perfect for SMEs wishing to access a small to medium-sized cloud** NuvlaBox offers an **affordable entry point** into private cloud computing
+* **Perfect for SMEs wishing to access a small to medium-sized private cloud** NuvlaBox offers an **affordable entry point** into private company cloud computing
 
 * **Ideal for larger enterprises wishing to federate smaller sites.** NuvlaBox can be interconnected to maximise sharing and optimise resource utilisation.
 
 * **Focus on your core operations, while taking advantage of cloud technology.** NuvlaBox is delivered as a factory certified hardware and software solution, including support, maintenance and training services.
 
-* Model solution for **franchise** networks
+* Model cloud solution for **franchise** networks
 
 What's next?
 ====
