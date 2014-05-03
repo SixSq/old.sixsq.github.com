@@ -1,14 +1,12 @@
 ---
 layout: article
-title: Configure Amazon EC2 Connector
+title: Amazon EC2 SlipStream Connector Configuration
 category: blog
 image: /img/design/slipstream_category.png
 author: Marc-Elian Bégin / Lionel Schaub
 comments: true
 ---
 
-
-**How to configure the SlipStream Amazon EC2 Connector**
 
 Here are instructions on how to configure the SlipStream Amazon EC2 connector.
 This connector is distributed by SixSq under a commercial license and is available for sale.
@@ -18,8 +16,8 @@ Refer to the [pricing page](/products/slipstream-pricing.html) for details.
 Prerequisite
 ----
 
-This installation recipe assumes that you have already installed the SlipStream server on the same server. 
-For details on how to install the server, please refer to the 
+This installation recipe assumes that you have already installed the SlipStream service on the same server. 
+For details on how to install the service, please refer to the 
 [online documentation](https://slipstream.sixsq.com/html/administrator-manual.html).
 
 
@@ -31,8 +29,8 @@ Once your yum configuration is in place, you can install the connector executing
 
 	yum install slipstream-connector-ec2
 
-With the software is installed, you need to restart the SlipStream service in order for it to take
-the new connector into account:
+With the software installed, you need to restart the SlipStream service in order for it to take into account
+the new connector:
 
 	service slipstream restart
 
@@ -54,7 +52,7 @@ parameter:
 
 	# cat /etc/slipstream/slipstream.conf
 	# SlipStream(tm) Server configuration file
-	slipstream.registration.enable = true
+	...
 
 	cloud.connector.class = com.sixsq.slipstream.connector.aws.Ec2Connector
 	
@@ -72,23 +70,20 @@ comma separating the connector string. Here is an example:
 
 Once the configuration file is set, login to SlipStream as a privileged user and load the configuration. The configuration
 page is available by clicking on the spanner icon at the top right of the screen. To load the changes made in the configuration
-file, simply click on the `Reload Configuration File` button.  You should then see the changed value in the
+file, simply click on the **Reload Configuration File** button.  You should then see the changed value in the
 *SlipStream Basics* section.
 
 
 **Configuration page**
 
 You can also define which connector to load, as per the Configuration file section above, using the web user
-interface.  Once logged-in with a privileged user (e.g. *super*), open the configuration page by clicking on the
-spanner icon at the top right of the screen.  Then open the *SlipStream Basics* section and drop in the
+interface.  Once logged-in with a privileged user (e.g. *super*), open the configuration page by clicking on the spanner icon at the top right of the screen.  Then open the *SlipStream Basics* section and drop in the
 value of the configuration, as per described in the section above. Here is a screenshot of the parameter to
 define:
 
 <p align="center"><img src="/img/content/blogs/cloud-config-param-screenshot.png" alt="SlipStream Configuation - Basics section"  class="shadow" width="900" /></p>
 
-Don't forget to save the configuration!
-
-Now that the connector is loaded, you need to configure it.
+**Don't forget to save the configuration!** Now that the connector is loaded, you need to configure it.
 
 
 **Super/privileged user**
@@ -112,8 +107,9 @@ you to configure how the connector is to communicate with the IaaS cloud endpoin
 **EC2 region**
 
 The EC2 region define where your EC2 instances will be deployed.
-Some parameters may be different between regions (e.g. image id: ami-...)
-If you want to use multiples regions you have to instantiate multiples connectors.
+Some parameters may be different between regions (e.g. image id: ami-...).
+If you want to use multiples regions concurrently, you will need to instantiate multiples times this 
+connector.
 
 
 **Cloud Client Connector**
@@ -124,48 +120,48 @@ In a default installation the URL will be `https://ip_or_hostname/downloads/ec2c
 
 **Orchestrator security group**
 
-The EC2 security group for the SlipStream Orchestrator.
-This security group need to allow TCP connexions from the Orchestrator itself to the SlipStream server and to the EC2 API.
-The default security group named `default` should work perfectly.
+The EC2 security group should allow TCP connexions from the Orchestrator itself to the SlipStream server and to the EC2 API.
+The default security group named `default` should normally work perfectly.
 
 
 **Image Id of the Orchestrator**
 
 The image id of the Orchestrator needs to match a Linux image with `wget` and `python` installed.
-An Ubuntu 12.04 will do the job perfectly (for the region `eu-west-1` the image id is `ami-a0dd3dd7`).
-On EC2 image ids start with `ami-`. 
+An Ubuntu 12.04 will do the job perfectly (at the time or writing, for the region `eu-west-1` the image id is `ami-a0dd3dd7`).
+EC2 image ids start with `ami-`. 
 You can found them in the EC2 web interface.
 
 
 **Quota**
 
-The quota is an internal feature of SlipStream which enable the SlipStream administrator to set a global quota for all users of a specified connector.
+The quota is SlipStream feature which enable the SlipStream administrator to set a default quota for all users of a specified connector.
 You can also override this value per user in the user profile.
-If this feature is disabled in SlipStream you can leave this field blank.
+If this feature is disabled in the *SlipStream Advanced* section of this page, you can leave this field blank.
 
 
 **Orchestrator instance type**
 
-The instance type is a name which is linked to an hardware specification defined by EC2.
-You can find the list of all possible values here: [https://aws.amazon.com/ec2/instance-types/]https://aws.amazon.com/ec2/instance-types/
-The Orchestrator don't need a big amount of ressources so you can choose a small instance type (like `t1.micro` or `m1.small`).
+The instance type is a name which is linked to a hardware specification defined by EC2.
+You can find the list of all possible values [here](https://aws.amazon.com/ec2/instance-types/).
+The Orchestrator doesn't need a big amount of resources so you can choose a small instance type (like `t1.micro` or `m1.small`).
 
 
 Configure native images for this connector instance
 ----
 
-Now you need to update SlipStream base images to add the image id and some parameters for EC2.
+Now you need to update SlipStream native images to add the image id and some parameters for OpenStack.
 
-Please go on a SlipStream base image (eg: Ubuntu 12.04) and click on the `Edit` button.
+Please go on a SlipStream base image (e.g. Ubuntu 12.04) and click on the *Edit* button.
 Add the image id for EC2 in the section named *Cloud Image Identifiers and Image Hierarchy*.
 
-And then configure the default instance type and the default security groups list on the tab *EC2* of the section *Cloud Configuration*.
+And then configure the default amount of CPU and RAM on the tab *ec2* (or the name you gave your
+EC2 connector earlier) of the section *Cloud Configuration*.
 
 
 User credentials
 ----
 
-The last step is to tell to your users to configure their credentials for EC2 in their user profile.
+Now that the connector is configured and the native images updated, inform your users that they need to configure their credentials for EC2 in their user profile to take advantage of your new connector.
 
 
 <span class='contact-us-placeholder'></span>
