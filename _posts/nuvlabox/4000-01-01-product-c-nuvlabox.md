@@ -15,34 +15,34 @@ pricing: /products/nuvlabox-pricing.html
 sub: overview
 ---
 
-<p/>
+<h1 class="slogan" align="center">Private cloud appliance<p/>and your own Enterprise Open App Store™</h1>
 
-<h1 class="slogan" align="center">Real cloud appliance<p/>... driven by an Enterprise Open App Store™.</h1>
+<p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="700" /></p>
 
-<p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="900" /></p>
+**NuvlaBox<sup>®</sup>: Simplest and cheapest private cloud solution, pre-installed and packaged in a fanless PC** 
 
-**NuvlaBox<sup>®</sup>: A simple cloud solution giving you the power of the cloud as a remote controlled appliance packaged in a fanless PC.** 
-
-Key Principals
+What does the NuvlaBox give you?
 ========
 
-* **Designed in Switzerland** and **built in Europe** 
+A **private cloud solution** for small to medium-sized enterprises
 
-* The NuvlaBox is a **local cloud solution** for small to medium-sized enterprises and home use
+**Replace up to 8 of your servers**, thereby **saving money** on hardware and running costs
 
-* NuvlaBox includes a turn-key **IaaS** and **PaaS** cloud solution
+**Zero config** means it's a child's play to use
 
-* Can be used as a local cloud server or as a **remote-controlled appliance**, or both
+An **affordable private cloud** which can scale out to public clouds, giving you a **simple hybrid cloud solution**
 
-* Powered by SlipStream, **applications can be installed and configured remotely**, relieving the headache of frequent updates
+Peace of mind of an appliance **designed in Switzerland** and **built in Europe** 
 
-* Entirely built out of **open source software**
+Pre-installed and turn-key **IaaS** and **PaaS** cloud software
 
-* Control all your NuvlaBoxes from the same **dashboard**
+Can be used as a local cloud server or as a **remote-controlled appliance**, or both
 
-* **Zero config** means it's a child's play to use
+Powered by [SlipStream<sup>®</sup>](/products/slipstream.html), **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-* NuvlaBox gives you an affordable private cloud with the chance to scale out to a public cloud, giving you a simple hybrid cloud solution
+Entirely built out of **open source software**
+
+Control all your NuvlaBoxes from the same **dashboard**
 
 What's next?
 ====

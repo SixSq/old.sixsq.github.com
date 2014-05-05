@@ -18,28 +18,28 @@ sub: overview
 
 <h1 class="slogan" align="center">You get the power of the cloud<p></p>... we take away the complexity.</h1>
 
-<p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="900" /></p>
+<p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="700" /></p>
 
-**SlipStream<sup>®</sup>: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software.**
+**SlipStream<sup>®</sup>: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software**
 
-Key Principals
+What does SlipStream give you?
 =========
 
-SlipStream is an application deployment automation platform, built on the following key principals:
+**Financial benefits:** SlipStream allows you to automate deployments thereby reducing time spent on configuring and installing applications
 
-* **Real multi-cloud**: SlipStream supports all mainstream cloud solutions and more. Your recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently.
+**Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
 
-* **No voodoo magic**: Everything is above board, with a simple yet rich set of functionalities to create, share and use application deployments.
+**Reduced operational costs:** Redeploy your engineering skills to more innovative and creative tasks.
 
-* **Freedom of choice**: SlipStream supports all mainstream IaaS cloud solutions, giving you the freedom to choose the right cloud solutions and providers to do the job
+**Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
 
-* **No modification to your application required**: SlipStream's simple script-based automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+**Self-service Provisioning**: SlipStream's simple script-based automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
 
-* **Full multi-tenant support**: Users can control who sees what, with private, group and public sharing policies.
+**DevOps Cloud Solution** Communication, collaboration and integration between software developers and IT operations professionals can only maximise the predictability, efficiency, security and maintainability of your operational processes, thereby saving you time and money.
 
-* **Built-in version control**: All key artefacts in the system are version controlled, ensuring nothing is ever lost.
+**Freedom of choice**: SlipStream supports all mainstream cloud solutions and more (see below). Your recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently, giving you the freedom to choose the right cloud solutions and providers to do the job
 
-* **Enterprise App Store**: Use SlipStream to build your app store through simplified configuration and installation of your software
+**Enterprise App Store**: Use SlipStream to build your app store through simplified configuration and installation of your software
 
 All Clouds Supported
 ========
