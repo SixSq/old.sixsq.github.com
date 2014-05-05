@@ -1,17 +1,16 @@
 ---
 layout: article
-title: OpenStack SlipStream Connector Configuration
+title: How to Configure Your OpenStack SlipStream Connector
 category: blog
 image: /img/design/slipstream_category.png
 author: Marc-Elian Bégin / Lionel Schaub
 comments: true
 ---
 
-Here are instructions on how to configure the SlipStream OpenStack connector.
-This connector is distributed by SixSq under an open source license and is also available for sale to take
-advantage of SixSq's support and maintenance.
-Refer to the [pricing page](/products/slipstream-pricing.html) for details.
 
+The following instructions will guide you through the procedure of configuring a SlipStream OpenStack connector, such that you can add your OpenStack cloud to the list of clouds your SlipStream can talk to.
+
+The connector is distributed by SixSq under a commercial license and is available via various pricing plans. Please refer to the [pricing page](/products/slipstream-pricing.html) for details or feel free to contact the [SlipStream Support team](mailto:support@sixsq.com) with any questions about the SlipStream vCloud connector.
 
 Prerequisite
 ----
@@ -54,7 +53,7 @@ connector by prepending the name followed by a semi colon (i.e. `:`). Here is an
 
 	cloud.connector.class = my-openstack:com.sixsq.slipstream.connector.openstack.OpenStackConnector
 
-You can also instantiate several times the connector (in compliance with your license) by
+You can also instantiate the connector several times (in compliance with your license) by
 comma separating the connector string. Here is an example:
 
 	cloud.connector.class = my-os-1:com.sixsq.slipstream.connector.openstack.OpenStackConnector, my-os-2:com.sixsq...
@@ -80,7 +79,7 @@ define:
 **Super/privileged user**
 
 By default, SlipStream configures a privileged user called *super*, with the default password `supeRsupeR`.
-Please make sure you change this default password.
+**Please make sure you change this default password.**
 
 
 Configure the connector instance in SlipStream
@@ -163,6 +162,7 @@ Now that the connector is configured and the native images updated, inform your 
 
 
 <span class='contact-us-placeholder'></span>
+
 
 
 

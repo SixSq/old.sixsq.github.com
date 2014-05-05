@@ -7,10 +7,9 @@ author: Marc-Elian Bégin / Lionel Schaub
 comments: true
 ---
 
+The following instructions will guide you through the procedure of installing and configuring a SlipStream Amazon EC2 connector, such that you can add EC2 to the list of clouds your SlipStream can talk to.
 
-Here are instructions on how to configure the SlipStream Amazon EC2 connector.
-This connector is distributed by SixSq under a commercial license and is available for purchase.
-Please refer to the [pricing page](/products/slipstream-pricing.html) for details or please feel free to contact the [SlipStream Support team](mailto:support@sixsq.com) with any questions on how the SlipStream Amazon EC2 connector can be beneficial to you.
+The connector is distributed by SixSq under a commercial license and is available via various pricing plans. You can check it out with a **free** trail via our [SaaS service](http://sixsq.com/products/slipstream-tryme.html). Please refer to the [pricing page](/products/slipstream-pricing.html) for details or feel free to contact the [SlipStream Support team](mailto:support@sixsq.com) with any questions about how the SlipStream Amazon EC2 connector can be beneficial to you and your business.
 
 
 Prerequisite
@@ -88,13 +87,13 @@ define:
 **Super/privileged user**
 
 By default, SlipStream configures a privileged user called *super*, with the default password `supeRsupeR`.
-Please make sure you change this default password.
+**Please make sure you change this default password.**
 
 
 Configure the connector instance in SlipStream
 ----
 
-Once the connector is loaded, you need to configure the connector.  While you can also define these parameters
+Once the connector is loaded, you need to configure it.  While you can also define these parameters
 using the configuration file, we only show here how to do it using the web user interface.
 
 With the connector loaded in SlipStream, a new section in the configuration page will appear, allowing
@@ -105,16 +104,16 @@ you to configure how the connector is to communicate with the IaaS cloud endpoin
 
 **EC2 region**
 
-The EC2 region define where your EC2 instances will be deployed.
+The EC2 region defines where your EC2 instances will be deployed.
 Some parameters may be different between regions (e.g. image id: ami-...).
-If you want to use multiples regions concurrently, you will need to instantiate multiples times this 
-connector.
+If you want to use multiple regions concurrently, you will need to instantiate this 
+connector multiple times. 
 
 
 **Cloud Client Connector**
 
-This field correspond to the URL where the Orchestrator will download the tarball of the connector for the SlipStream Client.
-In a default installation the URL will be `https://ip_or_hostname/downloads/ec2client.tgz` where `ip_or_hostname` correspond to the IP or the hostname of your SlipStream Server.
+This field corresponds to the URL where the Orchestrator will download the tarball of the connector for the SlipStream Client.
+In a default installation the URL will be `https://ip_or_hostname/downloads/ec2client.tgz` where `ip_or_hostname` corresponds to the IP or the hostname of your SlipStream Server.
 
 
 **Orchestrator security group**
@@ -133,8 +132,8 @@ You can found them in the EC2 web interface.
 
 **Quota**
 
-The quota is SlipStream feature which enable the SlipStream administrator to set a default quota for all users of a specified connector.
-You can also override this value per user in the user profile.
+The quota is a SlipStream feature which enables the SlipStream administrator to set a default quota for all users of a specified connector.
+You can also override this value for each user in the user profile.
 If this feature is disabled in the *SlipStream Advanced* section of this page, you can leave this field blank.
 
 
@@ -164,6 +163,7 @@ Now that the connector is configured and the native images updated, inform your 
 
 
 <span class='contact-us-placeholder'></span>
+
 
 
 
