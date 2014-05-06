@@ -25,7 +25,7 @@ sub: overview
 What does SlipStream give you?
 =========
 
-**Financial benefits:** SlipStream allows you to automate deployments thereby reducing time spent on configuring and installing applications
+**Financial benefits:** SlipStream is a deployment automation tool which allows you to deploy applications automatically, thereby reducing time spent on configuring and installing applications
 
 **Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
 
@@ -33,9 +33,9 @@ What does SlipStream give you?
 
 **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
 
-**Self-service Provisioning**: SlipStream's simple script-based automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+**Self-service Provisioning**: SlipStream's simple script-based process automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
 
-**DevOps Cloud Solution** Communication, collaboration and integration between software developers and IT operations professionals can only maximise the predictability, efficiency, security and maintainability of your operational processes, thereby saving you time and money.
+**DevOps Cloud Solution** Communication, collaboration and integration between software developers and IT operations professionals can only maximise the predictability, efficiency, security and maintainability of your operational processes. End-to-end operational efficiency will save your business time and money.
 
 **Freedom of choice**: SlipStream supports all mainstream cloud solutions and more (see below). Your recipes and blueprints are truly independent of the target cloud solution or provider. You can also take advantage of this neutrality by deploying across several clouds concurrently, giving you the freedom to choose the right cloud solutions and providers to do the job
 

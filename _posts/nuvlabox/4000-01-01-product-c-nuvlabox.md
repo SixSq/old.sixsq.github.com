@@ -30,6 +30,8 @@ A **private cloud solution** for small to medium-sized enterprises
 
 **Zero config** means it's a child's play to use
 
+Includes **8 VMs**, built-in wifi, built-in security
+
 An **affordable private cloud** which can scale out to public clouds, giving you a **simple hybrid cloud solution**
 
 Peace of mind of an appliance **designed in Switzerland** and **built in Europe** 
