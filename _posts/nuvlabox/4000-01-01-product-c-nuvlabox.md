@@ -24,7 +24,7 @@ sub: overview
 What does the NuvlaBox give you?
 ========
 
-A **private cloud solution** for small to medium-sized enterprises
+A **private cloud solution or cloud server** for small to medium-sized enterprises
 
 **Replace up to 8 of your servers**, thereby **saving money** on hardware and running costs
 
@@ -42,9 +42,14 @@ Can be used as a local cloud server or as a **remote-controlled appliance**, or 
 
 Powered by [SlipStream<sup>®</sup>](/products/slipstream.html), **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-Entirely built out of **open source software**
+**240 GB** SSD Storage
 
-Control all your NuvlaBoxes from the same **dashboard**
+**16 GB** RAM
+
+**i5 Intel processor**
+
+**Plenty of USB ports**
+
 
 What's next?
 ====
