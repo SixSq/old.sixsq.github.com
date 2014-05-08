@@ -24,7 +24,7 @@ sub: overview
 What does the NuvlaBox give you?
 ========
 
-A **private cloud solution or cloud server** for small to medium-sized enterprises
+An **SME private cloud solution or cloud server** 
 
 **Replace up to 8 of your servers**, thereby **saving money** on hardware and running costs
 
