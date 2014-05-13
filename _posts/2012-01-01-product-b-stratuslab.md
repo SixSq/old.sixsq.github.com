@@ -113,17 +113,6 @@ page](http://stratuslab.eu/about/), or contact the StratusLab
 if you have questions or feedback on the
 distribution.
 
-Commercial Support
-==================
-
-Need support for your evaluation of StratusLab? 
-[Get in touch](mailto:support@sixsq.com) directly with
-SixSq.
-
-We can also help you plan your transition towards clouds, identify risks
-and define a realistic and safe roadmap. This will help you a
-integrate StratusLab with your existing infrastructure and services.
-
 The StratusLab Team
 ===================
 
@@ -135,3 +124,17 @@ S.A.](http://grnet.gr/), Greece; [SixSq Sàrl](http://sixsq.com), Switzerland;
 College Dublin](http://tcd.ie/), Ireland; as well as several individuals.
 This collaboration presents a balanced combination of
 academic, research and industrial institutes with complementary capabilities.
+
+Commercial Support
+==================
+
+Need support for your evaluation of StratusLab? Get in touch directly with
+SixSq.
+
+<span class='contact-us-placeholder'></span>
+ 
+
+We can also help you plan your transition towards clouds, identify risks
+and define a realistic and safe roadmap. This will help you a
+integrate StratusLab with your existing infrastructure and services.
+
