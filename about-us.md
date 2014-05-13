@@ -31,6 +31,12 @@ IBM Partner World Member
 
 SixSq is member of the [IBM Partner World](http://www.ibm.com/partnerworld) program. We have certified [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.
 
+Exoscale
+------
+
+![Exoscale](/img/content/exoscale-logo-full-black.png "Exoscale Technology Partner")
+
+SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud spectrum, Exoscale provides tailored solutions which allow clients focus on their core business. With the SlipStream connector now in place, customers can deploy their applications to the Exoscale cloud with one-click, making efficiency savings by deploying simple to complex applications repeatedly with orchestration and dependence management.
 
 Helix Nebula - The Science Cloud
 ------
