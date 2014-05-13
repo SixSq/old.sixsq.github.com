@@ -19,7 +19,7 @@ sub: overview
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="700" /></p>
 
-**NuvlaBox<sup>®</sup>: Simplest and cheapest private cloud solution, pre-installed and packaged in a fanless PC** 
+**NuvlaBox<sup>®</sup>: Simplest and cheapest private cloud solution, pre-installed and packaged in a fanless PC. Having your own private cloud has never been this cheap and easy.** 
 
 What does the NuvlaBox give you?
 ========
@@ -40,15 +40,14 @@ Pre-installed and turn-key **IaaS** and **PaaS** cloud software
 
 Can be used as a local cloud server or as a **remote-controlled appliance**, or both
 
-Powered by [SlipStream<sup>®</sup>](/products/slipstream.html), **applications can be installed and configured remotely**, relieving the headache of frequent updates
+Powered by [**SlipStream<sup>®</sup>**](/products/slipstream.html), **applications can be installed and configured remotely**, relieving the headache of frequent updates
 
-**240 GB** SSD Storage
+A **beautifully designed fan-less** PC, with the following standard specification:
 
-**16 GB** RAM
-
-**i5 Intel processor**
-
-**Plenty of USB ports**
+ * **240 GB SSD** Storage
+ * **16 GB** RAM
+ * **i5 Intel processor**
+ * Plenty of USB ports
 
 
 What's next?
