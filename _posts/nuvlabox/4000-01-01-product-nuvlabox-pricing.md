@@ -82,7 +82,7 @@ A suite of NuvlaBox services will soon follow.
         </ul> 
     </div>
     <div class="plan">
-        <h3 class="soon">Remote Control<span>Soon</span></h3>
+        <h3 class="soon">Remote<br/>Control<span>Soon</span></h3>
         <ul>
             <li><b>Access your NuvlaBox in a secure way, from anywhere, anytime</b></li>
         </ul> 
