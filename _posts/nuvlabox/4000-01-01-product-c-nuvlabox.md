@@ -19,7 +19,7 @@ sub: overview
 
 <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" width="700" /></p>
 
-**NuvlaBox<sup>®</sup>: Simplest and cheapest private cloud solution, pre-installed and packaged in a fanless PC. Having your own private cloud has never been this cheap and easy.** 
+**NuvlaBox<sup>®</sup>: Simplest and cheapest cloud solution, pre-installed and packaged in a fanless PC. Having your own cloud has never been this affordable and easy.** 
 
 What does the NuvlaBox give you?
 ========
@@ -32,7 +32,7 @@ An **SME private cloud solution or cloud server**
 
 Includes **8 VMs**, built-in wifi, built-in security
 
-An **affordable private cloud** which can scale out to public clouds, giving you a **simple hybrid cloud solution**
+An **affordable** solution which can scale out to public clouds, giving you a **simple hybrid cloud**
 
 Peace of mind of an appliance **designed in Switzerland** and **built in Europe** 
 
