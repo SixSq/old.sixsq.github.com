@@ -4,8 +4,8 @@ $(document).ready(function() {
 		speed: 500,
 		mode: 'fade',
 		pause: 5000,
-		nextText: '<img src="img/design/next.png"/>',
-		prevText: '<img src="img/design/prev.png"/>',
+		nextText: '<img src="/img/design/next.png"/>',
+		prevText: '<img src="/img/design/prev.png"/>',
 	});
 
 	Cufon.replace('#slider1 h1, .products h2, .personae h2, .customers h3', {

@@ -21,7 +21,7 @@ NuvlaBox is not just an appliance, it can also be supported by our online servic
 <div style="background-position: top left 60px">
     <div class="pricing-table" style="margin-left: 340px; margin-right: 340px;">
         <div class="plan">
-            <h3><img style="width: 80%" src="img/design/nuvlabox_logo.png"><span>€1495</span></h3>
+            <h3><img style="width: 80%" src="/img/design/nuvlabox_logo.png"><span>€1495</span></h3>
             <ul>
                 <li><b>Integral cloud solution</b></li>
                 <li><b>Plug-and-play</b></li>
@@ -82,7 +82,7 @@ A suite of NuvlaBox services will soon follow.
         </ul> 
     </div>
     <div class="plan">
-        <h3 class="soon">Remote Control<span>Soon</span></h3>
+        <h3 class="soon">Remote<br/>Control<span>Soon</span></h3>
         <ul>
             <li><b>Access your NuvlaBox in a secure way, from anywhere, anytime</b></li>
         </ul> 
