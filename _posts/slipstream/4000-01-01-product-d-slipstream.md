@@ -25,7 +25,7 @@ sub: overview
 What does SlipStream give you?
 =========
 
-**Financial benefits:** SlipStream is a company cloud software, a deployment automation tool which allows you to deploy applications automatically, thereby reducing time spent on configuring and installing applications
+**Financial benefits:** SlipStream is a cloud software, a deployment automation tool which allows you to deploy applications automatically, thereby reducing time spent on configuring and installing applications
 
 **Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
 

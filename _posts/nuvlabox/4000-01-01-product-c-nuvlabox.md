@@ -34,7 +34,7 @@ Includes **8 VMs**, built-in wifi, built-in security
 
 An **affordable** solution which can scale out to public clouds, giving you a **simple hybrid cloud**
 
-Peace of mind of an appliance **designed in Switzerland** and **built in Europe** 
+A European cloud in a box, with the peace of mind of an appliance **designed in Switzerland** and **built in Europe** 
 
 Pre-installed and turn-key **IaaS** and **PaaS** cloud software
 
