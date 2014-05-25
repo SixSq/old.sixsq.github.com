@@ -24,7 +24,7 @@ service, please refer to the [online documentation](https://slipstream.sixsq.com
 
 ## Install the connector
 
-The OpenStack connector is currently bundled with the SlipStream service. Your
+The OpenStack connector is currently bundled with the SlipStream service. You
 therefore don't need to do anything special to have access to the connector
 software, once you have installed the service.
 
