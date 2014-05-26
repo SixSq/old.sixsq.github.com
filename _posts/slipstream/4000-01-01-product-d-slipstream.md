@@ -33,7 +33,7 @@ What does SlipStream give you?
 
 **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
 
-**Self-service Provisioning**: SlipStream's simple script-based process automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
+**Self-service Provisioning**: Self service IT, commonly known as cloud self service, is becoming increasingly important. It gives end user the possibility to self-provision resources and set up or launch a service or application without the intervention of dedicated IT personnel, thereby increasing efficiency and freedom to make the right choice. SlipStream's simple script-based process automation means that you can deploy any app with no changes required. We also support all standard configuration management solutions, such as Chef and Puppet.
 
 **DevOps Cloud Solution** Communication, collaboration and integration between software developers and IT operations professionals can only maximise the predictability, efficiency, security and maintainability of your operational processes. End-to-end operational efficiency will save your business time and money.
 
