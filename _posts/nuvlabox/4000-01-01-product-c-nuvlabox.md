@@ -13,6 +13,11 @@ business: /products/nuvlabox-business.html
 techspecs: /products/nuvlabox-tech.html
 pricing: /products/nuvlabox-pricing.html
 sub: overview
+twitter-highlight-1-title: What does the NuvlaBox give you?
+twitter-highlight-1-content: An SME private cloud solution or cloud server.
+twitter-highlight-2-title: Price
+twitter-highlight-2-content: €1495
+twitter-image: /img/content/nuvlabox_indexcard_front.png
 ---
 
 <h1 class="slogan" align="center">Private cloud appliance<p/>and your own Enterprise Open App Store™</h1>

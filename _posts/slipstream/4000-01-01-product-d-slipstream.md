@@ -14,6 +14,11 @@ tryme: /products/slipstream-tryme.html
 techspecs: /products/slipstream-tech.html
 pricing: /products/slipstream-pricing.html
 sub: overview
+twitter-highlight-1-title: What does SlipStream give you?
+twitter-highlight-1-content: Financial benefits, Reduced time to market, Freedom of choice, Enterprise App Store, ...
+twitter-highlight-2-title: All Clouds Supported
+twitter-highlight-2-content: SlipStream now support all mainstream clouds.
+twitter-image: /img/content/slipstream_schema_color_on_transparent_2500px.png
 ---
 
 <h1 class="slogan" align="center">You get the power of the cloud<p></p>... we take away the complexity.</h1>
