@@ -31,5 +31,32 @@
   </script>
 
 
+{% if page.title and page.summary %}
+  {% if page.category == 'products' and (page.image or page.twitter-image) and page.twitter-highlight-1-title and page.twitter-highlight-1-content and page.twitter-highlight-2-title and page.twitter-highlight-2-content %}
+  <meta name="twitter:card" content="product">
+  {% else %}
+  <meta name="twitter:card" content="summary">
+  {% endif %}
+  <meta name="twitter:site" content="@sixsq">
+  {% if page.twitter-author %}
+  <meta name="twitter:creator" content="{{ page.twitter-author }}">
+  {% endif %}
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.summary }}">
+  {% if page.twitter-image %}
+    {% assign twitter-image = page.twitter-image %}
+  {% elsif page.image %}
+    {% assign twitter-image = page.image %}
+  {% endif %}
+  {% if twitter-image %}
+  <meta name="twitter:image" content="http://sixsq.com{{ twitter-image }}">
+  {% endif %}
+  {% if page.category == 'products' and (page.image or page.twitter-image) and page.twitter-highlight-1-title and page.twitter-highlight-1-content and page.twitter-highlight-2-title and page.twitter-highlight-2-content %}
+  <meta name="twitter:data1" content="{{ page.twitter-highlight-1-title }}">
+  <meta name="twitter:label1" content="{{ page.twitter-highlight-1-content }}">
+  <meta name="twitter:data2" content="{{ page.twitter-highlight-2-title }}">
+  <meta name="twitter:label2" content="{{ page.twitter-highlight-2-content }}">
+  {% endif %}
+{% endif %}
 
 </head>

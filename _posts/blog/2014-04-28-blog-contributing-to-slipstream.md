@@ -5,6 +5,8 @@ category: blog
 image: /img/design/slipstream_category.png
 author: Lionel Schaub
 comments: true
+summary: Perhaps there's a new, cool and exciting feature that you're dying to see in SlipStream, maybe you want to use SlipStream with a unsupported Cloud or you simply found a bug. All these reasons may lead you to want to contribute.
+twitter-author: "@LionelS_ch"
 ---
 
 **Why contribute?**
