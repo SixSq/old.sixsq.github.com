@@ -855,6 +855,7 @@ div.bx-viewport {
     float: left;
     display: block;
     width: 942px;
+    height: 190px;
     color: #9b9b9b;
     background-color: #262626;
     padding: 20px 20px 40px 30px;
@@ -865,7 +866,7 @@ div.bx-viewport {
 .footer_menu {
 	float: left;
 	width: 175px;
-	height: 170px;
+	height: 190px;
 	background: transparent url(img/design/footer_separator.jpg) no-repeat scroll right top;
 }
 
@@ -901,7 +902,7 @@ div.bx-viewport {
 .adress_copyright {
 	float: left;
 	width: 295px;
-	height: 170px;
+	height: 190px;
 	padding: 0px 25px 0px 25px;
 	font-size: 12px;
 	background: transparent url(img/design/footer_separator.jpg) no-repeat scroll right top;
@@ -927,7 +928,7 @@ div.bx-viewport {
 .contact_us {
 	float: left;
 	width: 190px;
-	height: 170px;
+	height: 190px;
 	padding: 0px 25px 0px 25px;
 	line-height: 1.5;
 	font-size: 12px;
@@ -959,7 +960,7 @@ div.bx-viewport {
 
 .follow_us {
 	float: left;
-	height: 170px;
+	height: 190px;
 	padding: 0px 0px 0px 25px;
 }
 
