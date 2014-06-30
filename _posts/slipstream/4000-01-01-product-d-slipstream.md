@@ -15,9 +15,9 @@ techspecs: /products/slipstream-tech.html
 pricing: /products/slipstream-pricing.html
 sub: overview
 twitter-highlight-1-title: What does SlipStream give you?
-twitter-highlight-1-content: Financial benefits, Reduced time to market, Freedom of choice, Enterprise App Store, ...
-twitter-highlight-2-title: All Clouds Supported
-twitter-highlight-2-content: SlipStream now support all mainstream clouds.
+twitter-highlight-1-content: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software
+twitter-highlight-2-title: Freedom of choice
+twitter-highlight-2-content: SlipStream supports all mainstream clouds.
 twitter-image: /img/content/slipstream_schema_color_on_transparent_2500px.png
 ---
 
