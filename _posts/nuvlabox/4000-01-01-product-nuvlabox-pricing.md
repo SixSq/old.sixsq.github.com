@@ -60,7 +60,7 @@ A suite of NuvlaBox services are also available, allowing you to get even more o
         /month
         <ul>
             <li><b>Upgrade releases</b></li>
-            <li><b>Support from our expert team, including up to 10 support calls</b></li>
+            <li><b>Support from our expert team, including up to 4 support calls per month</b></li>
         </ul> 
     </div>
     <div class="plan" style="height: 300px;">
