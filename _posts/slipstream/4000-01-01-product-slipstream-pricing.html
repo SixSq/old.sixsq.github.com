@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article_slipstream
 title: SlipStream
 class: slipstream
 category: slipstream

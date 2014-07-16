@@ -1,15 +1,10 @@
 ---
-layout: article
+layout: article_nuvlabox
 title: NuvlaBox
 class: nuvlabox
 category: nuvlabox
 image: /img/design/nuvlabox_category.png
 permalink: /products/nuvlabox-features.html
-overview: /products/nuvlabox.html
-features: /products/nuvlabox-features.html
-business: /products/nuvlabox-business.html
-techspecs: /products/nuvlabox-tech.html
-pricing: /products/nuvlabox-pricing.html
 sub: features
 ---
 
@@ -47,12 +42,3 @@ In more detail, the NuvlaBox provides the following features:
 * **Designed in Switzerland - Made in Europe:** NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping. 
 
 * **Wifi network to reach your devices.** NuvlaBox can establish a Wi-Fi network allowing you to reach devices and sensors.
-
-What's next?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
-
-<span class='contact-us-placeholder'></span>
-
-<span class='order-now-placeholder'></span>
