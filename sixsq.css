@@ -695,9 +695,16 @@ div.bx-viewport {
 	margin-top: 0px;
 }
 
+/* Nutshell */
+
+.list_nutshell section{
+  height: 50px;
+}
+
+
 /* Use cases */
 
-.list_usecases, .list_users {
+.list_usecases, .list_users, .list_nutshell {
   border: 1px solid #CCC;
   -moz-border-radius: 4px;
   -webkit-border-radius: 4px;
@@ -708,13 +715,13 @@ div.bx-viewport {
   background-color: #E2E2E2;
 }
 
-.list_usecases div, .list_users div {
+.list_usecases div, .list_users div, .list_nutshell div {
   float: left;
   margin: 0 3% 15px 0;
   width: 30%;
 }
 
-.list_usecases h5, .list_users h5 {
+.list_usecases h5, .list_users h5, .list_nutshell h5 {
   color: #353d17;
   margin: 0 0 6px;    
 }
