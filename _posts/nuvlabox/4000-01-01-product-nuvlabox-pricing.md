@@ -15,7 +15,7 @@ NuvlaBox is a cloud appliance, powered by smart software. Several options are po
 <h1>NuvlaBox Appliance</h1>
 
 <div style="background-position: top left 60px">
-    <div class="pricing-table" style="margin-left: 360px; margin-right: 380px;">
+    <div class="pricing-table" style="margin-left: 360px; margin-right: 260px;">
         <div class="plan">
             <h3><img style="width: 80%" src="/img/design/nuvlabox_logo.png"><span>€1495</span></h3>
             <ul>
