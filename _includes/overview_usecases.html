@@ -1,9 +1,9 @@
-<h1>NuvlaBox Use Cases</h1>
+<h1>{{ page.title }} Use Cases</h1>
 <div class="list_usecases clearfix">
     {% for post in site.posts %}
     {% if post.category == "usecases" and post.class == page.class and post.layout == 'article' and post.favourite %}
     <div>
-      <a href="/products/nuvlabox-usecases.html#{{ post.title | replace:' ','-' }}">
+      <a href="/products/{{ page.class }}-usecases.html#{{ post.title | replace:' ','-' }}">
         <h3>
             {{ post.title }}
         </h3>
@@ -15,6 +15,6 @@
     {% endif %}
     {% endfor %}
     <div style="clear: both; float: left; font-weight: bold;">
-      <a href="/products/nuvlabox-usecases.html" style="color: #a00100;">Read more Use Cases</a>
+      <a href="/products/{{ page.class }}-usecases.html" style="color: #a00100;">Read more Use Cases</a>
     </div>
 </div>

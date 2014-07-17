@@ -43,8 +43,6 @@
 
                     {% include overview_usecases.html %}
 
-                    {% include summary.html %}
-
                     {% include whats-next-and-order.html %}
 
                 </div>
@@ -55,7 +53,7 @@
 
     </div>
 
-    <script type="text/javascript">$("#sub_{{ page.sub }} > a").addClass("current");</script>
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 
   </body>
 </html>

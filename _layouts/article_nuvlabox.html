@@ -56,13 +56,7 @@
 
     </div>
 
-    {% if page.class == "slipstream" %}
     <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% elsif page.class == "nuvlabox"" %}
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% else %}
-    <script type="text/javascript">$("#menu_{{ page.category }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% endif %}
 
   </body>
 </html>

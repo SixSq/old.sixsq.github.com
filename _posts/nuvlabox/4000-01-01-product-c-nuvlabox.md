@@ -22,7 +22,7 @@ twitter-image: /img/content/nuvlabox_indexcard_front.png
 NuvlaBox in a nutshell
 ====
 
-**NuvlaBox<sup>®</sup>: Pre-installed and ready to go in minutes, a fanless PC, powered with 1-click application deployment App Store. Having your own cloud has never been this affordable, secure and easy.** 
+**Pre-installed and ready to go in minutes, a fanless PC, powered with 1-click application deployment App Store. Having your own cloud has never been this affordable, secure and easy.** 
 
 <div class="list_nutshell clearfix">                
   <div>
