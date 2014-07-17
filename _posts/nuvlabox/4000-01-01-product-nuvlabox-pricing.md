@@ -10,7 +10,7 @@ sub: pricing
 
 <h1>Pricing</h1>
 
-NuvlaBox is a cloud appliance, powered by smart software. Several options are possible such that you can take full advantage of its potential, at the right price.  The Use-Case page provides a number of examples of usage including pricing details. You will find on this page the costs for each option, such that you have a clear idea of the cost, and therefore savings, that NuvlaBox enables.
+NuvlaBox is a cloud appliance, powered by smart software. Several options are possible such that you can take full advantage of its potential, at the right price.  The [Use-Case page](/products/nuvlabox-usecases.html) provides a number of examples of usage, including pricing details. You will find on this page the costs for each option, giving you have a clear idea of the cost, and therefore savings, that NuvlaBox entails.
 
 <h1>NuvlaBox Appliance</h1>
 

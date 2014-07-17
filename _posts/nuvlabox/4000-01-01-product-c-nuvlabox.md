@@ -22,7 +22,7 @@ twitter-image: /img/content/nuvlabox_indexcard_front.png
 NuvlaBox in a nutshell
 ====
 
-**NuvlaBox<sup>®</sup>: Pre-installed and ready to go in minutes, a fanless PC, powered with 1-click application deployment App Store. Having your own cloud has never been this affordable, secure and easy.** 
+**NuvlaBox<sup>®</sup>: Pre-installed and ready to go in minutes, a fanless PC, powered by 1-click application deployment App Store. Having your own cloud has never been this affordable, secure and easy.** 
 
 <div class="list_nutshell clearfix">                
   <div>
@@ -36,7 +36,7 @@ NuvlaBox in a nutshell
           Compact
       </h3>
       <section>
-          Replaces up to 8 of your servers, thereby saving money on hardware and running costs.
+          Replace up to 8 of your servers with an appliance as small as a modem...or 2 Swiss chocolate boxes.
       </section>
   </div>
   <div>
@@ -44,7 +44,7 @@ NuvlaBox in a nutshell
           Simple
       </h3>
       <section>
-          Smart factory settings and zero config means it's a child's play to setup and use.
+          Smart factory settings and zero config means it's a child's play to setup and use. 
       </section>
   </div>
   <div>
