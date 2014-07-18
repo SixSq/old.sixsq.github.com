@@ -26,7 +26,7 @@ The catalogue price of a NuvlaBox is [€1495](/products/nuvlabox-pricing.html).
 
 Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional [*Recipe Creation Service*](/products/nuvlabox-pricing.html).
 
-To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs SlipStream as a SaaS, you will most probably want to run your own version for this type of usage. Please refer to the [SlipStream pricing page](/products/slipstream-pricing.html) for details. Please note that you will need a connector instance per box. We support both permanent and subscription license schemes. Bulk pricing is also available on request.
+To remote control boxes, you will need a separate SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SlipStream already runs in the NuvlaBox, it can also be used to remotely control NuvlaBoxes. SixSq runs SlipStream as a SaaS, providing convenience and peace of mind, but you can also run your own version. Please refer to the [SlipStream pricing page](/products/slipstream-pricing.html) for details. Also note that you will need a connector instance per box, whether you choose the SaaS option or run your own SlipStream instance.
 
 If you need deployment recipes or blueprints to automate application deployment, SixSq will be happy to help you with this task, via our professional service.  Just [get in touch](mailto:info@sixsq.com).
 

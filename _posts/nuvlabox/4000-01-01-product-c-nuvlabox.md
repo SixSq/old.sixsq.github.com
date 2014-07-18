@@ -65,7 +65,7 @@ NuvlaBox in a nutshell
   </div>
   <div>
       <h3>
-          Affordable
+          Scalable
       </h3>
       <section>
           Can scale out to remote or public clouds, giving you the simplest ever complete hybrid cloud solution.
