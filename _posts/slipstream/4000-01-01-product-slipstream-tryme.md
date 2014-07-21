@@ -27,10 +27,3 @@ Give SlipStream a try on our hosted service. The use of SlipStream is currently 
 Creating a SlipStream account takes a few seconds. Once logged-in, you have a number of cloud services to choose from, so simply pick the one you fancy, or several, configure your account accordingly and you're good to go. We then suggest you start by taking a look at the tutorial [documentation](https://slipstream.sixsq.com/documentation). 
 
 We have put a lot of effort in the documentation, including several tutorials, which will give you great insight into the capabilities of SlipStream.
-
-Want to Know More?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch.
-
-<span class='contact-us-placeholder'></span>

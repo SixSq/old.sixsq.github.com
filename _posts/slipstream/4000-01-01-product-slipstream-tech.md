@@ -129,10 +129,3 @@ systems, in the click of a button.
 
 For more details, please read the [documentation](https://slipstream.sixsq.com/documentation)
 available from our [SlipStream hosted service](https://slipstream.sixsq.com).
-
-Want to Know More?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch.
-
-<span class='contact-us-placeholder'></span>

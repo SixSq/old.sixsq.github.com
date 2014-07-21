@@ -27,10 +27,3 @@ Using SlipStream makes business sense. Here are some of the benefits it can brin
 * **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
 
 * **Independence:** SlipStream deployments are cloud agnostic, allowing you to stay independent from the cloud to which you deploy. It supports all popular clouds.
-
-Want to Know More?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch.
-
-<span class='contact-us-placeholder'></span>
