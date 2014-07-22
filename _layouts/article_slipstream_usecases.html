@@ -63,9 +63,13 @@
                 <h1 id="{{ post.title | replace:' ','-' }}">
                   {{ post.title }}
                 </h1>
-                <p/>
                 {% if post.warning %}
+                <p/>
                 <strong>Warning: </strong>{{ post.warning }}
+                {% endif %}
+                {% if post.note %}
+                <p/>
+                <strong>Please note: </strong>{{ post.note }}
                 {% endif %}
                 <h2>User profile</h2>
                 <div>

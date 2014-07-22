@@ -36,7 +36,7 @@ SlipStream in a nutshell
           Professional
       </h3>
       <section>
-          A dedicated team designs, develop, tests and support SlipStream based solutions.
+          A dedicated team designs, develops, tests and supports SlipStream based solutions.
       </section>
   </div>
   <div>
@@ -52,7 +52,7 @@ SlipStream in a nutshell
           Multi-Tenant
       </h3>
       <section>
-          Build for the enterprise, with multi-tenancy support.
+          Build for enterprise, with multi-tenancy support.
       </section>
   </div>
   <div>
@@ -60,7 +60,7 @@ SlipStream in a nutshell
           Automation
       </h3>
       <section>
-          Built-in Enterprise App Store feature makes using SlipStream a child's play, without compromise on security.
+          Built-in Enterprise App Store feature makes using SlipStream child's play, without compromising security.
       </section>
   </div>
   <div>
@@ -80,4 +80,4 @@ SlipStream communicates with IaaS clouds services via a connector architecture. 
 
 <p align="center"><img src="/img/content/cloud_providers_color_on_transparent_1000px.png" alt="SlipStream Supported Clouds" width="600" /></p>
 
-This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, such that you can focus on your business.
+This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, leaving you to focus on your business.
