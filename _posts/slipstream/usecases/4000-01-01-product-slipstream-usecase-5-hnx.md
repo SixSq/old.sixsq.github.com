@@ -20,7 +20,7 @@ Another important benefit is scale. A federated cloud resource is much likely to
 be absorbed, even with a very short-notice request.
 
 What if we could provision to many different clouds, using the same interface? What if we could describe in a cloud-neutral way application deployment logic, allowing
-applications to be deployed on any cloud in exactly the same way? What if choosing a cloud provider was as simple as choosing a mobile operator?
+applications to be deployed on any cloud in exactly the same way? What if selecting a cloud provider was as simple as selecting a roaming mobile operator?
 
 This is exactly why the Helix Nebula public/ private partnership chose SlipStream to implement its federated provisioning engine for its [Helix Nebula](http://hnx.helix-nebula.eu/) Exchange (HNX) [production
 service](http://www.helix-nebula.eu/). Users, such as [CERN](http://cern.ch), [ESA](http://esa.int) or [EMBL](http://embl.org), now describe their application deployments in SlipStream, using simple scripting, and simply choose the cloud to deploy to. HNX
