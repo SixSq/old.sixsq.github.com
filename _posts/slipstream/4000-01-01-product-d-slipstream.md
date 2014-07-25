@@ -17,7 +17,7 @@ twitter-image: /img/content/slipstream_schema_color_on_transparent_2500px.png
 
 <h1 class="slogan" align="center">You get the power of the cloud<p></p>... we take away the complexity.</h1>
 
-<p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="700" /></p>
+<p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStream overview" width="700" style="padding: 35px 0 15px 0;"/></p>
 
 SlipStream in a nutshell
 ====
