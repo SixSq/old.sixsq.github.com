@@ -40,6 +40,11 @@ SlipStream provides simple interfaces (web and command-line client) to interact 
 Our cloud connector architecture allows us to quickly develop and integrate with current and future IaaS cloud services. 
 This means that you will be able to easily switch between clouds, therefore avoiding vendor lock-in. If we do not support your cloud, please get in touch, chances are that we might very well be able to add it to our short term roadmap.
 
+REST API
+===========
+
+SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream-usecases.html#LAMP-and-complex-application-provisioning), or an [app store](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning).
+
 DevOps and SlipStream
 ===========
 
