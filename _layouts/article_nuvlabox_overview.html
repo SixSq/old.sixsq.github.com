@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+
+<html 
+   xmlns="http://www.w3.org/1999/xhtml" 
+   xml:lang="en" 
+   version="XHTML+RDFa 1.0" 
+   dir="ltr"
+   xmlns:content="http://purl.org/rss/1.0/modules/content/"
+   xmlns:dc="http://purl.org/dc/terms/"
+   xmlns:foaf="http://xmlns.com/foaf/0.1/"
+   xmlns:og="http://ogp.me/ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+   xmlns:sioc="http://rdfs.org/sioc/ns#"
+   xmlns:sioct="http://rdfs.org/sioc/types#"
+   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+  {% include head.html %}
+  
+  <body class="not_front_page">
+    <div id="wrapper">
+
+      <div id="header">
+        {% include top.html %}
+      </div>
+
+      <div id="content">
+        <div class="content_bg">
+
+              <div class="main">
+                  <nav>
+                      <h1 class="list_title">{{ page.title }}</h1>
+                      <ul>
+                          <li id="sub_overview"><a href="/products/nuvlabox.html">Overview</a></li>
+                          <li id="sub_usecases"><a href="/products/nuvlabox-usecases.html">Use Cases</a></li>
+                          <li id="sub_features"><a href="/products/nuvlabox-features.html">Features</a></li>
+                          <li id="sub_techspecs"><a href="/products/nuvlabox-tech.html">Tech Specs</a></li>
+                          <li id="sub_pricing"><a href="/products/nuvlabox-pricing.html">Pricing</a></li>
+                      </ul>
+                  </nav>
+                  <div class="article">
+                    {{ page.content | markdownify }}
+
+                    {% include overview_usecases.html %}
+
+                    {% include whats-next-and-order.html %}
+
+                </div>
+          </div>
+      </div>
+
+      {% include footer.html %}
+
+    </div>
+
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
+
+  </body>
+</html>

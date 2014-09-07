@@ -5,6 +5,8 @@ category: blog
 image: /img/design/slipstream_category.png
 author: Sébastien Fievet / Lionel Schaub
 comments: true
+summary: The following instructions will guide you through the procedure of configuring a SlipStream CloudStack connector, such that you can add your CloudStack cloud to the list of clouds your SlipStream can talk to.
+twitter-author: "@zyegfryed"
 ---
 
 

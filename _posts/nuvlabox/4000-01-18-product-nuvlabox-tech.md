@@ -1,18 +1,11 @@
 ---
-layout: article
+layout: article_nuvlabox
 title: NuvlaBox
 class: nuvlabox
-category: NuvlaBox
+category: nuvlabox
 permalink: /products/nuvlabox-tech.html
-overview: /products/nuvlabox.html
-features: /products/nuvlabox-features.html
-business: /products/nuvlabox-business.html
-techspecs: /products/nuvlabox-tech.html
-pricing: /products/nuvlabox-pricing.html
 sub: techspecs
 ---
-
-In more detail, NuvlaBox<sup>®</sup> provides the following features: 
 
 Using the NuvlaBox
 ====
@@ -61,13 +54,22 @@ A second more flexible mode is when the NuvlaBox is connected to a network with 
 NuvlaBox Services
 ====
 
-We are working on a number of exciting new NuvlaBox services. Here are the ones we will soon release:
+To get the most out of your NuvlaBox, we have developed a number of surrounding services:
 
 * **Maintenance and Support**: keep your NuvlaBox up-to-date with the latest software version.
 
 * **Backup Service**: keep your NuvlaBox and its applications backed up. You choose what gets backed up and we ensure it is kept safe, in a location you choose and control.
 
 * **Recipe Creation Service**: your favourite application is not in the SlipStream Enterprise Open App Store? With this service, we will create it and even involve the application authors so that you get more for your money.
+
+* **Maintenance and Support**: keep your NuvlaBox up-to-date with the latest software version.
+
+* **Remote Control Your NuvlaBox(es)**: On the road, keep in touch with your NuvlaBox(es) using the simple remote control feature. This means you don't need local access to the machine to deploy applications or monitor their state.
+
+* **Public IP Access to the NuvlaBox**: Most IT infrastructure is not equipped with simple public IP allocation. So how do you access the applications running in the box remotely? Simply activate the secured tunnelling feature developed by SixSq. You will be able to access your photo and documentation archive, booking system, etc, from a public IP, even if your NuvlaBox is running on a private IP.
+
+* **Flexible license activation**: need to interface with a different or new cloud? Simply purchase an activation code, for the time you need.  All the software is factory installed, you simply need the right code to activate it.
+
 
 NuvlaBox Technical Specification
 ====
@@ -76,13 +78,17 @@ NuvlaBox is delivered in a fanless PC. But NuvlaBox is not just about hardware, 
 
 **Software Specification**
 
-* **Operating System**: CentOS 6.5
-* **Cloud layer - Infrastructure as a Service (IaaS)**: [StratusLab](/products/stratuslab.html)
-* **Local App Store - Platform as a Service (PaaS)**: [SlipStream](/products/slipstream.html)
+NuvlaBox is built on top of an Open Source foundation:
 
-No other cloud solution provides this level of functionality and integration. 
+* Operating System: **CentOS 6.5**
+* Cloud layer - Infrastructure as a Service (IaaS): **[StratusLab](/products/stratuslab.html)**
+* App Store - Platform as a Service (PaaS): **[SlipStream](/products/slipstream.html)**
+
+No other cloud solution provides this level of functionality and integration.
 
 **Hardware Specification**
+
+NuvlaBox comes by default with the following specification:
 
 * i5 Intel processor
 * 16 GB RAM
@@ -91,10 +97,11 @@ No other cloud solution provides this level of functionality and integration.
 * Wi-Fi card
 * Plenty of USB ports
 * HDMI interface
-* RJ-45 network adapter
+* 2 x RJ-45 network adapter
 
 Unlike many fanless PC currently produced, NuvlaBox delivers all the power the CPUs need to take full advantage of the system's virtualisation capabilities.
 
+As option, the box can be upgraded to an i7 Intel processor and 1 TB SSD. The resulting machine is devoted of any moving parts (e.g. fan, spinning disk), significantly increasing its robustness. 
 
 **Cached Machine Images**
 
@@ -104,12 +111,4 @@ NuvlaBox comes with pre-loaded operating system images, giving you solid foundat
 * Ubuntu 13.04
 * Windows Server 2012 (option)
 
-
-What's next?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch or simply order here.
-
-<span class='contact-us-placeholder'></span>
-
-<span class='order-now-placeholder'></span>
+Further, NuvlaBox can also cache custom images, such that on the field, you can deploy apps without needing any network access. This is ideal for field operations with limited network access.

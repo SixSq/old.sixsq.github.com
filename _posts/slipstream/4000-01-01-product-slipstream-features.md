@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article_slipstream
 title: SlipStream
 class: slipstream
 category: slipstream
@@ -40,10 +40,3 @@ In more detail, SlipStream provides the following features:
 <p align="center">
     <img src="/img/content/slipstream/dashboard.png" alt="SlipStream Dashboard" width="700" />
 </p>
-
-Want to Know More?
-====
-
-Interested and want to know more? We'd be pleased to provide you with further information. Get in touch.
-
-<span class='contact-us-placeholder'></span>
