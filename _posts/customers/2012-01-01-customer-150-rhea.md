@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Terma
+title: Rhea
 image: /img/content/logo_rhea.png
 category: customers
 permalink: /customers/rhea.html
