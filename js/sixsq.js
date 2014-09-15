@@ -1,6 +1,6 @@
 $(document).ready(function() {
 	$('#slider1').bxSlider({
-		auto: false,
+		auto: true,
 		speed: 500,
 		mode: 'fade',
 		pause: 5000,
