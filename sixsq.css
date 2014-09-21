@@ -1372,3 +1372,21 @@ pre {
 .clearfix {
     zoom: 1;
 }
+
+/* Mission Statement */
+#mission {
+  border: 1px solid #CCC;
+  -moz-border-radius: 4px;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  list-style: none;
+  margin: 15px 200px 20px 200px;
+  padding: 5px 0 10px 0;
+  background-color: #E2E2E2;
+}
+
+#mission > div {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 1.5em;
+}
