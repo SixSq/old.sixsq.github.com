@@ -9,8 +9,8 @@ SixSq provides cloud computing solutions to national and international companies
 Mission Statement
 ==============
 
-Here's our mission statement. Hover over each sentence to get some insight on
-what it means for us and what it promises for you as customers and partners.
+Here's our mission statement. Hover over each sentence to get some insight into
+what it means for us and what it promises you as customers and partners.
 
 <center>
 <div id='mission'>
@@ -35,20 +35,20 @@ Who we work for?
 ==============
 
 The IT world is littered with complex and intrusive tools and solutions,
-promising the world and costing even more. At SixSq we strive in delivering
+promising the world and costing even more. At SixSq we strive to deliver
 no-nonsense tools, services and technology, that are powerful, efficient, fun
 to use and cost-effective.
 
-We have segmented our go-to-market strategy into: 1. *Enterprises* and 2.
+We have segmented our go-to-market strategy into: 1. *Enterprise* and 2.
 *SMBs, NGOs and field operations*. 
 
 Enterprise
 ----------
 
-For the enterprise, our flagship product
+For enterprise, our flagship product
 [SlipStream&reg;](/products/slipstream) is designed to deliver
 automation solutions using cloud computing technology (IaaS) as the underlying
-workhorse. This means enterprises can manage applications lifecycle using the
+workhorse. This means companies can manage an application's lifecycle using the
 convenience of an
 [AppStore](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT)
 and deploy their own
@@ -57,10 +57,10 @@ feeding the AppStore.
 
 We support private, public and
 [hybrid](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning) cloud
-use cases, such that right cost model is used to meet the evolving need and
+use cases, to ensure that the right cost model is used to meet the evolving need and
 capabilities of the enterprise.
 
-Our solutions compared to competition are much simpler and much more cost
+Compared to our competitors, our solutions are much simpler and much more cost
 effective, both in terms of implementation and operations.  And we build
 flexibility in our plans.
 
@@ -72,7 +72,7 @@ SMBs, NGOs and field operations
 ----------
 
 The cloud is a great technology, able to deliver savings, improved agility
-and in many ways a game changer. However, the cloud is out of reach to most
+and in many ways a game changer. However, the cloud is out of reach of most
 Small and Medium Businesses (SMBs) and Non-Governmental Organisations (NGOs).
 
 Further, at the edge of the network we find, for example, aid and relief
@@ -112,7 +112,7 @@ products support all three models. From a pricing model point-of-view, we provid
 progressive plans so that you can start public or private and then explore
 hybrid, or even switch over. 
 
-We also pride ourselves of the loyalty our customers show us with a near 100%
+We also pride ourselves on the loyalty our customers show us with a near 100%
 recurrent business.
 
 Partnerships and Collaborations
