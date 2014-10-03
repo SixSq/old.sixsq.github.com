@@ -65,7 +65,7 @@ ol ol ol {
 }
 
 .twothirdscolumn {
-    width: 650px;
+  width: 650px;
 }
 
 .main {
@@ -86,24 +86,24 @@ ol ol ol {
 }
 
 .main nav {
-    overflow: hidden;
-    border-bottom: 1px solid #e6e6e6;
-    padding-right: 25px;
+  overflow: hidden;
+  border-bottom: 1px solid #e6e6e6;
+  padding-right: 25px;
 	padding-bottom: 5px;
 }
 
 .main nav h1 {
-    display: inline;
-    float: left;
+  display: inline;
+  float: left;
 }
 
 .main nav ul {
-    display: inline;
-    float: right;
+  display: inline;
+  float: right;
 }
 
 .main nav ul li {
-    display: inline;
+  display: inline;
 	list-style: none;
 	list-style-image: none;
 }

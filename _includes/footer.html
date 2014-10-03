@@ -1,4 +1,4 @@
-<div id="footer">
+<!--<div id="footer">
 
   <div id='contact-us-thanks-dialog'>
   Thank you very much for your enquiry. We will be in touch shortly.
@@ -13,64 +13,68 @@
       Question:
       <textarea type='text' name='message' placeholder='What can we help you with?...'></textarea>
     </form>
-  </div>
+  </div> -->
 
-  <div class="footer_menu">
-    <ul>
-      <li><a href="/index.html">Home</a></li>
-      <li><a href="/products/slipstream.html">SlipStream</a></li>
-      <li><a href="/products/nuvlabox.html">NuvlaBox</a></li>
-      <li><a href="/products/index.html">Products</a></li>
-      <li><a href="/blog/index.html">Blog</a></li>
-      <li><a href="/news/index.html">News</a></li>
-      <li><a href="/customers/index.html">Customers</a></li>
-      <li><a href="/about-us.html">About Us</a></li>
-      <li><a href="/contact.html">Contact</a></li>
-    </ul>
-  </div>
+    <footer>
+      <div class="container">
+        <div class="row">
 
-  <div class="adress_copyright">
-    <div><span>Global Headquarters:</span></div>
-    <div style="color: #EDEDED">
-      <div>
-        SixSq.
-        <br />Rue du Bois-du-Lan, 8
-        <br />1217, Geneva
-        <br />Switzerland
+          <div class="adress_copyright col-md-4">
+            <div><span>Global Headquarters:</span></div>
+            <div style="color: #EDEDED">
+              <div>
+                SixSq.
+                <br>Rue du Bois-du-Lan, 8
+                <br>1217, Geneva
+                <br>Switzerland
+              </div>
+            </div>
+            <br>
+            <div><span>North American Headquarters:</span></div>
+            <div style="color: #EDEDED">
+              <div>
+                SixSq.
+                <br>6700 Côte de Liesse, Suite 105  
+                <br>Montréal, Québec, H4T-2B5    
+                <br>Canada
+              </div>
+            </div>
+            <br>
+          </div>
+
+          <div class="contact_us col-md-4">
+            <div>Need information? Give feedback?<br>Get in touch.</div>
+            <div><a href="#" onclick="$('#contact-us-dialog').dialog('open');return false;">Fill form</a></div>
+            <div>info: +41 77 44 68 170<br>support: +41 22 57 52 229</div>
+            <div><a href="mailto:info@sixsq.com">info@sixsq.com</a><br><a href="mailto:support@sixsq.com">support@sixsq.com</a></div>
+          </div>
+
+          <div class="follow_us col-md-4">
+            <div>Follow us on:</div>
+            <a href="http://www.linkedin.com/company/sixsq">
+                <div id="footer_logo_linkedin">&nbsp;</div>
+            </a>
+            <a href="http://twitter.com/sixsq">
+                <div id="footer_logo_twitter">&nbsp;</div>
+            </a>
+            <a href="https://plus.google.com/115601684384239978812/posts" rel="publisher">
+                <div id="footer_logo_googleplus">&nbsp;</div>
+            </a>
+            <div class="copyright">Copyright © 2014 SixSq Sàrl. All rights reserved.</div>
+            <div class="copyright">SixSq, SlipStream and NuvlaBox are trademarks of SixSq Sàrl in Switzerland and other countries.</div>
+        </div>
       </div>
-    </div>
-    <br />
-    <div><span>North American Headquarters:</span></div>
-    <div style="color: #EDEDED">
-      <div>
-        SixSq.
-        <br />6700 Côte de Liesse, Suite 105  
-        <br />Montréal, Québec, H4T-2B5    
-        <br />Canada
-      </div>
-    </div>
-    <br />
-    <div class="copyright">Copyright &copy; 2014 SixSq Sàrl. All rights reserved.</div>
-    <div>SixSq, SlipStream and NuvlaBox are trademarks of SixSq Sàrl in Switzerland and other countries.</div>
-  </div>
+  </footer>
 
-  <div class="contact_us">
-    <div><span>Contact us</span><br />Need information? Give feedback?<br />Get in touch.</div>
-    <div><a href="#" onclick="$('#contact-us-dialog').dialog('open');return false;">Fill form</a></div>
-    <div>info: +41 77 44 68 170<br />support: +41 22 57 52 229</div>
-    <div><a href="mailto:info@sixsq.com">info@sixsq.com</a><br /><a href="mailto:support@sixsq.com">support@sixsq.com</a></div>
-  </div>
 
-  <div class="follow_us">
-    <div>Follow us on:</div>
-    <a href="http://www.linkedin.com/company/sixsq">
-        <div id="footer_logo_linkedin">&nbsp;</div>
-    </a>
-    <a href="http://twitter.com/sixsq">
-        <div id="footer_logo_twitter">&nbsp;</div>
-    </a>
-    <a href="https://plus.google.com/115601684384239978812/posts" rel="publisher">
-        <div id="footer_logo_googleplus">&nbsp;</div>
-    </a>
-  </div>
-</div>
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="/externals/jquery/jquery.js"></script>
+  <script src="/externals/bootstrap/js/bootstrap.min.js"></script>
+  <script src="/externals/bxslider/jquery.bxslider-rahisified.js"></script>
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+  <script src="/js/sixsq.js"></script>
+    
+  <script type="text/javascript">$("#nav-{{ page.class }}, #sub_{{ page.sub }}").addClass("active");</script>

@@ -16,45 +16,19 @@
    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
    {% include head.html %}
-  
-  <body class="not_front_page">
+   {% include top.html %}
+   {% include nuvlabox_nav.html %}
+   {% include nuvlabox_intro.html %}
 
-    <div id="wrapper">
-
-      <div id="header">
-        {% include top.html %}
+      <div class="container">
+        {{ page.content | markdownify }}
       </div>
 
-      <div id="content">
-        <div class="content_bg">
-
-            <div class="main">
-                <nav>
-                    <h1 class="list_title">{{ page.title }}</h1>
-                    <ul>
-                        <li id="sub_overview"><a href="/products/nuvlabox.html">Overview</a></li>
-                        <li id="sub_usecases"><a href="/products/nuvlabox-usecases.html">Use Cases</a></li>
-                        <li id="sub_features"><a href="/products/nuvlabox-features.html">Features</a></li>
-                        <li id="sub_techspecs"><a href="/products/nuvlabox-tech.html">Tech Specs</a></li>
-                        <li id="sub_pricing"><a href="/products/nuvlabox-pricing.html">Pricing</a></li>
-                    </ul>
-                </nav>
-                <div></div>
-                <div class="article">
-                  {{ page.content | markdownify }}
-                </div>
-
-                {% unless page.no_whatsnext %}
-                  {% include whats-next-and-order.html %}
-                {% endunless %}
-
-            </div>
-        </div>
-      </div>
+      {% unless page.no_whatsnext %}
+        {% include whats-next-and-order.html %}
+      {% endunless %}
 
       {% include footer.html %}
-
-    </div>
 
     <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 

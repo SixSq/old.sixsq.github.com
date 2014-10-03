@@ -1,0 +1,28 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+.jumbotron {
+  padding-top: 18px;
+  padding-bottom: 18px;
+  margin-bottom: 0;
+}
+
+#main-story {
+  background: #eee url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+}
+
+#nuvlabox-main-story {
+  background: #eee url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+}
+
+.container {
+  margin: 0px auto;
+  padding-right:24px;
+  padding-left:24px;
+}
+
+.usecases {
+  
+}
