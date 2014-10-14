@@ -170,4 +170,6 @@ $(document).ready(function() {
   //    of: window
   //  }
   // });
+  
+  $('#mission > div').tipsy();
 });

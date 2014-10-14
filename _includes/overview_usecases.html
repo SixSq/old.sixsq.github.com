@@ -1,22 +1,19 @@
-<h1>{{ page.title }} Use Cases</h1>
-<div class="list_usecases clearfix">
+<div class="container usecase spacy">
+  <h1>{{ page.title }} Use Cases</h1>
+  <div class="row">
     {% for post in site.posts %}
     {% if post.category == "usecases" and post.class == page.class and post.layout == 'article' and post.favourite %}
-    <div>
-      <a href="/products/{{ page.class }}-usecases.html#{{ post.title | replace:' ','-' }}">
-        <h3>
-            {{ post.title }}
-        </h3>
-        <section>
-            {{ post.content | markdownify | truncatewords: 25 }}
-        </section>
-      </a>
+    <div class="col-md-4">
+      <h2>
+          {{ post.title }}
+      </h2>
+      <p>
+          {{ post.content | markdownify | truncatewords: 25 }}
+      </p>
+      <p><a class="btn btn-default" href="/products/{{ page.class }}-usecases.html#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a></p>
     </div>
     {% endif %}
     {% endfor %}
-    <div style="clear: both; float: left; font-weight: bold;">
-      <p style="margin-top: 0">
-        <a href="/products/{{ page.class }}-usecases.html" style="color: #a00100;">Read more Use Cases</a>
-      </p>
-    </div>
+  </div>
+  <p><a href="/products/{{ page.class }}-usecases.html" class="btn btn-primary btn-lg" role="button">Read more Use Cases &raquo;</a></p>
 </div>

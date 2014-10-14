@@ -19,8 +19,7 @@ Try SlipStream For Free
 Give SlipStream a try on our hosted service. The use of SlipStream is currently **free of charge**.  You only pay the cloud providers for the cloud resources you consume.
 
 <p align="center">
-<button type="button" class="create-account" onclick="location='https://slipstream.sixsq.com';">
-</button>
+  <a href="https://slipstream.sixsq.com" class="btn btn-primary btn-lg" role="button">Create account &raquo;</a>
 </p>
 
 

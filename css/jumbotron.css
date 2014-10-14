@@ -4,17 +4,25 @@ body {
 }
 
 .jumbotron {
-  padding-top: 18px;
-  padding-bottom: 18px;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
   margin-bottom: 0;
 }
 
-#main-story {
-  background: #eee url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+.btn-primary {
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
-#nuvlabox-main-story {
-  background: #eee url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+.main-story {
+  background: #eee url(/img/content/slipstream_schema_color_on_transparent_25opacity_2500px.png) no-repeat center center;
+  background-size: 780px auto;
+}
+
+.nuvlabox-main-story {
+  background: #E2EFF7 url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
 }
 
 .container {
@@ -23,6 +31,76 @@ body {
   padding-left:24px;
 }
 
+div.odd {
+  background: #eee;
+}
+
 .usecases {
   
+}
+
+.address p {
+  margin: 0px auto;
+}
+
+.spacy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.container .container.spacy {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+
+#banner {
+  border: none;
+  display: block;
+  height: 170px;
+  overflow: hidden;
+  position: relative;
+  float: right;
+  text-align: center;
+  width: 170px;
+}
+
+#banner div {
+  color: white;
+  background-color: black;
+  opacity: 1;
+  z-index: 1000;
+  text-align: center;
+  float: right;
+  width: 250px;
+  font-size: 22px;
+  margin-top: 55px;
+  margin-right: -55px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 0 0 6px 2px white;
+  -moz-box-shadow: 0 0 6px 2px white;
+  box-shadow: 0 0 6px 2px white;
+  overflow: hidden;
+}
+
+#small_logo_twitter {
+  background-image: url(/img/design/social_logos/twitter_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
+}
+
+#small_logo_googleplus {
+  background-image: url(/img/design/social_logos/googleplus_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
+}
+
+#small_logo_linkedin {
+  background-image: url(/img/design/social_logos/linkedin_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
 }

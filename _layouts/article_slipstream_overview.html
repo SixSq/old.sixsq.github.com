@@ -16,46 +16,74 @@
    xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
 
   {% include head.html %}
-  
-  <body class="not_front_page">
-    <div id="wrapper">
+  {% include top.html %}
+  {% include slipstream_nav.html %}
+  {% include slipstream_intro.html %}
 
-      <div id="header">
-        {% include top.html %}
-      </div>
-
-      <div id="content">
-        <div class="content_bg">
-
-              <div class="main">
-                  <nav>
-                      <h1 class="list_title">{{ page.title }}</h1>
-                      <ul>
-                          <li id="sub_overview"><a href="/products/slipstream.html">Overview</a></li>
-                          <li id="sub_usecases"><a href="/products/slipstream-usecases.html">Use Cases</a></li>
-                          <li id="sub_features"><a href="/products/slipstream-features.html">Features</a></li>
-                          <li id="sub_techspecs"><a href="/products/slipstream-tech.html">Tech Specs</a></li>
-                          <li id="sub_tryme"><a href="/products/slipstream-tryme.html">Try Me</a></li>
-                          <li id="sub_pricing"><a href="/products/slipstream-pricing.html">Pricing</a></li>
-                      </ul>
-                  </nav>
-                  <div class="article">
-                    {{ page.content | markdownify }}
-
-                    {% include overview_usecases.html %}
-
-                    {% include whats-next.html %}
-
-                  </div>
-              </div>
+      <div class="container spacy">
+        <h1>In a nutshell</h1>
+        <div class="row">
+          <div class="col-md-4">
+            <h2>Open Source</h2>
+            <p>
+              Released under the Apache 2.0 license, giving you openness and transparency.
+            </p>
           </div>
+          <div class="col-md-4">
+            <h2>
+                Professional
+            </h2>
+            <p>
+                A dedicated team designs, develops, tests and supports SlipStream based solutions.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h2>
+                Multi-Cloud
+            </h2>
+            <p>
+                A truly multi-cloud and cloud agnostic provisioning platform giving you freedom of choice, avoiding lock-in.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h2>
+                Multi-Tenant
+            </h2>
+            <p>
+                Build for enterprise, with multi-tenancy support.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h2>
+                Automation
+            </h2>
+            <p>
+                Built-in Enterprise App Store feature makes using SlipStream child's play, without compromising security.
+            </p>
+          </div>
+          <div class="col-md-4">
+            <h2>
+                Scalable
+            </h2>
+            <p>
+                Used by distributed teams, with demanding workloads, means SlipStream will scale with your usage.
+            </p>
+          </div>
+        </div>
       </div>
 
+      <div style="background-color: #eee">
+        <div class="container spacy">
+
+            {{ page.content | markdownify }}
+            
+        </div>
+      </div>
+
+      {% include overview_usecases.html %}
+
+      {% include whats-next-and-order.html %}
       {% include footer.html %}
-
-    </div>
-
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 
   </body>
 </html>

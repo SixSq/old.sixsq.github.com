@@ -1,108 +1,33 @@
 <!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include top.html %}
 
-<html 
-   xmlns="http://www.w3.org/1999/xhtml" 
-   xml:lang="en" 
-   version="XHTML+RDFa 1.0" 
-   dir="ltr"
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:dc="http://purl.org/dc/terms/"
-   xmlns:foaf="http://xmlns.com/foaf/0.1/"
-   xmlns:og="http://ogp.me/ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:sioc="http://rdfs.org/sioc/ns#"
-   xmlns:sioct="http://rdfs.org/sioc/types#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
-
-   {% include head.html %}
-  
-  <body class="not_front_page">
-
-    <div id="wrapper">
-
-      <div id="header">
-        {% include top.html %}
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="list_title">{{ page.title }}</h1>
+        {% if page.category == "news" %}
+        <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
+        {% endif %}
+        {% if page.author %}
+        <div class="date">{{ page.date | date: "%d %B %Y" }} - by {{ page.author }}</div>
+        {% endif %}
       </div>
-
-      <div id="content">
-        <div class="content_bg">
-
-            <div class="main">
-                <nav>
-                    <h1 class="list_title">{{ page.title }}</h1>
-                    <ul>
-                        {% if page.overview %}
-                        <li id="sub_overview"><a href="{{ page.overview }}">Overview</a></li>
-                        {% endif %}
-                        {% if page.usecases %}
-                        <li id="sub_usecases"><a href="{{ page.usecases }}">Use Cases</a></li>
-                        {% endif %}
-                        {% if page.features %}
-                        <li id="sub_features"><a href="{{ page.features }}">Features</a></li>
-                        {% endif %}
-                        {% if page.business %}
-                        <li id="sub_business"><a href="{{ page.business }}">Business Benefits</a></li>
-                        {% endif %}
-                        {% if page.tryme %}
-                        <li id="sub_tryme"><a href="{{ page.tryme }}">Try Me</a></li>
-                        {% endif %}
-                        {% if page.techspecs %}
-                        <li id="sub_techspecs"><a href="{{ page.techspecs }}">Tech Specs</a></li>
-                        {% endif %}
-                        {% if page.pricing %}
-                        <li id="sub_pricing"><a href="{{ page.pricing }}">Pricing</a></li>
-                        {% endif %}
-                        {% if page.buynow %}
-                        <li id="sub_buynow"><a href="{{ page.buynow }}">Buy Now</a></li>
-                        {% endif %}
-                    </ul>
-                </nav>
-            {% if page.category == "news" %}
-            <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
-            {% endif %}
-            {% if page.author %}
-            <div class="date">{{ page.date | date: "%d %B %Y" }} - by {{ page.author }}</div>
-            {% endif %}
-
-      	    {% if page.category == "blog" %}
-      	    <img class="blog-category" src="{{ page.image }}" alt="category" />
-            {% endif %}
-
-            <div class="article">
-              {{ page.content | markdownify }}
-            </div>
-
-			{% if page.comments %}
-			<div id="disqus_thread"></div>
-			<script type="text/javascript">
-			    var disqus_shortname = 'sixsq';
-
-			    /* * * DON'T EDIT BELOW THIS LINE * * */
-			    (function() {
-			        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-			        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-			        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-			    })();
-			</script>
-			<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-			<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>			{% endif %}
-          </div>
-          
-        </div>
-      </div>
-
-      {% include footer.html %}
-
+    </div>
+    
+    <div class="container spacy">
+      {% if page.category == "blog" %}
+      <img class="blog-category" src="{{ page.image }}" alt="category" />
+      {% endif %}
+      {{ page.content | markdownify }}
     </div>
 
-    {% if page.class == "slipstream" %}
+    {% include comments.html %}
+
+    {% include footer.html %}
+
     <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% elsif page.class == "nuvlabox"" %}
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% else %}
-    <script type="text/javascript">$("#menu_{{ page.category }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-    {% endif %}
 
   </body>
 </html>
