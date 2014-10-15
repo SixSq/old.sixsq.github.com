@@ -16,13 +16,16 @@ body {
   margin-bottom: 20px;
 }
 
-.main-story {
+.slipstream-main-story {
   background: #eee url(/img/content/slipstream_schema_color_on_transparent_25opacity_2500px.png) no-repeat center center;
-  background-size: 780px auto;
 }
 
 .nuvlabox-main-story {
   background: #E2EFF7 url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+}
+
+.nuvlabox {
+  background-color: #E2EFF7;
 }
 
 .container {
@@ -66,7 +69,7 @@ div.odd {
 
 #banner div {
   color: white;
-  background-color: black;
+  background-color: #222;
   opacity: 1;
   z-index: 1000;
   text-align: center;

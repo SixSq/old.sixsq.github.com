@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include top.html %}
+    {% include media_nav.html %}
+
+    {{ page.content | markdownify }}
+
+    {% include footer.html %}
+
+    <script type="text/javascript">$("#nav-{{ page.class }}").addClass("active");</script>
+
+  </body>
+</html>

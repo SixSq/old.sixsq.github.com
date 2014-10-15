@@ -38,8 +38,7 @@ promising the world and costing even more. At SixSq we strive to deliver
 no-nonsense tools, services and technology, that are powerful, efficient, fun
 to use and cost-effective.</p>
 
-  <p>We have segmented our go-to-market strategy into: 1. *Enterprise* and 2.
-*SMBs, NGOs and field operations*.</p>
+  <p>We have segmented our go-to-market strategy into: 1. <strong>Enterprise</strong> and 2. <strong>SMBs, NGOs and field operations</strong>.</p>
 
   <div class="container">
     <h3>Enterprise</h3>
