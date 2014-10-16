@@ -3,6 +3,14 @@ body {
   padding-top: 50px;
 }
 
+h2, p {
+  margin-bottom: 20px;
+}
+
+img {
+  width="80%";
+}
+
 .jumbotron {
   padding-left: 0px;
   padding-right: 0px;
@@ -24,10 +32,6 @@ body {
   background: #E2EFF7 url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
 }
 
-.nuvlabox {
-  background-color: #E2EFF7;
-}
-
 .container {
   margin: 0px auto;
   padding-right:24px;
@@ -36,6 +40,23 @@ body {
 
 div.odd {
   background: #eee;
+}
+
+div.even {
+  background: white;
+}
+
+div.nuvlabox.even,
+div.slipstream.even {
+  background: white;
+}
+
+div.slipstream.odd {
+  background: #eee;
+}
+
+div.nuvlabox.odd {
+  background: #E2EFF7;
 }
 
 .usecases {
@@ -106,4 +127,31 @@ div.odd {
   background-repeat: no-repeat;
   background-position: left center;
   height: 50px;
+}
+
+.twitter-share-button {
+  margin: 20px 0 0 0;  
+}
+
+.jumbotron.nuvlabox {
+  background-image: url('/img/content/nuvlabox_logo_red_on_transparent.svg');
+}
+
+.jumbotron.slipstream {
+  background-image: url('/img/content/slipstream_logo_red_on_transparent.svg');
+}
+
+.jumbotron.top_product {
+  color: white;
+  background-color: rgb(160,0,0);
+}
+
+.jumbotron.top_product h1,
+.jumbotron.top_product a,
+.jumbotron.top_product p {
+  color: white;
+}
+
+.main-story.nuvlabox {
+  background: #E2EFF7;
 }

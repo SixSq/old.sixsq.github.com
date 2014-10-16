@@ -43,7 +43,7 @@
 
   {% for post in site.posts %}
     {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-    <div class="{% cycle 'odd', 'even' %}">
+    <div class="slipstream {% cycle 'odd', 'even' %}">
       <div class="container spacy">
         <h1 id="{{ post.title | replace:' ','-' }}">
           {{ post.title }}
