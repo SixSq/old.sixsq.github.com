@@ -25,3 +25,4 @@ SlipStream communicates with IaaS clouds services via a connector architecture. 
 </div>
 
 This means SlipStream isolates you from the details of the cloud, giving you freedom of choice, leaving you to focus on your business.
+

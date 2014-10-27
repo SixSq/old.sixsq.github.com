@@ -1,3 +1,7 @@
+#main-navbar.in > ul {
+  padding-top: 20px;
+}
+
 .navbar-inverse .navbar-text {
   color: #bababa;
 }

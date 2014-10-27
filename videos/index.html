@@ -25,27 +25,10 @@ category: videos
 </div>
 
 <div id="col-template" style="display: none;">
-  <div class="col-md-6 container spacy">
+  <div class="col-md-6 col-sm-5 col-xs-12 container spacy">
     <h3>Title...</h3>
     <p>
       <div class="embed-responsive embed-responsive-16by9"></div>
     </p>
   </div>
 </div>
-
-<script src="/externals/jquery/jquery.js"></script>
-
-<script>
-var insertVideos = function(playlistId, target) {
-  $.getJSON('https://www.googleapis.com/youtube/v3/playlistItems?&origin=http://localhost:4000&maxResults=4&part=snippet&playlistId=' + playlistId + '&key=AIzaSyDdrmCZq0NAWnaGtxAbkL9P-9FyMRonpJY', function(data) {
-    for(var i=0; i<data.items.length; i++) {
-      var col = $("#col-template > div").clone();
-      var id = data.items[i].snippet.resourceId.videoId;
-      var title = data.items[i].snippet.title;
-      col.html('<h3>' + title + '</h3><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="http://www.youtube.com/embed/' + id + '"></iframe></div>');
-      col.appendTo("#" + target + " div:first");
-    }
-  });}
-  insertVideos('PLY20wTTKSDHaga8xpf0k9RhkFELMyVTZ7', 'tutorials')
-  insertVideos('PLY20wTTKSDHaVRTyXqLjJ1o3HfvtvJNKK', 'talks')
-</script>

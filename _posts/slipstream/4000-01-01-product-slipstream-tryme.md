@@ -11,6 +11,7 @@ tryme: /products/slipstream-tryme.html
 techspecs: /products/slipstream-tech.html
 pricing: /products/slipstream-pricing.html
 sub: tryme
+with-videos: true
 ---
 
 Try SlipStream For Free

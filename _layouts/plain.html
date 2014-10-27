@@ -6,6 +6,8 @@
 
     {{ page.content | markdownify }}
 
+    {% include whats-next.html %}
+
     {% include footer.html %}
 
     <script type="text/javascript">$("#nav-{{ page.class }}").addClass("active");</script>

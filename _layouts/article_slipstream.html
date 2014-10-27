@@ -10,9 +10,11 @@
         {{ page.content | markdownify }}
       </div>
 
-      {% unless page.no_whatsnext %}
-        {% include whats-next-and-order.html %}
-      {% endunless %}
+      {% if page.with-videos %}
+        {% include overview-videos.html %}
+      {% endif %}
+
+      {% include whats-next.html %}
 
       {% include footer.html %}
 

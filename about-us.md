@@ -38,23 +38,18 @@ promising the world and costing even more. At SixSq we strive to deliver
 no-nonsense tools, services and technology, that are powerful, efficient, fun
 to use and cost-effective.</p>
 
-  <p>We have segmented our go-to-market strategy into: 1. <strong>Enterprise</strong> and 2. <strong>SMBs, NGOs and field operations</strong>.</p>
+  <p>We have segmented our go-to-market strategy into: 1. Enterprise and 2. SMBs, NGOs and field operations.</p>
 
   <div class="container">
     <h3>Enterprise</h3>
     <p>
-For enterprise, our flagship product
-[SlipStream&reg;](/products/slipstream) is designed to deliver
-automation solutions using cloud computing technology (IaaS) as the underlying
-workhorse. This means companies can manage an application's lifecycle using the
+For enterprise, our flagship product <a href="/products/slipstream.html">SlipStream&reg;</a> is designed to deliver automation solutions using cloud computing technology (IaaS) as the underlying
+workhorse. This means companies can manage applications' lifecycle using the
 convenience of an
-[AppStore](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT)
-and deploy their own
-[DevOps processes](/products/slipstream-usecases.html#DevOps-platform)
-feeding the AppStore.
+<a href="/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT">AppStore</a> and deploy their own <a href="/products/slipstream-usecases.html#DevOps-platform">DevOps processes</a> feeding the AppStore.
 
 We support private, public and
-[hybrid](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning) cloud
+<a href="/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning">hybrid</a> cloud
 use cases, to ensure that the right cost model is used to meet the evolving need and
 capabilities of the enterprise.
 
@@ -78,18 +73,17 @@ Further, at the edge of the network we find, for example, aid and relief
 operations and villages in rural regions of Africa, South-East Asia or South
 America.
 
-To fill this gap in cloud computing adoption, we created the
-[NuvlaBox](/products/nuvlabox),
+To fill this gap in cloud computing adoption, we created the <a href="/products/nuvlabox">NuvlaBox</a>,
 a semi-connected, turn-key and fan-less appliance, supercharged with our
 best software.
 
-The result is a powerful framework able to provide at the point of delivery, an [AppStore](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT)
+The result is a powerful framework able to provide at the point of delivery, an <a href="/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT">AppStore</a>
 that any non-IT expert can use to manage application deployments.
-Several NuvlaBox can also be remotely managed, bring operations and maintenance
+Several NuvlaBox can also be remotely managed, bringing operations and maintenance
 costs right down.
 
 Through creative partnerships, we can deliver several
-[use cases](/products/nuvlabox-usecases) including:
+<a href="/products/nuvlabox-usecases">use cases</a> including:
 school-in-a-box, health-in-a-box, clinic-in-a-box, mobile-office-in-a-box, etc.
     </p>
   </div>
@@ -98,23 +92,24 @@ school-in-a-box, health-in-a-box, clinic-in-a-box, mobile-office-in-a-box, etc.
 <div style="background: #eee;">
 <div class="container spacy">
   <h2>Why trust us?</h2>
-  <p>Experts in the field of cloud and distributed computing, we are also truly
-independent, something very few companies can claim. 
-Most cloud companies have a vested interest in one cloud product,
-technology and/or community. We don't. While we take part in several communities
-and events, for example, we ensure our SlipStream cloud automation engine is
-agnostic and works great on all the clouds we support.
+  <h4>Experts in the field of cloud and distributed computing, we are also truly
+independent, something very few companies can claim.</h4>
+  <p/>
+  <p>Most cloud companies have a vested interest in one cloud technology or service.
+We don't. While we take part in several communities
+and events, we ensure our SlipStream cloud automation engine is
+agnostic and works great on all the clouds out there.</p>
 
-This means we can be trusted as a reliable advisor, and trusted when we claim
+  <p>This means we can be trusted as a reliable advisor, and believable when we claim
 that our solutions isolate CTOs and CIOs from taking the wrong decision when
-investing in a cloud or another.
+investing in a given IaaS cloud solution or service.</p>
 
-Should you use public or private clouds? Or both? Our SlipStream and NuvlaBox
-products support all three models. From a pricing model point-of-view, we provide
+  <p>Should you use public or private clouds? Or both? Our SlipStream and NuvlaBox
+products support all three models. From a pricing point-of-view, we provide
 progressive plans so that you can start public or private and then explore
-hybrid, or even switch over. 
+hybrid, or even switch over.</p>
 
-We also pride ourselves on the loyalty our customers show us with a near 100%
+  <p>We also pride ourselves on the loyalty our customers show us with near 100%
 recurrent business.</p>
 </div>
 </div>
@@ -129,7 +124,7 @@ partnerships and collaborations.</p>
   <h2>Amazon</h2>
   <p><img src="/img/content/AWS_SolutionProvider_logo_RGB_Trans.png" alt="Amazon Solution Provider" /></p>
 
-SixSq is a registered Amazon Solution Provider, with a dedicated [SlipStream service](https://slipstream.sixsq.com) configured to deploy on Amazon's EC2 service.  This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.</p>
+SixSq is a registered Amazon Solution Provider, with a dedicated <a href="https://slipstream.sixsq.com">SlipStream service</a> configured to deploy on Amazon's EC2 service.  This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.</p>
 </div>
 
 <div class="container spacy">
@@ -143,16 +138,16 @@ SixSq is technology partner to Exoscale, the leading Swiss cloud service provide
   <h2>IBM Partner World Member</h2>
   <p><img src="/img/content/ibm-partner-logo.png" alt="IBM Business Partner" /></p>
 
-SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified [SlipStream](/products/slipstream.html) and [StratusLab](/products/stratuslab.html) on IBM hardware, making it a sound target hardware for solid SixSq-based deployments.</p>
+SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/slipstream.html">SlipStream</a> on IBM hardware and software solutions, making IBM a sound target for solid SixSq-based deployments.</p>
 </div>
 
 <div class="container spacy">
   <h2>Helix Nebula - The Science Cloud</h2>
   <p><img src="/img/content/helix-nebula.jpg" alt="Open Virtualization Alliance Member" /></p>
 
-SixSq is a founding member of the [Helix Nebula collaboration](http://www.facebook.com/HelixNebula.TheScienceCloud), which is a pioneering partnership between science and business in Europe. It is paving the way for a Cloud Computing platform that offers a unique resource to governments, businesses and citizens and which is charting a course towards sustainable provision of cloud computing for Europe.
+SixSq is a founding member of the <a href="http://www.facebook.com/HelixNebula.TheScienceCloud">Helix Nebula collaboration</a>, which is a pioneering partnership between science and business in Europe. It is paving the way for a Cloud Computing platform that offers a unique resource to governments, businesses and citizens and which is charting a course towards sustainable provision of cloud computing for Europe.
 
-The collaboration is using [SlipStream](/products/slipstream.html) as a broker in the new Helix Nebula Marketplace, HNX. HNX gives the scientific research community easy access to commercial cloud services and its customers can use HNX to choose between various suppliers or combinations of suppliers offering independent Cloud services, and to buy, use and manage such Cloud services seamlessly.
+The collaboration is using <a href="/products/slipstream.html">SlipStream</a> as a broker in the new Helix Nebula Marketplace, HNX. HNX gives the scientific research community easy access to commercial cloud services and its customers can use HNX to choose between various suppliers or combinations of suppliers offering independent Cloud services, and to buy, use and manage such Cloud services seamlessly.
 
 More information is available <a href="news/2012/03/01/news-hn-annoucement.html">here</a>.
 </p>
@@ -164,7 +159,8 @@ More information is available <a href="news/2012/03/01/news-hn-annoucement.html"
   <h1>For Journalists and Editors</h1>
   <h3>A more official SixSq definition:</h3>
   <p>
-SixSq provides cloud computing solutions to national and international companies of all sizes. We specialise in process automation, bringing financial benefits to our customers via our unique products.  SixSq prides itself in promoting cloud neutral solutions for this fast moving IT sector. Our team, which consists of highly skilled software engineers, developers and system administrators from many different countries, is based in Geneva, Switzerland, and embraces the Swiss ideals of excellence, innovation and precision.  We strive to build long-lasting partnerships and collaborations with all of our customers.
+SixSq provides cloud computing solutions to national and international companies of all sizes. We specialise in process automation, bringing financial benefits to our customers via our unique products: 
+<a href="/products/slipstream.html">SlipStream&reg;</a> and <a href="/products/nuvlabox.html">NuvlaBox&reg;</a>.  SixSq prides itself in promoting cloud neutral solutions for this fast moving IT sector. Our team, which consists of highly skilled software engineers, developers and system administrators from many different countries, is based in Geneva, Switzerland, and embraces the Swiss ideals of excellence, innovation and precision.  We strive to build long-lasting partnerships and collaborations with all of our customers.
   </p>
 </div>
 </div>

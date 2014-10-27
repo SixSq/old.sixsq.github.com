@@ -20,7 +20,7 @@ h2 a:hover {
 }
 
 img {
-  width="80%";
+  max-width: 100%;
 }
 
 .container > p {
