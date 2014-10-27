@@ -3,12 +3,28 @@ body {
   padding-top: 50px;
 }
 
+h1:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -100px; 
+  height: 100px; 
+  visibility: hidden; 
+}
+
 h2, p {
   margin-bottom: 20px;
 }
 
+h2 a:hover {
+  text-decoration: none;
+}
+
 img {
   width="80%";
+}
+
+.container > p {
+  font-size: 18px;  
 }
 
 .jumbotron {
@@ -17,11 +33,6 @@ img {
   padding-top: 60px;
   padding-bottom: 60px;
   margin-bottom: 0;
-}
-
-.btn-primary {
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 
 .slipstream-main-story {

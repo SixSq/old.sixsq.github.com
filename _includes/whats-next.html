@@ -1,7 +1,40 @@
-<h1>What's next?</h1>
-<div>
-  <p>
-Interested and want to know more? We'd be pleased to provide you with further information.
-  </p>
+<div style="color: white; background-color: #9B9B9B;">
+  <div class="container spacy">
+    <h1>What's next?</h1>
+    <p>
+      Interested and want to know more? We'd be pleased to provide you with further information.
+    </p>
+    <div class="container">
+      <button class="btn btn-primary btn-lg center-block" data-toggle="modal" data-target="#contact-modal">
+        Contact us
+      </button>
+    </div>
+  </div>
 </div>
-<span class='contact-us-placeholder'></span>
+
+<div class="modal fade" id="contact-modal" tabindex="-1" role="dialog" aria-labelledby="contact-modal-label" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+        <h4 class="modal-title" id="order-modal-label">Contact us</h4>
+      </div>
+      <form>
+        <div class="modal-body">
+          <div class="form-group">
+              <label for="email">Email</label>
+              <input type="email" class="form-control" id="email" placeholder="Email">
+          </div>
+          <div class="form-group">
+              <label for="message">Question</label>
+              <input type="text" class="form-control" id="message" placeholder="What can we help you with?">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          <button type="submit" class="btn btn-primary">Send</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
