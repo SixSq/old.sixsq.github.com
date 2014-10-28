@@ -88,7 +88,7 @@ div.nuvlabox.odd {
   padding-bottom: 30px !important;
 }
 
-#banner {
+.banner {
   border: none;
   display: block;
   height: 170px;
@@ -99,7 +99,7 @@ div.nuvlabox.odd {
   width: 170px;
 }
 
-#banner div {
+.banner div {
   color: white;
   background-color: #222;
   opacity: 1;
@@ -165,4 +165,9 @@ div.nuvlabox.odd {
 
 .main-story.nuvlabox {
   background: #E2EFF7;
+}
+
+.banner a, .banner a:visited, .banner a:hover, banner a:active {
+  color: white;
+  text-decoration: none;
 }
