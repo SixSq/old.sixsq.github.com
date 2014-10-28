@@ -31,8 +31,4 @@ they want to use. On their side, cloud providers can regularly update their serv
 
 Finally, the Helix Nebula collaboration re-skinned SlipStream, providing an integrated user experience, including colour, logos and documentation.
 
-Pricing
-----
-
-Cloud brokering is currently supported by all plans, however a cloud connector license in required for each enabled cloud endpoint. Web UI re-skinning can be done simply
-by changing the application's CSS files and HTML templates.
+Note that a cloud connector license in required for each enabled cloud endpoint. Web UI re-skinning can be done simply by changing the application's CSS files and HTML templates.

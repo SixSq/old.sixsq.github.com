@@ -26,9 +26,3 @@ To illustrate the ability for SlipStream to manage complex deployments, we have 
 By default these layers run in the same cloud, but users can assign each layer to a different cloud. Further, the number of VMs assigned to each layer is parameterised, such that users can define the number of VMs forming, for example, the MongoDB database cluster or the Apache/PHP servers. Best of all, this is only an example. Any user can create its his/her own configuration, using the LAMP example as a starting point.
 
 Another interesting feature included in this example is SlipStream’s ability to provision extra disks. In the case of the database layer, this means that users can define at provisioning time the size of data assigned to each cluster node.  The MongoDB cluster in the LAMP example can also be used in a stand-alone mode or used in other deployments, encouraging sharing and re-use.
-
-
-Pricing
-----
-
-Complex deployment is a basic feature of SlipStream. All [plans](/products/slipstream-pricing.html) include it, as well as the SaaS.

@@ -25,8 +25,3 @@ the load balancer layer updates its list of web nodes to forward work to, or tha
 or old nodes.
 
 Following from this mutable feature, monitoring and custom KPI definitions will complete the full auto-scale feature.
-
-Pricing
-----
-
-Auto-scale is currently planned to be a basic feature of SlipStream. All [plans](/products/slipstream-pricing.html) will include it.

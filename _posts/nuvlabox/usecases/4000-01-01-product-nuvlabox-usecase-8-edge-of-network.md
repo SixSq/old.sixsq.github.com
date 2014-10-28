@@ -22,12 +22,6 @@ The NuvlaBox is ideally suited for this mission. The local App Store can be fact
 
 Using the ability to control and monitor many NuvlaBoxes from the same pane of glass, via [SlipStream](/products/slipstream.html), means that the network provider can optimise its operations, streamline costs and batch control all NuvlaBoxes.
 
+Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional *Recipe Creation Service*.
 
-Pricing
-----
-
-The catalogue price of a NuvlaBox is [€1495](/products/nuvlabox-pricing.html). It contains all the required features for local operations, including the ability to create new deployment recipes/blueprints to augment the app store.
-
-Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional [*Recipe Creation Service*](/products/nuvlabox-pricing.html).
-
-To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs SlipStream as a SaaS, you will most probably want to run your own version for this type of usage. Please refer to the [SlipStream pricing page](/products/slipstream-pricing.html) for details. Please note that you will need a connector instance per box. We support both permanent and subscription license schemes. Bulk pricing is also available on request.
+To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream-tryme.html), you will most probably want to run your own version for this type of usage.

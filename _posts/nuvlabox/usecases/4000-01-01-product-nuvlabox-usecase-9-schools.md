@@ -16,11 +16,6 @@ NuvlaBox radically simplifies this by tackling the issue on two fronts:
 
 With the generalisation of applications for schools and the tendency for school to federate, the ability to securely manage and remote control NuvlaBoxes also means that IT knowledge can be centralised, yielding even higher savings, while delivering a higher level of service.
 
-Pricing
-----
+If you need deployment recipes to automate application deployment, SixSq will be happy to help you with this task, via our professional *Recipe Creation Service*.
 
-To rationalise your hardware, you simply need to purchase a NuvlaBox. At at a [catalogue price of €1495](/products/nuvlabox-pricing.html), you will be able to run up to 8 virtual servers. Out of the box, everything you require is activated.
-
-If you need deployment recipes to automate application deployment, SixSq will be happy to help you with this task, via our professional [*Recipe Creation Service*](/products/nuvlabox-pricing.html).
-
-To remote control a box, you will need an account on our SlipStream managed service (SaaS) or deploy your own SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including app store capability. Creating an account on the SaaS is free, but you will need to activate a connection for each NuvlaBox managed (refer to the [NuvlaBox Remote Control feature on the pricing page](/products/nuvlabox-pricing.html)).
+To remote control a box, you will need an account on our SlipStream managed service (SaaS) or deploy your own SlipStream instance. [SlipStream](/products/slipstream.html) is the software piece that contains the intelligence including app store capability. Creating an account on the [SaaS](/products/slipstream-tryme.html) is free, but you will need to activate a connection for each NuvlaBox managed.

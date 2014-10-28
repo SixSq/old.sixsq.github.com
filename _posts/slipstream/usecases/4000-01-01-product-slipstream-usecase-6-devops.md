@@ -15,8 +15,3 @@ SixSq is expert in both agile and DevOps, and has been for many years now. In fa
 Used via its simple API, the provisioning process can be integrated into a complete build/test/deploy/feedback process, such that for example code commits into a version control system can trigger a complete software deployment procedure, including end-to-end test execution. The same can apply to production deployment, once a given release has been stamped for production.
 
 As a result, fewer manual, boring and error prone tasks are required, freeing expensive engineers to focus on more creative work. Time to market is significantly reduced with the ability to push to production more often with fewer defects, thanks to more rigorous and regular testing.
-
-Pricing
-----
-
-Deployment automation is a basic feature of SlipStream. All [plans](/products/slipstream-pricing.html) include it, as well as the SaaS.

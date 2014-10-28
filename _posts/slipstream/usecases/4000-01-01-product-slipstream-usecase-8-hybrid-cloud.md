@@ -16,13 +16,3 @@ This is a job for SlipStream. With its cloud abstraction layer, cloud difference
 With the ability to deploy applications across several clouds in *1-click*, hybrid deployment is now within reach of all cloud-user organisations, allowing teams to take full advantage of private and public clouds, in a flexible, convenient and stress-free way. The result can significantly contribute to increasing robustness and availability of applications, without compromise on security or extra costs and complexity.
 
 CIOs can then ensure the right infrastructure is used to host the right applications, providing an agile infrastructure for their organisation, while maintaining control and governance.
-
-
-Pricing
-----
-
-Hybrid cloud provisioning will normally require a private installation of SlipStream. SixSq supports both on-premise [subscription](/products/slipstream-pricing.html#on-premise-subscription-plan) and [license](/products/slipstream-pricing.html#on-premise-license-plan) plans. The *Enterprise (small) Plan* will provide two connectors, such that SlipStream can be connected to the private cloud endpoint on one hand, and the public cloud on the other. If more cloud connections are required, additional subscriptions or licenses can be purchased.
-
-While the number of deployments and image creations is unlimited with all of our plans, bundles of extra users can be purchased.
-
-This pricing scheme makes SlipStream affordable, flexible and scalable.

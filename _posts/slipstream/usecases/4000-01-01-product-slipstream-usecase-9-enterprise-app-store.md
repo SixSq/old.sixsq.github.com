@@ -14,13 +14,3 @@ What if we could deploy applications via an enterprise app store? These applicat
 This is why we created SlipStream and included at it's core an *Enterprise Open App Store*, so that provisioning applications is simple and safe. The ability to 1-click deploy ensures that the application is provisioned automatically, eliminating human intervention, risks and delays. The SlipStream multi-tenant capability means that different users can access different apps, with different privileges. The *open* part of the *Enterprise Open App Store* stresses the fact that SlipStream is an open system, where users can augment it themselves, sharing what they want to share, and keeping private what should be kept aside.
 
 As a result, CIOs can avoid the modern phenomenon of teams preferring to circumvent the organisation's infrastructure (often out of frustration) using their own credit card to purchase VMs in public clouds. Thus ensuring higher level of governance, policy and security. Meanwhile, CFOs can better control costs since provisioning is performed via a controlled process. But using the SlipStream app store feature doesn't prevent organisations from taking advantage of public clouds. On the contrary. Look at the [Hybrid Cloud Provisioning](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning) use case for details on how the app store works perfectly in a multi-cloud and hybrid mode.
-
-
-Pricing
-----
-
-The Enterprise App Store or Self-Service IT is a basic SlipStream feature. For this type of use case, we recommend running a private installation of SlipStream. SixSq supports both on-premise [subscription](/products/slipstream-pricing.html#on-premise-subscription-plan) and [license](/products/slipstream-pricing.html#on-premise-license-plan) plans.
-
-While the number of deployments and image creations is unlimited with all of our plans, bundles of extra users can be purchased.
-
-This pricing scheme makes SlipStream affordable, flexible and scalable.
