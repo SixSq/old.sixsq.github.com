@@ -171,3 +171,7 @@ div.nuvlabox.odd {
   color: white;
   text-decoration: none;
 }
+
+.social-network div a img {
+  border-radius: 5px;
+}
