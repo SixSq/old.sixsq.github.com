@@ -3,11 +3,11 @@
    {% include head.html %}
   <body>
    {% include top.html %}
-   {% include media_nav.html %}
 
   <div class="jumbotron">
     <div class="container">
       <h1>{{ page.title }}</h1>
+      <p>Our customers are large and small system integrators, high-tech companies, institutions and agencies. We value transparent relationships, built on trust and honesty. This approach is valued by our customers and partners, giving us an edge over competition.</p>
     </div>
   </div>
   {% for post in site.posts %}
@@ -20,17 +20,7 @@
         </a>
         <p/>
         </center>
-        <h2>
-          <a href="{{ post.url }}" class="title">{{ post.title }}</a>
-        </h2>
-        {{ post.content | strip_html | truncatewords: 25 }}
-        {% if post.category == news %}
-          <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
-        {% endif %}
-        {% if post.author %}
-          <p/>
-          <div class="author">By: {{ post.author }}</div>
-        {% endif %}
+        {{ post.content }}
       </div>
     </div>
     {% endif %}
@@ -42,3 +32,4 @@
 
   </body>
 </html>
+
