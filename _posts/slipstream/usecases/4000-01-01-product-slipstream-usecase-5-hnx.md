@@ -3,7 +3,9 @@ layout: article
 title: Cloud Marketplace (Helix Nebula Cloud Exchange - HNX)
 class: slipstream
 category: usecases
-user_profile: Enterprise, Federated Organisations
+persona: Alice, Bob
+context: Enterprise, Federated Organisations
+context_type: enterprise
 ---
 
 Cloud offers are continually growing, providing an increasing level of choice and hopefully creating a healthy marketplace which will keep prices low and quality high.

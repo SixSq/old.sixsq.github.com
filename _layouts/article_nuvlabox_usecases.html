@@ -48,10 +48,9 @@
         <h1 id="{{ post.title | replace:' ','-' }}">
           {{ post.title }}
         </h1>
-        <h2>User profile</h2>
-        <div>
-          {{ post.user_profile }}
-        </div>
+        <h2>Persona: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h2>
+        <h2>Context: <a href="/products/nuvlabox.html#who-is-the-nuvlabox-for">{{ post.context }}</a></h2>
+        <!-- <h2>Context: <a href="/products/nuvlabox.html#{{ post.context_type }}">{{ post.context }}</a></h2> -->
         <h2>Overview</h2>
         <div>
           {{ post.content }}

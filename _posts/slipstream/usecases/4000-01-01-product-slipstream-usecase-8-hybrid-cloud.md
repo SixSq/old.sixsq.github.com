@@ -4,7 +4,9 @@ title: Hybrid Cloud Provisioning
 class: slipstream
 category: usecases
 favourite: true
-user_profile: Enterprise
+persona: Clara
+context: Enterprise
+context_type: enterprise
 ---
 
 Many companies see the need to maintain at least part of their cloud infrastructure at home. Meanwhile, the ability to burst or scale-out to public or remote clouds can yield significant tactical, strategic and cost benefits. This is where the hybrid cloud model becomes an attractive option. However, many orgaisations already struggle with the complexity of managing their own cloud infrastructure, putting the hybrid model out-of-reach.

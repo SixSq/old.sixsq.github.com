@@ -4,7 +4,9 @@ title: Putting Intelligence at the Edge of the Network
 class: nuvlabox
 category: usecases
 favourite: true
-user_profile: Telco / Network Service Provider
+persona: Alice, Bob, Clara
+context: Telco / Network Service Provider
+context_type: sme
 ---
 
 Network and internet service providers constantly have the issue of better control and handover at the edge of their network. For example, ensuring that the link between the end of their network and the entry-point to the customer's private infrastructure is as smooth as possible.

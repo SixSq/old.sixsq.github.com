@@ -48,7 +48,8 @@
         <h1 id="{{ post.title | replace:' ','-' }}">
           {{ post.title }}
         </h1>
-        <h2>User profile: {{ post.user_profile }}</h2>
+        <h2>Persona: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h2>
+        <h2>Context: {{ post.context }}</a></h2>
         <h2>Overview</h2>
         <div>
           {{ post.content }}
