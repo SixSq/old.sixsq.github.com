@@ -45,8 +45,12 @@ img {
 
 .container {
   margin: 0px auto;
-  padding-right:24px;
-  padding-left:24px;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.container.personae {
+  max-width: 620px !important;
 }
 
 div.odd {

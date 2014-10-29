@@ -6,4 +6,10 @@ icon: /img/content/personae/alice.png
 overview: App Store user
 ---
 
-Alice is busy working on different projects. She has little patience for IT related issues. She is a 'plain' user of SlipStream. For her, SlipStream is an App Store she uses to provision enterprise applications. She is not interested in technical details of the cloud. The thing that matters most for her is where will her app run. She already has her cloud credential for the clouds she deploys to.
+Alice is busy working on different projects. She has little patience for IT related issues. She is a 'plain' user of SlipStream. 
+
+
+For her, SlipStream is an App Store she uses to provision enterprise applications. She is not interested in technical details of the cloud. 
+
+
+The thing that matters most for her is where will her app run. She already has her cloud credential for the clouds she deploys to.
