@@ -3,8 +3,9 @@ layout: article
 title: Auto-Scale and Mutable Deployments
 class: slipstream
 category: usecases
-user_profile: Enterprise
-note: available from September 2014
+persona: Clara
+context: Enterprise
+context_type: enterprise
 ---
 
 Being able to automate complex deployments is important in order to reduce time to market, improve quality and security, not to mention reduce costs.

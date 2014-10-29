@@ -6,6 +6,9 @@ category: usecases
 favourite: true
 user_profile: Enterprise
 warning: this use case is technical. Geeks only!
+persona: Alice
+context: SME, NGO and Enterprise
+context_type: enterprise
 ---
 
 The current cloud landscape is busy with solutions that allow users to manage virtual machine life cycles. While this is an important building block, it falls short in terms of delivering on the full cloud potential.

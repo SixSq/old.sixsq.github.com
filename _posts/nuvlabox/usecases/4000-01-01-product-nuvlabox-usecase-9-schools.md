@@ -4,7 +4,9 @@ title: Schools or Federation of Schools
 class: nuvlabox
 category: usecases
 favourite: true
-user_profile: Schools or Federation of Schools
+persona: Alice
+context: Schools or Federation of Schools
+context_type: sme
 ---
 
 Directors of schools, like most leaders of non-IT organisations, understandably want to focus on their primary mission, which is to educate children. For them, IT is generally seen as a necessary evil and too often a distraction. They run most of their applications on their own hardware, resulting in a plethora of support and maintenance contracts for both hardware and software.  Maintenance and support interventions for the applications often require on-site visits by a specialist, yet another addition to the overall cost.

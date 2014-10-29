@@ -4,7 +4,9 @@ title: Field Operations with Agile Local Infrastructure
 class: nuvlabox
 category: usecases
 favourite: true
-user_profile: Non-IT SME
+persona: Alice
+context: Non-IT SME
+context_type: sme
 ---
 
 Users operating in the field, such as journalists (e.g. sports events, international conferences, emergency coverage) and aid workers (e.g. relief efforts, aid camps) require a local IT infrastructure.

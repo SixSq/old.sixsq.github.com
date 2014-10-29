@@ -3,7 +3,9 @@ layout: article
 title: Internet of Things and Sensor Aggregating
 class: nuvlabox
 category: usecases
-user_profile: Any SME and Enterprise
+persona: Clara
+context: SMB, NGO and Enterprise
+context_type: sme
 ---
 
 More and more *intelligent* devices can be *connected*, contributing to the phenomenon known as Internet of Things. These applications bring both opportunities and challenges. The opportunity comes from being able to monitor more devices (e.g. machines, cameras, sensors of all sorts) and the ability to retrieve remotely interesting data. The challenge is in handling all this data, in a consistent and secure way.  For example, sensors play an important role in agriculture and forestry today, with the need to increase production and reduce costs, while keeping a close eye on environmental impact. The use of sensors helps to exploit all available resources appropriately and to apply hazardous products moderately. However, forwarding raw data from the sensors via broadband network is expensive and not always possible due to scarce bandwidth and resources. Also, when considering security implications, this approach is in most cases a non-viable.  A similar application is to aggregate security camera feeds, such that all the data remains on site, while allowing specific feeds to be transmitted off site if and when required. This ensures that bandwidth is used adequately, while addressing security concerns.

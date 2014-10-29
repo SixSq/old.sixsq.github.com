@@ -7,6 +7,10 @@ permalink: /products/nuvlabox-tech.html
 sub: techspecs
 ---
 
+<p align="center">
+  <img src="/img/content/nuvlabox/photos/nb_front.png" alt="NuvlaBox standalone" />
+</p>
+
 Using the NuvlaBox
 ====
 
@@ -22,7 +26,7 @@ From a user point-of-view, the process is very similar for these two modes. Let'
 First, we'll consider the NuvlaBox in a standalone mode. This means that the box is not connected to a network that has access to the external world.
 
 <p align="center">
-<img src="/img/content/nuvlabox/nuvlabox-local.png" alt="NuvlaBox standalone" width="700" />
+  <img src="/img/content/nuvlabox/nuvlabox-local.png" alt="NuvlaBox standalone" />
 </p>
 
 1. **Power-up the box**: To work in standalone mode, the NuvlaBox only needs power. Once powered-up, the box will create its own local Wi-Fi network, which can be used by any device (e.g. laptop, smart phone, tablet, pc). By default the Wi-Fi network is open. The ssid starts with *nuvlabox* so that it's simple to find. Once the device has joined the Wi-Fi, the user can connect to the box on a default url. From this landing page, the user can access the local App Stores, powered by [SlipStream](/products/slipstream.html).
@@ -41,7 +45,7 @@ Users can create their own images and recipes (aka blueprints) and SixSq also of
 A second more flexible mode is when the NuvlaBox is connected to a network with access to the wide area network. In this case, the user can take advantage of our hosted [SlipStream](/products/slipstream.html) service, which can be used as a channel for a wide range of applications and offerings. The user must have created an account with SixSq Enterprise Open App Store.
 
 <p align="center">
-    <img src="/img/content/nuvlabox/nuvlabox-remote.png" alt="NuvlaBox remotely connected" width="700" />
+  <img src="/img/content/nuvlabox/nuvlabox-remote.png" alt="NuvlaBox remotely connected" />
 </p>
 
 1. **Power-up the box**: See point 1 above.
@@ -98,6 +102,10 @@ NuvlaBox comes by default with the following specification:
 * Plenty of USB ports
 * HDMI interface
 * 2 x RJ-45 network adapter
+
+<p align="center">
+  <img src="/img/content/nuvlabox/photos/nb_back.jpg" alt="NuvlaBox back panel" />
+</p>
 
 Unlike many fanless PC currently produced, NuvlaBox delivers all the power the CPUs need to take full advantage of the system's virtualisation capabilities.
 

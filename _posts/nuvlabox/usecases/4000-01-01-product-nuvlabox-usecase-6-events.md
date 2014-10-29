@@ -3,7 +3,9 @@ layout: article
 title: Event, Fair and Booth Setup in a Snap
 class: nuvlabox
 category: usecases
-user_profile: Any SME and Enterprise
+persona: Alice
+context: SMB, NGO and Enterprise
+context_type: sme
 ---
 
 In our ever-connected world, company presence at large fairs or events requires an IT presence. This means potentially:
