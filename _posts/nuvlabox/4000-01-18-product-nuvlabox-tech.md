@@ -16,8 +16,8 @@ Using the NuvlaBox
 
 NuvlaBox can be used in two main modes:
 
-* **Standalone mode**
-* **Remote controlled mode**
+* **Standalone**
+* **Remote controlled**
 
 From a user point-of-view, the process is very similar for these two modes. Let's look at what a user needs to do to get going. 
 
