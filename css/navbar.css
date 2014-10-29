@@ -33,10 +33,6 @@
   font-weight: bold;
 }
 
-/*.navbar button.navbar-toggle.collapsed.sub-nav {
-  border-color: #333 !important;
-}
-*/
 button.navbar-toggle.collapsed.sub-nav {
   border-color: #D1D1D1 !important;
 }

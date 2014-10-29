@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+   {% include head.html %}
+  <body>
+   {% include top.html %}
+
+  <div class="jumbotron">
+    <div class="container">
+      <h1>{{ page.title }}</h1>
+      <h2>Here are our virtual users (personae) we develop SlipStream and NuvlaBox for.</h2>
+    </div>
+  </div>
+  {% for post in site.posts reversed %}
+    {% if post.category == page.category %}
+    <div id="{{ post.title }}" class="{% cycle 'even', 'odd' %} spacy">
+      <div class="container">
+        <center>
+          <img src="{{ post.icon }}" />
+          <p/>
+          <h2>{{ post.title }}</h2>
+        </center>
+        <h4>{{ post.overview }}</h4>
+        {{ post.content | strip_html }}
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+
+  {% include whats_next.html %}
+
+  {% include footer.html %}
+
+  </body>
+</html>

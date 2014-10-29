@@ -167,7 +167,7 @@ div.nuvlabox.odd {
   background: #E2EFF7;
 }
 
-.banner a, .banner a:visited, .banner a:hover, banner a:active {
+.banner a, .banner a:visited, .banner a:hover, .banner a:active {
   color: white;
   text-decoration: none;
 }
@@ -175,3 +175,8 @@ div.nuvlabox.odd {
 .social-network div a img {
   border-radius: 5px;
 }
+
+#personae a, #personae a:visited, #personae a:hover, #personae a:active {
+  text-decoration: none;
+}
+
