@@ -35,6 +35,14 @@ img {
   margin-bottom: 0;
 }
 
+.jumbotron h1 {
+  font-size: 59px;
+}
+
+.jumbotron h2 {
+  font-size: 25px;
+}
+
 .slipstream-main-story {
   background: #eee url(/img/content/slipstream_schema_color_on_transparent_25opacity_2500px.png) no-repeat center center;
 }
