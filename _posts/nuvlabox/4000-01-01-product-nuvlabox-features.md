@@ -29,8 +29,8 @@ NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers
   </div>
 
   <div class="col-md-6">
-    <h3>Control several NuvlaBoxes from the same dashboard</h3>
-    <p>NuvlaBoxes can be controlled from the dashboard provided by ... is secure, from design to manufacturing, including software and hardware.</p>
+    <h3>Remote control several NuvlaBoxes from the same dashboard</h3>
+    <p>NuvlaBoxes can be remotely controlled from the SixSq Enterprise Open App Store.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature works even if the NuvlaBox is connected to the network via a private IP.</p>
   </div>
 
   <div class="col-md-6">
@@ -44,8 +44,8 @@ NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers
   </div>
 
   <div class="col-md-6">
-    <h3>Zero Configuration</h3>
-    <p>NuvlaBox is a turn-key solution. You plug it in, power it up and you are good to go.</p>
+    <h3>Zero Configuration with built-in Wi-Fi network to reach your devices</h3>
+    <p>NuvlaBox is a turn-key solution. You plug it in, power it up and you are good to go. In addition, it can establish a Wi-Fi network acting as a bridge and facilitating access from any type of connected device and sensor.</p>
   </div>
 
   <div class="col-md-6">
@@ -59,12 +59,7 @@ NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers
   </div>
 
   <div class="col-md-6">
-    <h3>Remote control your box</h3>
-    <p>NuvlaBox can be remotely controlled from the SixSq Enterprise Open App Store.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature works even if the NuvlaBox is connected to the network via a private IP.</p>
-  </div>
-
-  <div class="col-md-6">
-    <h3>Build entirely from open source software</h3>
+    <h3>Built entirely from open source software</h3>
     <p>NuvlaBox is entirely build from open source software, including the CentOS base operating system, <a href="/products/slipstream.html">SlipStream</a> and <a href="http://stratuslab.eu">StratusLab</a> solutions.</p>
   </div>
 
@@ -73,9 +68,8 @@ NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers
     <p>NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping.</p>
   </div>
 
-  <div class="col-md-6">
-    <h3>Wi-Fi network to reach your devices</h3>
-    <p>NuvlaBox can establish a Wi-Fi network acting as a bridge and facilitating access from any type of connected device and sensor.</p>
+  
+    <p></p>
   </div>
 </div>
   
