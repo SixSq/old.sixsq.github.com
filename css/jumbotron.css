@@ -23,7 +23,11 @@ img {
   max-width: 90%;
 }
 
-.container > p {
+/*.container > p {
+  font-size: 18px;  
+}*/
+
+.container.big p, .container.big li {
   font-size: 18px;  
 }
 

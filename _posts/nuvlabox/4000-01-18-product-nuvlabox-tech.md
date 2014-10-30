@@ -16,8 +16,10 @@ Using the NuvlaBox
 
 NuvlaBox can be used in two main modes:
 
-* **Standalone**
-* **Remote controlled**
+* **Standalone** 
+
+* **Remote controlled** 
+
 
 From a user point-of-view, the process is very similar for these two modes. Let's look at what a user needs to do to get going. 
 
@@ -30,8 +32,11 @@ First, we'll consider the NuvlaBox in a standalone mode. This means that the box
 </p>
 
 1. **Power-up the box**: To work in standalone mode, the NuvlaBox only needs power. Once powered-up, the box will create its own local Wi-Fi network, which can be used by any device (e.g. laptop, smart phone, tablet, pc). By default the Wi-Fi network is open. The ssid starts with *nuvlabox* so that it's simple to find. Once the device has joined the Wi-Fi, the user can connect to the box on a default url. From this landing page, the user can access the local App Stores, powered by [SlipStream](/products/slipstream.html).
+
 2. **Select App**: The user can then choose to deploy virtual servers (or machines) into the box. SlipStream offers a range of standard operating systems (e.g. Linux, Windows) to deploy. But the beauty of the system is in its ability to directly deploy and configure complete applications in the box.  From the catalogue of apps, the user only needs a single click to provision the right application (or only the operating system) in his/her NuvlaBox .
+
 3. **Deploy**: This step is automatic. Once the user has selected an app to deploy, SlipStream submits the requests to the cloud layer in the box (powered by StratusLab). This will allocate a virtual machine with the right resource profile, including the base operating system, and boot it. Once the machine has booted, SlipStream takes over and completes the installation of the application, including configuration. From this point on, the virtual machine is up and the application fully ready.
+
 4. **Enjoy**: The user can now enjoy the application :-)
 
 NuvlaBox communicates over HTTPS, an encrypted protocol, making it impossible to intercept the communication, even over a Wi-Fi network.
@@ -48,10 +53,14 @@ A second more flexible mode is when the NuvlaBox is connected to a network with 
   <img src="/img/content/nuvlabox/nuvlabox-remote.png" alt="NuvlaBox remotely connected" />
 </p>
 
-1. **Power-up the box**: See point 1 above.
-2. **Connect**: From the NuvlaBox configuration panel, authorise the box to create a secure connection to SixSq's Enterprise Open App Store. With this connection established, the NuvlaBox will appear in the list of available clouds to deploy to.
+1. **Power-up the box**: See point 1 above. 
+
+2. **Connect**: From the NuvlaBox configuration panel, authorise the box to create a secure connection to SixSq's Enterprise Open App Store. With this connection established, the NuvlaBox will appear in the list of available clouds to deploy to. 
+
 3. **Select App**: As for the standalone mode, the user can select from a list of available applications and operating systems available from the store. The advantage of the Enterprise Open App Store is that it is not limited in terms of native images and recipes. 
-4. **Deploy App**: If for example a user selects an application that requires a new native image, the first time the app is deployed to the NuvlaBox, the machine image will be downloaded and stored in the NuvlaBox. This means that if the same image is required later, it will already be cached and should start immediately.
+
+4. **Deploy App**: If for example a user selects an application that requires a new native image, the first time the app is deployed to the NuvlaBox, the machine image will be downloaded and stored in the NuvlaBox. This means that if the same image is required later, it will already be cached and should start immediately. 
+
 5. **Enjoy**: The user can now enjoy the application :-)
 
 

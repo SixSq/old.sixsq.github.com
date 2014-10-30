@@ -13,7 +13,7 @@
   {% for post in site.posts %}
     {% if post.category == page.category %}
     <div class="{% cycle 'even', 'odd' %} spacy">
-      <div class="container">
+      <div class="container big">
         <center>
         <a href="{{ post.url }}">
           <img src="{{ post.image }}" />
@@ -23,7 +23,7 @@
         <h2>
           <a href="{{ post.url }}" class="title">{{ post.title }}</a>
         </h2>
-        {{ post.content | strip_html | truncatewords: 25 }}
+        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
         {% if post.category == news %}
           <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
         {% endif %}

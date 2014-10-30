@@ -9,7 +9,7 @@
 
   {% include slipstream_intro.html %}
 
-  <div class="container spacy">
+  <div class="container big spacy">
     <h1>Use Cases</h1>
 
     <div class="row">
@@ -34,9 +34,8 @@
         <h1 id="{{ post.title | replace:' ','-' }}">
           {{ post.title }}
         </h1>
-        <h2>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h2>
-        <h2>Context: {{ post.context }}</a></h2>
-        <h2>Overview</h2>
+        <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h4>
+        <h4>Context: {{ post.context }}</a></h4>
         <div>
           {{ post.content }}
         </div>

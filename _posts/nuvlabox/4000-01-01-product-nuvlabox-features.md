@@ -67,9 +67,6 @@ NuvlaBox can host up to 8 virtual servers.  This means you can replace 8 servers
     <h3>Designed in Switzerland - Made in Europe</h3>
     <p>NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping.</p>
   </div>
-
-  
-    <p></p>
-  </div>
+  <p></p>
 </div>
   

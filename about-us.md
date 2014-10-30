@@ -31,7 +31,7 @@ class: about
   </div>
 </div>
 
-<div class="container spacy">
+<div class="container big spacy">
   <h2>Who we work for?</h2>
   <p>The IT world is littered with complex and intrusive tools and solutions,
 promising the world and costing even more. At SixSq we strive to deliver
@@ -90,7 +90,7 @@ school-in-a-box, health-in-a-box, clinic-in-a-box, mobile-office-in-a-box, etc.
 </div>
 
 <div style="background: #eee;">
-<div class="container spacy">
+<div class="container big spacy">
   <h2>Why trust us?</h2>
   <h4>Experts in the field of cloud and distributed computing, we are also truly
 independent, something very few companies can claim.</h4>
@@ -114,34 +114,34 @@ recurrent business.</p>
 </div>
 </div>
 
-<div class="container spacy">
+<div class="container big spacy">
     <h2>Partnerships and Collaborations</h2>
     <p>We collaborate and take part in several partner programs. Here is a summary of
 some of the most important relationships we have established in terms of
 partnerships and collaborations.</p>
 
-<div class="container spacy">
+<div class="container big spacy">
   <h2>Amazon</h2>
   <p><img src="/img/content/AWS_SolutionProvider_logo_RGB_Trans.png" alt="Amazon Solution Provider" /></p>
 
 SixSq is a registered Amazon Solution Provider, with a dedicated <a href="https://slipstream.sixsq.com">SlipStream service</a> configured to deploy on Amazon's EC2 service.  This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.</p>
 </div>
 
-<div class="container spacy">
+<div class="container big spacy">
   <h2>Exoscale</h2>
   <p><img src="/img/content/exoscale-logo-full-black.png" alt="Exoscale Technology Partner" /></p>
 
 SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud spectrum, Exoscale provides tailored solutions which allow clients focus on their core business. With the SlipStream connector now in place, customers can deploy their applications to the Exoscale cloud with one-click, making efficiency savings by deploying simple to complex applications repeatedly with orchestration and dependence management.</p>
 </div>
 
-<div class="container spacy">
+<div class="container big spacy">
   <h2>IBM Partner World Member</h2>
   <p><img src="/img/content/ibm-partner-logo.png" alt="IBM Business Partner" /></p>
 
 SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/slipstream.html">SlipStream</a> on IBM hardware and software solutions, making IBM a sound target for solid SixSq-based deployments.</p>
 </div>
 
-<div class="container spacy">
+<div class="container big spacy">
   <h2>Helix Nebula - The Science Cloud</h2>
   <p><img src="/img/content/helix-nebula.jpg" alt="Open Virtualization Alliance Member" /></p>
 
@@ -155,7 +155,7 @@ More information is available <a href="news/2012/03/01/news-hn-annoucement.html"
 </div>
 
 <div style="background: #eee;">
-<div class="container spacy">
+<div class="container big spacy">
   <h1>For Journalists and Editors</h1>
   <h3>A more official SixSq definition:</h3>
   <p>
