@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+   {% include head.html %}
+  <body>
+   {% include top.html %}
+   {% include nuvlabox_nav.html %}
+   {% include nuvlabox_intro.html %}
+
+      <div class="container spacy">
+        {{ page.content | markdownify }}
+      </div>
+
+      {% unless page.no_whatsnext %}
+        {% include whats-next-and-order.html %}
+      {% endunless %}
+
+      {% include footer.html %}
+
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
+
+  </body>
+</html>

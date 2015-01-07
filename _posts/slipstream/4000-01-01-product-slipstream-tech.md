@@ -21,29 +21,22 @@ Technical Specification
 
 SlipStream provides simple interfaces (web and command-line client) to interact with cloud environments. All clouds are not equal and several clouds have their own approach to VM lifecycle and configuration. SlipStream's connector architecture provides an abstraction layer giving the opportunity to each connector to leverage the advantages, and work around the inconveniences, of each cloud. The result is a consistent behaviour, across clouds. The following are examples of harmonisation SlipStream provides:
 
-* **Contextualization**: even for cloud solutions that do not support contextualisation, SlipStream goes the extra mile and
-  hides this by pushing contextualisation into the VM, after locking any SSH username/password remote access.
+* **Multi-machine deployment**: specify at provisioning time the *number of instances* you want for each type of VM in your deployment model, *parameters* (e.g. package version, credentials, IPs of external systems), as well as the cloud service(s). You can even deploy different parts of your application on different cloud services and let SlipStream worry about provisioning, orchestrating and configuring your applications.
 
-* **Machine image creation**: pick a base image, drop in your scripts (e.g. Bash, Python, Ruby, Chef, Puppet) and/or a list of   
-  packages in SlipStream and let it do the image creation heavy lifting for you. This version and automated process can be
-  applied to all supported cloud services, yielding the same consistent results on these clouds.
-
-* **Multi-machine deployment**: specify at provisioning time: the *number of instances* you want for each type of VM in your
-  deployment model, *parameters* (e.g. package version, credentials, IPs of external systems), as well as the cloud service(s)
-  (you can even deploy different parts of your application on different cloud services) and let SlipStream
-  worry about provisioning, orchestrating and configuring your applications.
+* **Machine image creation**: pick a base image, drop in your scripts (e.g. Bash, Python, Ruby, Chef, Puppet) and/or a list of packages in SlipStream and let it do the image creation heavy lifting for you. This version and automated process can be applied to all supported cloud services, yielding the same consistent results on each cloud.
 
 * **Extra disk attachment**: keeping your base images small and tidy simplifies life but can be constraining. 
   SlipStream is able to automatically attach extra disks, such that you can dynamically increase the available disk size to 
   your virtual machine, at provisioning time. 
 
 Our cloud connector architecture allows us to quickly develop and integrate with current and future IaaS cloud services. 
-This means that you will be able to easily switch between clouds, therefore avoiding vendor lock-in. If we do not support your cloud, please get in touch, chances are that we might very well be able to add it to our short term roadmap.
+
+This means that you will be able to easily switch between clouds, therefore avoiding vendor lock-in. If we do not support your cloud, please get in touch, chances are we are already working on it.
 
 REST API
 ===========
 
-SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream-usecases.html#LAMP-and-complex-application-provisioning), or an [app store](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning).
+SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream-usecases.html#LAMP-and-complex-application-provisioning), or an [AppStore](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning).
 
 DevOps and SlipStream
 ===========

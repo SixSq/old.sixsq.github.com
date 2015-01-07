@@ -1,46 +1,82 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-
-<html 
-   xmlns="http://www.w3.org/1999/xhtml" 
-   xml:lang="en" 
-   version="XHTML+RDFa 1.0" 
-   dir="ltr"
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:dc="http://purl.org/dc/terms/"
-   xmlns:foaf="http://xmlns.com/foaf/0.1/"
-   xmlns:og="http://ogp.me/ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:sioc="http://rdfs.org/sioc/ns#"
-   xmlns:sioct="http://rdfs.org/sioc/types#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!DOCTYPE html>
+<html>
 
   {% include head.html %}
 
-  <body class="front_page">
+  <body>
 
-    <div id="wrapper">
-
-      <div id="header">
-        
         {% include top.html %}
-        
-        {% include banner.html %}
 
-      </div>
+          <div class="banner"><div><a href="/contact.html">Partners Wanted</a></div></div>
 
-      <div id="content">
-        
-        <!--{% include front-personae.html %}-->
+            <!-- Main jumbotron for a primary marketing message or call to action -->
+          <div class="jumbotron">
 
-        {% include front-products.html %}
+            <div class="container">
+              <h1>Application Deployment in any Cloud</h1>
+              <h2>1-click multi-cloud application deployment platform. Real multi-cloud software solution built on professional open source software.</h2>
+              <p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStram overview" max-width="900px" style="padding: 35px 0 15px 0;"/></p>
+              <p/><p><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream.html">Learn more &raquo;</a></p>
+            </div>
 
-        {% include customers.html %}
+            <div class="container">
+              <div class="row">
+                <div class="col-md-4">
+                  <h2>Enterprise App Store / Self-Service IT</h2>
+                  <p><a class="btn btn-default" href="/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT" role="button">Use case details &raquo;</a></p>
+                </div>
+                <div class="col-md-4">
+                  <h2>Hybrid Cloud Provisioning</h2>
+                  <p><a class="btn btn-default" href="/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning" role="button">Use case details &raquo;</a></p>
+                </div>
+                <div class="col-md-4">
+                  <h2>LAMP and complex application provisioning</h2>
+                  <p><a class="btn btn-default" href="/products/slipstream-usecases.html#LAMP-and-complex-application-provisioning" role="button">Use case details &raquo;</a></p>
+                </div>
+              </div>
+            </div>
+            <div class="container spacy">
+              <h1>All Clouds Supported</h1>
+              <h2>We support all mainstream clouds.</h2>
+              <p align="center">
+                <img src="/img/content/cloud_providers_color_on_transparent_1000px.png" alt="SlipStream Supported Clouds" />
+              </p>
+              <h3>And if we are missing the one you need, get in touch... chances are it is already on its way.</h3>
+              <p style="padding-top: 30px;"><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream.html">Learn more &raquo;</a></p>
+            </div> <!-- /container -->
+
+          </div> <!-- /jumbotron -->
+
+          <div class="jumbotron main-story nuvlabox">
+            <div class="container">
+              <h1>Bridging the digital divide</h1>
+              <h2>with an affordable cloud-in-a-box that's child's play to use and manage</h2>
+              <p align="center"><img src="/img/content/nuvlabox-overview.png" alt="SlipStram overview" /></p>
+              <p><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox.html">Learn more &raquo;</a></p>
+            </div>
+
+            <div class="container">
+              <div class="row">
+                <div class="col-md-4">
+                  <h2>Schools or Federation of Schools</h2>
+                  <p><a class="btn btn-default" href="/products/nuvlabox-usecases.html#Schools-or-Federation-of-Schools" role="button">Use case details &raquo;</a></p>
+                </div>
+                <div class="col-md-4">
+                  <h2>Putting Intelligence at the Edge of the Network</h2>
+                  <p><a class="btn btn-default" href="/products/nuvlabox-usecases.html#Putting-Intelligence-at-the-Edge-of-the-Network" role="button">Use case details &raquo;</a></p>
+               </div>
+                <div class="col-md-4">
+                  <h2>Field Operations with Agile Local Infrastructure</h2>
+                  <p><a class="btn btn-default" href="/products/nuvlabox-usecases.html#Field-Operations-with-Agile-Local-Infrastructure" role="button">Use case details &raquo;</a></p>
+                </div>
+              </div>
+            </div> <!-- /container -->
+          </div> <!-- /container -->
+
+        {% include front_personae.html %}
+			  {% include whats_next.html %}
         
         {% include footer.html %}
 
-      </div>
-      
-    </div>
   </body>
 </html>

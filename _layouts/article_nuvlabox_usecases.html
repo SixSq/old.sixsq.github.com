@@ -1,87 +1,53 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-
-<html 
-   xmlns="http://www.w3.org/1999/xhtml" 
-   xml:lang="en" 
-   version="XHTML+RDFa 1.0" 
-   dir="ltr"
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:dc="http://purl.org/dc/terms/"
-   xmlns:foaf="http://xmlns.com/foaf/0.1/"
-   xmlns:og="http://ogp.me/ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:sioc="http://rdfs.org/sioc/ns#"
-   xmlns:sioct="http://rdfs.org/sioc/types#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!DOCTYPE html>
+<html>
 
   {% include head.html %}
   
-  <body class="not_front_page">
-    <div id="wrapper">
+  {% include top.html %}
 
-      <div id="header">
-        {% include top.html %}
+  {% include nuvlabox_nav.html %}
+
+  {% include nuvlabox_intro.html %}
+
+  <div class="container big spacy">
+    <h1>Use Cases</h1>
+
+    <div class="row">
+    {% for post in site.posts %}
+      {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
+      <div class="col-md-4">
+        <h2>{{ post.title }}</h2>
+        <p>
+          {{ post.content | markdownify | truncatewords: 16 }}
+        </p>
+        <a class="btn btn-default" href="#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a>
       </div>
-
-      <div id="content">
-        <div class="content_bg">
-          <div class="main">
-              <nav>
-                  <h1 class="list_title">{{ page.title }}</h1>
-                  <ul>
-                      <li id="sub_overview"><a href="/products/nuvlabox.html">Overview</a></li>
-                      <li id="sub_usecases"><a href="/products/nuvlabox-usecases.html">Use Cases</a></li>
-                      <li id="sub_features"><a href="/products/nuvlabox-features.html">Features</a></li>
-                      <li id="sub_techspecs"><a href="/products/nuvlabox-tech.html">Tech Specs</a></li>
-                      <li id="sub_pricing"><a href="/products/nuvlabox-pricing.html">Pricing</a></li>
-                  </ul>
-              </nav>
-              <div class="article">
-                <h1>Use Cases</h1>
-
-                <div class="list_usecases clearfix">                
-                    {% for post in site.posts %}
-                    {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-                    <div>
-                        <a href="#{{ post.title | replace:' ','-' }}">
-                            <h3>
-                                {{ post.title }}
-                            </h3>
-                            <section>
-                                {{ post.content | markdownify | truncatewords: 16 }}
-                            </section>
-                        </a>
-                    </div>
-                    {% endif %}
-                    {% endfor %}
-                </div>
-            
-            {% for post in site.posts %}
-            {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-                <h1 id="{{ post.title | replace:' ','-' }}">
-                  {{ post.title }}
-                </h1>
-                <h2>User profile</h2>
-                <div>
-                  {{ post.user_profile }}
-                </div>
-                <h2>Overview</h2>
-                <div>
-                  {{ post.content }}
-                </div>
-            {% endif %}
-            {% endfor %}
-              </div>
-
-        {% include whats-next-and-order.html %}
-
-          </div>
-      </div>
-
-      {% include footer.html %}
-
+      {% endif %}
+    {% endfor %}
     </div>
+  </div>
+
+  {% for post in site.posts %}
+    {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
+    <div class="nuvlabox {% cycle 'odd', 'even' %}">
+      <div class="container spacy">
+        <h1 id="{{ post.title | replace:' ','-' }}">
+          {{ post.title }}
+        </h1>
+        <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h4>
+        <h4>Context: <a href="/products/nuvlabox.html#who-is-the-nuvlabox-for">{{ post.context }}</a></h4>
+        <!-- <h2>Context: <a href="/products/nuvlabox.html#{{ post.context_type }}">{{ post.context }}</a></h2> -->
+        <div>
+          {{ post.content }}
+        </div>
+      </div>
+    </div>
+    {% endif %}
+  {% endfor %}
+
+  {% include whats_next.html %}
+
+  {% include footer.html %}
 
     <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 

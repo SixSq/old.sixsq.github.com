@@ -1,59 +1,99 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
-
-<html 
-   xmlns="http://www.w3.org/1999/xhtml" 
-   xml:lang="en" 
-   version="XHTML+RDFa 1.0" 
-   dir="ltr"
-   xmlns:content="http://purl.org/rss/1.0/modules/content/"
-   xmlns:dc="http://purl.org/dc/terms/"
-   xmlns:foaf="http://xmlns.com/foaf/0.1/"
-   xmlns:og="http://ogp.me/ns#"
-   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
-   xmlns:sioc="http://rdfs.org/sioc/ns#"
-   xmlns:sioct="http://rdfs.org/sioc/types#"
-   xmlns:skos="http://www.w3.org/2004/02/skos/core#"
-   xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+<!DOCTYPE html>
+<html>
 
   {% include head.html %}
-  
-  <body class="not_front_page">
-    <div id="wrapper">
+  {% include top.html %}
+  {% include nuvlabox_nav.html %}
+  {% include nuvlabox_intro.html %}
 
-      <div id="header">
-        {% include top.html %}
-      </div>
-
-      <div id="content">
-        <div class="content_bg">
-
-              <div class="main">
-                  <nav>
-                      <h1 class="list_title">{{ page.title }}</h1>
-                      <ul>
-                          <li id="sub_overview"><a href="/products/nuvlabox.html">Overview</a></li>
-                          <li id="sub_usecases"><a href="/products/nuvlabox-usecases.html">Use Cases</a></li>
-                          <li id="sub_features"><a href="/products/nuvlabox-features.html">Features</a></li>
-                          <li id="sub_techspecs"><a href="/products/nuvlabox-tech.html">Tech Specs</a></li>
-                          <li id="sub_pricing"><a href="/products/nuvlabox-pricing.html">Pricing</a></li>
-                      </ul>
-                  </nav>
-                  <div class="article">
-                    {{ page.content | markdownify }}
-
-                    {% include overview_usecases.html %}
-
-                    {% include whats-next-and-order.html %}
-
-                </div>
+        <div class="main-story nuvlabox">
+          <div class="container big">
+            <p align="center">
+              <img src="/img/content/nuvlabox-overview.png" alt="NuvlaBox overview" />
+            </p>
           </div>
+        </div>
+        <div class="container big spacy">
+          <h1>In a nutshell</h1>
+          <div class="row">
+            <div class="col-md-4">
+              <h2>Private</h2>
+              <p>
+                A private cloud solution ideal for SME/SMB, NGO and small campuses.
+              </p>
+            </div>
+            <div class="col-md-4">
+              <h2>
+                  Secure
+              </h2>
+              <p>
+                  All communication encrypted and deployments automated for higher security.
+              </p>
+            </div>
+            <div class="col-md-4">
+              <h2>
+                  Simple
+              </h2>
+              <p>
+                  Smart factory settings and zero config means it's a child's play to setup and use. 
+              </p>
+            </div>
+            <div class="col-md-4">
+              <h2>
+                  Connected
+              </h2>
+              <p>
+                  Includes built-in WiFi and dual Ethernet connections. Can also be remote controlled.
+              </p>
+            </div>
+            <div class="col-md-4">
+              <h2>
+                  Compact
+              </h2>
+              <p>
+                  Replace up to 8 of your servers with an appliance as small as a modem...or 2 Swiss chocolate boxes.
+              </p>
+            </div>
+            <div class="col-md-4">
+              <h2>
+                  Scalable
+              </h2>
+              <p>
+                  Can scale out to remote or public clouds, giving you the simplest ever complete hybrid cloud solution.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
 
+      <div class="main-story nuvlabox">
+        <div class="container big spacy">
+          <h1 id="who-is-the-nuvlabox-for">Who is the NuvlaBox for?</h1>
+          <div id="enterprise" class="row">
+            <div class="col-md-6">
+              <h2>
+                Small and Medium Enterprises
+              </h2>
+              <p>
+                Perfect for SMEs wishing to access a small to medium-sized private cloud. NuvlaBox offers an affordable entry point into private company cloud computing.
+              </p>
+            </div>
+            <div id="sme" class="col-md-6">
+              <h2>
+                Large Enterprises
+              </h2>
+              <p>
+                Ideal for larger enterprises wishing to federate smaller sites. NuvlaBox can be interconnected to maximise sharing and optimise resource utilisation.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {% include overview_usecases.html %}
+
+      {% include whats_next.html %}
       {% include footer.html %}
-
-    </div>
-
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 
   </body>
 </html>

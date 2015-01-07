@@ -4,20 +4,71 @@ title: SlipStream
 class: slipstream
 category: slipstream
 permalink: /products/slipstream-features.html
-image: /img/design/slipstream_category.png
-overview: /products/slipstream.html
-features: /products/slipstream-features.html
-business: /products/slipstream-business.html
-tryme: /products/slipstream-tryme.html
-techspecs: /products/slipstream-tech.html
-pricing: /products/slipstream-pricing.html
 sub: features
 ---
 
-Features
-==============
+<h1>All Clouds Supported</h1>
+<p>We support all mainstream IaaS cloud services and solutions:</p>
+<div class="container">
+	<div class="row">
+	  <div class="col-md-3">
+	    <h3>ExoScale</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>VMware vCloud</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>OpenStack</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>CloudStack</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>CloudPlatform</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>Amazon EC2</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>Flexiant</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>Abiquo</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>IBM Smart Cloud Entry</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>StratusLab</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>Interoute VDC</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>CloudSigma</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>NuvlaBox</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>HP Cloud</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>Helix Nebula</h3>
+	  </div>
+	  <div class="col-md-3">
+	    <h3>And more...</h3>
+	  </div>
+	</div>
+</div>
+<p/>
+<p>And if we are missing the one you need, get in touch... chances are it is already on its way.</p>
 
-In more detail, SlipStream provides the following features: 
+
+Features
+========
+
+Here are more technical details on the key SlipStream features:
 
 * **Multi-machine Provisioning System**: SlipStream allows users to define and execute deployments, based on high-level recipes, independently from the cloud on which the recipes will be applied.  Deployments include coordination and orchestration of virtual machines, including ordering and synchronisation of services. Figure 1 shows a screenshot of the SlipStream control dashboard of a multi-machine deployment.
 
@@ -38,5 +89,5 @@ In more detail, SlipStream provides the following features:
 * **Community sharing platform**: the SlipStream data model permits users to decide to share their image and deployment recipes with other users, thus contributing to a community effort, something dear to agile and DevOps principles.
 
 <p align="center">
-    <img src="/img/content/slipstream/dashboard.png" alt="SlipStream Dashboard" width="700" />
+    <img src="/img/content/slipstream/appstore.png" alt="SlipStream Dashboard" width="700" />
 </p>

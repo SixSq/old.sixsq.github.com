@@ -1,0 +1,198 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+}
+
+h1:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -100px; 
+  height: 100px; 
+  visibility: hidden; 
+}
+
+h2, p {
+  margin-bottom: 20px;
+}
+
+h2 a:hover {
+  text-decoration: none;
+}
+
+img {
+  max-width: 90%;
+}
+
+/*.container > p {
+  font-size: 18px;  
+}*/
+
+.container.big p, .container.big li {
+  font-size: 18px;  
+}
+
+.jumbotron {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-size: 59px;
+}
+
+.jumbotron h2 {
+  font-size: 25px;
+}
+
+.slipstream-main-story {
+  background: #eee url(/img/content/slipstream_schema_color_on_transparent_25opacity_2500px.png) no-repeat center center;
+}
+
+.nuvlabox-main-story {
+  background: #E2EFF7 url(/img/content/nuvlabox_schema_color_on_transparent_25opacity_1000px.png) no-repeat center center;
+}
+
+.container {
+  margin: 0px auto;
+  padding-right: 24px;
+  padding-left: 24px;
+}
+
+.container.personae {
+  max-width: 620px !important;
+}
+
+div.odd {
+  background: #eee;
+}
+
+div.even {
+  background: white;
+}
+
+div.nuvlabox.even,
+div.slipstream.even {
+  background: white;
+}
+
+div.slipstream.odd {
+  background: #eee;
+}
+
+div.nuvlabox.odd {
+  background: #E2EFF7;
+}
+
+.usecases {
+  
+}
+
+.address p {
+  margin: 0px auto;
+}
+
+.spacy {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.container .container.spacy {
+  padding-top: 30px !important;
+  padding-bottom: 30px !important;
+}
+
+.banner {
+  border: none;
+  display: block;
+  height: 170px;
+  overflow: hidden;
+  position: relative;
+  float: right;
+  text-align: center;
+  width: 170px;
+}
+
+.banner div {
+  color: white;
+  background-color: #222;
+  opacity: 1;
+  z-index: 1000;
+  text-align: center;
+  float: right;
+  width: 250px;
+  font-size: 22px;
+  margin-top: 55px;
+  margin-right: -55px;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  transform: rotate(45deg);
+  -webkit-box-shadow: 0 0 6px 2px white;
+  -moz-box-shadow: 0 0 6px 2px white;
+  box-shadow: 0 0 6px 2px white;
+  overflow: hidden;
+}
+
+#small_logo_twitter {
+  background-image: url(/img/design/social_logos/twitter_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
+}
+
+#small_logo_googleplus {
+  background-image: url(/img/design/social_logos/googleplus_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
+}
+
+#small_logo_linkedin {
+  background-image: url(/img/design/social_logos/linkedin_hover.png);
+  background-repeat: no-repeat;
+  background-position: left center;
+  height: 50px;
+}
+
+.twitter-share-button {
+  margin: 20px 0 0 0;  
+}
+
+.jumbotron.nuvlabox {
+  background-image: url('/img/content/nuvlabox_logo_red_on_transparent.svg');
+}
+
+.jumbotron.slipstream {
+  background-image: url('/img/content/slipstream_logo_red_on_transparent.svg');
+}
+
+.jumbotron.top_product {
+  color: white;
+  background-color: rgb(160,0,0);
+}
+
+.jumbotron.top_product h1,
+.jumbotron.top_product a,
+.jumbotron.top_product p {
+  color: white;
+}
+
+.main-story.nuvlabox {
+  background: #E2EFF7;
+}
+
+.banner a, .banner a:visited, .banner a:hover, .banner a:active {
+  color: white;
+  text-decoration: none;
+}
+
+.social-network div a img {
+  border-radius: 5px;
+}
+
+#personae a, #personae a:visited, #personae a:hover, #personae a:active {
+  text-decoration: none;
+}
+
