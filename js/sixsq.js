@@ -9,7 +9,11 @@ $(document).ready(function() {
   
   $('#mission > div').tipsy({gravity: 's'});
   
-  $('#contact-form').bootstrapValidator({
+  $('#contact-button').click(function() {
+    FreshWidget.show(); return false;
+  });
+  
+/*  $('#contact-form').bootstrapValidator({
     feedbackIcons: {
         valid: 'glyphicon glyphicon-ok',
         invalid: 'glyphicon glyphicon-remove',
@@ -146,7 +150,7 @@ $(document).ready(function() {
       $('#order-modal').modal('hide');
       $('#order-thanks-modal').modal('show');
     }, 'jsonp');
-  });;
+  });;*/
 
   var insertVideos = function(playlistId, target) {
     $.getJSON('https://www.googleapis.com/youtube/v3/playlistItems?&origin=http://localhost:4000&maxResults=4&part=snippet&playlistId=' + playlistId + '&key=AIzaSyDdrmCZq0NAWnaGtxAbkL9P-9FyMRonpJY', function(data) {
