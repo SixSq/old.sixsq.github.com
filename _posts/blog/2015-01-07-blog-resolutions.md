@@ -8,6 +8,8 @@ comments: true
 twitter-author: "@sixsq"
 ---
 
+What happened to 2014? Gone in a flash, like the mince pies, and no time to properly work on those resolutions. Don't worry, we're here to help you focus, with a few pointers for 2015.
+
 **1. Finally get your head around cloud computing** 
 
 You could start with the Wikipedia definition: 
@@ -28,7 +30,7 @@ Visit [Cloud Expo Europe](http://www.cloudexpoeurope.com/). Taking place in Lond
 
 **4. Save money**
 
-If you are frustrated at losing control over expenditure on IT in your organisation, or feel you are spending too much on your cloud resources, take a look at automation tools. They will give you back the ownership of cloud consumption, and provide you with an overview of user access rights, quotas and usage, without spending hours/days/weeks waiting for the information. Working with automation tools makes your work faster and sharable…but above all, more fun. There are several tools out there, like IBM’s UrbanCode Deploy and Altassian. And of course the list wouldn’t be complete without mentioning our own [SlipStream](http://sixsq.com/products/slipstream.html).
+If you are frustrated at losing control over expenditure on IT in your organisation, or feel you are spending too much on your cloud resources, take a look at automation tools. They will give you back the ownership of cloud consumption, and provide you with an overview of user access rights, quotas and usage, without spending hours/days/weeks waiting for the information. Working with automation tools makes your work faster and sharable…but above all, more fun. There are several tools out there, like IBM’s [UrbanCode Deploy](https://developer.ibm.com/urbancode/products/urbancode-deploy/) and [Altassian's Bamboo](https://www.atlassian.com/). And of course the list wouldn’t be complete without mentioning our own [SlipStream](http://sixsq.com/products/slipstream.html).
 
 **5. Set up a communications calendar**
 
@@ -36,4 +38,6 @@ OK, this applies to lots of things, not just cloud, but we can all benefit from 
 
 **6. Take advantage of DevOps**
 
-If you want shorter development cycle, improved error detection and faster time to market, consider incorporating DevOps practises in your company. Put common sense back in the workplace. 
+If you want shorter development cycle, improved error detection and faster time to market, consider incorporating DevOps practises in your company. Put common sense back in the workplace. There is a wealth of information on the web about [DevOps](http://searchcloudcomputing.techtarget.com/definition/DevOp) and its [advantages](http://newrelic.com/devops/benefits-of-devops) to help you decide if it's right for you and your organisation. 
+
+The SixSq team wishes you a healthy and fun 2015!
