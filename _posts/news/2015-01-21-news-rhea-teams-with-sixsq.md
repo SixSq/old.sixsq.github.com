@@ -55,4 +55,4 @@ SixSq Operations Manager
 [louise.merifield@sixsq.com](mailto:louise.merifield@sixsq.com)
 
 
-<p><a href="/news/pdf/2015-1-14-RHEA-teams-with-SixSq.pdf" class="btn btn-primary btn-lg" role="button">Download PDF &raquo;</a></p>
+<p><a href="/news/pdf/2015-1-21-RHEA-teams-with-SixSq.pdf" class="btn btn-primary btn-lg" role="button">Download PDF &raquo;</a></p>
