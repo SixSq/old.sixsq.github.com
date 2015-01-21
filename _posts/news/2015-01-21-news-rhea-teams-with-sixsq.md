@@ -1,6 +1,6 @@
 ---
 layout: article
-title: RHEA forms a strategic partnership with SixSq, Cloud Computing Company
+title: SixSq forms strategic partnership with RHEA, Engineering & Software Company
 image: /img/design/slipstream_category.png
 category: news
 ---
