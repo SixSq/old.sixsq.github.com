@@ -1,5 +1,5 @@
 ---
-layout: personae
+layout: article
 title: Clara
 category: personae
 icon: /img/content/personae/clara.png

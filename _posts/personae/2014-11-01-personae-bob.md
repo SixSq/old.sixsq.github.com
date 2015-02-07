@@ -1,5 +1,5 @@
 ---
-layout: personae
+layout: article
 title: Bob
 category: personae
 icon: /img/content/personae/bob.png

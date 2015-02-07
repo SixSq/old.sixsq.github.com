@@ -1,5 +1,5 @@
 ---
-layout: personae
+layout: article
 title: Alice
 category: personae
 icon: /img/content/personae/alice.png

@@ -1,5 +1,5 @@
 ---
-layout: personae
+layout: article
 title: Dave
 category: personae
 icon: /img/content/personae/dave.png
