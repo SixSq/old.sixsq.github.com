@@ -6,7 +6,7 @@ class: jobs
 image: /img/design/slipstream_category.png
 ---
 
-SixSq is currently recruiting a Technical Manager for one of our enterprise customer. The work will be related to the [Helix Nebula Project](http://helix-nebula.eu/), in particular to work on [HNX](http://hnx.helix-nebula.eu/), and the development of marketplace services based on SixSq's [SlipStream](http://sixsq.com/products/slipstream.html) technology.
+SixSq is currently recruiting a Technical Manager for one of our enterprise customers. The work will be related to the [Helix Nebula Project](http://helix-nebula.eu/), in particular to work on [HNX](http://hnx.helix-nebula.eu/), and the development of marketplace services based on SixSq's [SlipStream](http://sixsq.com/products/slipstream.html) technology.
 
 The selected candidate will be located in **Amsterdam** and will be responsible for co-ordinating between the IaaS offers of the customer, the marketplace team, sales teams and software developers based in Spain, the UK, the Netherlands and Switzerland. In effect, the selected candidate will be embedded in the customers team structure, liaising between its different teams and SixSq.
 
@@ -18,7 +18,7 @@ The candidate must be a Swiss or European citizen or have a valid Swiss working 
 
 The selected candidate would ideally start in March.
 
-The selected candidate will receive an intensive training course on the SlipStream technology prior to taking position.
+The selected candidate will receive an intensive training course on the SlipStream technology prior to taking up position.
 
 
 Skills and Experience
