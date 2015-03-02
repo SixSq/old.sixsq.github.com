@@ -9,10 +9,6 @@ $(document).ready(function() {
   
   $('#mission > div').tipsy({gravity: 's'});
   
-  $('#contact-button').click(function() {
-    FreshWidget.show(); return false;
-  });
-
   var insertVideos = function(playlistId, target) {
     $.getJSON('https://www.googleapis.com/youtube/v3/playlistItems?&origin=http://localhost:4000&maxResults=4&part=snippet&playlistId=' + playlistId + '&key=AIzaSyDdrmCZq0NAWnaGtxAbkL9P-9FyMRonpJY', function(data) {
       for(var i=0; i<data.items.length; i++) {
