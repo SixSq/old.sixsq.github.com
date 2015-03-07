@@ -44,3 +44,9 @@ button.navbar-toggle.collapsed.sub-nav {
 .sub-nav.navbar-toggle .icon-bar {
   background-color: #D1D1D1;
 }
+
+.nav > li > a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
