@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body>
+    {% include top.html %}
+
+    <div class="jumbotron">
+      <div class="container spacy">
+        {{ page.content | markdownify }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+    <script type="text/javascript">$("#nav-{{ page.class }}").addClass("active");</script>
+
+  </body>
+</html>
