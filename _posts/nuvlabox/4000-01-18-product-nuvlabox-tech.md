@@ -108,7 +108,7 @@ NuvlaBox comes by default with the following specification:
 * 240 GB SSD storage
 * 120W external power supply
 * Wi-Fi card
-* Plenty of USB ports
+* 4 x USB ports
 * HDMI interface
 * 2 x RJ-45 network adapter
 
