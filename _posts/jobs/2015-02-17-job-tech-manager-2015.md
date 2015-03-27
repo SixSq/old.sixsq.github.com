@@ -59,6 +59,6 @@ If you have any questions on the vacancy, SixSq or the Helix Nebula project, don
 Selection Process
 ===================
 
-Interested? Apply now by sending your CV, motivation letter and names of 3 references **by 1 March 2015** to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
+Interested? Apply now by sending your CV, motivation letter and names of 3 references to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
 
 Or know someone who could do this? Share this position with a friend.
