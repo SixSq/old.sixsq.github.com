@@ -196,3 +196,6 @@ div.nuvlabox.odd {
   text-decoration: none;
 }
 
+.category-index img {
+  max-width: 25em;
+}

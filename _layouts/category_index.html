@@ -13,14 +13,16 @@
   </div>
   {% for post in site.posts %}
     {% if post.category == page.category %}
-    <div class="{% cycle 'even', 'odd' %} spacy">
+    <div class="category-index {% cycle 'even', 'odd' %} spacy">
       <div class="container big">
+        {% if post.image %}
         <center>
         <a href="{{ post.url }}">
           <img src="{{ post.image }}" />
         </a>
         <p/>
         </center>
+        {% endif %}
         <h2>
           <a href="{{ post.url }}" class="title">{{ post.title }}</a>
         </h2>
