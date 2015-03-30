@@ -3,7 +3,11 @@
    {% include head.html %}
   <body>
    {% include top.html %}
-   {% include media_nav.html %}
+   {% if page.category == "r-and-d" %}
+     {% include r-and-d.html %}
+   {% else %}
+     {% include media_nav.html %}
+   {% endif %}
 
   <div class="jumbotron">
     <div class="container">

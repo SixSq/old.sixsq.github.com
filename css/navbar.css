@@ -29,10 +29,6 @@
 	background: url('/img/design/navbar_arrow.png') left 0 no-repeat !important;
 }
 
-.nav-sub li.active {
-  font-weight: bold;
-}
-
 button.navbar-toggle.collapsed.sub-nav {
   border-color: #D1D1D1 !important;
 }
