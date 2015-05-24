@@ -3,13 +3,7 @@ layout: article_slipstream
 title: SlipStream
 class: slipstream
 category: slipstream
-permalink: /products/slipstream-business.html
-overview: /products/slipstream.html
-features: /products/slipstream-features.html
-business: /products/slipstream-business.html
-tryme: /products/slipstream-tryme.html
-techspecs: /products/slipstream-tech.html
-pricing: /products/slipstream-pricing.html
+permalink: /products/slipstream/slipstream-business.html
 sub: business
 ---
 

@@ -4,15 +4,8 @@ title: SlipStream
 title_gfx: /img/design/slipstream_logo.png
 class: slipstream
 category: SlipStream
-parent: /products/slipstream.html
-permalink: /products/slipstream-tech.html
+permalink: /products/slipstream/slipstream-tech.html
 image: /img/design/slipstream_category.png
-overview: /products/slipstream.html
-features: /products/slipstream-features.html
-business: /products/slipstream-business.html
-tryme: /products/slipstream-tryme.html
-techspecs: /products/slipstream-tech.html
-pricing: /products/slipstream-pricing.html
 sub: techspecs
 ---
 

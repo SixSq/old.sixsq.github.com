@@ -3,7 +3,7 @@ layout: article_nuvlabox
 title: NuvlaBox
 class: nuvlabox
 category: nuvlabox
-permalink: /products/nuvlabox-tech.html
+permalink: /products/nuvlabox/nuvlabox-tech.html
 sub: techspecs
 ---
 

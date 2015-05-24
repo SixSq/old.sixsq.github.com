@@ -4,7 +4,7 @@ title: NuvlaBox
 title_gfx: /img/design/nuvlabox_logo.png
 class: nuvlabox
 category: products
-permalink: /products/nuvlabox.html
+permalink: /products/nuvlabox/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 sub: overview
 twitter-highlight-1-title: What does the NuvlaBox give you?

@@ -3,9 +3,8 @@ layout: article_slipstream_overview
 title: SlipStream
 class: slipstream
 category: products
-permalink: /products/slipstream.html
+permalink: /products/slipstream/slipstream.html
 image: /img/design/slipstream_category.png
-tryme: https://slipstream.sixsq.com
 summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own app store and DevOps process.
 sub: overview
 twitter-highlight-1-title: What does SlipStream give you?
