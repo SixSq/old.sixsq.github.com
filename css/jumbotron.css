@@ -199,3 +199,30 @@ div.nuvlabox.odd {
 .category-index img {
   max-width: 25em;
 }
+
+.row .bottom {
+  
+  vertical-align: bottom;
+  float: bottom;
+}
+
+.row-summary-slipstream > div > div,
+.row-summary-nuvlabox > div > div {
+  padding: 1px 10px 15px 10px;
+}
+
+.row-summary-slipstream .col-md-4 > div > div {
+  height: 360px;
+}
+
+.row-summary-slipstream > div > div {
+  background: #B0B0B0;
+}
+
+.row-summary-nuvlabox .col-md-4 > div > div {
+  height: 390px;
+}
+
+.row-summary-nuvlabox > div > div {
+  background: #a8b2b7;
+}
