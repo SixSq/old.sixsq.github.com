@@ -200,29 +200,73 @@ div.nuvlabox.odd {
   max-width: 25em;
 }
 
-.row .bottom {
-  
-  vertical-align: bottom;
-  float: bottom;
-}
-
 .row-summary-slipstream > div > div,
 .row-summary-nuvlabox > div > div {
+  margin: 15px 0;
   padding: 1px 10px 15px 10px;
-}
-
-.row-summary-slipstream .col-md-4 > div > div {
-  height: 360px;
+  border-radius: 5px;
 }
 
 .row-summary-slipstream > div > div {
   background: #B0B0B0;
 }
 
-.row-summary-nuvlabox .col-md-4 > div > div {
-  height: 390px;
-}
-
 .row-summary-nuvlabox > div > div {
   background: #a8b2b7;
+}
+
+@media (min-width:1200px) { 
+  .row-summary-slipstream .col-md-4 > div > div {
+    height: 360px;
+    /*background: blue;*/
+  }
+}
+
+@media (max-width:1200px) { 
+  .row-summary-slipstream .col-md-4 > div > div {
+    height: 410px;
+    /*background: white;*/
+  }
+}
+
+@media (max-width:992px) { 
+  .row-summary-slipstream .col-md-4 > div > div {
+    height: auto;
+    /*background: yellow;*/
+  }
+}
+
+@media (max-width:768px) { 
+  .row-summary-slipstream .col-md-4 > div > div {
+    height: auto;
+    /*background: black;*/
+  }
+}
+
+@media (min-width:1200px) { 
+  .row-summary-nuvlabox .col-md-4 > div > div {
+    height: 390px;
+    /*background: blue;*/
+  }
+}
+
+@media (max-width:1200px) { 
+  .row-summary-nuvlabox .col-md-4 > div > div {
+    height: 420px;
+    /*background: white;*/
+  }
+}
+
+@media (max-width:992px) { 
+  .row-summary-nuvlabox .col-md-4 > div > div {
+    height: auto;
+    /*background: yellow;*/
+  }
+}
+
+@media (max-width:768px) { 
+  .row-summary-nuvlabox .col-md-4 > div > div {
+    height: auto;
+    /*background: black;*/
+  }
 }
