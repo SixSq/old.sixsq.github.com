@@ -202,17 +202,10 @@ div.nuvlabox.odd {
 
 .row-summary-slipstream > div > div,
 .row-summary-nuvlabox > div > div {
+  background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
-  border-radius: 5px;
-}
-
-.row-summary-slipstream > div > div {
-  background: #B0B0B0;
-}
-
-.row-summary-nuvlabox > div > div {
-  background: #a8b2b7;
+  border: 5px solid #CF2121;
 }
 
 @media (min-width:1200px) { 
