@@ -3,7 +3,7 @@ layout: article_slipstream
 title: SlipStream
 class: slipstream
 category: slipstream
-permalink: /products/slipstream/slipstream-tryme.html
+permalink: /products/slipstream/tryme
 sub: tryme
 with-videos: true
 ---

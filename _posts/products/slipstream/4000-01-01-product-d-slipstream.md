@@ -3,7 +3,7 @@ layout: article_slipstream_overview
 title: SlipStream
 class: slipstream
 category: products
-permalink: /products/slipstream/slipstream.html
+permalink: /products/slipstream/index.html
 image: /img/design/slipstream_category.png
 summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own app store and DevOps process.
 sub: overview

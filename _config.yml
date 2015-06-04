@@ -1,2 +1,4 @@
 paginate: 10000
 markdown: kramdown
+gems:
+  - jekyll-redirect-from
