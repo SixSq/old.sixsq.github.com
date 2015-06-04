@@ -6,7 +6,7 @@ category: usecases
 favourite: true
 user_profile: Enterprise
 warning: this use case is technical. Geeks only!
-persona: Alice
+persona: Alice the App Store User
 context: SME, NGO and Enterprise
 context_type: enterprise
 ---

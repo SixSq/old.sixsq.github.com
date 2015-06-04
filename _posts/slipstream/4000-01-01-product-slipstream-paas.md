@@ -3,8 +3,9 @@ layout: article_slipstream
 title: SlipStream
 class: slipstream
 category: slipstream
-permalink: /products/slipstream/slipstream-business.html
-sub: business
+permalink: /products/slipstream/paas
+sub: PaaS
+summary: Platform as a Service...
 ---
 
 Business Benefits

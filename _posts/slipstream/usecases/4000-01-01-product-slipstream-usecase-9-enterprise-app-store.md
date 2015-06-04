@@ -5,12 +5,12 @@ class: slipstream
 category: usecases
 favourite: true
 user_profile: Enterprise
-persona: Alice
+persona: Alice the App Store User
 context: Enterprise
 context_type: enterprise
 ---
 
-Provisioning applications inside an organisation should be as simple as installing an app on a mobile device. Too often, the enterprise process for deploying an application triggers a chain reaction of hardware and software procurement processes that can take weeks, if not months. This definitely affects the ability of any organisation to be reactive and agile.
+Provisioning applications inside an organisation should be as simple as installing an app on a mobile device. Too often, the enterprise process for deploying an application triggers a chain reaction of hardware and software procurement processes that can take weeks, if not months. This definitely affects the ability of any organisation to be reactive and agile. And put the organisation at risk....
 
 What if we could deploy applications via an enterprise app store? These applications would have been vetted by the right department to ensure that once deployed they are configured in a secure manner and deliver the right level of service. Teams could contribute and publicise their work to the rest of the organisation via this app store, reducing duplication and costs, while increasing cohesion and awareness.   
 

@@ -1,80 +1,136 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
+  <body>
   {% include top.html %}
   {% include slipstream_nav.html %}
   {% include slipstream_intro.html %}
 
       <div class="jumbotron">
-        <p align="center"><img src="/img/content/slipstream-overview.png" alt="SlipStram overview"/></p>
-      </div>
+    
+          <div class="container">
+              {% include slipstream_pitch.html %}
+          </div>
 
-      <div class="container big spacy">
-        <h1>In a nutshell</h1>
-        <div class="row">
-          <div class="col-md-4">
-            <h2>Open Source</h2>
-            <p>
-              Released under the Apache 2.0 license, giving you openness and transparency.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <h2>
-                Professional
-            </h2>
-            <p>
-                A dedicated team designs, develops, tests and supports SlipStream based solutions.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <h2>
-                Multi-Cloud
-            </h2>
-            <p>
-                A truly multi-cloud and cloud agnostic provisioning platform giving you freedom of choice, avoiding lock-in.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <h2>
-                Multi-Tenant
-            </h2>
-            <p>
-                Build for enterprise, with multi-tenancy and policy support.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <h2>
-                Automation
-            </h2>
-            <p>
-                Built-in Enterprise App Store feature makes using SlipStream child's play, without compromising security.
-            </p>
-          </div>
-          <div class="col-md-4">
-            <h2>
-                Affordable
-            </h2>
-            <p>
-                With our flexible pricing model, SlipStream is affordable and very competitive.
-            </p>
-          </div>
+          <div class="container big spacy">
+            <h1>What do you get?</h1>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-flash"></span>
+                        </center>
+                    </h1>
+                </div>
+                <div class="col-md-6 col-2-text">
+                    <h2>Automation</h2>
+                    <p>Repetitive, manual deployments are costing your organisation money. Introducing automation will reduce expenditure and give your people more time to create greater things.</p>
+                    <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Learn more &raquo;</a></center>
+                </div>
+            </div>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-text">
+                    <h2>Cloud Neutrality</h2>
+                    <p>SlipStream communicates with all mainstream IaaS cloud services via a connector architecture. This means we're already talking to the cloud you use and will make it easier for you to deploy your apps there. Or if you can't decide which cloud to use, SlipStream takes the stress out of making the wrong decision</p>
+                </div>
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-leaf"></span>
+                        </center>
+                    </h1>
+                </div>
+            </div>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-scale"></span>
+                        </center>
+                    </h1>
+                </div>
+                <div class="col-md-6 col-2-text">
+                    <h2>Scalability</h2>
+                    <p>If your private cloud is not giving you all you need, but you don't want to invest in more infrastructure, you can use SlipSteam to scale out to a public cloud and get the best of both worlds.</p>
+                </div>
+            </div>
         </div>
-      </div>
 
-      <div style="background-color: #eee">
         <div class="container big spacy">
+          <h1 id="who-is-SlipStream-for">Who is it for?</h1>
+          <div id="enterprise" class="row row-highlights">
+              <div class="col-md-6 col-2-image">
+                  <h1>
+                      <center>
+                          <span class="glyphicon glyphicon-scale"></span>
+                      </center>
+                  </h1>
+              </div>
+              <div class="col-md-6 col-2-text">
+                  <h2>CIOs struggling to control cloud usage</h2>
+                  <p>If your developers are using their own credentials to access cloud services because provisioning applications within  your organisation is too long-winded and time-consuming, then SlipStream is for you.</p>
+              </div>
+          </div>
+          <div id="sme" class="row row-highlights">
+              <div class="col-md-6 col-2-text">
+                  <h2>Cloud Newbies</h2>
+                  <p>If you are considering cloud but don't want to make that big, and possibly expensive, decision of signing up with one cloud provider, SlipStream can give you access to most of the mainstream IaaS providers without being stuck with vendor lock-in.</p>
+              </div>
+              <div class="col-md-6 col-2-image">
+                  <h1>
+                      <center>
+                          <span class="glyphicon glyphicon-scale"></span>
+                      </center>
+                  </h1>
+              </div>
+          </div>
+      </div>
 
-            {{ page.content | markdownify }}
-            
+          <div class="container big spacy">
+            <h1 id="how-to-use-SlipStream">How do you use it?</h1>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-scale"></span>
+                        </center>
+                    </h1>
+                </div>
+                <div class="col-md-6 col-2-text">
+		            <h2>Sign up for the free SaaS</h2>
+		            <p>SlipStream can be used from the free SaaS. You only pay for the cloud services you consume. This is a good option if your organisation is unsure is happy with the idea of public cloud or don't have much demand for cloud service. Or if you just want to test it out. Signing up takes just a couple of minutes and the user interface is a pleasure. Go ahead, give it a try!</p>
+                </div>
+            </div>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-text">
+			        <h2>Install it on premise</h2>
+			        <p>If you prefer to install within your own walls, you can buy a SlipStream license. The model can be tailor-made to suit your organisation. This option is best when blah blah.</p>
+			    </div>
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-scale"></span>
+                        </center>
+                    </h1>
+                </div>
+            </div>
+            <div class="row row-highlights">
+                <div class="col-md-6 col-2-image">
+                    <h1>
+                        <center>
+                            <span class="glyphicon glyphicon-scale"></span>
+                        </center>
+                    </h1>
+                </div>
+                <div class="col-md-6 col-2-text">
+			        <h2>Buy our <src href="/products/nuvlabox">NuvlaBox</src></h2>
+			        <p>If you prefer to install within your own walls, you can buy a SlipStream license. The model can be tailor-made to suit your organisation. This option is best when blah blah.</p>
+			    </div>
+            </div>
+          </div>
         </div>
       </div>
-
-      {% include overview_usecases.html %}
-
-      <div class="odd">
-      {% include overview_videos.html %}
-      </div>
+      
       {% include whats_next.html %}
       {% include footer.html %}
 

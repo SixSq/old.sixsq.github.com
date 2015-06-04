@@ -3,7 +3,7 @@ layout: article
 title: DevOps platform
 class: slipstream
 category: usecases
-persona: Clara
+persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise
 ---

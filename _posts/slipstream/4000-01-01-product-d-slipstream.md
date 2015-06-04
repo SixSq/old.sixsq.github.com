@@ -3,10 +3,10 @@ layout: article_slipstream_overview
 title: SlipStream
 class: slipstream
 category: products
-permalink: /products/slipstream/slipstream.html
+permalink: /products/slipstream/overview
 image: /img/design/slipstream_category.png
-summary: 1-click application deployment automation in the cloud of your choice. An open source solution to build your own app store and DevOps process.
-sub: overview
+summary: Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.
+sub: Application Deployment Platform
 twitter-highlight-1-title: What does SlipStream give you?
 twitter-highlight-1-content: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software
 twitter-highlight-2-title: Freedom of choice

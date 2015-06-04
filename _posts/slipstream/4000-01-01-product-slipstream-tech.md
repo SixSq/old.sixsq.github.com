@@ -4,7 +4,7 @@ title: SlipStream
 title_gfx: /img/design/slipstream_logo.png
 class: slipstream
 category: SlipStream
-permalink: /products/slipstream/slipstream-tech.html
+permalink: /products/slipstream/tech
 image: /img/design/slipstream_category.png
 sub: techspecs
 ---
