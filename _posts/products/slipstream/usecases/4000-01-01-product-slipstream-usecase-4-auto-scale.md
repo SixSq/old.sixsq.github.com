@@ -3,7 +3,7 @@ layout: article
 title: Auto-Scale and Mutable Deployments
 class: slipstream
 category: usecases
-persona: Clara
+persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise
 ---

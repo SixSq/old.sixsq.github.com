@@ -4,7 +4,7 @@ title: Hybrid Cloud Provisioning
 class: slipstream
 category: usecases
 favourite: true
-persona: Clara
+persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise
 ---

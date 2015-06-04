@@ -5,80 +5,19 @@
 
   <body>
 
-        {% include top.html %}
+    {% include top.html %}
 
-
-    <div class="banner hidden-xs">
+    <!--<div class="banner hidden-xs">
       <div>
         <a href="/jobs">We're hiring!</a>
       </div>
-    </div>
-    <div class="jumbotron">
-      <div class="container">
-        <h1>SlipStream&reg;: Application Deployment Platform</h1>
-        <h2>Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.</h2>
-        <div class="row row-summary-slipstream">
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <div>
-              <div>
-                <h1>
-                  <center>
-                    <span class="glyphicon glyphicon-cloud"></span>
-                    <span style="color: gray">+</span>
-                    <span style="color: #CF2121" class="glyphicon glyphicon-flash"></span>
-                  </center>
-                </h1>
-                <h2>Platform as a Service (Paas)</h2>
-                <ul>
-                  <li>Take full advantage of the cloud, avoiding cloud provider and technology lock-in</li>
-                  <li>Automate application deployment for your team, your organisation or your customers</li>
-                  <li>Your own self-service IT platform or Enterprise App Store</li>
-                </ul>
-              </div>
-              <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Learn more &raquo;</a></center>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <div>
-              <div>
-                <h1>
-                  <center>
-                    <span class="glyphicon glyphicon-cloud"></span>
-                    <span style="color: gray">+</span>
-                    <span style="color: #CF2121" class="glyphicon glyphicon-sunglasses"></span>
-                  </center>
-                </h1>
-                <h2>DevOps platform</h2>
-                <ul>
-                  <li>Increase your development and deployment velocity and quality</li>
-                  <li>Integrate cloud deployment right at the heart of your development process</li>
-                  <li>Add full app deployment to your continuous integration system</li>
-                </ul>
-              </div>
-              <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/usecases#DevOps-platform">Learn more &raquo;</a></center>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-            <div>
-              <div>
-                <h1>
-                  <center>
-                    <span class="glyphicon glyphicon-cloud"></span>
-                    <span style="color: gray">+</span>
-                    <span style="color: #CF2121" class="glyphicon glyphicon-cloud" aria-hidden="true"></span>
-                  </center>
-                </h1>
-                <h2>Hybrid cloud manager</h2>
-                <ul>
-                  <li>Eliminate shadow-IT and reclaim infrastructure control</li>
-                  <li>Take advantage of the public cloud without compromising on security with sound governance</li>
-                  <li>Use private and public cloud together to reduce costs and increase elasticity</li>
-                </ul>
-              </div>
-              <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/usecases#Hybrid-Cloud-Provisioning">Learn more &raquo;</a></center>
-            </div>
-          </div>
-        </div>
+    </div>-->
+
+	<div class="jumbotron">
+	  <div class="container">
+	    <h1>SlipStream&reg;: Application Deployment Platform</h1>
+	    <h2>Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.</h2>
+        {% include slipstream_pitch.html %}
       </div>
     </div>
 
@@ -97,11 +36,11 @@
                     <span style="color: #CF2121" class="glyphicon glyphicon-globe" aria-hidden="true"></span>
                   </center>
                 </h1>
-                <h2>Remote control a swarm of NuvlaBox from a single pane of glass</h2>
+                <h2>Private cloud for SMEs</h2>
                 <ul>
-                  <li>No need for expert hands in the field</li>
-                  <li>Setups in seconds, runs forever</li>
-                  <li>Deliver apps and content to your boxes using a number of IP links (e.g. land, satellites, air)</li>
+                  <li>Affordable entry point to cloud</li>
+                  <li>Sets up in seconds, runs forever</li>
+                  <li>Remote management and update of apps</li>
                 </ul>
               </div>
               <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/overview">Learn more &raquo;</a></center>
@@ -117,11 +56,11 @@
                     <span style="color: #CF2121" class="glyphicon glyphicon-grain" aria-hidden="true"></span>
                   </center>
                 </h1>
-                <h2>Ready for tough field operations</h2>
+                <h2>Rapid IT for field operations</h2>
                 <ul>
-                  <li>Ideal to quickly setup lightweight field or outpost IT operations, with ruggedised transport casing</li>
-                  <li>Establish its own secure Wi-Fi to connect wide range of devices</li>
-                  <li>Fanless design providing no moving parts increasing robustness and operation  lifespan</li>
+                  <li>Simple, quick set up makes NuvlaBox ideal for IT operations in field or outpost </li>
+                  <li>Apps and content delivered using a number of IP links (e.g. land, satellites, air)</li>
+                  <li>Ruggedised casing and fanless design provide increased operational lifespan</li>
                 </ul>
               </div>
               <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/usecases#Field-Operations-with-Agile-Local-Infrastructure">Learn more &raquo;</a></center>
@@ -137,11 +76,11 @@
                     <span style="color: #CF2121" class="glyphicon glyphicon-th" aria-hidden="true"></span>
                   </center>
                 </h1>
-                <h2>Provision the right apps at the right time</h2>
+                <h2>Simple IT solution for complex world</h2>
                 <ul>
-                  <li>Point and click application deployment support</li>
-                  <li>Cache application locally, reducing dependency on network availability</li>
-                  <li>Deliver apps and content to your boxes using a number of IP links (e.g. land, satellites, air)</li>
+				  <li>Plug and play set up</li>
+                  <li>Point and click application deployment</li>
+                  <li>Apps cached locally, reducing dependency on network availability</li>
                 </ul>
               </div>
               <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/features">Learn more &raquo;</a></center>
