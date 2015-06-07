@@ -1,9 +1,10 @@
 ---
-layout: article_slipstream_usecases
+layout: article_usecases
 title: SlipStream
 class: slipstream
 category: usecases
 permalink: /products/slipstream/usecases
 sub: usecases
-summary: Case studies and usecases of real aplications of SlipStream.
+subtitle: Use Cases
+summary: Case studies and use cases of real applications of SlipStream.
 ---

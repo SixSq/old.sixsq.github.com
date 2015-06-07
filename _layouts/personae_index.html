@@ -13,14 +13,12 @@
   {% for post in site.posts reversed %}
     {% if post.category == page.category %}
     <div id="{{ post.title }}" class="{% cycle 'even', 'odd' %} spacy">
-      <div class="container big personae">
+      <div class="container personae">
         <center>
           <img src="{{ post.icon }}" />
-          <p/>
           <h2>{{ post.title }}</h2>
+          <h3>{{ post.overview }}</h3>
         </center>
-        <h3>{{ post.overview }}</h3>
-        <p/>
         {{ post.content }}
       </div>
     </div>

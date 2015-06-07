@@ -5,6 +5,8 @@ class: slipstream
 category: slipstream
 permalink: /products/slipstream/features
 sub: features
+subtitle: Features
+summary: Key features...
 ---
 
 <h1>All Clouds Supported</h1>

@@ -1,5 +1,5 @@
 ---
-layout: article_nuvlabox_usecases
+layout: article_usecases
 title: NuvlaBox
 class: nuvlabox
 category: usecases

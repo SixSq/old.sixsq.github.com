@@ -27,6 +27,14 @@ img {
   max-width: 90%;
 }
 
+/* Offset the anchor - e.g. use-case entries not covered by top nav bar */
+.anchor {
+  display: block;
+  position: relative;
+  top: -40px;
+  visibility: hidden;
+}
+
 /*.container > p {
   font-size: 18px;  
 }*/
@@ -208,14 +216,20 @@ div.nuvlabox.odd {
   background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
+  border: 5px solid white;
 }
 
-.row-summary-slipstream > div > div,
-.row-summary-nuvlabox > div > div {
+.row-summary > div > div {
   background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
   border: 5px solid #CF2121;
+}
+
+.row-summary > div > div:hover,
+.row-highlights:hover {
+  background: #E6E6E6;
+  border: 5px solid #800000;
 }
 
 @media (min-width:1200px) { 
@@ -246,6 +260,36 @@ div.nuvlabox.odd {
   }
 }
 
+
+@media (min-width:1200px) { 
+  .row-summary-slipstream-usecases .col-md-4 > div > div {
+    height: 200px;
+    /*background: blue;*/
+  }
+}
+
+@media (max-width:1200px) { 
+  .row-summary-slipstream-usecases .col-md-4 > div > div {
+    height: 340px;
+    /*background: white;*/
+  }
+}
+
+@media (max-width:992px) { 
+  .row-summary-slipstream-usecases .col-md-4 > div > div {
+    height: auto;
+    /*background: yellow;*/
+  }
+}
+
+@media (max-width:768px) { 
+  .row-summary-slipstream-usecases .col-md-4 > div > div {
+    height: auto;
+    /*background: black;*/
+  }
+}
+
+
 @media (min-width:1200px) { 
   .row-summary-nuvlabox .col-md-4 > div > div {
     height: 250px;
@@ -274,8 +318,37 @@ div.nuvlabox.odd {
   }
 }
 
+@media (min-width:1200px) { 
+  .row-summary-nuvlabox-usecases .col-md-4 > div > div {
+    height: 220px;
+    /*background: blue;*/
+  }
+}
+
+@media (max-width:1200px) { 
+  .row-summary-nuvlabox-usecases .col-md-4 > div > div {
+    height: 340px;
+    /*background: white;*/
+  }
+}
+
+@media (max-width:992px) { 
+  .row-summary-nuvlabox-usecases .col-md-4 > div > div {
+    height: auto;
+    /*background: yellow;*/
+  }
+}
+
+@media (max-width:768px) { 
+  .row-summary-nuvlabox-usecases .col-md-4 > div > div {
+    height: auto;
+    /*background: black;*/
+  }
+}
+
 .col-2-image {
 	font-size: 2.5em;
 	align-items: center;
-	color: #CF2121
+	color: #CF2121;
+  padding-top: 25px;
 }

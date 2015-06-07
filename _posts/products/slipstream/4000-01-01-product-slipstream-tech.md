@@ -7,6 +7,8 @@ category: SlipStream
 permalink: /products/slipstream/tech
 image: /img/design/slipstream_category.png
 sub: techspecs
+subtitle: Technical Specification
+summary: Professional open source software delivering PaaS, DevOps and hybrid solution.
 ---
 
 Technical Specification
@@ -29,7 +31,7 @@ This means that you will be able to easily switch between clouds, therefore avoi
 REST API
 ===========
 
-SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream-usecases.html#LAMP-and-complex-application-provisioning), or an [AppStore](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning).
+SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream/usecases/#LAMP-and-complex-application-provisioning), or an [AppStore](/products/slipstream/usecases/#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream/usecases/#Hybrid-Cloud-Provisioning).
 
 DevOps and SlipStream
 ===========
@@ -118,5 +120,5 @@ with the VMs to debug and test the deployments and images. Once in place,
 standard users can then self-provision VMs and parameterise pre-configured
 systems, in the click of a button.
 
-For more details, please read the [documentation](https://slipstream.sixsq.com/documentation)
-available from our [SlipStream hosted service](https://slipstream.sixsq.com).
+For more details, please read the [documentation](http://ssdocs.sixsq.com)
+available from our [SlipStream hosted service](/products/slipstream/tryme).

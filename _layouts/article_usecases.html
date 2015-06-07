@@ -2,25 +2,31 @@
 <html>
 
   {% include head.html %}
-  
+  <body>
   {% include top.html %}
 
-  {% include nuvlabox_nav.html %}
+  {% include {{ page.class }}_nav.html %}
 
-  {% include nuvlabox_intro.html %}
+  {% include {{ page.class }}_intro.html %}
 
   <div class="container big spacy">
     <h1>Use Cases</h1>
 
-    <div class="row">
+    <div class="row row-summary-{{ page.class }}-usecases row-summary">
     {% for post in site.posts %}
       {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
       <div class="col-md-4">
-        <h2>{{ post.title }}</h2>
-        <p>
-          {{ post.content | markdownify | truncatewords: 16 }}
-        </p>
-        <a class="btn btn-default" href="#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a>
+        <div>
+          <div>
+            <h2>{{ post.title }}</h2>
+            <p>
+              {{ post.content | markdownify | truncatewords: 16 }}
+            </p>
+          </div>
+          <center>
+            <a class="btn btn-primary btn-lg" href="#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a>
+          </center>
+        </div>
       </div>
       {% endif %}
     {% endfor %}
@@ -29,14 +35,14 @@
 
   {% for post in site.posts %}
     {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-    <div class="nuvlabox {% cycle 'odd', 'even' %}">
+    <div class="{{ post.class }} {% cycle 'odd', 'even' %}">
+      <div id="{{ post.title | replace:' ','-' }}" class="anchor"></div>
       <div class="container spacy">
-        <h1 id="{{ post.title | replace:' ','-' }}">
+        <h1>
           {{ post.title }}
         </h1>
         <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h4>
-        <h4>Context: <a href="/products/nuvlabox.html#who-is-the-nuvlabox-for">{{ post.context }}</a></h4>
-        <!-- <h2>Context: <a href="/products/nuvlabox.html#{{ post.context_type }}">{{ post.context }}</a></h2> -->
+        <h4>Context: {{ post.context }}</a></h4>
         <div>
           {{ post.content }}
         </div>
