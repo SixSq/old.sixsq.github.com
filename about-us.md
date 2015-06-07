@@ -2,6 +2,7 @@
 layout: plain
 title: About Us
 class: about
+permalink: /about-us/
 ---
 
 <div class="jumbotron" id="XXnuvlabox-main-story">

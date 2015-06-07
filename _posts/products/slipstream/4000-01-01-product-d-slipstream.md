@@ -3,7 +3,7 @@ layout: article_slipstream_overview
 title: SlipStream
 class: slipstream
 category: products
-permalink: /products/slipstream/overview
+permalink: /products/slipstream/index.html
 image: /img/design/slipstream_category.png
 summary: Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.
 sub: Application Deployment Platform

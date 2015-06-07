@@ -4,7 +4,7 @@ title: NuvlaBox
 class: nuvlabox
 category: nuvlabox
 image: /img/design/nuvlabox_category.png
-permalink: /products/nuvlabox/nuvlabox-features.html
+permalink: /products/nuvlabox/features
 sub: features
 ---
 
