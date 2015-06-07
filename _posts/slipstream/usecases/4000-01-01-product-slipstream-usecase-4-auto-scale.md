@@ -8,7 +8,7 @@ context: Enterprise
 context_type: enterprise
 ---
 
-Being able to automate complex deployments is important in order to reduce time to market, improve quality and security, not to mention reduce costs.
+Being able to automate complex deployments is important in order to reduce time to market, improve quality and security, and of course reduce costs.
 However, a growing number of applications would benefit from being able to use a variable amount of resources. For example, based on user activity, web applications can
 have a surprising variations in the level of load . Database applications can be stressed when important consolidation activity takes place
 or when rebalancing actions are required. Further, applications could also take advantage of *moving with their users* such that they can redeploy
