@@ -5,20 +5,61 @@ class: slipstream
 category: slipstream
 permalink: /products/slipstream/paas
 sub: PaaS
-summary: Platform as a Service...
+summary: Your Platform as a Service
 ---
 
-Business Benefits
-=================
+ <div class="jumbotron">
 
-Using SlipStream makes business sense. Here are some of the benefits it can bring to your organisation:
+      <div class="container">
+        
+      </div>
 
-* **Financial benefits:** SlipStream allows you to automate deployments thereby reducing time spent on configuring and installing applications
+      <div class="container big spacy">
+       
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-image">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-flash"></span>
+                    </center>
+                </h1>
+            </div>
+            <div class="col-md-6 col-2-text">
+                <h2>Take Full Advantage of the Cloud</h2>
+                <p>SlipStream is a Platform as a Service (PaaS) solution, supporting all major cloud solutions (i.e. IaaS). By providing the underlying software infrastructure, PaaS reduces organizational costs by minimizing the effort involved with the traditional application development and deployment model, and SlipStream goes even further than standard PaaS models. 
+The level of automation SlipStream delivers can provide impressive return on investment (ROI). Integration of SlipStream saves considerable amounts of engineering time, application deployments are less error-prone and much more repeatable, allowing customers to release more frequently, reduce time-to-market and overhead.
+                </p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Learn more &raquo;</a></center>
+            </div>
+        </div>
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-text">
+                <h2>Automate Application Deployment</h2>
+                <p>Repetitive, manual deployments are costing your organisation money. Introducing automation will reduce expenditure and give your people more time to create greater things. To our knowledge, no other solution provides the same level of application deployment automation capabilities, which work for new and legacy applications alike.</p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Learn more &raquo;</a></center>
+            </div>
+            <div class="col-md-6 col-2-image vertical-align">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-leaf"></span>
+                    </center>
+                </h1>
+            </div>
+        </div>
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-image">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-scale"></span>
+                    </center>
+                </h1>
+            </div>
+            <div class="col-md-6 col-2-text">
+                <h2>Streamline Your Processes with Self-Service IT</h2>
+                <p>Provisioning applications inside an organisation should be as simple as installing an app on a mobile device. Too often, the enterprise process for deploying an application triggers a chain reaction of hardware and software procurement processes that can take weeks, if not months, reducing flexibility and increasing costs. SlipStream lets users focus on their business objectives by allowing them to deploy applications from an enterprise App Store. No more worries about cloud configurations, security settings, application deployment and configuration parameters. Users pick curated applications from a clear list, fill a few high-level parameters and SlipStream takes care of delivering the applications in minutes.</p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Learn more &raquo;</a></center>
+            </div>
+        </div>
+    </div>
 
-* **Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
-
-* **Reduced operational costs:** Redeploy your engineering skills to more innovative and creative tasks.
-
-* **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
-
-* **Independence:** SlipStream deployments are cloud agnostic, allowing you to stay independent from the cloud to which you deploy. It supports all popular clouds.
+   
