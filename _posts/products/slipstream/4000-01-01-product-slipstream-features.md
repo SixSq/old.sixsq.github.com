@@ -5,67 +5,9 @@ class: slipstream
 category: slipstream
 permalink: /products/slipstream/features
 sub: features
-subtitle: Features
-summary: Key features...
+subtitle: Features and Clouds
+summary: The right features to implement PaaS, DevOps and hybrid cloud strategies.
 ---
-
-<h1>All Clouds Supported</h1>
-<p>We support all mainstream IaaS cloud services and solutions:</p>
-<div class="container">
-	<div class="row">
-	  <div class="col-md-3">
-	    <h3>ExoScale</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>VMware vCloud</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>OpenStack</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>CloudStack</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>CloudPlatform</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>Amazon EC2</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>Flexiant</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>Abiquo</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>IBM Smart Cloud Entry</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>StratusLab</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>Interoute VDC</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>CloudSigma</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>NuvlaBox</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>HP Cloud</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>Helix Nebula</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>And more...</h3>
-	  </div>
-	</div>
-</div>
-<p/>
-<p>And if we are missing the one you need, get in touch... chances are it is already on its way.</p>
-
 
 Features
 ========

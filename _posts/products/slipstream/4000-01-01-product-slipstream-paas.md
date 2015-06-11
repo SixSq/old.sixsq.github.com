@@ -1,20 +1,21 @@
 ---
-layout: article_slipstream
+layout: raw
 title: SlipStream
 class: slipstream
 category: slipstream
 permalink: /products/slipstream/paas
 sub: PaaS
-summary: Your Platform as a Service
+subtitle: Platform as a Service (PaaS)
+summary: Next generation Platform as a Service (PaaS) providing an open and extensible framework delivering amazing automation, via rich web and command-line clients and full REST API.
 ---
 
- <div class="jumbotron">
+  <div class="jumbotron">
 
       <div class="container">
         
       </div>
 
-      <div class="container big spacy">
+      <div class="container big">
        
         <div class="row row-highlights">
             <div class="col-md-6 col-2-image">

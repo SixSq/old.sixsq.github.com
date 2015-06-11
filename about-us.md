@@ -130,7 +130,7 @@ SixSq is a registered Amazon Solution Provider, with a dedicated <a href="https:
 
 <div class="container big spacy">
   <h2>Exoscale</h2>
-  <p><img src="/img/content/exoscale-logo-full-black.png" alt="Exoscale Technology Partner" /></p>
+  <p><img src="/img/content/clouds/exoscale-logo-full-black.png" alt="Exoscale Technology Partner" /></p>
 
 SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud spectrum, Exoscale provides tailored solutions which allow clients focus on their core business. With the SlipStream connector now in place, customers can deploy their applications to the Exoscale cloud with one-click, making efficiency savings by deploying simple to complex applications repeatedly with orchestration and dependence management.</p>
 </div>

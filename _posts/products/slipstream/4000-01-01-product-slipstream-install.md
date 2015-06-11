@@ -1,24 +1,59 @@
 ---
-layout: article_slipstream
+layout: raw
 title: SlipStream
 class: slipstream
 category: slipstream
 permalink: /products/slipstream/install
-sub: Install
-summary: How to Install SlipStream Community Edition
+sub: install
+subtitle: Installation Instructions
+summary: Find out which SlipStream version is right for you.
 ---
 
-Business Benefits
-=================
+  <div class="jumbotron">
 
-Using SlipStream makes business sense. Here are some of the benefits it can bring to your organisation:
+      <div class="container big">
+       
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-image">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-flash"></span>
+                    </center>
+                </h1>
+            </div>
+            <div class="col-md-6 col-2-text">
+                <h2>Community Edition</h2>
+                <p>SlipStream Community Edition installs in minutes on CentOS and RHEL operating systems. This version gives you access to all open source connectors. Our young community is also there to help, in which our developers take active participation.</p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Community Instructions &raquo;</a></center>
+            </div>
+        </div>
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-text">
+                <h2>Enterprise Edition</h2>
+                <p>The SlipStream Enterprise Edition give you access to all connectors, including the proprietary connectors, as well as professional maintenance and support from our dedicated team. Built on the Community Version, this version includes further customisation capabilities, to personalise the user interface and re-brand to your look-and-feel and colour scheme.</p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Enterprise Instructions &raquo;</a></center>
+            </div>
+            <div class="col-md-6 col-2-image vertical-align">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-leaf"></span>
+                    </center>
+                </h1>
+            </div>
+        </div>
+        <div class="row row-highlights">
+            <div class="col-md-6 col-2-image">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-flash"></span>
+                    </center>
+                </h1>
+            </div>
+            <div class="col-md-6 col-2-text">
+                <h2>Command-Line Client</h2>
+                <p>The SlipStream command-line client, which works for both Community and Enterprise Editions is distributed using the PIP infrastructure. The Python client is also a great way to integrate SlipStream in third party applications or DevOps tooling.</p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Client Instructions &raquo;</a></center>
+            </div>
+        </div>
+    </div>
 
-* **Financial benefits:** SlipStream allows you to automate deployments thereby reducing time spent on configuring and installing applications
-
-* **Reduced time to market:** Use SlipStream as a solid foundation for your DevOps process.
-
-* **Reduced operational costs:** Redeploy your engineering skills to more innovative and creative tasks.
-
-* **Simplified configuration and installation of your software:** Use SlipStream as your Enterprise Open App Store.
-
-* **Independence:** SlipStream deployments are cloud agnostic, allowing you to stay independent from the cloud to which you deploy. It supports all popular clouds.

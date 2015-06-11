@@ -8,6 +8,7 @@ permalink: /products/nuvlabox
 redirect_from: /nuvlabox/
 image: /img/design/nuvlabox_category.png
 sub: overview
+subtitle: Smart cloud-in-a-box appliance
 twitter-highlight-1-title: What does the NuvlaBox give you?
 twitter-highlight-1-content: An SME private cloud solution or cloud server.
 twitter-highlight-2-title: Price

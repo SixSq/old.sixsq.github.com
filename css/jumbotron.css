@@ -56,7 +56,7 @@ img {
 }
 
 .jumbotron h2 {
-  font-size: 25px;
+  font-size: 24px;
 }
 
 .slipstream-main-story {
@@ -107,8 +107,8 @@ div.nuvlabox.odd {
 }
 
 .spacy {
-  padding-top: 30px;
-  padding-bottom: 30px;
+/*  padding-top: 30px;
+  padding-bottom: 30px; */
 }
 
 .container .container.spacy {
@@ -216,20 +216,20 @@ div.nuvlabox.odd {
   background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
-  border: 5px solid white;
+  border: 4px solid white;
 }
 
 .row-summary > div > div {
   background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
-  border: 5px solid #CF2121;
+  border: 4px solid #CF2121;
 }
 
 .row-summary > div > div:hover,
 .row-highlights:hover {
   background: #E6E6E6;
-  border: 5px solid #800000;
+  border: 4px solid #800000;
 }
 
 @media (min-width:1200px) { 
