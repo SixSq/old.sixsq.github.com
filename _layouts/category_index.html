@@ -20,6 +20,7 @@
     <div class="category-index {% cycle 'even', 'odd' %} spacy">
       <div class="container big">
         {% if post.image %}
+        <p/>
         <center>
         <a href="{{ post.url }}">
           <img style="max-height: 10em;" src="{{ post.image }}" />
@@ -30,10 +31,10 @@
         <h2>
           <a href="{{ post.url }}" class="title">{{ post.title }}</a>
         </h2>
-        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
-        {% if post.category == news %}
+        {% if post.category == 'news' %}
           <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
         {% endif %}
+        <p>{{ post.content | strip_html | truncatewords: 25 }}</p>
         {% if post.author %}
           <p/>
           <div class="author">By: {{ post.author }}</div>
