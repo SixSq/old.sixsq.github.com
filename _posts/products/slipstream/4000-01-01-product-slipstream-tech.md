@@ -120,5 +120,4 @@ with the VMs to debug and test the deployments and images. Once in place,
 standard users can then self-provision VMs and parameterise pre-configured
 systems, in the click of a button.
 
-For more details, please read the [documentation](http://ssdocs.sixsq.com)
-available from our [SlipStream hosted service](/products/slipstream/tryme).
+For more details, please read the [documentation](http://ssdocs.sixsq.com).
