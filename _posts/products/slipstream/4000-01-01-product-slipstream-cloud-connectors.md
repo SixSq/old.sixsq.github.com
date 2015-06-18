@@ -249,13 +249,18 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>Helix Nebula</h3>
+	    <center>
+  	    <h3>Helix Nebula Marketplace</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/hnx.png" alt="Helix Nebula Marketplace" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
 	    <center>
   	    <h3>Ultimum Technologies</h3>
   	    <div>
-  	      <img src="/img/content/???" alt="Ultimum Technologies" />
+  	      <img src="/img/content/clouds/ultimum.png" alt="Ultimum Technologies" />
   	    </div>
 	    </center>
 	  </div>
@@ -263,7 +268,7 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 	    <center>
   	    <h3>DEAC</h3>
   	    <div>
-  	      <img src="/img/content/???" alt="DEAC" />
+  	      <img src="/img/content/clouds/deac.png" alt="DEAC" />
   	    </div>
 	    </center>
 	  </div>
@@ -271,7 +276,7 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 	    <center>
   	    <h3>Safe Swiss Cloud</h3>
   	    <div>
-  	      <img src="/img/content/???" alt="Safe Swiss Cloud" />
+  	      <img src="/img/content/clouds/safeswisscloud.jpg" alt="Safe Swiss Cloud" />
   	    </div>
 	    </center>
 	  </div>
