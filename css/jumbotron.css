@@ -48,11 +48,19 @@ img {
   font-size: 18px;  
 }
 
+.navbar-brand {
+  padding-top: 7px;
+}
+
+.navbar-brand > img {
+  width: 40px;
+}
+
 .jumbotron {
   padding-left: 0px;
   padding-right: 0px;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   margin-bottom: 0;
 }
 
@@ -62,6 +70,15 @@ img {
 
 .jumbotron h2 {
   font-size: 24px;
+}
+
+.jumbotron p {
+  font-size: 18px;
+}
+
+.top_product {
+  padding-top: 8px;
+  padding-bottom: 0px;
 }
 
 .slipstream-main-story {
@@ -112,8 +129,8 @@ div.nuvlabox.odd {
 }
 
 .spacy {
-/*  padding-top: 30px;
-  padding-bottom: 30px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .container .container.spacy {
@@ -160,17 +177,17 @@ div.nuvlabox.odd {
   text-align: center;
 }
 
-.soon div {
+.soon > div {
   color: white;
   background-color: #a00000;
   opacity: 1;
   z-index: 1000;
   text-align: center;
   float: right;
-  width: 250px;
+  width: 150px;
   font-size: 22px;
-  margin-top: 20px;
-  margin-right: -110px;
+  margin-top: 13px;
+  margin-right: -62px;
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
   transform: rotate(45deg);
@@ -256,7 +273,7 @@ div.nuvlabox.odd {
   background: white;
   margin: 15px 0;
   padding: 1px 10px 15px 10px;
-  border: 4px solid #CF2121;
+  border: 4px solid white;
 }
 
 .row-summary > div > div:hover,

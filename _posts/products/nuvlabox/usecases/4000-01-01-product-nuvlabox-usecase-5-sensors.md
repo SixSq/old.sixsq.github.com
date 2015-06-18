@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Internet of Things and Sensor Aggregating
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 persona: Clara
 context: SMB, NGO and Enterprise
 context_type: sme

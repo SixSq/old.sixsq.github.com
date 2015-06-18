@@ -1,8 +1,8 @@
 ---
 layout: article_usecases
 title: SlipStream
-class: slipstream
-category: usecases
+class: products
+category: slipstream
 permalink: /products/slipstream/usecases
 sub: usecases
 subtitle: Use Cases

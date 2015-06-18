@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Schools or Federation of Schools
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 favourite: true
 persona: Alice
 context: Schools or Federation of Schools

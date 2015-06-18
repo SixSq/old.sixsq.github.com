@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Hybrid Cloud Provisioning
-class: slipstream
-category: usecases
+class: products
+category: slipstream
 favourite: true
 persona: Clara the DevOps Engineer, Bob the Manager
 context: Enterprise

@@ -16,7 +16,13 @@
               <li>Remote management and update of apps</li>
             </ul>
           </div>
-          <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox">Learn more &raquo;</a></center>
+          <center><a class="btn btn-primary btn-lg" role="button" 
+            {% if page.layout == 'welcome' %}
+        	    href="/products/nuvlabox"
+        	  {% else %}
+      	      href="/products/nuvlabox/features"
+        	  {% endif %}
+        	    >Learn more &raquo;</a></center>
         </div>
       </div>
       <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
@@ -56,7 +62,7 @@
               <li>Apps cached locally, reducing dependency on network availability</li>
             </ul>
           </div>
-          <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/features">Learn more &raquo;</a></center>
+          <center><a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/tech">Learn more &raquo;</a></center>
         </div>
       </div>
     </div>

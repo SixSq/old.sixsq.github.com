@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Field Operations with Agile Local Infrastructure
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 favourite: true
 persona: Alice
 context: Non-IT SME

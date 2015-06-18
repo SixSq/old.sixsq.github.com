@@ -1,8 +1,8 @@
 ---
 layout: article_usecases
 title: NuvlaBox
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 permalink: /products/nuvlabox/usecases
 sub: usecases
 ---

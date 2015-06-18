@@ -5,37 +5,37 @@
   <body>
   {% include top.html %}
 
-  {% include {{ page.class }}_nav.html %}
+  {% include {{ page.category }}_nav.html %}
 
-  {% include {{ page.class }}_intro.html %}
+  {% include {{ page.category }}_intro.html %}
 
-  <div class="container big spacy">
-    <h1>Use Cases</h1>
-
-    <div class="row row-summary-{{ page.class }}-usecases row-summary">
-    {% for post in site.posts %}
-      {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-      <div class="col-md-4">
-        <div>
+  <div class="jumbotron">
+    <div class="container big spacy">
+      <div class="row row-summary-{{ page.category }}-usecases row-summary">
+      {% for post in site.posts %}
+        {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
+        <div class="col-md-4">
           <div>
-            <h2>{{ post.title }}</h2>
-            <p>
-              {{ post.content | markdownify | truncatewords: 16 }}
-            </p>
+            <div>
+              <h2>{{ post.title }}</h2>
+              <p>
+                {{ post.content | markdownify | truncatewords: 16 }}
+              </p>
+            </div>
+            <center>
+              <a class="btn btn-primary btn-lg" href="#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a>
+            </center>
           </div>
-          <center>
-            <a class="btn btn-primary btn-lg" href="#{{ post.title | replace:' ','-' }}" role="button">Use case details &raquo;</a>
-          </center>
         </div>
+        {% endif %}
+      {% endfor %}
       </div>
-      {% endif %}
-    {% endfor %}
     </div>
   </div>
 
   {% for post in site.posts %}
     {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
-    <div class="{{ post.class }} {% cycle 'odd', 'even' %}">
+    <div class="{{ post.class }} {% cycle 'even', 'odd' %}">
       <div id="{{ post.title | replace:' ','-' }}" class="anchor"></div>
       <div class="container spacy">
         <h1>
@@ -43,9 +43,27 @@
         </h1>
         <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h4>
         <h4>Context: {{ post.context }}</a></h4>
-        <div>
-          {{ post.content }}
-        </div>
+        {% if post.image %}
+          <div class="row">
+          {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+          {% if thecycle == 'odd' %}
+
+            {% include left_full.html %}
+            {% include right_full.html %}
+
+          {% else %}
+
+            {% include right_full.html %}
+            {% include left_full.html %}
+
+          {% endif %}
+          </div>
+          
+        {% else %}
+          <div>
+            {{ post.content }}
+          </div>
+        {% endif %}
       </div>
     </div>
     {% endif %}
@@ -54,8 +72,6 @@
   {% include whats_next.html %}
 
   {% include footer.html %}
-
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
 
   </body>
 </html>

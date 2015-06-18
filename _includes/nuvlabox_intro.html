@@ -4,9 +4,15 @@
   <div class="container">
     <h1><img alt="SlipStream" style="padding-bottom: 18px;" src="/img/design/nuvlabox_logo_white_on_transparent_256px.png"></img>
   	  {% if page.subtitle %}
-  	    : {{ page.subtitle }}
-        {% endif %}
+  	    {{ page.subtitle }}
+  	  {% else %}
+        Smart Cloud-in-a-box appliance
+      {% endif %}
   	</h1>
-    <p>All the power of the cloud packaged in a simple, small and secure device.</p>
+    {% if page.summary %}
+      <p>{{ page.summary }}</p>
+    {% else %}
+      <p>All the power of the cloud packaged in a simple, small and secure device.</p>
+    {% endif %}
   </div>
 </div>

@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Event, Fair and Booth Setup in a Snap
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 persona: Alice
 context: SMB, NGO and Enterprise
 context_type: sme

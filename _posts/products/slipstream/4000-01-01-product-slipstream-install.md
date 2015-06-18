@@ -1,7 +1,7 @@
 ---
 layout: raw
 title: SlipStream
-class: slipstream
+class: products
 category: slipstream
 permalink: /products/slipstream/install
 sub: install
@@ -17,26 +17,26 @@ summary: Find out which SlipStream version is right for you.
             <div class="col-md-6 col-2-image">
                 <h1>
                     <center>
-                        <span class="glyphicon glyphicon-flash"></span>
+                        <span class="glyphicon glyphicon-education"></span>
                     </center>
                 </h1>
             </div>
             <div class="col-md-6 col-2-text">
                 <h2>Community Edition</h2>
                 <p>SlipStream Community Edition installs in minutes on CentOS and RHEL operating systems. This version gives you access to all open source connectors. Our young community is also there to help, in which our developers take active participation.</p>
-                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Community Instructions &raquo;</a></center>
+                <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com">Community Instructions &raquo;</a></center>
             </div>
         </div>
         <div class="row row-highlights">
             <div class="col-md-6 col-2-text">
                 <h2>Enterprise Edition</h2>
                 <p>The SlipStream Enterprise Edition give you access to all connectors, including the proprietary connectors, as well as professional maintenance and support from our dedicated team. Built on the Community Version, this version includes further customisation capabilities, to personalise the user interface and re-brand to your look-and-feel and colour scheme.</p>
-                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Enterprise Instructions &raquo;</a></center>
+                <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com">Enterprise Instructions &raquo;</a></center>
             </div>
             <div class="col-md-6 col-2-image vertical-align">
                 <h1>
                     <center>
-                        <span class="glyphicon glyphicon-leaf"></span>
+                        <span class="glyphicon glyphicon-certificate"></span>
                     </center>
                 </h1>
             </div>
@@ -45,14 +45,14 @@ summary: Find out which SlipStream version is right for you.
             <div class="col-md-6 col-2-image">
                 <h1>
                     <center>
-                        <span class="glyphicon glyphicon-flash"></span>
+                        <span class="glyphicon glyphicon-console"></span>
                     </center>
                 </h1>
             </div>
             <div class="col-md-6 col-2-text">
                 <h2>Command-Line Client</h2>
                 <p>The SlipStream command-line client, which works for both Community and Enterprise Editions is distributed using the PIP infrastructure. The Python client is also a great way to integrate SlipStream in third party applications or DevOps tooling.</p>
-                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Client Instructions &raquo;</a></center>
+                <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com">Client Instructions &raquo;</a></center>
             </div>
         </div>
     </div>

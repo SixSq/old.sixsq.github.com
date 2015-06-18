@@ -2,7 +2,7 @@
 layout: article
 title: Dave
 category: personae
-icon: /img/content/personae/dave.png
+image: /img/content/personae/dave.png
 overview: SlipStream administrator and cloud liaison
 ---
 

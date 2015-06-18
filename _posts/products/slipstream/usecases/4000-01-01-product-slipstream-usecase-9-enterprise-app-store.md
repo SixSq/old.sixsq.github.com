@@ -1,13 +1,14 @@
 ---
 layout: article
 title: Enterprise App Store / Self-Service IT
-class: slipstream
-category: usecases
+class: products
+category: slipstream
 favourite: true
 user_profile: Enterprise
 persona: Alice the App Store User
 context: Enterprise
 context_type: enterprise
+image: /img/content/diagrams/app_store.png
 ---
 
 Provisioning applications inside an organisation should be as simple as installing an app on a mobile device. Too often, the enterprise process for deploying an application triggers a chain reaction of hardware and software procurement processes that can take weeks, if not months. This definitely affects the ability of any organisation to be reactive and agile. And put the organisation at risk....

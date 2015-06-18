@@ -2,7 +2,7 @@
 layout: article_slipstream
 title: SlipStream
 title_gfx: /img/design/slipstream_logo.png
-class: slipstream
+class: products
 category: SlipStream
 permalink: /products/slipstream/tech
 image: /img/design/slipstream_category.png

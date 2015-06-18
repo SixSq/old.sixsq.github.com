@@ -1,8 +1,8 @@
 ---
 layout: article_slipstream_overview
 title: SlipStream
-class: slipstream
-category: products
+class: products
+category: overview
 permalink: /products/slipstream/index.html
 redirect_from: /slipstream/
 image: /img/design/slipstream_category.png

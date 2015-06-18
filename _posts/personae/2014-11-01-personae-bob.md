@@ -2,7 +2,7 @@
 layout: article
 title: Bob
 category: personae
-icon: /img/content/personae/bob.png
+image: /img/content/personae/bob.png
 overview: CIO, Team Leader and/or account manager
 ---
 

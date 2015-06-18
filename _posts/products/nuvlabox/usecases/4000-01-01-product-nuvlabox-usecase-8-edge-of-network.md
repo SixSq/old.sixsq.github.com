@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Putting Intelligence at the Edge of the Network
-class: nuvlabox
-category: usecases
+class: products
+category: nuvlabox
 favourite: true
 persona: Alice, Bob, Clara
 context: Telco / Network Service Provider

@@ -1,15 +1,12 @@
 ---
 layout: article_nuvlabox
 title: NuvlaBox
-class: nuvlabox
+class: products
 category: nuvlabox
 permalink: /products/nuvlabox/tech
 sub: techspecs
+subtitle: Technical Specification
 ---
-
-<p align="center">
-  <img src="/img/content/nuvlabox/photos/nb_front.png" alt="NuvlaBox standalone" />
-</p>
 
 Using the NuvlaBox
 ====

@@ -1,7 +1,7 @@
 ---
 layout: article_slipstream
 title: SlipStream
-class: slipstream
+class: products
 category: slipstream
 permalink: /products/slipstream/hybrid
 sub: Hybrid

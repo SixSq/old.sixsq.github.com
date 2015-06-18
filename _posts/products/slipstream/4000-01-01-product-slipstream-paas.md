@@ -1,7 +1,7 @@
 ---
 layout: raw
 title: SlipStream
-class: slipstream
+class: products
 category: slipstream
 permalink: /products/slipstream/paas
 sub: paas
@@ -10,10 +10,6 @@ summary: Next generation Platform as a Service (PaaS) providing an open and exte
 ---
 
   <div class="jumbotron">
-
-      <div class="container">
-        
-      </div>
 
       <div class="container big">
        

@@ -1,7 +1,7 @@
 ---
 layout: raw
 title: SlipStream
-class: slipstream
+class: products
 category: slipstream
 permalink: /products/slipstream/cloud-connectors
 sub: connectors
@@ -31,8 +31,7 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
   </div>
 </div>
 
-<div id="all-clouds" class="anchor"></div>
-  <div class="container cloud">
+  <div id="all-clouds" class="container cloud">
     <h2>Open-Source Connectors</h2>
     <h3>Available with the community edition.</h2>
   	<div class="row">
@@ -61,21 +60,35 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
         </center>
   	  </div>
   	  <div class="col-md-3">
-  	    <h3>StratusLab</h3>
+  	    <center>
+    	    <h3>StratusLab</h3>
+  	      <div>
+            <img src="/img/content/clouds/stratuslab.jpg" alt="Flexian" />	                        
+          </div>
+        </center>
   	  </div>
     </div>
   	<div class="row">
   	  <div class="col-md-3">
-  	    <h3>OCCI</h3>
+  	    <center>
+  	      <h3>OCCI</h3>
+  	      <div>
+            <img src="/img/content/clouds/occi.png" alt="OCCI" />	                        
+          </div>
+        </center>
   	  </div>
   	  <div class="col-md-3">
-  	    <h3>Physical</h3>
+  	    <center>
+    	    <h3>Okeanos</h3>
+  	      <div>
+            <img src="/img/content/clouds/okeanos.jpg" alt="Okeanos" />	                        
+          </div>
+        </center>
   	  </div>
   	  <div class="col-md-3">
-  	    <h3>Okeanos</h3>
-  	  </div>
-  	  <div class="col-md-3">
-  	    <h3>And more...</h3>
+  	    <center>
+    	    <h3>And more...</h3>
+  	    </center>
   	  </div>
   	</div>
   </div>
@@ -110,39 +123,81 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>Abiquo</h3>
+	    <center>
+  	    <h3>Abiquo</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/abiquo.png" alt="Abiquo" />
+  	    </div>
+	    </center>
 	  </div>
   </div>
 	<div class="row">
 	  <div class="col-md-3">
-	    <h3>IBM Smart Cloud Entry</h3>
+	    <center>
+  	    <h3>IBM Smart Cloud</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/ibm-smartcloud.png" alt="IBM Smart Cloud" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>CloudSigma</h3>
+	    <center>
+  	    <h3>CloudSigma</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/CloudSigma.jpg" alt="CloudSigma" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>NuvlaBox</h3>
+	    <center>
+  	    <h3>NuvlaBox</h3>
+  	    <div>
+  	      <img src="/img/design/nuvlabox_logo.png" alt="NuvlaBox" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3 soon">
       <div>Soon!</div>
-	    <h3>IBM SoftLayer</h3>
+	    <center>
+  	    <h3>IBM SoftLayer</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/SoftLayer.jpg" alt="SoftLayer" />
+  	    </div>
+	    </center>
 	  </div>
   </div>
 	<div class="row">
 	  <div class="col-md-3 soon">
       <div>Soon!</div>
-	    <h3>Microsoft Azure</h3>
+	    <center>
+  	    <h3>Microsoft Azure</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/azure.jpg" alt="Microsoft Azure" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3 soon">
       <div>Soon!</div>
-	    <h3>Google Compute</h3>
+	    <center>
+  	    <h3>Google Compute</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/google-compute-engine.jpg" alt="Google Compute" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3 soon">
       <div>Soon!</div>
-	    <h3>OnApp</h3>
+	    <center>
+  	    <h3>OnApp</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/onapp.jpg" alt="OnApp" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>And more...</h3>
+	    <center>
+  	    <h3>And more...</h3>
+	    </center>
 	  </div>
 	</div>
 </div>
@@ -168,24 +223,63 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>Interoute VDC</h3>
+	    <center>
+  	    <h3>Interoute VDC</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/interoute-vdc.png" alt="Interoute VDC" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>CloudSigma</h3>
+	    <center>
+  	    <h3>CloudSigma</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/CloudSigma.jpg" alt="CloudSigma" />
+  	    </div>
+	    </center>
 	  </div>
   </div>
 	<div class="row">
 	  <div class="col-md-3">
-	    <h3>NuvlaBox</h3>
-	  </div>
-	  <div class="col-md-3">
-	    <h3>HP Cloud</h3>
+	    <center>
+  	    <h3>HP Cloud</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/HP-Cloud.jpg" alt="HP Cloud" />
+  	    </div>
+	    </center>
 	  </div>
 	  <div class="col-md-3">
 	    <h3>Helix Nebula</h3>
 	  </div>
 	  <div class="col-md-3">
-	    <h3>And more...</h3>
+	    <center>
+  	    <h3>Ultimum Technologies</h3>
+  	    <div>
+  	      <img src="/img/content/???" alt="Ultimum Technologies" />
+  	    </div>
+	    </center>
+	  </div>
+	  <div class="col-md-3">
+	    <center>
+  	    <h3>DEAC</h3>
+  	    <div>
+  	      <img src="/img/content/???" alt="DEAC" />
+  	    </div>
+	    </center>
+	  </div>
+	  <div class="col-md-3">
+	    <center>
+  	    <h3>Safe Swiss Cloud</h3>
+  	    <div>
+  	      <img src="/img/content/???" alt="Safe Swiss Cloud" />
+  	    </div>
+	    </center>
+	  </div>
+	  <div class="col-md-3">
+	    <center>
+  	    <h3>And more...</h3>
+	    </center>
 	  </div>
 	</div>
 </div>
+<p/>

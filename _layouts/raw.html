@@ -3,8 +3,8 @@
    {% include head.html %}
   <body>
    {% include top.html %}
-   {% include slipstream_nav.html %}
-   {% include slipstream_intro.html %}
+   {% include {{ page.category }}_nav.html %}
+   {% include {{ page.category }}_intro.html %}
 
       {{ page.content }}
 

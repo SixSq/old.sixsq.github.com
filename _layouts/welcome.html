@@ -13,23 +13,14 @@
       </div>
     </div>-->
 
-	<div class="jumbotron">
-	  <div class="container">
-      <p/>
-	    <h1>SlipStream&reg;: Application Deployment Platform</h1>
-	    <h2>Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.</h2>
-      {% include slipstream_pitch.html %}
-    </div>
-  </div>
+    {% include slipstream_intro.html %}
 
-  <div class="jumbotron main-story nuvlabox">
-    <div class="container">
-      <h1>NuvlaBox&reg;: Cloud in a box appliance</h1>
-      <h2>All the power of the cloud packaged in a simple, small and secure device.</h2>
-      {% include nuvlabox_pitch.html %}
+  	<div class="jumbotron">
+      <div class="container">
+        {% include slipstream_pitch.html %}
+      </div>
     </div>
-  </div>
-    
+
     <div class="jumbotron main-story">
       <div class="container spacy">
         <h1>All Clouds Supported</h1>
@@ -48,7 +39,15 @@
       </div>
     </div>
 
-	  {% include whats_next.html %}        
+    {% include nuvlabox_intro.html %}
+
+    <div class="jumbotron main-story nuvlabox">
+      <div class="container">
+        {% include nuvlabox_pitch.html %}
+      </div>
+    </div>
+    
+    {% include whats_next.html %}        
     {% include footer.html %}
 
   </body>

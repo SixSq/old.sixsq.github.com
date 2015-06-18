@@ -1,11 +1,12 @@
 ---
 layout: article
 title: DevOps platform
-class: slipstream
-category: usecases
+class: products
+category: slipstream
 persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise
+image: /img/content/diagrams/devops.png
 ---
 
 The realisation that the agile practices traditionally focusing on software development activities could also apply to operations gave birth to the DevOps movement. Or as we like to call it, common sense. In order to deliver a DevOps environment, teams need to be able to *fluidify* their development and deployment process, allowing software and configuration changes to be deployed in the (pre-)production stage in the most efficient way. It is of fundamental importance to capture operational issues early and integrate them as first class citizens when considering architecture and design. The best way to do this, is to *deploy and operate* as early and as often as possible. This generates a natural feedback flow, ensuring that operational issues (e.g. monitoring, troubleshooting, configuration, performance) are addressed early and effectively.
