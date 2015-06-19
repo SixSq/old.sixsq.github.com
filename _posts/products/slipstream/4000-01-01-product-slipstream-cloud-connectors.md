@@ -23,9 +23,9 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
         <p>SlipStream communicates with the IaaS layer via a connector architecture.</p>
         <p>These are available under the community or the enterprise edition.</p>
         <p>Can't find your cloud? Get in touch... chances are we're already working on it.</p>
-        <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#contact-modal">
+        <a class="btn btn-primary btn-lg" role="button" href="/contact/#contact-us-form">
           Contact us &raquo;
-        </button>
+        </a>
       </div>
     </div>
   </div>
