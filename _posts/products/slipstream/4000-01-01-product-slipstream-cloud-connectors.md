@@ -6,7 +6,7 @@ category: slipstream
 permalink: /products/slipstream/cloud-connectors
 sub: connectors
 subtitle: All Clouds
-summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - technologies and services we support.
+summary: We support the following Infrastructure as a Service (IaaS) technologies and services. 
 ---
 
 </div>
@@ -32,7 +32,7 @@ summary: Find here the clouds - i.e. Infrastructure as a Service (IaaS) - techno
 </div>
 
   <div id="all-clouds" class="container cloud">
-    <h2>Open-Source Connectors</h2>
+    <h2>Open Source Connectors</h2>
     <h3>Available with the community edition.</h2>
   	<div class="row">
   	  <div class="col-md-3">
