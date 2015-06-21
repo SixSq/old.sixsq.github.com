@@ -30,7 +30,7 @@ summary: Find out which SlipStream version is right for you.
         <div class="row row-highlights">
             <div class="col-md-6 col-2-text">
                 <h2>Enterprise Edition</h2>
-                <p>The SlipStream Enterprise Edition give you access to all connectors, including the proprietary connectors, as well as professional maintenance and support from our dedicated team. Built on the Community Version, this version includes further customisation capabilities, to personalise the user interface and re-brand to your look-and-feel and colour scheme.</p>
+                <p>The SlipStream Enterprise Edition give you access to all connectors, including the proprietary ones, as well as professional maintenance and support from our dedicated team. Built on the Community Version, the Enterprise Edition includes further customisation capabilities, allowing customisation of the user interface and a re-branding to suit your own look-and-feel and colour scheme.</p>
                 <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com">Enterprise Instructions &raquo;</a></center>
             </div>
             <div class="col-md-6 col-2-image vertical-align">

@@ -6,7 +6,7 @@ category: slipstream
 permalink: /products/slipstream/features
 sub: features
 subtitle: Features and Clouds
-summary: The right features to implement PaaS, DevOps and hybrid cloud strategies.
+summary: We have the right features to implement your PaaS, DevOps and hybrid cloud strategies.
 ---
 
 Features
@@ -22,7 +22,7 @@ Here are more technical details on the key SlipStream features:
 
   To illustrate, users can deploy applications (e.g. computing clusters, load balanced applications, multi-media processing pipelines) across several cloud providers, in order to improve data proximity & resilience, while reducing costs.
 
-* **Support continuous integration processes with continuous deployment**: SlipStream encourages users to parameterise image creation and deployment recipes, such that key parameters (e.g. software version, package location, dependencies, inter-relationships) can be provided at runtime. This means that it is easy to integrate SlipStream with continuous integration servers to provide a full deployment chain. 
+* **Support continuous integration processes with continuous deployment**: SlipStream encourages users to parameterise image creation and deployment recipes, so that key parameters (e.g. software version, package location, dependencies, inter-relationships) can be provided at runtime. This means that it is easy to integrate SlipStream with continuous integration servers to provide a full deployment chain. 
 	
   For instance, users can provision complete server-side systems in a single action in order to test and certify a specific version of the system.
 
