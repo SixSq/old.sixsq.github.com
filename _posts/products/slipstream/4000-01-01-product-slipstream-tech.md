@@ -24,29 +24,29 @@ SlipStream provides simple interfaces (web and command-line client) to interact 
   SlipStream is able to automatically attach extra disks, such that you can dynamically increase the available disk size to 
   your virtual machine, at provisioning time. 
 
-Our cloud connector architecture allows us to quickly develop and integrate with current and future IaaS cloud services. 
+Our cloud connector architecture allows us to quickly develop and integrate with current and future IaaS cloud services. This means that you will be able to easily switch between clouds, therefore avoiding vendor lock-in.
 
-This means that you will be able to easily switch between clouds, therefore avoiding vendor lock-in. If we do not support your cloud, please get in touch, chances are we are already working on it.
+Check out the [clouds we support](/products/slipstream/cloud-connectors). If we do not support your cloud, please get in touch. The chances are we are already working on it.
 
 REST API
 ===========
 
-SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream/usecases/#LAMP-and-complex-application-provisioning), or an [AppStore](/products/slipstream/usecases/#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This resulted in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream/usecases/#Hybrid-Cloud-Provisioning).
+SlipStream exposes a RESTful API. This API allows users to build on top of the service, making vertical integration straightforward.  The [API is fully documented](http://slipstream.github.io/SlipStreamDocumentationAPI/), including request/response examples.  Advanced users have already integrated SlipStream as a [provisioning engine](/products/slipstream/usecases/#LAMP-and-complex-application-provisioning), or an [AppStore](/products/slipstream/usecases/#Enterprise-App-Store-/-Self-Service-IT), inside existing and new higher-level services. This results in a gain of time and effort and corresponding reduction in time-to-market. Further, this strategy also allows user organisations to maintain flexibility and freedom of choice regarding the underlying IaaS solution used, as well as supporting [hybrid scenarios](/products/slipstream/usecases/#Hybrid-Cloud-Provisioning).
 
 DevOps and SlipStream
 ===========
 
 SlipStream in a nutshell: Automated, on-demand, creation of multi-machine runtime environments. In other words, a DevOps platform that provides a software engineering PaaS solution, as a product for you to install on a local cloud or as a hosted service.
 
-With SlipStream, once your deployment is automated, you can assess, from any point in your software development chain, the impact of any software or configuration change on your ability to deploy into production. As an analogy, while JUnit provides a framework for test automation at the class level, SlipStream does the same at the system level, including parameterised and multi-node deployment scenarios. Furthermore, SlipStream allows you to automate off-nominal scenarios, such as data centre power failures or service unavailability, to verify that your system is able to recover and maintain the expected quality of service your customers expect from your software.
+With SlipStream, once your deployment is automated, you can assess, from any point in your software development chain, the impact of any software or configuration change on your ability to deploy into production. As an analogy, while JUnit provides a framework for test automation at the class level, SlipStream does the same at the system level, including parameterised and multi-node deployment scenarios. Furthermore, SlipStream allows you to automate off-nominal scenarios, such as data centre power failures or service unavailability, to verify that your system is able to recover and maintain the quality of service your customers expect from your software.
 
-SlipStream is a simple to use, yet powerful, application built on top of public clouds or your own infrastructure. Evaluation of SlipStream takes a few minutes, using our hosted secure on-line service (SaaS), tutorials and documentation.
+SlipStream is a simple yet powerful, application built on top of public clouds or your own infrastructure. Evaluation of SlipStream takes a few minutes, using our hosted secure on-line service (SaaS), tutorials and documentation. Or request a demo. It only takes 30 minutes and could save you hours.
 
 
 In more detail...
 =================
 
-SlipStream is a multi-cloud coordinated provisioning and image factory engine. In other words, it is an engineering Platform as a Service (PaaS) solution to support production deployment in the cloud, as well as development, testing, certification and deployment processes into Infrastructure as a Service (IaaS) cloud environments. 
+SlipStream is a multi-cloud coordinated provisioning and image factory engine. In other words, it is an engineering Platform as a Service (PaaS) solution which supports not only production deployment in the cloud, but also development, testing, certification and deployment processes into Infrastructure as a Service (IaaS) cloud environments. 
 
 
 The core of SlipStream, as well as several connectors, are released under the open source Apache 2.0 license.

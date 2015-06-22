@@ -34,7 +34,7 @@ summary: SlipStream is fully documented, including a dedicated rich API site.
         <div class="row row-highlights">
             <div class="col-md-6 col-2-text">
                 <h2>REST API</h2>
-                <p>Contral to SlipStream is its REST API. Each and every feature available via the web client or the command-line client is available via the API. The API website provides a detailed description of each resource and actions available, including request/response examples. SlipStream is also converging towards the DMTF/CIMI standard for the API, to deliver higher interoperability.</p>
+                <p>Central to SlipStream is its REST API. Each and every feature available via the web client or the command-line client is available via the API. The API website provides a detailed description of each resource and actions available, including request/response examples. SlipStream is also converging towards the DMTF/CIMI standard for the API, to deliver higher interoperability.</p>
                 <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com">Explore API &raquo;</a></center>
             </div>
             <div class="col-md-6 col-2-image vertical-align">

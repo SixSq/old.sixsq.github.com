@@ -12,13 +12,13 @@ context_type: enterprise
 ---
 
 The current cloud landscape is busy with solutions that allow users to manage virtual machine life cycles. While this is an important building block, it falls short in terms of delivering on the full cloud potential.
-What most organisations want is the ability to reason in terms of application or even sets of interrelated applications working together to deliver certain functionality, or value. For example, a stateful web application, CRM system, WordPress or management application. Several of these application are built on a n-tier architecture, such as a LAMP stack.
+What most organisations want is the ability to reason in terms of application or even sets of interrelated applications working together to deliver certain functionality, or value. For example, a stateful web application, CRM system, WordPress or management application. Several of these applications are built on a n-tier architecture, such as a LAMP stack.
 
 In most cases, such deployment will require the involvement of several hosts, which in cloud terms translates to different virtual machines. Deploying such an application is complex and error prone, calling for an automated solution. Indeed, being able to automate the installation, configuration and start of the different components, clients and services would deliver significant value in the software development and operations pipeline. Furthermore, such deployment should be as representative as possible of (pre-)production conditions, to avoid rollout issues. This automation capability is key and enables several higher level use cases, such as the ability for:
 
-1. **End-users** to provision applications in *1-click* from the [Enterprise App Store / Self-Service IT](/products/slipstream-usecases.html#Enterprise-App-Store-/-Self-Service-IT) capabilities of SlipStream.
-2. **IT experts** to deploy applications on several clouds at once, taking advantage of [Hybrid Cloud Provisioning](http://localhost:4000/products/slipstream-usecases.html#Hybrid-Cloud-Provisioning) SlipStream feature. 
-3. **DevOps engineers** to deploy more often to more easily test, break and stress their applications, knowing that they can easily reset the application if broken by a set of tests. This feature is detailed in the [DevOps](http://localhost:4000/products/slipstream-usecases.html#DevOps-platform) use case.
+1. **End-users** to provision applications in *1-click* from the [Enterprise App Store / Self-Service IT](/products/slipstream/usecases/#Enterprise-App-Store-/-Self-Service-IT) capabilities of SlipStream.
+2. **IT experts** to deploy applications on several clouds at once, taking advantage of [Hybrid Cloud Provisioning](/products/slipstream/usecases/#Hybrid-Cloud-Provisioning) SlipStream feature. 
+3. **DevOps engineers** to deploy more often to more easily test, break and stress their applications, knowing that they can easily reset the application if broken by a set of tests. This feature is detailed in the [DevOps](/products/slipstream/usecases/#DevOps-platform) use case.
 
 To illustrate the ability of SlipStream to manage complex deployments, we have created a demo LAMP model. This model includes the following layers:
 

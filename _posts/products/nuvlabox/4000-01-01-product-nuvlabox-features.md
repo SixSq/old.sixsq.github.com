@@ -23,15 +23,15 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
           </h1>
       </div>
       <div class="col-md-6 col-2-text">
-        <h2>Private cloud turn-key cloud solution for small to medium-sized enterprises</h2>
-        <p>NuvlaBox is about the size of a modem and comes pre-configured making it simple to use.</p>
+        <h2>Private turn-key cloud solution for small to medium-sized enterprises</h2>
+        <p>NuvlaBox is about the size of a modem and comes pre-configured, making it simple to use.</p>
       </div>
     </div>
 
     <div class="row row-highlights">
       <div class="col-md-6">
         <h2>Ability to run up to 8 virtual machines on the NuvlaBox</h2>
-        <p>No need for a farm of servers, with different maintenance contracts and corresponding administrative headaches. You size your virtual machines and deploy applications, without needing to procure new hardware. If you run out of resources on the NuvlaBox, simply stack NuvlaBoxes together, as a single unit.</p>
+        <p>No need for a farm of servers, with different maintenance contracts and corresponding administrative headaches. With NuvlaBox, you size your virtual machines and deploy applications, without needing to procure new hardware. If you run out of resources, simply stack NuvlaBoxes together and run them as a single unit.</p>
       </div>
       <div class="col-md-6 col-2-image">
           <h1>
@@ -59,7 +59,7 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
     <div class="row row-highlights">
       <div class="col-md-6 col-2-text">
         <h2>Built-in security</h2>
-        <p>NuvlaBox is secure, from design to manufacturing, including software and hardware.</p>
+        <p>NuvlaBox software and hardware is secure, from design to manufacture.</p>
       </div>
       <div class="col-md-6 col-2-image">
           <h1>
@@ -136,7 +136,7 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
       </div>
       <div class="col-md-6 col-2-text">
         <h2>Built entirely from open source software</h2>
-        <p>NuvlaBox is entirely build from open source software, including the CentOS base operating system, <a href="/products/slipstream.html">SlipStream</a> and <a href="http://stratuslab.eu">StratusLab</a> solutions.</p>
+        <p>NuvlaBox is entirely built from open source software, including the CentOS base operating system, <a href="/products/slipstream/">SlipStream</a> and <a href="http://stratuslab.eu">StratusLab</a> solutions.</p>
       </div>
     </div>
 
