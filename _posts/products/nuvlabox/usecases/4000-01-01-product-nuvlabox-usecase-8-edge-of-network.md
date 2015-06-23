@@ -23,6 +23,5 @@ The NuvlaBox is ideally suited for this mission. The local App Store can be fact
 
 Using the ability to control and monitor many NuvlaBoxes from the same pane of glass, via [SlipStream](/products/slipstream/), means that the network provider can optimise its operations, streamline costs and batch control all NuvlaBoxes.
 
-Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional *Recipe Creation Service*.
+If you'd like to know more about how the NuvlaBox can provide an IT solution for edge of the network issues, get in touch with the SixSq team.
 
-To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream/tryme), you will most probably want to run your own version for this type of usage.

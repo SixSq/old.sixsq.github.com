@@ -21,6 +21,5 @@ NuvlaBox is the perfect solution for such an event. Once the applications have b
 
 Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional *Recipe Creation Service*.
 
-To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream/tryme), you will most probably want to run your own version for this type of usage.
 
-If you need deployment recipes or blueprints to automate application deployment, SixSq will also be happy to help you with this task, via our professional service. Just [get in touch](mailto:info@sixsq.com).
+If you'd like to know more about how the NuvlaBox can provide a simple and affordable IT solution for your event, get in touch with the SixSq team.
