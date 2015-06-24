@@ -40,7 +40,7 @@ We are looking for candidates with the following skills and experience:
 
 - Language French & English fluent
 
-If you have any questions on the vacancy, don't hesitate to [get in touch](mailto:jobs@sixsq.com?subject=job%20application).
+If you have any questions on the vacancy, don't hesitate to [get in touch](http://localhost:4000/contact/#contact-us-form).
 
 Selection Process
 ===================

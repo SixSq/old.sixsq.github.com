@@ -21,8 +21,8 @@ The NuvlaBox solves that problem when used as a sensor aggregator.  Indeed, if w
 The internal storage of the box can currently be increased to 1 TB. However, it comes with several USB ports, allowing for significant extensibility.
 
 
-Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional service.  Just [get in touch](mailto:info@sixsq.com).
+Each application to be deployed on the box will require a recipe/blueprint, which takes the form of a few scripts and configuration. SixSq will be happy to help you with this task, via our professional service.  Just [get in touch](http://localhost:4000/contact/#contact-us-form).
 
 To remote control boxes, you will need a separate SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SlipStream already runs in the NuvlaBox, it can also be used to remotely control NuvlaBoxes. SixSq runs SlipStream as a SaaS, providing convenience and peace of mind, but you can also run your own version.
 
-By default, the NuvlaBox ships with 240 GB SSD. This can be increased to 1 TB. Please [get in touch](mailto:info@sixsq.com) for further information on the cost of this option.
+By default, the NuvlaBox ships with 240 GB SSD. This can be increased to 1 TB. Please [get in touch](http://localhost:4000/contact/#contact-us-form) for further information on the cost of this option.

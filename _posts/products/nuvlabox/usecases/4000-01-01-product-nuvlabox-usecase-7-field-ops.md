@@ -21,4 +21,4 @@ If an external network is available - e.g. via satellite link - even for short p
 
 To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi-NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream/tryme), you will most probably want to run your own for this type of usage.
 
-If you need deployment recipes or blueprints to automate application deployment, SixSq will be happy to help you with this task, via our professional service.  For further information, just [get in touch](mailto:info@sixsq.com).
+If you need deployment recipes or blueprints to automate application deployment, SixSq will be happy to help you with this task, via our professional service.  For further information, just [get in touch](http://localhost:4000/contact/#contact-us-form).

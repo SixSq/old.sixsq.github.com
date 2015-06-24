@@ -230,6 +230,10 @@ div.nuvlabox.odd {
   background-image: url('/img/content/slipstream_logo_red_on_transparent.svg');
 }
 
+.jumbotron.nuvla {
+  background-image: url('/img/content/nuvla_logo_red_on_transparent.svg');
+}
+
 .jumbotron.top_product {
   color: white;
   background-color: rgb(160,0,0);

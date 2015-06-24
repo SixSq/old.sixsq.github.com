@@ -23,4 +23,4 @@ Each application to be deployed on the box will require a recipe/blueprint, whic
 
 To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream/tryme), you will most probably want to run your own version for this type of usage.
 
-If you need deployment recipes or blueprints to automate application deployment, SixSq will also be happy to help you with this task, via our professional service. Just [get in touch](mailto:info@sixsq.com).
+If you need deployment recipes or blueprints to automate application deployment, SixSq will also be happy to help you with this task, via our professional service. Just [get in touch](http://localhost:4000/contact/#contact-us-form).
