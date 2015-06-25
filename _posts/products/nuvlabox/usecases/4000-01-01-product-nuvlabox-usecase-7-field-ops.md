@@ -19,6 +19,4 @@ In the context of aid work, the NuvlaBox has its own Wi-Fi capabilities, which c
 
 If an external network is available - e.g. via satellite link - even for short period of times, the NuvlaBox can then *call home* to allow it to be remotely accessed. This allows off-site IT experts not only to monitor the box, but also to automatically update image recipes and blueprints, perform maintenance tasks and backup important data.
 
-To remote control boxes, you will need a SlipStream instance. [SlipStream](/products/slipstream/) is the software piece that contains the intelligence including the multi-NuvlaBox dashboard. While SixSq runs [SlipStream as a SaaS](/products/slipstream/tryme), you will most probably want to run your own for this type of usage.
-
-If you need deployment recipes or blueprints to automate application deployment, SixSq will be happy to help you with this task, via our professional service.  For further information, just [get in touch](http://localhost:4000/contact/#contact-us-form).
+If you'd like to know more about how the NuvlaBox can provide a simple and affordable IT solution for your field ops, get in touch with the SixSq team.
