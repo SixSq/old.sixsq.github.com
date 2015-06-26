@@ -358,14 +358,14 @@ div.nuvlabox.odd {
 
 @media (min-width:1200px) { 
   .row-summary-slipstream-usecases .col-md-4 > div > div {
-    height: 200px;
+    height: 190px;
     /*background: blue;*/
   }
 }
 
 @media (max-width:1200px) { 
   .row-summary-slipstream-usecases .col-md-4 > div > div {
-    height: 260px;
+    height: 220px;
     /*background: white;*/
   }
 }
@@ -415,14 +415,14 @@ div.nuvlabox.odd {
 
 @media (min-width:1200px) { 
   .row-summary-nuvlabox-usecases .col-md-4 > div > div {
-    height: 220px;
+    height: 170px;
     /*background: blue;*/
   }
 }
 
 @media (max-width:1200px) { 
   .row-summary-nuvlabox-usecases .col-md-4 > div > div {
-    height: 340px;
+    height: 220px;
     /*background: white;*/
   }
 }
