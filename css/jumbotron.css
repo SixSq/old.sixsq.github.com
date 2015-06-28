@@ -25,7 +25,11 @@ h2 a:hover {
 
 h3 {
   font-size: 21px;
-  font-weight: 200;
+  font-weight: 300;
+}
+
+.jumbotron p, p {
+  font-weight: 300;
 }
 
 img {
