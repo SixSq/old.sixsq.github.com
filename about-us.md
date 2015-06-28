@@ -160,8 +160,14 @@ More information is available <a href="news/2012/03/01/news-hn-annoucement.html"
   <h1>For Journalists and Editors</h1>
   <h3>A more official SixSq definition:</h3>
   <p>
-SixSq provides cloud computing solutions to national and international companies of all sizes. We specialise in process automation, bringing financial benefits to our customers via our unique products: 
-<a href="/products/slipstream.html">SlipStream&reg;</a> and <a href="/products/nuvlabox.html">NuvlaBox&reg;</a>.  SixSq prides itself in promoting cloud neutral solutions for this fast moving IT sector. Our team, which consists of highly skilled software engineers, developers and system administrators from many different countries, is based in Geneva, Switzerland, and embraces the Swiss ideals of excellence, innovation and precision.  We strive to build long-lasting partnerships and collaborations with all of our customers.
+      SixSq provides cutting-edge cloud technologies that are key to the latest movement in cloud computing, Business-as-a-Service, shielding organizations from the pain of dealing with the nuts and bolts of delivering enterprise software. SixSq’s cloud management platform, <a href="/products/slipstream">SlipStream</a>, delivers efficiency savings via automation and self-service IT. 
+
+      SixSq’s turnkey cloud appliance, <a href="/products/nuvlabox">NuvlaBox</a>, brings together all of these concepts, delivering an easy-to-use, affordable and unique private cloud solution. 
+
+      SixSq’s active participation in numerous international cloud initiatives has solidified its reputation as a leading European cloud expert. For example, SixSq’s technical leadership in the Helix Nebula initiative, a partnership between big science and cloud providers under the leadership of CERN, ESA and EMBL has been instrumental in establishing an open scientific cloud platform in Europe. The company hosts, manages, and supports the Helix Nebula Marketplace (HNX), which delivers seamless, on-demand and large-scale access to a range of commercial cloud services. Based on SlipStream®, the HNX broker also provides automated deployment and management of cloud applications. 
+
+      SixSq is part of the <a href="http://www.rheagroup.com">Rhea Group</a>, a leading supplier of systems engineering services and software solutions to the Aerospace and Security. Their combination of cloud computing and cyber security skills offers outstanding expertise to customers in scientific, government and commercial sectors.
+
   </p>
 </div>
 </div>
