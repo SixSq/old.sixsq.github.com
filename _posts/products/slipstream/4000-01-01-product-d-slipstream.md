@@ -3,8 +3,10 @@ layout: article_slipstream_overview
 title: SlipStream
 class: products
 category: overview
-permalink: /products/slipstream/index.html
-redirect_from: /slipstream/
+permalink: /products/slipstream
+redirect_from:
+  - /slipstream/
+  - /products/slipstream.html
 image: /img/design/slipstream_category.png
 sub: overview
 subtitle: Application Deployment Platform

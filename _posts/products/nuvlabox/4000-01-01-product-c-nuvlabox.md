@@ -5,7 +5,9 @@ title_gfx: /img/design/nuvlabox_logo.png
 class: products
 category: nuvlabox
 permalink: /products/nuvlabox
-redirect_from: /nuvlabox/
+redirect_from:
+  - /nuvlabox/
+  - /products/nuvlabox.html
 image: /img/design/nuvlabox_category.png
 sub: overview
 subtitle: Smart cloud-in-a-box appliance
