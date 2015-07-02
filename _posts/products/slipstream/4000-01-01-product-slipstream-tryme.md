@@ -4,6 +4,9 @@ title: SlipStream
 class: products
 category: slipstream
 permalink: /products/slipstream/tryme
+redirect_from:
+  - /products/slipstream-tryme.html
+  - /products/slipstream-tryme/
 sub: tryme
 subtitle: Try Me
 summary: Try SlipStream today for free. Take the tour and get going in minutes.

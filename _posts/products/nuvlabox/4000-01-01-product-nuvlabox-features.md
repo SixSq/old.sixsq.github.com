@@ -5,6 +5,9 @@ class: products
 category: nuvlabox
 image: /img/design/nuvlabox_category.png
 permalink: /products/nuvlabox/features
+redirect_from:
+  - /products/nuvlabox-features.html
+  - /products/nuvlabox-features/
 sub: features
 subtitle: Features
 summary: All the power of the cloud packaged in a simple, small and secure device.

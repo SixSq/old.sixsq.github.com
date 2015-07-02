@@ -4,6 +4,9 @@ title: NuvlaBox
 class: products
 category: nuvlabox
 permalink: /products/nuvlabox/tech
+redirect_from:
+  - /products/nuvlabox-tech.html
+  - /products/nuvlabox-tech/
 sub: techspecs
 subtitle: Technical Specification
 ---

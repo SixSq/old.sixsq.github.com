@@ -3,6 +3,8 @@ layout: plain
 title: About Us
 class: about
 permalink: /about-us/
+redirect_from:
+  - /about-us.html
 ---
 
 <div class="jumbotron" id="XXnuvlabox-main-story">

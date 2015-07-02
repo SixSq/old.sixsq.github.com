@@ -33,7 +33,7 @@ The level of automation SlipStream delivers can provide impressive return on inv
             <div class="col-md-8 col-2-text">
                 <h2>Automate Application Deployment</h2>
                 <p>Repetitive, manual deployments are costing your organisation money. Introducing automation will reduce expenditure and give your people more time to create greater things. To our knowledge, no other solution provides the same level of application deployment automation capabilities, which work for new and legacy applications alike.</p>
-                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/overview">Try Me &raquo;</a></center>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
             </div>
             <div class="col-md-4 col-2-image vertical-align">
                 <h1>

@@ -5,6 +5,9 @@ title_gfx: /img/design/slipstream_logo.png
 class: products
 category: slipstream
 permalink: /products/slipstream/tech
+redirect_link:
+  - /products/slipstream-tech.html
+  - /products/slipstream-tech/
 image: /img/design/slipstream_category.png
 sub: techspecs
 subtitle: Technical Specification

@@ -4,6 +4,9 @@ title: SlipStream
 class: products
 category: slipstream
 permalink: /products/slipstream/features
+redirect_from:
+  - /products/slipstream-features.html
+  - /products/slipstream-features/
 sub: features
 subtitle: Features and Clouds
 summary: We have the right features to implement your PaaS, DevOps and hybrid cloud strategies.

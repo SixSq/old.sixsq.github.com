@@ -4,6 +4,9 @@ title: SlipStream
 class: products
 category: slipstream
 permalink: /products/slipstream/cloud-connectors
+redirect_from:
+  - /products/slipstream/cloud-connectors.html
+  - /products/slipstream/cloud-connectors/
 sub: connectors
 subtitle: All Clouds
 summary: We support the following Infrastructure as a Service (IaaS) technologies and services. 

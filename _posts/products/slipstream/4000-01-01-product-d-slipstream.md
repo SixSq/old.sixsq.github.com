@@ -7,6 +7,8 @@ permalink: /products/slipstream
 redirect_from:
   - /slipstream/
   - /products/slipstream.html
+  - /products/slipstream-pricing.html
+  - /products/slipstream-pricing/
 image: /img/design/slipstream_category.png
 sub: overview
 subtitle: Application Deployment Platform
