@@ -29,6 +29,14 @@
 	background: url('/img/design/navbar_arrow.png') left 0 no-repeat !important;
 }
 
+.navbar-brand {
+  padding-top: 7px;
+}
+
+.navbar-brand > img {
+  width: 40px;
+}
+
 button.navbar-toggle.collapsed.sub-nav {
   border-color: #D1D1D1 !important;
 }

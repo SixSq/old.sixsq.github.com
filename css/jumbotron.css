@@ -52,14 +52,6 @@ img {
   font-size: 18px;  
 }
 
-.navbar-brand {
-  padding-top: 7px;
-}
-
-.navbar-brand > img {
-  width: 40px;
-}
-
 .jumbotron {
   padding-left: 0px;
   padding-right: 0px;
