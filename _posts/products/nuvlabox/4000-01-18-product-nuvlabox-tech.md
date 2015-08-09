@@ -82,48 +82,6 @@ To help you get the most out of your NuvlaBox, we have developed a number of sur
 * **Flexible license activation**: need to interface with a different or new cloud? Simply purchase an activation code, for the time you need.  All the software is factory installed, you simply need the right code to activate it.
 
 
-NuvlaBox Technical Specification
-====
 
-NuvlaBox is delivered in a fanless PC. But NuvlaBox is not just about hardware, it's the software running inside it that makes the difference.
 
-**Software Specification**
 
-NuvlaBox is built on top of an Open Source foundation:
-
-* Operating System: **CentOS**
-* Cloud layer - Infrastructure as a Service (IaaS): **[StratusLab](http://stratuslab.eu)**
-* App Store - Platform as a Service (PaaS): **[SlipStream](/products/slipstream/)**
-
-No other cloud solution provides this level of functionality and integration.
-
-**Hardware Specification**
-
-NuvlaBox comes by default with the following specification:
-
-* i5 Intel processor
-* 16 GB RAM
-* 240 GB SSD storage
-* 120W external power supply
-* Wi-Fi card
-* 4 x USB ports
-* HDMI interface
-* 2 x RJ-45 network adapter
-
-<p align="center">
-  <img src="/img/content/nuvlabox/photos/nb_back.jpg" alt="NuvlaBox back panel" />
-</p>
-
-Unlike many fanless PC currently produced, NuvlaBox delivers all the power the CPUs need to take full advantage of the system's virtualisation capabilities.
-
-As an option, the box can be upgraded to an i7 Intel processor and 1 TB SSD. The resulting machine is devoid of any moving parts (e.g. fan, spinning disk), significantly increasing its robustness. 
-
-**Cached Machine Images**
-
-NuvlaBox comes with pre-loaded operating system images, giving you solid foundations for building custom recipes (aka blueprints) for automating application deployment:
-
-* CentOS
-* Ubuntu
-* Windows Server (option)
-
-Further, NuvlaBox can also cache custom images, such that on the field, you can deploy apps without needing any network access. This is ideal for [field operations](/products/nuvlabox/usecases/#field-ops) with limited network access.
