@@ -88,7 +88,7 @@ summary: Take full advantage of the cloud to deliver real DevOps benefits.
                     </center>
                 </h2>
             </div>
-            <div class="col-md-8 col-2-text">
+            <div class="col-md-8 col-2-text"> 
                 <h2>Share and Stand on the Shoulders of Giants</h2>
                 <p>How often do your teams re-invent the wheel? What if each time a team was able to configure
                 a piece of software, it was available to all others to leverage? What if you could let teams
