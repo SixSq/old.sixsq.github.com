@@ -14,6 +14,24 @@ summary: Next generation Platform as a Service (PaaS) providing an open and exte
       <div class="container big">
        
         <div class="row row-highlights">
+            <div class="col-md-8 col-2-text">
+                <h2>What is PaaS?</h2>
+                <p>The Platform as a Service (PaaS) is what makes your cloud stack rock! It is the service  
+                layer that delivers automation, which in turn delivers the ultimate return on investment (ROI).
+                Advanced PaaS solutions can provides the right hooks to drive your <a href="../devops">DevOps</a>
+                process and delivers great foundation for a solid <a href="../hybrid-cloud">hybrid cloud</a> strategy.
+                </p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
+            </div>
+            <div class="col-md-4 col-2-image vertical-align">
+                <h1>
+                    <center>
+                        <span class="glyphicon glyphicon-question-sign"></span>
+                    </center>
+                </h1>
+            </div>
+        </div>
+        <div class="row row-highlights">
             <div class="col-md-4 col-2-image">
                 <h1>
                     <center>
