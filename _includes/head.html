@@ -2,9 +2,13 @@
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 
-  <title>SixSq. {{ page.title }}</title>
+  <title>{% if page.head-title %}{{ page.head-title}}{% else %}{{ page.title }}{% endif %} | SixSq</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  {% if page.head-meta-desc %}
+  <meta name="description" content="{{ page.head-meta-desc }}">
+  {% endif %}
 
   <!-- Bootstrap core CSS -->
   <link href="/externals/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
