@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Bob
+head-title: Our Personae&#58; Bob
 category: personae
 image: /img/content/personae/bob.png
 overview: CIO, Team Leader and/or account manager

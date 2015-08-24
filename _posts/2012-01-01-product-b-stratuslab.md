@@ -1,6 +1,7 @@
 ---
 layout: article
 title: StratusLab
+head-title: StratusLab&#58; European Open Source Cloud Distribution
 class: stratuslab
 category: products
 permalink: /products/stratuslab.html

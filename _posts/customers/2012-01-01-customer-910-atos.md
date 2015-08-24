@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Atos
+head-title: Our Customers&#58; Atos
 image: /img/content/logo_atos.png
 category: customers
 permalink: /customers/atos.html

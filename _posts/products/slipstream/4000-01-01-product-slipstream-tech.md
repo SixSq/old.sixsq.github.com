@@ -1,6 +1,7 @@
 ---
 layout: article_slipstream
 title: SlipStream
+head-title: SlipStream&#58; Technical Specification
 title_gfx: /img/design/slipstream_logo.png
 class: products
 category: slipstream

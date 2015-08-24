@@ -1,6 +1,7 @@
 ---
 layout: raw
 title: SlipStream
+head-title: SlipStream&#58; Platform as a Service (PaaS)
 class: products
 category: slipstream
 permalink: /products/slipstream/paas

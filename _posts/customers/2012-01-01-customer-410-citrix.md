@@ -2,6 +2,7 @@
 layout: article
 title: Citrix
 image: /img/content/logo_citrix.png
+head-title: Our Customers&#58; Citrix
 category: customers
 permalink: /customers/citrix.html
 ---

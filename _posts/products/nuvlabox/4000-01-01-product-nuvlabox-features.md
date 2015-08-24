@@ -1,6 +1,7 @@
 ---
 layout: raw
 title: NuvlaBox
+head-title: NuvlaBox&#58; Features
 class: products
 category: nuvlabox
 image: /img/design/nuvlabox_category.png

@@ -1,6 +1,7 @@
 ---
 layout: article_usecases
 title: NuvlaBox
+head-title: NuvlaBox&#58; Examples Use Cases
 class: products
 category: nuvlabox
 permalink: /products/nuvlabox/usecases

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: INFN
+head-title: Our Customers&#58; INFN
 image: /img/content/logo_infn.png
 category: customers
 permalink: /customers/infn.html

@@ -1,6 +1,7 @@
 ---
 layout: article_nuvlabox_overview
 title: NuvlaBox
+head-title: NuvlaBox&#58; The smart cloud-in-a-box
 title_gfx: /img/design/nuvlabox_logo.png
 class: products
 category: nuvlabox

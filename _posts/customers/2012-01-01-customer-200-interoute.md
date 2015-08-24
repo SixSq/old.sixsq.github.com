@@ -2,6 +2,7 @@
 layout: article
 title: Interoute
 image: /img/content/logo_interoute.png
+head-title: Our Customers&#58; Interoute
 category: customers
 permalink: /customers/interoute.html
 ---

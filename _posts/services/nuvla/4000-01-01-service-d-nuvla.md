@@ -1,6 +1,7 @@
 ---
 layout: article_nuvla_overview
 title: Nuvla
+head-title: Nuvla&#58; Online Application Deployment Platform
 class: services
 category: overview
 permalink: /services/nuvla/index.html

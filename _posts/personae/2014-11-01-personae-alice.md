@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Alice
+head-title: Our Personae&#58; Alice
 category: personae
 image: /img/content/personae/alice.png
 overview: App Store user

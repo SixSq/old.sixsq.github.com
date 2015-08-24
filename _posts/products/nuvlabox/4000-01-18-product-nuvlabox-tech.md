@@ -1,6 +1,7 @@
 ---
 layout: article_nuvlabox
 title: NuvlaBox
+head-title: NuvlaBox&#58; Technical Specifications
 class: products
 category: nuvlabox
 permalink: /products/nuvlabox/tech

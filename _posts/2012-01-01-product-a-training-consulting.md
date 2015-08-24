@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Pro&nbsp; Services
+head-title: Professional Services
 class: training_coaching
 category: products
 permalink: /products/training-coaching.html

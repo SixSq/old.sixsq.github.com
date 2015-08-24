@@ -1,6 +1,7 @@
 ---
 layout: article
 title: SciSys
+head-title: Our Customers&#58; SciSys
 image: /img/design/logo_scisys.png
 category: customers
 permalink: /customers/scisys.html

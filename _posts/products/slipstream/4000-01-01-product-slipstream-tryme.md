@@ -1,6 +1,7 @@
 ---
 layout: article_slipstream
 title: SlipStream
+head-title: SlipStream&#58; Try Me for Free!
 class: products
 category: slipstream
 permalink: /products/slipstream/tryme
