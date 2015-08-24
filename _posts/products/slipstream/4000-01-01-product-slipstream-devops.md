@@ -18,12 +18,8 @@ summary: Take full advantage of the cloud to deliver real DevOps benefits.
         <div class="row row-highlights">
             <div class="col-md-8 col-2-text">
                 <h2>What is DevOps?</h2>
-                <p>In a nutshell, DevOps is the fruitful meshing of the agile methodology and lean principal to include deployment, operation and maintenance of software systems</strong>. While once a geeky
-                concept, it is now recognised as a powerful set of best practices and concepts that can yield
-                significant benefits for enterprises embracing it. Therefore, <strong>DevOps is now a common 
-                term used by CIOs, COOs, CTOs and even CEOs</strong>. While tooling has being around to support 
-                this fluid movement, cloud and container technologies and services has recently open new doors
-                and implement DevOps in the enterprise.
+                <p>DevOps is  a bringing together of IT operations, i.e. the people and management processes         associated with IT service management, and software development, i.e. the actual programming, documenting and testing involved in creating a software product. In many cases, these two departments work alongside each other but not together, causing inefficiences and often friction. DevOps brings a new way of working and organising which stresses communication and collaboration. While once a geeky concept, it is now recognised as a powerful set of best practices and concepts that can yield
+                significant benefits for enterprises embracing it. 
                 </p>
                 <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
             </div>
@@ -44,14 +40,13 @@ summary: Take full advantage of the cloud to deliver real DevOps benefits.
                 </h2>
             </div>
             <div class="col-md-8 col-2-text">
-                <h2>Cloud: the perfect DevOps companion</h2>
-                <p>Like most popular new ideas, the IT and software industry is now flooding the news with   
-                magical tools and solutions. From configuration management tools, à la Puppet, Chef, Ansible or Salt,
-                to continuous integration services such as Jenkins, or even local tools like Vagrant. The latest contender is Docker, with interesting promises, but this is often adding confusion.
+                <h2>Where Does SlipStream Fit In?</h2>
+                <p>DevOps is first of all an attitude of mind, but one which is much improved by the use of good tools. Cloud and container technologies and services have recently opened new doors
+                to allow the implemention of DevOps in the enterprise. SlipStream is one such tool</p>
                 </p>
-                <p>However, the cloud itself is one of the most profound DevOps enablers. It enables a new
+                It enables a new
                 level of automation, which is the real benefit DevOps brings to the organisation. Adding the
-                right automation on top of IaaS, such as an open <a href="/products/slipstream/paas">PaaS</a>
+                right automation on top of an Infrastructure as a Service (IaaS), such as an open <a href="/products/slipstream/paas">PaaS</a>
                 framework, makes DevOps a game changer and can reduce time to market and improve your   
                 organisation's ability to push more innovation faster.
                 </p>
