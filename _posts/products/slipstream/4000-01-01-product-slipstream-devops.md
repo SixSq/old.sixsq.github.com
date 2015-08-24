@@ -41,12 +41,16 @@ summary: Take full advantage of the cloud to deliver real DevOps benefits.
             </div>
             <div class="col-md-8 col-2-text">
                 <h2>Where Does SlipStream Fit In?</h2>
-                <p>DevOps is first of all an attitude of mind, but one which is much improved by the use of good tools. Cloud and container technologies and services have recently opened new doors
-                to allow the implemention of DevOps in the enterprise. SlipStream is one such tool</p>
+                <p>DevOps is first of all an attitude of mind, but one which is much improved by the use of
+                good tools and technologies. Cloud and container technologies and services have recently opened             
+                new doors
+                to allow the implemention of DevOps in the enterprise. SlipStream is one such technology.</p>
                 </p>
+                <p>
                 It enables a new
                 level of automation, which is the real benefit DevOps brings to the organisation. Adding the
-                right automation on top of an Infrastructure as a Service (IaaS), such as an open <a href="/products/slipstream/paas">PaaS</a>
+                right automation on top of an Infrastructure as a Service (IaaS), such as an open
+                <a href="/products/slipstream/paas">PaaS</a>
                 framework, makes DevOps a game changer and can reduce time to market and improve your   
                 organisation's ability to push more innovation faster.
                 </p>
@@ -79,21 +83,42 @@ summary: Take full advantage of the cloud to deliver real DevOps benefits.
             <div class="col-md-4 col-2-image">
                 <h2>
                     <center>
-                        <span class="glyphicon glyphicon-ice-lolly"></span>
+                        <span class="glyphicon glyphicon-ice-bullhorn"></span>
                     </center>
                 </h2>
             </div>
             <div class="col-md-8 col-2-text"> 
-                <h2>Share and Stand on the Shoulders of Giants</h2>
+                <h2>DevOps is all about Communication and Intelligent Sharing</h2>
                 <p>How often do your teams re-invent the wheel? What if each time a team was able to configure
                 a piece of software, it was available to all others to leverage? What if you could let teams
-                deploy quality assured software systems directly in production, with no security compromise?
-                This is all possible thanks to smart automation on private, public and <a href="/products/slipstream/hybrid-cloud">hybrid cloud</a>.
+                deploy quality assured software systems directly into production, with no security compromise?
+                SlipStream makes this possible thanks to smart automation on private, public and/or
+                <a href="/products/slipstream/hybrid-cloud">hybrid cloud</a>.
                 </p>
+                <p>You can also assemble applications from parts, like with Lego bricks, 
+                simply reusing standard and legacy components.  It's like if each DevOps team had access
+                to the entire knowledge base of your organisation, in an executable form, via a web ui
+                or an API call. 
                 </p>
-                <p>Futher, you can also assemble applications from parts, like with Lego bricks, simply
-                reusing standard and your own legacy components.
                 <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
+            </div>
+        </div>
+        <div class="row row-highlights">
+            <div class="col-md-8 col-2-text">
+                <h2>Ok I'm interested! Where do I start?</h2>
+                <p>SixSq will be happy to help you understand where you are and workout a path towards
+                DevOps adoption. Our expert engineers are pationate about DevOps, since we not only help
+                customers and partners, but we use it ourselves to deliver <a href="">Nuvla&trade;</a> and
+                HNX....
+                </p>
+                <center><a class="btn btn-primary btn-lg" role="button" href="/contact/#contact-us-form">Get In Touch &raquo;</a></center>
+            </div>
+            <div class="col-md-4 col-2-image vertical-align">
+                <h2>
+                    <center>
+                        <span class="glyphicon glyphicon-map-marker"></span>
+                    </center>
+                </h2>
             </div>
         </div>
     </div>

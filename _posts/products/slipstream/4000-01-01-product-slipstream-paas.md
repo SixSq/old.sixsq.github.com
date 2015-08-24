@@ -16,7 +16,7 @@ summary: Next generation Platform as a Service (PaaS) providing an open and exte
         <div class="row row-highlights">
             <div class="col-md-8 col-2-text">
                 <h2>What is PaaS?</h2>
-                <p>Platform as a Service (PaaS) is cloud service model which provides a ready-made programming environment and cloud infrastructure for the programmer. This relieves him or her from having to construct those services from scratch in the application. Typically the end customer is an application developer who uses the service to automate his or her application deployment. PaaS is to the IT industry what the assembly line is to manufacturing, but thankfully without the boring bits.  It brings optimisation, standardisation, uniformity and interchangeability. To read more about cloud service models and other cloud jargon, check out our <a href="http://media.sixsq.com/blog/tackling-cloud-jargon">blog</a>.
+                <p>Platform as a Service (PaaS) is a cloud service model which provides a ready-made programming environment and cloud infrastructure for the programmer. This relieves him or her from having to construct those services from scratch in the application. Typically the end customer is an application developer who uses the service to automate his or her application deployment. PaaS is to the IT industry what the robotic assembly line is to manufacturing, but thankfully without the need for ear plugs.  It brings optimisation, standardisation, uniformity and interchangeability. To read more about cloud service models and other cloud jargon, check out our <a href="http://media.sixsq.com/blog/tackling-cloud-jargon">blog</a>.
                 </p>
                 <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
             </div>
@@ -38,8 +38,8 @@ summary: Next generation Platform as a Service (PaaS) providing an open and exte
             </div>
             <div class="col-md-8 col-2-text">
                 <h2>Where Does SlipStream Fit In?</h2>
-                <p>SlipStream is a Platform as a Service (PaaS) solution, supporting all major cloud solutions, i.e. <a href="http://media.sixsq.com/blog/tackling-cloud-jargon">IaaS solutions</a>. By providing a ready-made  software infrastructure, SlipStream reduces organisational costs by reducing the effort involved with the traditional application development and deployment models. In fact, SlipSteam goes even further than standard PaaS models. 
-The level of automation SlipStream delivers can provide impressive return on investment (ROI). Integration of SlipStream saves considerable amounts of engineering time, application deployments are less error-prone and much more repeatable, allowing customers to test and release more frequently, reduce time-to-market and overhead.
+                <p>SlipStream is a Platform as a Service (PaaS) solution, supporting all major cloud, i.e. <a href="http://media.sixsq.com/blog/tackling-cloud-jargon">IaaS</a>, solutions. By providing a ready-made  software infrastructure, SlipStream reduces organisational costs by reducing the effort involved with the traditional application development and deployment models. In fact, SlipSteam goes even further than standard PaaS models. 
+The level of automation SlipStream delivers provides impressive return on investment (ROI). As a result, SlipStream saves considerable amounts of engineering time, since application deployments are less error-prone and much more repeatable, allowing users to test and release more frequently, reducing time-to-market and overheads.
                 </p>
                 <center><a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/tryme">Try Me &raquo;</a></center>
             </div>
