@@ -1,7 +1,7 @@
 ---
 layout: article_slipstream_overview
 title: SlipStream
-head-title: SlipStream&#58; Easy deployment for DevOps, PaaS &amb; Hybrid Cloud
+head-title: SlipStream&#58; Easy deployment for DevOps, PaaS &amp; Hybrid Cloud
 class: products
 category: overview
 permalink: /products/slipstream
