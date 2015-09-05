@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Event, Fair and Booth Setup in a Snap
 class: products
 category: nuvlabox
+sub: usecases
 persona: Alice the App Store User
 context: SMB, NGO and Enterprise
 context_type: sme

@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Putting Intelligence at the Edge of the Network
 class: products
 category: nuvlabox
+sub: usecases
 favourite: true
 persona: Alice the App Store User, Bob the Manager, Clara the DevOps Engineer
 context: Telco / Network Service Provider

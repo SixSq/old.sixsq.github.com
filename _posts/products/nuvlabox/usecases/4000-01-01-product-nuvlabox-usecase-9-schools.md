@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Schools or Federation of Schools
 class: products
 category: nuvlabox
+sub: usecases
 favourite: true
 persona: Alice the App Store User
 context: Schools or Federation of Schools

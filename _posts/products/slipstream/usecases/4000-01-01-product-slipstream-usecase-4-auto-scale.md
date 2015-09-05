@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Auto-Scale and Mutable Deployments
 class: products
 category: slipstream
+sub: usecases
 persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise

@@ -1,5 +1,5 @@
 ---
-layout: article_usecases
+layout: usecases_index
 title: SlipStream
 head-title: SlipStream&#58; Examples of Use Cases
 class: products

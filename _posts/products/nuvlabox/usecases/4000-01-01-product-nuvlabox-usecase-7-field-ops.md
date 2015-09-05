@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Field Operations with Agile Local Infrastructure
 class: products
 category: nuvlabox
+sub: usecases
 favourite: true
 persona: Alice the App Store User
 context: Non-IT SME, NGOs

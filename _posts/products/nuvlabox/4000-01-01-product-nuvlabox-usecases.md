@@ -1,5 +1,5 @@
 ---
-layout: article_usecases
+layout: usecases_index
 title: NuvlaBox
 head-title: NuvlaBox&#58; Examples Use Cases
 class: products

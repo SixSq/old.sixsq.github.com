@@ -4,7 +4,6 @@
   {% include head.html %}
   <body>
   {% include top.html %}
-
   {% include {{ page.category }}_nav.html %}
 
   {% include {{ page.category }}_intro.html %}
@@ -13,7 +12,7 @@
     <div class="container big spacy">
       <div class="row row-summary-{{ page.category }}-usecases row-summary">
       {% for post in site.posts %}
-        {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
+        {% if post.category == page.category and post.class == page.class and post.layout == 'article_usecase' %}
         <div class="col-md-4">
           <div>
             <div>
@@ -34,12 +33,12 @@
   </div>
 
   {% for post in site.posts %}
-    {% if post.category == page.category and post.class == page.class and post.layout == 'article' %}
+    {% if post.category == page.category and post.class == page.class and post.layout == 'article_usecase' %}
     <div class="{{ post.class }} {% cycle 'even', 'odd' %}">
       <div id="{{ post.title | replace:' ','-' }}" class="anchor"></div>
       <div class="container spacy">
         <h1>
-          {{ post.title }}
+          <a href="{{ post.url }}">{{ post.title }}</a>
         </h1>
         <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ post.persona }}</a></h4>
         <h4>Context: {{ post.context }}</a></h4>

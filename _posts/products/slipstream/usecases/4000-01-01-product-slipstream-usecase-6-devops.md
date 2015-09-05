@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: DevOps platform
 class: products
 category: slipstream
+sub: usecases
 persona: Clara the DevOps Engineer
 context: Enterprise
 context_type: enterprise

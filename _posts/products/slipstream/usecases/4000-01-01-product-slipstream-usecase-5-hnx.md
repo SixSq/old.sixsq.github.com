@@ -1,8 +1,9 @@
 ---
-layout: article
+layout: article_usecase
 title: Cloud Marketplace (Helix Nebula Cloud Exchange - HNX)
 class: products
 category: slipstream
+sub: usecases
 persona: Alice the App Store User, Bob the Manager
 context: Enterprise, Federated Organisations
 context_type: enterprise
