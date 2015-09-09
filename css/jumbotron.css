@@ -370,7 +370,7 @@ div.nuvlabox.odd {
 
 @media (max-width:1200px) { 
   .cloud > .row .col-md-3 {
-    height: 100px;
+    height: 200px;
     /*background: white;*/
   }
 }
