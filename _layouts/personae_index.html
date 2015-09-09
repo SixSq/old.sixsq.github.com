@@ -18,13 +18,13 @@
         {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
         {% if thecycle == 'odd' %}
 
-          {% include left.html %}
-          {% include right.html %}
+          {% include left_full.html %}
+          {% include right_full.html %}
 
         {% else %}
 
-          {% include right.html %}
-          {% include left.html %}
+          {% include right_full.html %}
+          {% include left_full.html %}
 
         {% endif %}
   
