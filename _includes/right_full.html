@@ -2,6 +2,7 @@
   {% if post.category == 'news' %}
     <div class="date">{{ post.date | date: "%d %B %Y" }}</div>
   {% endif %}
+  <h2>{{ post.title }}</h2>
   <p>{{ post.content }}</p>
   {% if post.author %}
     <p/>
