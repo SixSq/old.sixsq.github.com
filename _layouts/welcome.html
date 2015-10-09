@@ -32,7 +32,8 @@
           <p>{{ page.summary }}</p>
         {% else %}
           <p>Our smart cloud solutions deliver the business benefits of PaaS, DevOps and Hybrid Cloud.</p>
-        {% endif %}<p>Sign Up for our next SlipStream Training Event in Geneva, Switzerland - October 7 and 8, 2015 <a href="http://www.eventbrite.com/e/slipstream-training-hands-on-use-of-sixsqs-cloud-management-platform-tickets-17440176036?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=17440176036" alt="Eventbrite - SlipStream Training: hands on use of SixSq&#39;s cloud management platform" /></a></p>
+        {% endif %}
+        {% include training.html %}
       </div>
     </div>
     
@@ -102,11 +103,7 @@
             </div>
           </div>
         </div>
-    
       </div>
-    </div>
-       </div>
-          </div>
     </div>
     
     {% include whats_next.html %}        
