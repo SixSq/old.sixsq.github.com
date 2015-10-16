@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Helix Nebula Marketplace starts commercial operations under new management – where big science meets federated cloud 
-image: /img/design/slipstream_category.png
+image: /img/content/HNX_4.png
 category: news
 ---
 

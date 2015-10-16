@@ -1,7 +1,7 @@
 ---
 layout: article
 title: NuvlaBox officially launched at Mobile World Congress
-image: /img/design/seethroughcloud_category.png
+image: /img/design/nuvlabox.png
 category: news
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Helix Nebula - The Science Cloud - goes LIVE
-image: /img/design/slipstream_category.png
+image: /img/content/HNX_4.png
 category: news
 ---
 
