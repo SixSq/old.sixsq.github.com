@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SixSq forms strategic partnership with RHEA, Engineering & Software Company
-image: /img/design/slipstream_category.png
+image: /img/content/logo_rhea.png
 category: news
 ---
 

@@ -2,7 +2,7 @@
 layout: article
 title: European providers to support a new cloud computing Marketplace for Science, building on the Helix Nebula 
 
-image: /img/design/slipstream_category.png
+image: /img/content/HNX_4.png
 category: news
 ---
 

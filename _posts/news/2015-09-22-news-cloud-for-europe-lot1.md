@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SixSq Wins Cloud For Europe Contract
-image: /img/design/slipstream_category.png
+image: /img/design/logo_eu.png
 category: news
 ---
  

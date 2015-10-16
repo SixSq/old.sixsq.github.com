@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Training Event
-image: /img/design/slipstream_category.png
+image: /img/design/slipstream_logo.png 
 category: news
 ---
 

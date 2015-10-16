@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SlipStream – a new web interface for the EGI Federated Cloud
-image: /img/design/slipstream_category.png
+image: /img/design/slipstream_logo.png
 category: news
 ---
 
