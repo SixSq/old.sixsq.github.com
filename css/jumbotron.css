@@ -540,7 +540,6 @@ div.nuvlabox.odd {
 	line-height: 1.428571429;
 	color: #333;
 	white-space: normal;
-	color: #bababa;
 }
 
 .multi-column-dropdown li a:hover {
@@ -549,13 +548,13 @@ div.nuvlabox.odd {
 	background-color: #f5f5f5;
 }
 
-.multi-column-dropdown li strong {
-	color: #bababa;
-}
-
 @media (max-width: 767px) {
 	.dropdown-menu.multi-column {
 		min-width: 240px !important;
 		overflow-x: hidden;
+  	color: #bababa;
+	}
+	.multi-column-dropdown>li>a {
+  	color: #bababa;
 	}
 }
