@@ -18,4 +18,4 @@ This installs `ss-*` commands and provides possibilities to:
 * edit modules with `ss-module-{get,put}` as xml
 * view user and run with `ss-run-get` and `ss-user-get` as xml
 
-For detailed information on the `ss-*` commands, please refer to the [online manual](http://ssdocs.sixsq.com/documentation/advanced_tutorial/SlipStream_Client).
+For detailed information on the `ss-*` commands, please refer to the [online manual](http://ssdocs.sixsq.com/en/latest/advanced_tutorial/SlipStream_Client.html).
