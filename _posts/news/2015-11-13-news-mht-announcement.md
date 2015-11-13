@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SixSq Appoints Marie-Hélène Tremblay as New Chief Sales Officer
-image: /img/content/Marie-Helene-headshot-square.png
+image: /img/content/logo_sixsq.png
 category: news
 ---
 
