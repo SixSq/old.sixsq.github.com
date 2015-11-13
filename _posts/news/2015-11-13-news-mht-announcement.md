@@ -13,7 +13,15 @@ Mrs. Tremblay joins SixSq from Swisscom where she served as Key Account Manager 
 Previously, Mrs. Tremblay enjoyed a ten-year career with IBM Microelectronics. She first served as Manufacturing Engineer in IBM’s largest semiconductor packaging and test facility, based in Canada. Passionate about business negotiation, she then went on to become Strategic Buyer for high-tech automated equipment and raw materials. Mrs. Tremblay later joined the newly launched Geneva European HQ as EMEA Tactical Marketing Specialist. She developed the OEM Business for assigned microelectronics components with distributors and resellers and supported direct IBM sales forces in Europe in all phases of the sales process. 
 
  *“I am excited to be joining SixSq’s innovative team at an important stage of the company’s development in what promises to be a highly rewarding and successful position”*, said Mrs. Tremblay. “One of my main priorities is to establish the right strategy for each channel and ecosystem and to stimulate the company’s long-term growth, benefiting from synergies with the RHEA Group. I look forward to enabling organizations to gain greater control of their business and to maximize their growth potential by automating their applications deployment securely in private, public and hybrid cloud environments.”
+ 
 SixSq CEO, Marc-Elian Bégin said, *“Marie-Hélène will play a key role in our company’s next level of expansion. Her deep understanding of the Swiss market and enterprise customer needs combined with her huge network are a great asset to SixSq. As an engineer with a strong marketing, digital and commercial background, she will bring a new focus on the way we continue to bring our innovative solutions to the market. I look forward to seeing Marie-Hélène continue to build momentum for the company.”*
+
+**SixSq**
+
+SixSq provides cloud computing solutions to national and international companies of all sizes. The company simplifies and automates the management of applications on cloud infrastructures, bringing financial and efficiency benefits to its clients via its unique products: [SlipStream®](http://sixsq.com/products/slipstream/) and [NuvlaBox®](http://sixsq.com/products/slipstream/) and services: [Nuvla™](http://sixsq.com/services/nuvla/) and [Helix Nebula Marketplace (HNX)](http://hnx.helix-nebula.eu). SixSq prides itself in promoting cloud neutral solutions for the fast moving IT sector. The multicultural team, which consists of highly skilled software engineers and system administrators, is based in Geneva, Switzerland, and embraces the Swiss ideals of excellence, innovation and precision. SixSq strives to build long-lasting partnerships and collaborations with all of its clients.
+
+SixSq is a member of the [RHEA Group](http://www.rheagroup.com).
+
 
 For more information, please contact
 ----
@@ -22,6 +30,11 @@ For more information, please contact
 SixSq Operations Manager  
 +41 77 44 68 119  
 [louise.merifield@sixsq.com](mailto:louise.merifield@sixsq.com)
+
+**Marie-Hélène Tremblay**  
+SixSq Chief Sales Officer   
++41 78 71 67 262  
+[marie-helene.tremblay@sixsq.com](mailto:marie-helene.tremblay@sixsq.com)
 
 
 
