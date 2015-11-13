@@ -22,7 +22,6 @@ SixSq provides cloud computing solutions to national and international companies
 
 SixSq is a member of the [RHEA Group](http://www.rheagroup.com).
 
-
 For more information, please contact
 ----
 
