@@ -159,7 +159,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
   	    </div>
 	    </center>
 	  </div>
-	  <div class="col-md-3 soon">
+	  <div class="col-md-3">
       <div>Soon!</div>
 	    <center>
   	    <h3>IBM SoftLayer</h3>
@@ -170,7 +170,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 	  </div>
   </div>
 	<div class="row">
-	  <div class="col-md-3 soon">
+	  <div class="col-md-3">
       <div>Soon!</div>
 	    <center>
   	    <h3>Microsoft Azure</h3>
