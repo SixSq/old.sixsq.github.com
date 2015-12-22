@@ -207,7 +207,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 
 <div class="container cloud">
   <h2>IaaS Service</h2>
-  <h3>Here are a few of the cloud (IaaS) service the above connectors can be configured to interface with.</h2>
+  <h3>Here are a few of the cloud (IaaS) service the above connectors can be configured to interface with:</h2>
 	<div class="row">
 	  <div class="col-md-3">
       <h3>ExoScale</h3>
@@ -243,14 +243,6 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 	  </div>
   </div>
 	<div class="row">
-	  <div class="col-md-3">
-	    <center>
-  	    <h3>HP Cloud</h3>
-  	    <div>
-  	      <img src="/img/content/clouds/HP-Cloud.jpg" alt="HP Cloud" />
-  	    </div>
-	    </center>
-	  </div>
 	  <div class="col-md-3">
 	    <center>
   	    <h3>Helix Nebula Marketplace</h3>
