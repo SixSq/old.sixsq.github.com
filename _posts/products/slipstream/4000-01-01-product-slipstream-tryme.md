@@ -15,7 +15,7 @@ with-videos: true
 ---
 
 Try SlipStream For Free
-======
+-----
 
 Give SlipStream a try on our [Nuvla](/services/nuvla) hosted service. The use of SlipStream is currently **free of charge**.  You only pay the cloud providers for the cloud resources you consume.
 

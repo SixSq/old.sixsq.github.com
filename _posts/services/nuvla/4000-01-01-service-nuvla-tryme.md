@@ -12,7 +12,7 @@ with-videos: true
 ---
 
 Try Nuvla For Free
-======
+-----
 
 Give Nuvla, our online [SlipStream](/products/slipstream) service, a try. The use of Nuvla is currently **free of charge**.  You only pay the cloud providers for the cloud resources you consume.
 

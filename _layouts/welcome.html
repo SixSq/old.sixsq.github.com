@@ -21,7 +21,7 @@
 
     <div style="margin-top: 3px;" class="jumbotron top_product slipstream">
       <div class="container">
-          <div class="row row-summary row-summary-sixsq">
+          <div class="row row-summary">
             <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
                 <h1>
             	  {% if page.subtitle %}
@@ -37,16 +37,16 @@
                 {% endif %}
             </div>
             <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-                <center>
+              <center>
                 <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg banner-message">
-                    <h2>
-                    Questions?
-                    </h2>
-                    <h3>
-                    Contact Us!
-                    </h3>
+                  <h2>
+                  Questions?
+                  </h2>
+                  <h3>
+                  Contact Us!
+                  </h3>
                 </a>
-                </center>
+              </center>
             </div>
           </div>
       </div>
@@ -59,14 +59,12 @@
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div>
                 <div>
-                  <h2>
-                    <center>
-                      <img src="/img/design/slipstream_logo_red_on_transparent_256px.png" alt="SlipStream">
-                    </center>
-                    <center>
-                      Our Cloud App Deployment Software Solution
-                    </center>
-                  </h2>
+                  <center>
+                    <img src="/img/design/slipstream_logo_red_on_transparent_256px.png" alt="SlipStream">
+                    <h2>
+                        Our Cloud App Deployment Software Solution
+                    </h2>
+                  </center>
                   <ul>
                     <li>Supports New and Legacy applications</li>
                     <li>All clouds included</li>
@@ -75,30 +73,24 @@
                     <li>Build your own powerful PaaS</li>
                   </ul>
                 </div>
-                <center><a class="btn btn-primary btn-lg" role="button" 
-                  {% if page.layout == 'welcome' %}
-              	    href="/products/slipstream"
-              	  {% else %}
-            	      href="/products/slipstream/paas"
-              	  {% endif %}
-              	    >Learn more &raquo;</a></center>
+                <center>
+                  <a class="btn btn-primary btn-lg" role="button" href="/products/slipstream">Learn more &raquo;</a>
+                </center>
               </div>
             </div>
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div>
                 <div>
-                  <h2>
-                    <center>
-                      <img src="/img/design/nuvlabox_logo_red_on_transparent_256px.png" alt="NuvlaBox">
-                    </center>
-                    <center>
+                  <center>
+                    <img src="/img/design/nuvlabox_logo_red_on_transparent_256px.png" alt="NuvlaBox">
+                    <h2>
                       Our Smart Cloud-in-a-box Appliance 
-                    </center>
-                  </h2>
+                    </h2>
+                  </center>
                   <ul>
-                    <li>Private Cloud for SMEs</li>
+                    <li>Private and Secure Cloud for SMEs</li>
                     <li>Rapid deployment for field operations</li>
-                    <li>Zero config making IT a child play</li>
+                    <li>Zero config making IT child's play</li>
                     <li>Perfect private cloud companion for hybrid solution</li>
                   </ul>
                 </div>
@@ -110,17 +102,15 @@
             <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
               <div>
                 <div>
-                  <h2>
-                    <center>
-                      <img style="max-height: 40px;" src="/img/design/nuvla_logo_red_on_transparent_256px.png" alt="Nuvla">
-                    </center>
-                    <center>
-                      Our Free Application Deployment as a Service 
-                    </center>
-                  </h2>
+                  <center>
+                    <img style="max-height: 40px;" src="/img/design/nuvla_logo_red_on_transparent_256px.png" alt="Nuvla">
+                    <h2>
+                      Our Free Application Deployment Platform 
+                    </h2>
+                  </center>
                   <ul>
                     <li>Online multi-cloud application deployment</li>
-                    <li>Easy access to range of cloud providers</li>
+                    <li>Easy access to wide range of cloud providers</li>
                     <li>Single dashboard for simplified cost control</li>
                     <li>Friction-less application deployment</li>
                     <li>Powered by SlipStream</li>
@@ -138,7 +128,7 @@
     
     <div class="jumbotron quotes">
       <div class="container">
-          <h2>What people say about us?</h2>
+        <h2>What people say about us?</h2>
         <div class="row row-summary">
           <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
             <div>
@@ -173,17 +163,36 @@
 
     <div class="jumbotron coming-next">
       <div class="container">
-          <h2>What's coming up?</h2>
         <div class="row row-summary">
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                {% include training.html %}
-            </div>
-            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div>
+              <h2>What's coming up?</h2>
+              <div>
+                <h3>SlipStream Training</h3>
                 <div>
-                Join us at Cloud Expo Europe
-                {% include training.html %}
+                    <p>Sign Up for our next SlipStream Training Event in Geneva, Switzerland on 8 and 9 February 2016!</p>
+                    <center>
+                      <a href="http://www.eventbrite.com/e/discover-smart-cloud-solutions-hands-on-slipstream-training-tickets-19557979443?ref=ebtnebtckt" target="_blank"><img src="https://www.eventbrite.com/custombutton?eid=19557979443" alt="Eventbrite - Discover Smart Cloud Solutions: Hands On SlipStream Training" /></a>
+                    </center>
                 </div>
+              </div>
             </div>
+          </div>
+          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+            <div>
+              <h2>Latest blogs</h2>
+              <div>
+                <h3>Tackling Cloud Jargon</h3>
+                <p>by Charles Loomis</p>
+                <p>
+                This blog provides a quick overview of cloud jargon, useful to better understand, compare and navigate the world of clouds.
+                </p>
+                <center>
+                    <a class="btn btn-primary btn-lg" role="button" href="http://media.sixsq.com/blog/tackling-cloud-jargon">Read it &raquo;</a>
+                </center>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </div>
