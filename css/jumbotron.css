@@ -327,9 +327,14 @@ div.nuvlabox.odd {
   height: 60px;
 }
 
+.banner-message {
+  margin-top: 10px;
+  padding-top: 0px;
+}
+
 @media (min-width:1200px) { 
   .row-summary-sixsq .col-md-4 > div > div {
-    height: 160px;
+    height: 260px;
     /*background: blue;*/
   }
 }
