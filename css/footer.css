@@ -94,3 +94,11 @@ footer {
 #footer_logo_linkedin:hover {
   background-image: url(/img/design/social_logos/linkedin_hover.png);
 }
+
+#footer_logo_facebook {
+  background-image: url(/img/design/social_logos/facebook.png);
+}
+
+#footer_logo_facebook:hover {
+  background-image: url(/img/design/social_logos/facebook_hover.png);
+}
