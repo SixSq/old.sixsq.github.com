@@ -329,6 +329,10 @@ div.nuvlabox.odd {
   max-height: 60px;
 }
 
+.row-summary-sixsq ul {
+  font-size: 16px;
+}
+
 .row-summary-slipstream .icons-title, .row-summary-nuvlabox .icons-title {
   font-size: 63px;
 }
@@ -336,7 +340,7 @@ div.nuvlabox.odd {
 .banner-message {
   margin-top: 15px;
   margin-bottom: 10px;
-  padding-top: 0px;
+  padding-top: 5px;
 }
 
 @media (min-width:1200px) { 
@@ -390,14 +394,14 @@ div.nuvlabox.odd {
 
 @media (min-width:1200px) { 
   .row-summary-sixsq .col-md-4 > div > div {
-    height: 240px;
+    height: 250px;
     /*background: blue;*/
   }
 }
 
 @media (max-width:1200px) { 
   .row-summary-sixsq .col-md-4 > div > div {
-    height: 320px;
+    height: 340px;
     /*background: gray;*/
   }
 }
