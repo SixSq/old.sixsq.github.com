@@ -195,7 +195,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 </div>
 
 <div class="container cloud">
-  <h2>IaaS Service</h2>
+  <h2>IaaS Services</h2>
   <h3>Here are a few of the cloud (IaaS) service the above connectors can be configured to interface with:</h2>
 	<div class="row">
 	  <div class="col-md-3">
@@ -216,17 +216,17 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 	  </div>
 	  <div class="col-md-3">
 	    <center>
-  	    <h3>Interoute VDC</h3>
+  	    <h3>IBM SoftLayer</h3>
   	    <div>
-  	      <img src="/img/content/clouds/interoute-vdc.png" alt="Interoute VDC" />
+  	      <img src="/img/content/clouds/SoftLayer.jpg" alt="SoftLayer" />
   	    </div>
 	    </center>
 	  </div>
 	  <div class="col-md-3">
 	    <center>
-  	    <h3>CloudSigma</h3>
+  	    <h3>Interoute VDC</h3>
   	    <div>
-  	      <img src="/img/content/clouds/CloudSigma.jpg" alt="CloudSigma" />
+  	      <img src="/img/content/clouds/interoute-vdc.png" alt="Interoute VDC" />
   	    </div>
 	    </center>
 	  </div>
@@ -237,6 +237,14 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
   	    <h3>Helix Nebula Marketplace</h3>
   	    <div>
   	      <img src="/img/content/clouds/hnx.png" alt="Helix Nebula Marketplace" />
+  	    </div>
+	    </center>
+	  </div>
+	  <div class="col-md-3">
+	    <center>
+  	    <h3>CloudSigma</h3>
+  	    <div>
+  	      <img src="/img/content/clouds/CloudSigma.jpg" alt="CloudSigma" />
   	    </div>
 	    </center>
 	  </div>
