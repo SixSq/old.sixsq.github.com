@@ -160,7 +160,6 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
 	    </center>
 	  </div>
 	  <div class="col-md-3">
-      <div>Soon!</div>
 	    <center>
   	    <h3>IBM SoftLayer</h3>
   	    <div>
@@ -171,7 +170,6 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
   </div>
 	<div class="row">
 	  <div class="col-md-3">
-      <div>Soon!</div>
 	    <center>
   	    <h3>Microsoft Azure</h3>
   	    <div>
@@ -185,15 +183,6 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
   	    <h3>Google Compute</h3>
   	    <div>
   	      <img src="/img/content/clouds/google-compute-engine.jpg" alt="Google Compute" />
-  	    </div>
-	    </center>
-	  </div>
-	  <div class="col-md-3 soon">
-      <div>Soon!</div>
-	    <center>
-  	    <h3>OnApp</h3>
-  	    <div>
-  	      <img src="/img/content/clouds/onapp.jpg" alt="OnApp" />
   	    </div>
 	    </center>
 	  </div>
