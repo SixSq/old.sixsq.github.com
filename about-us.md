@@ -162,7 +162,7 @@ More information is available <a href="news/2012/03/01/news-hn-annoucement.html"
   <h1>For Journalists and Editors</h1>
   <h3>A more official SixSq definition:</h3>
   <p>
-      SixSq delivers simplicity in this complex IT world. We provides cutting-edge cloud technologies that are key to the latest movement in cloud computing, Business-as-a-Service, shielding organizations from the pain of dealing with the nuts and bolts of delivering enterprise software. SixSq’s cloud management platform, <a href="/products/slipstream">SlipStream</a>, delivers efficiency savings via automation and self-service IT. 
+      SixSq provides cutting-edge cloud technologies that are key to the latest movement in cloud computing, Business-as-a-Service, shielding organizations from the pain of dealing with the nuts and bolts of delivering enterprise software. SixSq’s cloud management platform, <a href="/products/slipstream">SlipStream</a>, delivers efficiency savings via automation and self-service IT. 
 
       SixSq’s turnkey cloud appliance, <a href="/products/nuvlabox">NuvlaBox</a>, brings together all of these concepts, delivering an easy-to-use, affordable and unique private cloud solution. 
 

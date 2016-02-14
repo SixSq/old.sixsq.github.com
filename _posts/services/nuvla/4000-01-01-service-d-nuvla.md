@@ -9,7 +9,7 @@ redirect_from: /nuvla/
 image: /img/design/slipstream_category.png
 sub: overview
 subtitle: Online Application Deployment Platform
-summary: Self-managed and brokerage multi-cloud application deployment service. Operated by SixSq in Switzerland. Powered by SlipStream.
+summary: Online PaaS for multi-cloud application deployment automation.
 twitter-highlight-1-title: What does Nuvla give you?
 twitter-highlight-1-content: 1-click multi-cloud application deployment service. Real multi-cloud software solution built on open source software
 twitter-highlight-2-title: Free to use
