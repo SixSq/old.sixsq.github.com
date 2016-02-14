@@ -5,7 +5,7 @@ head-title: NuvlaBox&#58; The smart cloud-in-a-box
 title_gfx: /img/design/nuvlabox_logo.png
 class: products
 category: nuvlabox
-permalink: /products/nuvlabox
+permalink: /products/nuvlabox/index.html
 redirect_from:
   - /nuvlabox/
   - /products/nuvlabox.html

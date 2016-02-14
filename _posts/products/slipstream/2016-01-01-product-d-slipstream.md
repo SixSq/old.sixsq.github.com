@@ -4,7 +4,7 @@ title: SlipStream
 head-title: SlipStream&#58; Easy deployment for DevOps, PaaS &amp; Hybrid Cloud
 class: products
 category: overview
-permalink: /products/slipstream
+permalink: /products/slipstream/index.html
 redirect_from:
   - /slipstream/
   - /products/slipstream.html
