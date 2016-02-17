@@ -52,7 +52,7 @@ summary: Find out which SlipStream version is right for you.
             <div class="col-md-6 col-2-text">
                 <h2>Command-Line Client</h2>
                 <p>The SlipStream command-line client, which works for both Community and Enterprise Editions is distributed using the PIP infrastructure. The Python client is also a great way to integrate SlipStream in third party applications or DevOps tooling.</p>
-                <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com/en/latest/advanced_tutorial/SlipStream_Client.html">Client Instructions &raquo;</a></center>
+                <center><a class="btn btn-primary btn-lg" role="button" href="http://ssdocs.sixsq.com/en/latest/advanced_tutorial/automating-slipstream.html#command-line-client">Client Instructions &raquo;</a></center>
             </div>
         </div>
     </div>
