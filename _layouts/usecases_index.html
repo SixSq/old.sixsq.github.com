@@ -60,7 +60,7 @@
           
         {% else %}
           <div>
-            {{ post.content }}
+            {{ post.content | markdownify }}
           </div>
         {% endif %}
         <center>
