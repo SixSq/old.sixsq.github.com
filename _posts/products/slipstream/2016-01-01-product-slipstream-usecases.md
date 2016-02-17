@@ -4,7 +4,7 @@ title: SlipStream
 head-title: SlipStream&#58; Examples of Use Cases
 class: products
 category: slipstream
-permalink: /products/slipstream/usecases
+permalink: /products/slipstream/usecases/
 redirect_from:
   - /products/slipstream-usecases/
   - /products/slipstream-usecases.html
