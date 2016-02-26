@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Java and Clojure at work with SlipStream
-image: /img/design/slipstream_logo.png 
+image: /img/design/JUG_Button.png 
 category: news
 ---
 
