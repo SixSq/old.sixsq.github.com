@@ -16,9 +16,9 @@ about each provider.
 The **Service Catalog**, which contains this information, is a
 standard feature of the SlipStream Enterprise Edition that can be
 activated for on-premise SlipStream installations.  For the SlipStream
-services operated by SixSq, the Service Catalog is enabled on the
-[Helix Nebula Marketplace (HNX)](http://hnx.helix-nebula.eu) but not
-on [Nuvla](https://nuv.la).  We are currently refining and expanding
+services operated by SixSq, the Service Catalog is curently enabled on the
+[Helix Nebula Marketplace (HNX)](http://hnx.helix-nebula.eu). 
+[Nuvla](https://nuv.la) should follow soon.  We are currently refining and expanding
 the Service Catalog to provide **fully automatic, policy-driven
 application placement**.  The full implementation is planned for the
 end of the summer, but users of HNX will see incremental improvements
@@ -51,7 +51,7 @@ for the Attribute and ServiceInfo resources.  This allows the cloud
 descriptions to evolve with time and to adapt to the needs of
 different communities.
 
-For HNX and eventually Nuvla, the defined attributes will initially
+For HNX and Nuvla, the defined attributes will initially
 cover the current geographic, capacity, and pricing information.
 These attributes will be extended to include security information like
 those in the [CSA Security, Trust & Assurance Registry
