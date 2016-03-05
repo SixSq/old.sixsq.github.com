@@ -1,5 +1,5 @@
 paginate: 10000
-url: //sixsq.com
+url: http://sixsq.com
 markdown: kramdown
 encoding: utf-8
 gems:
