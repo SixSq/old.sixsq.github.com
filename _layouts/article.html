@@ -2,7 +2,6 @@
 <html prefix="og: http://ogp.me/ns#">
   {% include head.html %}
   <body>
-
     <!-- Facebook SDK -->
     <div id="fb-root"></div>
     <script>(function(d, s, id) {
@@ -12,6 +11,11 @@
         js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
         fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));</script>
+
+    <!-- Google+ share SDK -->
+    <script src="https://apis.google.com/js/platform.js" async defer>
+      {lang: 'en-GB'}
+    </script>
 
     {% include top.html %}
     {% if page.category == "r-and-d" %}
@@ -36,6 +40,8 @@
             <script type="IN/Share" data-url={{ page.url | prepend:site.url }}" data-counter="right"></script>
             <!-- Facebook -->
             <div class="fb-share-button" data-href="{{ page.url | prepend:site.url }}" data-layout="button_count"></div>
+            <!-- Google+ -->
+            <div class="g-plus" data-action="share" data-annotation="bubble"></div>
           </div>
           <div class="col-md-4">
             {% if page.image %}
