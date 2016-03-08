@@ -33,6 +33,9 @@ The following list explains which actions need to be enabled for different featu
 	    ec2:RunInstances
 	    ec2:TerminateInstances
 	    ec2:DescribeRegions
+        ec2:DescribeSecurityGroups
+        ec2:CreateSecurityGroup
+        ec2:AuthorizeSecurityGroupIngress
 
     For build image:
 	    ec2:CreateImage
@@ -46,14 +49,17 @@ Adding a IAM user for SlipStream
 
 First of all you need to login to the Amazon AWS console at [https://console.aws.amazon.com](https://console.aws.amazon.com).
 
-Once you are logged in you can access the IAM console by clicking on your first name (at the top right) and
+Once you are logged in you can access the IAM console by clicking on your name (at the top right) and
 then click on `Security Credentials` or you can simply access this URL [https://console.aws.amazon.com/iam/](https://console.aws.amazon.com/iam/) .
 
-Now click on `Users` in the left menu and click on `Create New Users`. Set a name for this user (e.g. SlipStream) and click on `Create`. <br/>
-Download the user’s credentials and close the popup.
+Now click on `Users` in the left menu and click on `Create New Users`. Set one or more usernames (e.g. SlipStream), make sure the checkbox `Generate an access key for each user` and click on the `Create`. <br/>
+Then click on `Show User Security Credentials` and save them on a safe place. It will be impossible to retreive the `Secret Access Key` afterward.
+You can also click on `Download Credentials` to download them as a CSV file. Please ensure they are stored in a safe place.
+Click on `Close` to return to the list of IAM users.
 
-Then select this user and click on the tab named `Permissions` and `Attach User Policy`.
-Select `Custom Policy`. Set a name for this policy (e.g. SlipStreamUser-Policy) and copy-paste the following Policy Document:
+Then click on `Policiesers` in the left menu and click on `Create Policy`.
+Select `Create Your Own Policy`. Set a name for this policy (e.g. SlipStreamUser-Policy) and a description (e.g. Grant the least privileges needed to use all features of SlipStream. Use it for all IAM users created to be used with SlipStream).
+You can then copy-paste the following Policy Document:
 
     {
       "Version": "2012-10-17",
@@ -62,17 +68,20 @@ Select `Custom Policy`. Set a name for this policy (e.g. SlipStreamUser-Policy) 
           "Sid": "SlipStreamUser",
           "Effect": "Allow",
           "Action": [
-            "ec2:CreateTags",
-            "ec2:ImportKeyPair",
-            "ec2:DeleteKeyPair",
-            "ec2:DescribeInstances",
-            "ec2:RunInstances",
-            "ec2:TerminateInstances",
-            "ec2:DescribeRegions",
-            "ec2:CreateImage",
-            "ec2:CreateKeyPair",
-            "ec2:StopInstances",
-            "ec2:DescribeImages"
+                "ec2:CreateImage",
+                "ec2:CreateKeyPair",
+                "ec2:CreateTags",
+                "ec2:DeleteKeyPair",
+                "ec2:DescribeImages",
+                "ec2:DescribeInstances",
+                "ec2:DescribeRegions",
+                "ec2:ImportKeyPair",
+                "ec2:RunInstances",
+                "ec2:StopInstances",
+                "ec2:TerminateInstances",
+                "ec2:DescribeSecurityGroups",
+                "ec2:CreateSecurityGroup",
+                "ec2:AuthorizeSecurityGroupIngress"
           ],
           "Resource": [
             "*"
@@ -81,7 +90,11 @@ Select `Custom Policy`. Set a name for this policy (e.g. SlipStreamUser-Policy) 
       ]
     }
 
-Once this is done you can click on `Apply Policy` and configure your SlipStream user account to use the credentials downloaded previously.<br/>
+Once this is done you can click on `Create Policy` and you will return to the list of Policies.
+Now click on the policy you've just created and select the tab `Attached Entities`. By clicking on the `Attach` button, you can select the users for which you want this policy to apply.
+
+
+Now you can configure your SlipStream user account(s) to use the credentials downloaded previously.<br/>
 **Don’t forget** to delete/disable all Access keys of your AWS root account. <br/>
 For improved security you should also add a `Multi-Factor Authentication` to your AWS root account.
 <br/>
