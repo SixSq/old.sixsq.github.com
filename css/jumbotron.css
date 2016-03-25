@@ -345,7 +345,7 @@ div.nuvlabox.odd {
 
 @media (min-width:1200px) { 
   .coming-next .row-summary .col-md-6 > div {
-    height: 260px;
+    height: 300px;
     /*background: blue;*/
   }
 }
