@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SlipStream SaaS is now Nuvla!
-image: /img/design/nuvla_logo_red_on_transparent_256px.png 
+image: /img/content/nuvla/nuvla_logo_red_on_transparent_512px.png 
 category: news
 ---
 
