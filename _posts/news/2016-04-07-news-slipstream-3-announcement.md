@@ -30,7 +30,7 @@ It enables **neutral access** to a growing membership of cloud services, such as
 
 With these changes, SixSq is responding to customer needs stemming from the growth in demand for **cloud brokerage** services.
 
- *“Today’s enterprise users expect an easy-to-use interface and a single dashboard for management and reporting,” said Marc-Elian Bégin, SixSq CEO. “This upgrade is a good example of how we are responding to enterprise requirements and customer feedback. SlipStream is at the core of SixSq, and with V3 we are foundation for a number of exciting new features for our products and services.”*
+ *“Today’s enterprise users expect an easy-to-use interface and a single dashboard for management and reporting,” said Marc-Elian Bégin, SixSq CEO. “This upgrade is a good example of how we are responding to enterprise requirements and customer feedback. SlipStream is at the core of SixSq, and with v3 we set the foundation for a number of exciting new features for our products and services.”*
  
 SlipStream can be tested for free via [Nuvla](http://sixsq.com/services/nuvla/), SixSq’s online cloud brokerage platform.
 
