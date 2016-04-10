@@ -112,7 +112,7 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
       </div>
       <div class="col-md-6 col-2-text">
         <h2>Full Power of the cloud</h2>
-        <p>NuvlaBox includes a complete Infrastructure as a Service (IaaS) solution, powered by <a href="http://stratuslab.eu">StratusLab</a>, and a Platform as a Service (PaaS), powered by <a href="/products/slipstream.html">SlipStream</a>. This means that NuvlaBox makes no compromises on cloud capabilities. It's batteries included, from virtual machine lifecycle management, all the way to application deployment and configuration.</p>
+        <p>NuvlaBox includes a complete Infrastructure as a Service (IaaS) solution, powered by <a href="http://opennebula.org">OpenNebula</a>, and a Platform as a Service (PaaS), powered by <a href="/products/slipstream.html">SlipStream</a>. This means that NuvlaBox makes no compromises on cloud capabilities. It's batteries included, from virtual machine lifecycle management, all the way to application deployment and configuration.</p>
       </div>
     </div>
 
@@ -140,7 +140,7 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
       </div>
       <div class="col-md-6 col-2-text">
         <h2>Built entirely from open source software</h2>
-        <p>NuvlaBox is entirely built from open source software, including the CentOS base operating system, <a href="/products/slipstream/">SlipStream</a> and <a href="http://stratuslab.eu">StratusLab</a> solutions.</p>
+        <p>NuvlaBox is entirely built from open source software, including the CentOS base operating system, <a href="/products/slipstream/">SlipStream</a> and <a href="http://opennebula.org">OpenNebula</a> solutions.</p>
       </div>
     </div>
 
