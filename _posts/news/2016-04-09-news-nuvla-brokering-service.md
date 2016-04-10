@@ -5,7 +5,7 @@ image: /img/design/nuvla_logo_red_on_transparent_256px.png
 category: news
 ---
 
-**New smart cloud brokerage service providing cost effective access to wide range of cloud services**
+**New smart cloud brokerage service providing cost effective access to wide range of cloud providers**
 
 SixSq, a smart cloud automation solutions provider headquartered in Geneva, Switzerland, today announced the upgrade of its [Nuvla](http://sixsq.com/services/nuvla/) service into a fully managed brokerage service. 
 

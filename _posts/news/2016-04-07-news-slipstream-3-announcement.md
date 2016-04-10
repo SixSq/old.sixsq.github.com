@@ -5,11 +5,11 @@ image: /img/design/slipstream_logo_red_on_transparent_256px.png
 category: news
 ---
 
-**New release brings new outstanding new functionality**
+**New release brings outstanding new functionality**
 
 SixSq, a smart cloud automation solutions provider headquartered in Geneva, Switzerland, today announced the release of the much-awaited v3 update to [SlipStream®](http://sixsq.com/products/slipstream/), its cloud management and orchestration platform. 
 
-SlipStream automates the full application management lifecycle, including the deployment, testing, certification and optimization of the application, within Infrastructure as a Service (IaaS) cloud infrastructures.  Customers already benefit from the rich features of SlipStream, which brings **business benefits via automation**.
+SlipStream automates the full application management lifecycle, including the deployment, testing, certification and optimization of the application, within Infrastructure as a Service (IaaS) cloud infrastructures.  Customers already benefit from the rich features of SlipStream, which bring **business benefits via automation**.
 
 **What's new?**
 
@@ -18,21 +18,23 @@ SlipStream automates the full application management lifecycle, including the de
 - auto scale capabilities
 - aggregated usage summaries. 
 
-The update also introduces **new cloud connectors** which allow customers to interface with:
-
-- [IBM Softlayer](http://www.softlayer.com)
-- [IBM PowerVC](http://www-03.ibm.com/systems/power/software/virtualization-management/) 
-- [Microsoft Azure](https://azure.microsoft.com/en-us/)
-- [Cloudstack’s Advanced Zone](https://cloudstack.apache.org) 
-- latest version of [OpenStack](https://www.openstack.org)
-
-It enables **neutral access** to a growing membership of cloud services, such as [Orange Cloud for Business](http://www.orange-business.com/en/cloud-computing), [Open Telekom Cloud](https://www.t-systems.com/de/en/solutions/cloud/solutions/open-telekom-cloud/public-cloud-for-business-customers-247826) and [Interoute VDC 2.0](https://cloudstore.interoute.com/TryInterouteVDCFREE).
-
 With these changes, SixSq is responding to customer needs stemming from the growth in demand for **cloud brokerage** services.
 
- *“Today’s enterprise users expect an easy-to-use interface and a single dashboard for management and reporting,” said Marc-Elian Bégin, SixSq CEO. “This upgrade is a good example of how we are responding to enterprise requirements and customer feedback. SlipStream is at the core of SixSq, and with v3 we set the foundation for a number of exciting new features for our products and services.”*
+*“Today’s enterprise users expect an easy-to-use interface and a single dashboard for management and reporting,” said Marc-Elian Bégin, SixSq CEO. “This upgrade is a good example of how we are responding to enterprise requirements and customer feedback. SlipStream is at the core of SixSq, and with v3 we set the foundation for a number of exciting new features for our products and services.”*
  
+The update also introduces **new cloud connectors** which allow customers to interface with:
+
+ - [IBM Softlayer](http://www.softlayer.com)
+ - [IBM PowerVC](http://www-03.ibm.com/systems/power/software/virtualization-management/) 
+ - [Microsoft Azure](https://azure.microsoft.com/en-us/)
+ - [Cloudstack’s Advanced Zone](https://cloudstack.apache.org) 
+ - latest version of [OpenStack](https://www.openstack.org)
+ 
+It enables **neutral access** to a growing membership of cloud services, such as [Orange Cloud for Business](http://www.orange-business.com/en/cloud-computing), [Open Telekom Cloud](https://www.t-systems.com/de/en/solutions/cloud/solutions/open-telekom-cloud/public-cloud-for-business-customers-247826) and [Interoute VDC 2.0](https://cloudstore.interoute.com/TryInterouteVDCFREE).
+ 
+*"Our latest **auto-scale** feature is a good example our ability to dramatically simplify IT processes compared to competitors, by ensuring that customers can auto-scale their apps in any cloud," said Charles Loomis, SixSq CTO. “With V3, we continue our commitment to open source and disruptive technologies such as **clojure**, a functional language for the JVM and Javascript, as well as the open standard CIMI from DMTF,”* added Charles.  SlipStream remains one of the only multi-cloud application management platforms able to deliver quality and openness to unleash the full potential of the cloud in a secure and smart way.
 SlipStream can be tested for free via [Nuvla](http://sixsq.com/services/nuvla/), SixSq’s online cloud brokerage platform.
+
 
 **About SixSq**
 
