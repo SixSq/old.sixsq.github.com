@@ -22,7 +22,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
         </p>
       </div>
       <div class="col-md-6">
-        <h2>We support all mainstream clouds</h2>
+        <h2>We support all mainstream clouds </h2>
         <p>SlipStream communicates with the IaaS layer via a connector architecture.</p>
         <p>These are available under the community or the enterprise edition.</p>
         <p>Can't find your cloud? Get in touch... chances are we're already working on it.</p>
