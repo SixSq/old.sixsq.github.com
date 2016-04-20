@@ -12,7 +12,6 @@ subtitle: All Clouds
 summary: We support the following Infrastructure as a Service (IaaS) technologies and services. 
 ---
 
-</div>
 <div class="jumbotron">
   <div class="container spacy">
     <div class="row">
