@@ -17,7 +17,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
     <div class="row">
       <div class="col-md-6">
         <p align="center">
-          <img src="/img/content/cloud_providers_color_on_transparent_1000px.png" alt="SlipStream Supported Clouds" />
+          <img src="/img/content/Cloud-Nuvla.png" alt="SlipStream Supported Clouds" />
         </p>
       </div>
       <div class="col-md-6">
@@ -168,6 +168,7 @@ summary: We support the following Infrastructure as a Service (IaaS) technologie
   </div>
   <div class="row">
     <div class="col-md-3">
+      <div>Soon!</div>
       <center>
         <h3>Microsoft Azure</h3>
         <div>
