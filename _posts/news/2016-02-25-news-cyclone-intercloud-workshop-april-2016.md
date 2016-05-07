@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Multi-Cloud Application Deployment on Show at Intercloud 2016 Workshop
-image: /img/design/logo_cyclone.png 
+image: /img/content/logo_cyclone.png 
 category: news
 ---
 
