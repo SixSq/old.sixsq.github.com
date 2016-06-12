@@ -4,7 +4,7 @@ title: Boosting Earth Observation Innovation in Europe
 image: /img/content/logo_esa.png 
 category: news
 ---
-The Swiss Space Office [SSO](http://www.sbfi.admin.ch/themen/01371/index.html?lang=en) is organising an Information Day for the Swiss Industrial and Scientific Community related to the future Earth Observation [EO](http://www.esa.int/Our_Activities/Observing_the_Earth) programmes of the European Space Agency [ESA](http://www.esa.int/ESA).  
+The Swiss Space Office ([SSO](http://www.sbfi.admin.ch/themen/01371/index.html?lang=en)) is organising an Information Day for the Swiss Industrial and Scientific Community related to the future Earth Observation ([EO](http://www.esa.int/Our_Activities/Observing_the_Earth)) programmes of the European Space Agency ([ESA](http://www.esa.int/ESA)).  
 
 **What is Earth Observation?**
 
@@ -21,7 +21,7 @@ Examples of ESA programmes are:
 
 **Why is SixSq involved?**
 
-Following on from its participation in the [Helix Nebula Initiative](http://www.helix-nebula.eu), SixSq is involved in forming an Earth Observation data processing platform which will be be built around European public cloud providers. SixSq's [Nuvla](http://sixsq.com/services/nuvla/) service, its SlipStream as a Service offer, will be the foundation to democratise access to earth observation open data and boost innovation in Europe. SixSq is leading the way in establishing Switzerland and Europe as thought leaders in this field.
+Following on from its participation in the [Helix Nebula Initiative](http://www.helix-nebula.eu), SixSq is involved in forming an Earth Observation data processing platform which will be built around European public cloud providers. SixSq's [Nuvla](http://sixsq.com/services/nuvla/) service, its [SlipStream](http://sixsq.com/products/slipstream/) as a Service offer, will be the foundation to democratise access to earth observation open data and boost innovation in Europe. SixSq is leading the way in establishing Switzerland and Europe as thought leaders in this field.
  
 Results from the workshop in July will help Member States of ESA to decide about the future of ESA’s Earth Observation programmes at the next Council at Ministerial level, which will be held in Lucerne at the end of 2016.
 
