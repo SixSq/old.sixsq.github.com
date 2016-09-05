@@ -11,13 +11,25 @@ redirect_from:
   - /products/nuvlabox-features/
 sub: features
 subtitle: Features
-summary: All the power of the cloud packaged in a simple, small and secure device.
+summary: A simple and secure private cloud solution which offers easy and affordable access to the benefits of cloud computing.
 ---
 
 <div class="jumbotron">
 
   <div class="container big spacy">
-
+      <div class="row row-highlights">
+           <div class="col-md-6 col-2-text">
+             <h2>Privacy & security</h2>
+             <p>All communication links in and out of the NuvlaBox are encrypted and deployments automated for increased security.</p>
+           </div>
+           <div class="col-md-6 col-2-image">
+               <h1>
+                   <center>
+                       <span class="glyphicon glyphicon-lock"></span>
+                   </center>
+               </h1>
+           </div>
+         </div>
     <div class="row row-highlights">
       <div class="col-md-6 col-2-image">
           <h1>
@@ -27,8 +39,8 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
           </h1>
       </div>
       <div class="col-md-6 col-2-text">
-        <h2>Private turn-key cloud solution for small to medium-sized enterprises</h2>
-        <p>NuvlaBox is about the size of a modem and comes pre-configured, making it simple to use.</p>
+        <h2>Affordable private cloud solution for small to medium-sized enterprises</h2>
+        <p>Make your journey to the cloud an easy one. NuvlaBox comes pre-configured, making it simple to use, yet it gives you all the power of the cloud. A perfect first step for your cloud transformation. For most smaller organisations, the cost of a private and secure cloud infrastructure is prohibitive. With the NuvlaBox, you get an affordable entry point into cloud computing.</p>
       </div>
     </div>
 
@@ -57,20 +69,6 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
       <div class="col-md-6 col-2-text">
         <h2>Remote control several NuvlaBoxes from the same dashboard</h2>
         <p>NuvlaBoxes can be remotely controlled from the SixSq Enterprise Open App Store.  This means that you can securely remote control your boxes and deploy applications from a single dashboard. This feature works even if the NuvlaBox is connected to the network via a private IP.</p>
-      </div>
-    </div>
-
-    <div class="row row-highlights">
-      <div class="col-md-6 col-2-text">
-        <h2>Built-in security</h2>
-        <p>NuvlaBox software and hardware is secure, from design to manufacture.</p>
-      </div>
-      <div class="col-md-6 col-2-image">
-          <h1>
-              <center>
-                  <span class="glyphicon glyphicon-lock"></span>
-              </center>
-          </h1>
       </div>
     </div>
 
@@ -147,7 +145,7 @@ summary: All the power of the cloud packaged in a simple, small and secure devic
     <div class="row row-highlights">
       <div class="col-md-6 col-2-text">
         <h2>Designed in Switzerland - Made in Europe</h2>
-        <p>NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe.  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping.</p>
+        <p>NuvlaBox is designed in Switzerland by SixSq and manufactured in Europe by <a href="http://www.logicsupply.com/eu-en/">Logic Supply</a> .  We can therefore guarantee each step of the product lifecycle, from concept to creation, integration and shipping.</p>
       </div>
       <div class="col-md-6 col-2-image">
           <h1>
