@@ -20,9 +20,9 @@ If you would like to read more about the Service Catalog and automated cloud app
 
 This feature is attractive to both end users and application developers. End users can select a cloud based on a number of criteria including pricing, geographical location, availablility, and capacity. 
 
-It also allows developers to specify a placement policy for application components, for example, limiting the places where a component can run to meet certain data protection requirements.
+It also allows developers to specify a placement policy for application components, for example, limiting where a component can run to meet certain data protection requirements.
 
-By automating the selection process, users can save time when deploying applications while still meeting their placement criteria.  More critically, this enables fully automated scaling of applications to optimize the resource usage when demand for the application rises and falls.
+By automating the selection process, users can save time when deploying applications while still meeting their placement criteria.  More interestingly, this enables _fully automated scaling_ of applications to optimize the resource usage when demand for the application rises and falls.
 
 SixSq is now exploiting this service to describe the different Service Level Agreements of the services shown in the service catalog so users can find the right cloud for their requirements quickly and systematically. Such a tool is paramount in regulated industries such finance and pharmaceuticals, and builds a robust audit trail from decision to delivery.  In the case of CYCLONE, the feature is put to good test by the existing [energy](http://www.cyclone-project.eu/usecases/2-energy.html) and [bioinformatics](http://www.cyclone-project.eu/usecases/1-bioinformatics.html) use cases. New use cases planned for the last half of the project will test this feature more throughly. 
 
