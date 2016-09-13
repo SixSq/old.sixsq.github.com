@@ -1,7 +1,7 @@
 ---
 layout: raw
 title: SlipStream
-head-title: SlipStream&#58; Cloud-connectors&#58; We support all  major clouds!
+head-title: SlipStream&#58; All-clouds&#58; We support all  major clouds!
 class: products
 category: slipstream
 permalink: /products/slipstream/cloud-connectors
