@@ -26,3 +26,9 @@ Using the ability to control and monitor many NuvlaBoxes from the same pane of g
 
 If you'd like to know more about how the NuvlaBox can provide an IT solution for edge of the network issues, get in touch with the SixSq team.
 
+<center>
+  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
+      Contact us &raquo;
+  </a>
+</center>
+
