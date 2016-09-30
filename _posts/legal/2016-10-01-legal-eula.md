@@ -12,6 +12,8 @@ applicable_from: 01/10/2016
 last_update: 01/10/2016
 ---
 
+[comment]
+
 [History](https://github.com/SixSq/sixsq.github.com/commits/legal/_posts/legal/2016-10-01-legal-eula.md)
 
 1\. Welcome to SixSq  
