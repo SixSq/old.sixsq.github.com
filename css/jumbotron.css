@@ -401,7 +401,7 @@ div.nuvlabox.odd {
 
 @media (max-width:1200px) { 
   .row-summary-sixsq .col-md-4 > div > div {
-    height: 340px;
+    height: 280px;
     /*background: gray;*/
   }
 }
