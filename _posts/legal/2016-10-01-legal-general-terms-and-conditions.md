@@ -2,6 +2,7 @@
 layout: article_legal
 title: General Terms and Conditions
 subtitle: This agreement describes the general terms and conditions for SixSq products and services.
+summary: This EULA applies to Nuvla, SlipStream (on premise and managed by SixSq) and NuvlaBox.
 category: legal
 sub: general_terms
 permalink: /legal/general-terms
@@ -10,6 +11,8 @@ redirect_from:
 applicable_from: 01/10/2016
 last_update: 01/10/2016
 ---
+
+[History](https://github.com/SixSq/sixsq.github.com/commits/legal/_posts/legal/2016-10-01-legal-general-terms-and-conditions.md)
 
 1\.	Welcome to SixSq
 ---
