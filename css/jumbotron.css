@@ -311,8 +311,12 @@ div.nuvlabox.odd {
   border: 1px solid #800000;
 }
 
-.cloud > div > div {
+.even > .cloud > div > div {
   border: 1px solid white;
+}
+
+.odd > .cloud > div > div {
+  border: 1px solid #eee;
 }
 
 .cloud > div > div:hover {
