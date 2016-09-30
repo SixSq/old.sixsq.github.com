@@ -19,9 +19,3 @@ The NuvlaBox solves that problem when used as a sensor aggregator.  If we connec
 4. Allow remote control, when connected to the WAN, such that several locations can be monitored at once
 
 If you'd like to know more about how the NuvlaBox can assist with sensor aggregating, get in touch with the SixSq team.
-
-<center>
-  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-      Contact us &raquo;
-  </a>
-</center>

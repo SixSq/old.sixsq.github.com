@@ -20,9 +20,3 @@ NuvlaBox helps simplifies on two fronts:
 With the generalisation of applications for schools and the tendency for schools to federate, the ability to securely manage and remote control NuvlaBoxes also means that IT knowledge can be centralised, yielding even higher savings, while delivering a higher and more consistent level of service.
 
 If you'd like to know more about how the NuvlaBox can provide a simple and affordable IT solution for your school, get in touch with the SixSq team. 
-
-<center>
-  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-      Contact us &raquo;
-  </a>
-</center>

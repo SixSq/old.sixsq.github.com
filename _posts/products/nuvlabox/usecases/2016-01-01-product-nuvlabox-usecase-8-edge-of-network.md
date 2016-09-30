@@ -25,10 +25,3 @@ The NuvlaBox is ideally suited for this mission. The local App Store can be fact
 Using the ability to control and monitor many NuvlaBoxes from the same pane of glass, via [SlipStream](/products/slipstream/), means that the network provider can optimise its operations, streamline costs and batch control all NuvlaBoxes.
 
 If you'd like to know more about how the NuvlaBox can provide an IT solution for edge of the network issues, get in touch with the SixSq team.
-
-<center>
-  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-      Contact us &raquo;
-  </a>
-</center>
-

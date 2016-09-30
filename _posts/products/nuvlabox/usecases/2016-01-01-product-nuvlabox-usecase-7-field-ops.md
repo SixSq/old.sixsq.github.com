@@ -19,9 +19,3 @@ But that's not all. The NuvlaBox has its own Wi-Fi capabilities, which can be us
 If an external network is available - e.g. via satellite link - even for a short period of time, the NuvlaBox can then *call home* to allow it to be remotely accessed. This allows off-site IT experts not only to monitor the box, but also to automatically update image recipes and blueprints, perform maintenance tasks and backup important data.
 
 If you'd like to know more about how the NuvlaBox can provide a simple and affordable IT solution for your field ops, get in touch with the SixSq team.
-
-<center>
-  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-      Contact us &raquo;
-  </a>
-</center>

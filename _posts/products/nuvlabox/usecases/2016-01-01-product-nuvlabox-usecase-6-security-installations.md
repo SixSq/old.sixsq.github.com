@@ -5,33 +5,27 @@ class: products
 category: nuvlabox
 sub: usecases
 favourite: true
-persona: 
-context: Security Installations
+persona: Clara the DevOps Engineer
+context: Remote control of local security application
 context_type: sme
 ---
 
 Protection of goods, people and networks is becoming increasingly important and yet more challenging. Deploying the NuvlaBox as part of your security installation can help with the following:
 
-- **Video surveillance**
+1\. Video surveillance
+---
 
-The NuvlaBox is perfect for a situation which requires **local processing** of video streams, to avoid sending large amounts of high definition images on the network. Large unedited video streams are a cause for concern in terms of security, privacy and bandwidth. By processing the streams locally on a NuvlaBox, the customer can process all of the original content, and only send back the processed video stream to the main servers, hosted in a different location.
+The NuvlaBox is perfect for a situation which requires **local processing** of video streams, to avoid sending large amounts of high definition images on the network. Large unedited video streams are a cause for concern in terms of security, privacy and bandwidth. By processing the streams locally on a NuvlaBox, the customer can process all of the original content, and only send back key events or alerts, as well as the processed video stream to the main servers, hosted in a different location.
 
-- **Access control**
+2\. Access control
+---
 
-Access control is a security technique that can be used to regulate who or what can physically enter a location AND who can view or use resources in a computing environment. Security workers can now be equipped with a device which automatically grants access to authorised areas and feeds back information to a central control unit. Tracking these devices is essential to ensure security of personnel, premises and goods. But what happens when connectivity drops or is tampered with? Using a NuvlaBox, you can be sure that personnel are always connected and protected.  
+Access control is key to control who or what can physically enter a location AND who can view or use resources in a computing environment. Security workers can now be equipped with a device which automatically grants access to authorised areas and feeds back information to a central control unit. Tracking these devices is essential to ensure security of personnel, premises and goods. But what happens when connectivity drops or is tampered with? Using a NuvlaBox, you can run the access control application within the building or site to ensure local operators are always connected and in control, even if external connectivity is lost.  
 
-- **Protection and management of security personnel**
+3\. Access monitoring
+---
 
-Protecting lone and isolated workers is of key importance.
+As more and more doors, windows and mobile items are connected and tracked, site operators now have the ability to monitor their assets, set alarms and quickly investigate when unauthorised access is detected. These applications can now be deployed effortlessly and remotely, such that
+not only the site is autonomous in terms of access monitoring, in case of loss of connectivity, but it can be updated and managed at a distance.  This means IT experts can do their work remotely saving on travel expense, as well as being much more responsive in case of IT incidents.
 
-If you'd like to know more about how the NuvlaBox can form part of your security installation, get in touch with the SixSq team.
-
-
-<center>
-  <a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-      Contact us &raquo;
-  </a>
-</center>
-
-
-
+If you'd like to know more about how the NuvlaBox can form part of your security installation, or if you would be interested in integrating your product in our echo system, get in touch with the SixSq team.
