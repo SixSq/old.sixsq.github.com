@@ -185,7 +185,5 @@ partnerships and collaborations.</p>
       SixSq is part of the <a href="http://www.rheagroup.com">RHEA Group</a>, a leading supplier of systems engineering services and software solutions to the Aerospace and Security. 
       Their combination of cloud computing and cyber security skills offers outstanding expertise to customers in scientific, government and commercial sectors.
     </p>
-</div>
-</div>
 
 
