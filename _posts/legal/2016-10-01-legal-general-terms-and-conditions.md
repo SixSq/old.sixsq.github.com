@@ -154,10 +154,11 @@ For any Goods that must be returned by Customer to SixSq e.g. defective Goods un
 13.6	Customer shall permit SixSq to audit the use of the Subscription Services in order to ensure that usage is in accordance with the Contract. Such audit shall be conducted on reasonable notice and at SixSq's expense, however if any audit reveals that: (a) Subscription Services are being used by any individual who is not an authorised End-User, then Customer shall promptly disable such unauthorized usage; and/or (b) pay to SixSq an amount equal to the subscription amount underpayment calculated in accordance with SixSq’s then applicable prices within 14 days of the date of the relevant audit.
 
 14\.	Software, Licensing and Warranty 
+---
 
 14.1	Any Software supplied to Customer pursuant to the Contract is provided under licence only, and title is retained by SixSq. Customer acknowledges and agrees that: (a) all Intellectual Property Rights (as defined in Clause 21) in the Software belong to SixSq; (b) that rights in Software are licensed (not sold) to Customer; (c) Customer has no rights in the Software other than the right to use the Software in accordance with the License; and (d) End-Users rights to use the Software are subject to them having agreed to the EULA.
 
-14.2	The Software is licensed on either: (a) an indefinite fully paid up basis; or (b) on a subscription basis for a limited time period for which Customer has made full payment. The terms of the License are specified in the Order Confirmation or Service Offer. Any upgrades and/or major version changes to Software requires the Customer to purchase an [upgrade] or a support and/or maintenance service from SixSq.
+14.2	The Software is licensed on either: (a) an indefinite fully paid up basis; or (b) on a subscription basis for a limited time period for which Customer has made full payment. The terms of the License are specified in the Order Confirmation or Service Offer. Any upgrades and/or major version changes to Software requires the Customer to purchase a support and/or maintenance service from SixSq.
 
 14.3	Customer’s use of the Software for the duration of the License, is subject to: (a) the End-Users having accepted the terms of the EULA; (b) payment by Customer for the Goods and/or Software continuing to be up to date; and (c) SixSq continuing to be satisfied that the Goods and/or the Software are being used by Customer in accordance with these Terms.
 
