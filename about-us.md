@@ -7,7 +7,7 @@ redirect_from:
   - /about-us.html
 ---
 
-<div class="jumbotron" id="XXnuvlabox-main-story">
+<div class="jumbotron" id="software-artisans">
   <div class="container">
     <h1>Software artisans</h1>
     <p>We are software artisans, passionate about software development and technologies. We have learned our trade writing a lot of software. We also enjoy reducing software, using refactoring, or contributing to other's good ideas, such that we do not have to write so much ourselves.</p>
@@ -126,34 +126,47 @@ partnerships and collaborations.</p>
 <div class="container big spacy">
   <h2>Amazon</h2>
   <p><img src="/img/content/AWS_SolutionProvider_logo_RGB_Trans.png" alt="Amazon Solution Provider" /></p>
-
-SixSq is a registered Amazon Solution Provider, with a dedicated <a href="https://slipstream.sixsq.com">SlipStream service</a> configured to deploy on Amazon's EC2 service.  This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.</p>
+  <p>
+    SixSq's <a href="/services/nuvla/">Nuvla</a> service is configured to deploy on all Amazon's EC2 service regions.  
+    This means you can use SlipStream's simplicity and automation features to take advantage of Amazon's public cloud.
+  </p>
 </div>
 
 <div class="container big spacy">
   <h2>Exoscale</h2>
   <p><img src="/img/content/clouds/exoscale-logo-full-black.png" alt="Exoscale Technology Partner" /></p>
-
-SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud spectrum, Exoscale provides tailored solutions which allow clients focus on their core business. With the SlipStream connector now in place, customers can deploy their applications to the Exoscale cloud with one-click, making efficiency savings by deploying simple to complex applications repeatedly with orchestration and dependence management.</p>
+  <p>
+    SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud spectrum, Exoscale provides tailored solutions which allow clients focus on their core business. 
+  </p>
+  <p>
+    With the SlipStream connector now in place, customers can deploy their applications to the Exoscale cloud with one-click, making efficiency savings by deploying simple to complex applications repeatedly with orchestration and dependence management.</p>
+  </p>
 </div>
 
 <div class="container big spacy">
   <h2>IBM Partner World Member</h2>
   <p><img src="/img/content/ibm-partner-logo.png" alt="IBM Business Partner" /></p>
-
-SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/slipstream.html">SlipStream</a> on IBM hardware and software solutions, making IBM a sound target for solid SixSq-based deployments.</p>
+  <p>
+    SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/slipstream.html">SlipStream</a> on IBM hardware and software solutions, 
+    making IBM a sound target for solid SixSq-based deployments.
+  </p>
 </div>
 
 <div class="container big spacy">
   <h2>Helix Nebula - The Science Cloud</h2>
   <p><img src="/img/content/helix-nebula.jpg" alt="Open Virtualization Alliance Member" /></p>
-
-SixSq is a founding member of the <a href="http://www.facebook.com/HelixNebula.TheScienceCloud">Helix Nebula collaboration</a>, which is a pioneering partnership between science and business in Europe. It is paving the way for a Cloud Computing platform that offers a unique resource to governments, businesses and citizens and which is charting a course towards sustainable provision of cloud computing for Europe.
-
-The collaboration is using <a href="/products/slipstream.html">SlipStream</a> as a broker in the new Helix Nebula Marketplace, HNX. HNX gives the scientific research community easy access to commercial cloud services and its customers can use HNX to choose between various suppliers or combinations of suppliers offering independent Cloud services, and to buy, use and manage such Cloud services seamlessly.
-
-More information is available <a href="news/2012/03/01/news-hn-annoucement.html">here</a>.
-</p>
+  <p>
+    SixSq is a founding member of the <a href="http://www.facebook.com/HelixNebula.TheScienceCloud">Helix Nebula collaboration</a>, which is a pioneering partnership between science and business in Europe. 
+    It is paving the way for a Cloud Computing platform that offers a unique resource to governments, businesses and citizens and which is charting a course towards sustainable provision of cloud computing for Europe.
+  </p>
+  <p>
+    The collaboration is using <a href="/services/nuvla/">Nuvla</a> (<a href="/products/slipstream.html">SlipStream</a> as a Service managed by SixSq) as a broker for the Helix Nebula Marketplace, HNX. 
+    This broker and provisioning engine gives the scientific research community easy access to commercial cloud services and its customers can use the broker to choose between various suppliers or combinations of suppliers offering 
+    independent Cloud services, and to buy, use and manage such Cloud services seamlessly.
+  </p>
+  <p>
+    More information is available <a href="news/2012/03/01/news-hn-annoucement.html">here</a>.
+  </p>
 </div>
 </div>
 
@@ -161,17 +174,16 @@ More information is available <a href="news/2012/03/01/news-hn-annoucement.html"
 <div class="container big spacy">
   <h1>For Journalists and Editors</h1>
   <h3>A more official SixSq definition:</h3>
-  <p>
-      SixSq delivers simplicity in this complex IT world. We provides cutting-edge cloud technologies that are key to the latest movement in cloud computing, Business-as-a-Service, shielding organizations from the pain of dealing with the nuts and bolts of delivering enterprise software. SixSq’s cloud management platform, <a href="/products/slipstream">SlipStream</a>, delivers efficiency savings via automation and self-service IT. 
-
-      SixSq’s turnkey cloud appliance, <a href="/products/nuvlabox">NuvlaBox</a>, brings together all of these concepts, delivering an easy-to-use, affordable and unique private cloud solution. 
-
-      SixSq’s active participation in numerous international cloud initiatives has solidified its reputation as a leading European cloud expert. For example, SixSq’s technical leadership in the Helix Nebula initiative, a partnership between big science and cloud providers under the leadership of CERN, ESA and EMBL has been instrumental in establishing an open scientific cloud platform in Europe. The company hosts, manages, and supports the Helix Nebula Marketplace (HNX), which delivers seamless, on-demand and large-scale access to a range of commercial cloud services. Based on SlipStream®, the HNX broker also provides automated deployment and management of cloud applications. 
-
-      SixSq is part of the <a href="http://www.rheagroup.com">Rhea Group</a>, a leading supplier of systems engineering services and software solutions to the Aerospace and Security. Their combination of cloud computing and cyber security skills offers outstanding expertise to customers in scientific, government and commercial sectors.
-
-  </p>
-</div>
-</div>
+      <p>
+      SixSq delivers simplicity in this complex IT world. We provides cutting-edge cloud technologies that are key to the latest movement in cloud computing, Business-as-a-Service, shielding organisations from the pain of dealing with the nuts and bolts of delivering enterprise software. SixSq’s cloud management platform, <a href="/products/slipstream">SlipStream®</a>, delivers efficiency savings via automation and self-service IT. 
+      <p/>
+      SixSq’s turnkey cloud appliance, <a href="/products/nuvlabox">NuvlaBox®</a>, brings together all of these concepts, delivering an easy-to-use, affordable and unique private cloud solution. 
+      <p/>
+      SixSq’s active participation in numerous international cloud initiatives has solidified its reputation as a leading European cloud expert. For example, SixSq’s technical leadership in the Helix Nebula initiative, a partnership between big science and cloud providers under the leadership of CERN, ESA and EMBL has been instrumental in establishing an open scientific cloud platform in Europe. The company hosts, manages, and supports the Helix Nebula Marketplace (HNX) broker, via its <a href="/services/nuvla/">Nuvla™</a> service, which delivers seamless, on-demand and large-scale access to a range of commercial cloud services. Based on <a href="/products/slipstream">SlipStream®</a>, the Nuvla™ service also provides automated deployment and management of cloud applications. 
+      <p/>
+      <p>
+      SixSq is part of the <a href="http://www.rheagroup.com">RHEA Group</a>, a leading supplier of systems engineering services and software solutions to the Aerospace and Security. 
+      Their combination of cloud computing and cyber security skills offers outstanding expertise to customers in scientific, government and commercial sectors.
+    </p>
 
 
