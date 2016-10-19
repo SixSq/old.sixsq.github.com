@@ -15,7 +15,7 @@ $(document).ready(function() {
         var col = $("#col-template > div").clone();
         var id = data.items[i].snippet.resourceId.videoId;
         var title = data.items[i].snippet.title;
-        col.html('<h3>' + title + '</h3><div class="embed-responsive embed-responsive-16by9"><iframe class="embed-responsive-item" src="http://www.youtube.com/embed/' + id + '"></iframe></div>');
+        col.html('<h3>' + title + '</h3><div class="embed-responsive embed-responsive-16by9"><iframe allowfullscreen class="embed-responsive-item" src="http://www.youtube.com/embed/' + id + '"></iframe></div>');
         col.appendTo("#" + target + " div:first");
       }
     });}
