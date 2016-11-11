@@ -8,6 +8,7 @@ image: /img/content/clojure-logo.png
 
 Description
 ====
+
 SixSq is an innovative cloud solutions provider on a mission to bring our customers simplicity and efficiency. We thrive in an environment where openness and collaboration are valued. 
 
 [SlipStream](/products/slipstream), our open source multi-cloud management solution is the foundation technology for SixSq's [Nuvla service](/services/nuvla) and [NuvlaBox product](/products/nuvlabox).
@@ -19,8 +20,10 @@ The ideal candidate will be able to jump right into a software engineering role 
   
 SixSq operates as a start up and follows the kanban agile methodology and elements of devops. The successful candidate must therefore have demonstrated experience of operating in this fast-moving domain and must be able to strive in a start-up environment with a flat hierarchy.
 
+
 Tasks and Activities
 ====
+
 The responsibilites will include:
 
 - software development including designing solutions, writing code, testing code, automating test and deployment
@@ -29,6 +32,7 @@ The responsibilites will include:
 - involvement in R&D projects, both in Switzerland and other European countries
 - contribution to the the development roadmap of the SixSq products and services
 - working on the customer support service on a rota basis, and interfacing with customers and users when necessary
+
 
 Skills and Experience
 ====
@@ -90,8 +94,10 @@ SixSq operates in English and French. All official documentation is written in E
 - Excellent spoken and written English
 - French fluency would be an advantage
 
+
 Additional information
-----
+====
+
 The candidate must be a Swiss or European citizen or have a valid Swiss working permit. 
 
 The selected candidate would ideally start early 2017 and will receive intensive training on the core technologies of SixSq, as well as its R&D projects.
@@ -104,7 +110,7 @@ Home working one day per week is possible.
 If you have any questions on the vacancy, the recruiting process or SixSq itself, don't hesitate to [get in touch](mailto:jobs@sixsq.com?subject=job%20application).
 
 Selection Process
-===================
+====
 
 Interested? Apply now by sending your CV, motivation letter and names of 3 references **by 9 December 2016** to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
 
