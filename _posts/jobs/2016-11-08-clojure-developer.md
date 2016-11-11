@@ -24,7 +24,7 @@ SixSq operates as a start up and follows the kanban agile methodology and elemen
 Tasks and Activities
 ====
 
-The responsibilites will include:
+The responsibilities will include:
 
 - software development including designing solutions, writing code, testing code, automating test and deployment
 - delivery of software components working in collaboration with the rest of the team 
