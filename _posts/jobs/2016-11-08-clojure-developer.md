@@ -6,38 +6,29 @@ class: jobs
 image: /img/content/clojure-logo.png
 ---
 
-SixSq is currently recruiting a *Clojure and Cloud Developer*. As part of the SixSq core development team, the work will
-consist in further developing [SlipStream](/products/slipstream), an open source multi-cloud management solution.  The successful candidate will work in extending the product, using primarily the Clojure language and its eco-system.  Since SlipStream still has Java elements, porting and reimplementation of Java logic into Clojure will also take place initially.
+Description
+====
+SixSq is an innovative cloud solutions provider on a mission to bring our customers simplicity and efficiency. We thrive in an environment where openness and collaboration are valued. 
 
-SlipStream is the foundation technology for SixSq's [Nuvla service](/services/nuvla) and [NuvlaBox product](/products/nuvlabox).
+[SlipStream](/products/slipstream), our open source multi-cloud management solution is the foundation technology for SixSq's [Nuvla service](/services/nuvla) and [NuvlaBox product](/products/nuvlabox).
 
-The developer will be involved in R&D projects, both in Europe and Switzerland. He/She will also be involved in the
-development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service,
-the successful candidate will be interfacing with customers and users, thus building handson knowledge.
+We are currently seeking a passionate *Clojure and Cloud Developer* who is interested in working in a collaborative environment while working on new technologies and building amazing cool things. Working as part of the SixSq core development team based in Geneva, the successful candidate will work on further developing [SlipStream](/products/slipstream), using primarily the Clojure language and its eco-system.  
+
+The ideal candidate will be able to jump right into a software engineering role and will have expertise in technical design and development of applications using existing and emerging technology platforms. Team members will be required to participate in the technical design, development and implementation of software components. 
+
   
-Since SixSq operates as a start-up and follows the kanban agile methodology and elements of devops, the successful candidate must have demonstrated experience and appetit for operating in this mode.
+SixSq operates as a start up and follows the kanban agile methodology and elements of devops. The successful candidate must therefore have demonstrated experience of operating in this fast-moving domain and must be able to strive in a start-up environment with a flat hierarchy.
 
-The successful candidate must be able to strive in a start-up environment and a flat hierarchy.
+Tasks and Activities
+====
+The responsibilites will include:
 
-The selected candidate will be located in Geneva, as part of the SixSq core team.  Home working one day per week is possible but
-the candidate must be within daily commute distance from the Geneva office.
-
-The position is an unlimited assignment and can only be via a direct Swiss employment contract.
-
-The candidate must be a Swiss or European citizen or have a valid Swiss working permit. 
-
-**Note: Placement agencies, please do not apply as we require direct assignment.**
-
-The selected candidate would ideally start early 2017.
-
-The selected candidate will receive intensive training on the core technologies of SixSq, as well as R&D projects
-currently running or about to kickoff.
-
-Regular travels in Europe for short meetings should be expected.
-
-The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holiday), free public transport,
-private laptop.
-
+- software development including designing solutions, writing code, testing code, automating test and deployment
+- delivery of software components working in collaboration with the rest of the team 
+- initially porting and reimplementation of Java logic into Clojure 
+- involvement in R&D projects, both in Switzerland and other European countries
+- contribution to the the development roadmap of the SixSq products and services
+- working on the customer support service on a rota basis, and interfacing with customers and users when necessary
 
 Skills and Experience
 ====
@@ -99,8 +90,18 @@ SixSq operates in English and French. All official documentation is written in E
 - Excellent spoken and written English
 - French fluency would be an advantage
 
+Additional information
+----
+The candidate must be a Swiss or European citizen or have a valid Swiss working permit. 
 
-If you have any questions on the vacancy or SixSq, don't hesitate to [get in touch](mailto:jobs@sixsq.com?subject=job%20application).
+The selected candidate would ideally start early 2017 and will receive intensive training on the core technologies of SixSq, as well as its R&D projects.
+
+Regular travel within Europe for short periods should be expected, as part of our involvement in European research projects.
+
+Home working one day per week is possible.
+
+
+If you have any questions on the vacancy, the recruiting process or SixSq itself, don't hesitate to [get in touch](mailto:jobs@sixsq.com?subject=job%20application).
 
 Selection Process
 ===================
@@ -108,4 +109,8 @@ Selection Process
 Interested? Apply now by sending your CV, motivation letter and names of 3 references **by 9 December 2016** to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
 
 Or know someone who could do this? Share this position with a friend.
+
+**Note: Placement agencies, please do not apply as we require direct assignment.**
+
+SixSq is an equal opportunities employer committed to diversity in the workplace
 
