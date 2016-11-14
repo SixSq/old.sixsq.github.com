@@ -2,7 +2,8 @@
 layout: article
 title: Java and Clojure at work with SlipStream
 image: /img/design/JUG_Button.png 
-category: news
+class: news
+category: resources
 ---
 
 **Calling all Java and Clojure fans!**

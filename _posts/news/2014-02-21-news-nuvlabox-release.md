@@ -2,7 +2,8 @@
 layout: article
 title: NuvlaBox officially launched at Mobile World Congress
 image: /img/design/nuvlabox.png
-category: news
+class: news
+category: resources
 ---
 
 **New appliance provides affordable cloud solution for business .**

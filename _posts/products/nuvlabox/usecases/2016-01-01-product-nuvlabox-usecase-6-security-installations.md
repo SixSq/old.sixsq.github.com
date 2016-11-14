@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Security Installations
-class: products
+class: usecases
 category: nuvlabox
-sub: usecases
+group: products_and_services
 favourite: true
 persona: Clara the DevOps Engineer
 context: Remote control of local security application

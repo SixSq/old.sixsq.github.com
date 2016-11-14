@@ -2,7 +2,8 @@
 layout: article
 title: SixSq at Cloud Expo Europe 2016
 image: /img/design/CEE16_logo.png
-category: news
+class: news
+category: resources
 ---
 
 **Smart Cloud-in-a-Box Appliance to be centre stage**

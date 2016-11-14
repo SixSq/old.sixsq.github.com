@@ -2,7 +2,8 @@
 layout: article
 title: SixSq & CYCLONE supporting scalable, automated applications
 image: /img/content/logo_cyclone.png 
-category: news
+class: news
+category: resources
 ---
 **Facilitating application deployment to the cloud**
  

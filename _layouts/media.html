@@ -3,7 +3,7 @@
   {% include head.html %}
   <body>
     {% include top.html %}
-    {% include media_nav.html %}
+    {% include {{ page.category }}_nav.html %}
 
     {{ page.content | markdownify }}
 

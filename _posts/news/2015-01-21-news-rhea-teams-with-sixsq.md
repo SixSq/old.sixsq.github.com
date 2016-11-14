@@ -2,7 +2,8 @@
 layout: article
 title: SixSq forms strategic partnership with RHEA, Engineering & Software Company
 image: /img/content/logo_rhea.png
-category: news
+class: news
+category: resources
 ---
 
 [RHEA System S.A.](http://rheagroup.com/), a Belgian Space Engineering Consulting and Software company, has acquired a majority shareholding interest of [SixSq Sàrl](http://sixsq.com/) of Switzerland, a European leader in Cloud Computing. 

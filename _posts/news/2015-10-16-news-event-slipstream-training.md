@@ -2,7 +2,8 @@
 layout: article
 title: Training Event
 image: /img/design/slipstream_logo.png
-category: news
+class: news
+category: resources
 ---
 
 

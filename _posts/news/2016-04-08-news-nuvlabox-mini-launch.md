@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Announces Launch of NuvlaBox 2.0 & NuvlaBox Mini
 image: /img/content/nuvlabox/NuvlaBox-Custom-ML600-v1-angled.jpeg
-category: news
+class: news
+category: resources
 ---
 
 **Smart Cloud-in-a-Box Appliance offers simple, secure IT solution**

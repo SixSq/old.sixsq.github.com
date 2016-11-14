@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: LAMP and complex application provisioning
-class: products
+class: usecases
 category: slipstream
-sub: usecases
+group: products_and_services
 favourite: true
 user_profile: Enterprise
 warning: this use case is technical. Geeks only!

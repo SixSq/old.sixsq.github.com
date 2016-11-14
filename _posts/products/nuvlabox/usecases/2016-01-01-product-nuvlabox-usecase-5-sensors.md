@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Internet of Things and Sensor Aggregating
-class: products
+class: usecases
 category: nuvlabox
-sub: usecases
+group: products_and_services
 persona: Clara the DevOps Engineer
 context: SMB, NGO and Enterprise
 context_type: sme

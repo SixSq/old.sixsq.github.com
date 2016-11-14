@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Enterprise App Store / Self-Service IT
-class: products
+class: usecases
 category: slipstream
-sub: usecases
+group: products_and_services
 favourite: true
 user_profile: Enterprise
 persona: Alice the App Store User

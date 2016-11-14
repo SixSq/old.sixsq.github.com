@@ -2,7 +2,8 @@
 layout: article
 title: Helix Nebula Marketplace starts commercial operations under new management – where big science meets federated cloud 
 image: /img/content/HNX_4.png
-category: news
+class: news
+category: resources
 ---
 
 [SixSq](http://sixsq.com), a cloud solution provider headquartered in Geneva, Switzerland, has announced it is taking over the operation, support and management of the innovative [Helix Nebula Marketplace](http://hnx.helix-nebula.eu) (HNX) service, building on the [Helix Nebula – the Science Cloud – initiative](http://helix-nebula.eu). 

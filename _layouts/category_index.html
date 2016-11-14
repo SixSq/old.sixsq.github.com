@@ -3,11 +3,7 @@
    {% include head.html %}
   <body>
    {% include top.html %}
-   {% if page.class == "r-and-d" %}
-     {% include r-and-d.html %}
-   {% else %}
-     {% include media_nav.html %}
-   {% endif %}
+   {% include {{ page.category }}_nav.html %}
 
   <div class="jumbotron">
     <div class="container">
@@ -17,7 +13,7 @@
 
     <div class="container big">
       {% for post in site.posts %}
-        {% if post.category == page.category %}
+        {% if post.class == page.class %}
 
           <div class="row row-highlights">
 

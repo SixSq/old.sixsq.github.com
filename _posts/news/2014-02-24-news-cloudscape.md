@@ -2,7 +2,8 @@
 layout: article
 title: Demoed at CloudScape VI SlipStream powers the Helix Nebula Marketplace service
 image: /img/design/slipstream_logo.png
-category: news
+class: news
+category: resources
 ---
 
 **An important step for the Helix Nebula project**

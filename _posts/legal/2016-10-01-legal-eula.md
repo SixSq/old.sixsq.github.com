@@ -3,8 +3,8 @@ layout: article_legal
 title: End User License Agreement
 subtitle: This agreement describes how we intend our software (including services and products derived from it) is to be used.
 summary: This EULA applies to Nuvla, SlipStream (on premise and managed by SixSq) and NuvlaBox.
+class: eula
 category: legal
-sub: eula
 permalink: /legal/eula
 redirect_from:
   - /legal/eula.html

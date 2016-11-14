@@ -2,7 +2,8 @@
 layout: article
 title: SixSq at CANSEC 2016
 image: /img/content/news/ NuvlaBox_CANSEC.png 
-category: news
+class: news
+category: resources
 ---
 The SixSq team is pleased to announce it will be supporting the ADGA Group at **CANSEC 2016** in Ottawa, Canada.
 

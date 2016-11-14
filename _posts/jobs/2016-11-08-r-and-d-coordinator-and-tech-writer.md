@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Research and Development Project Coordinator and Technical Writer
-category: jobs
+category: about
 class: jobs
 image: /img/content/creative-process.png
 ---

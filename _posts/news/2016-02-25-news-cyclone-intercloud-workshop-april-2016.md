@@ -2,7 +2,8 @@
 layout: article
 title: Multi-Cloud Application Deployment on Show at Intercloud 2016 Workshop
 image: /img/content/logo_cyclone.png 
-category: news
+class: news
+category: resources
 ---
 
 **Demonstrating Power of SlipStream and CYCLONE platform**

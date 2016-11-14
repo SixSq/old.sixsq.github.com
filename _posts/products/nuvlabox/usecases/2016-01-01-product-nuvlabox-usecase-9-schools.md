@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Enabling Education
-class: products
+class: usecases
 category: nuvlabox
-sub: usecases
+group: products_and_services
 favourite: true
 context: Schools or Federation of Schools
 persona: Alice the App Store User

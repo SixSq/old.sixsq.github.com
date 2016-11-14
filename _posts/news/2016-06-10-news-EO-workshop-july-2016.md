@@ -2,7 +2,8 @@
 layout: article
 title: Boosting Earth Observation Innovation in Europe
 image: /img/content/logo_esa.png 
-category: news
+class: news
+category: resources
 ---
 The Swiss Space Office ([SSO](http://www.sbfi.admin.ch/themen/01371/index.html?lang=en)) is organising an Information Day for the Swiss Industrial and Scientific Community related to the future Earth Observation ([EO](http://www.esa.int/Our_Activities/Observing_the_Earth)) programmes of the European Space Agency ([ESA](http://www.esa.int/ESA)).  
 

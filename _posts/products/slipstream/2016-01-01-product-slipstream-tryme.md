@@ -2,13 +2,13 @@
 layout: article_slipstream
 title: SlipStream
 head-title: SlipStream&#58; Try Me for Free!
-class: products
+class: tryme
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/tryme
 redirect_from:
   - /products/slipstream-tryme.html
   - /products/slipstream-tryme/
-sub: tryme
 subtitle: Try Me
 summary: Try SlipStream today for free. Take the tour and get going in minutes.
 with-videos: true

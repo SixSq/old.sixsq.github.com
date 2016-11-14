@@ -2,8 +2,9 @@
 layout: article_slipstream
 title: Nuvla
 head-title: Nuvla&#58; Try Me for Free!
-class: services
+class: tryme
 category: nuvla
+group: products_and_services
 permalink: /services/nuvla/tryme
 sub: tryme
 subtitle: Try Me

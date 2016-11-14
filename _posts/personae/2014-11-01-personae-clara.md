@@ -2,7 +2,8 @@
 layout: article
 title: Clara
 head-title: Our Personae&#58; Clara
-category: personae
+class: personae
+category: resources
 image: /img/content/personae/clara.png
 overview: DevOps member and/or developer
 ---

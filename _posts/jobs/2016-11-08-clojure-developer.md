@@ -1,8 +1,8 @@
 ---
 layout: article
 title: Clojure and Cloud Developer
-category: jobs
 class: jobs
+category: about
 image: /img/content/clojure-logo.png
 ---
 
@@ -118,5 +118,5 @@ Or know someone who could do this? Share this position with a friend.
 
 **Note: Placement agencies, please do not apply as we require direct assignment.**
 
-SixSq is an equal opportunities employer committed to diversity in the workplace
+SixSq is an equal opportunities employer committed to diversity in the workplace.
 

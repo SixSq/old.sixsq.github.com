@@ -2,10 +2,10 @@
 layout: raw
 title: SlipStream
 head-title: SlipStream&#58; Platform as a Service (PaaS)
-class: products
+class: paas
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/paas
-sub: paas
 subtitle: Platform as a Service (PaaS)
 summary: Next generation Platform as a Service (PaaS) delivering amazing automation to empower your business.
 ---

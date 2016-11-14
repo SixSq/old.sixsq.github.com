@@ -2,7 +2,8 @@
 layout: article
 title: Smart City Day 2016
 image: /img/content/logo_scd16.png 
-category: news
+class: news
+category: resources
 ---
 [Smart City Day](http://www.smartcityday.ch) is a key event in the French-speaking part of Switzerland. It brings together over 200 decision makers from cities, cantons and the business world in order to present projects and developments in smart cities. For its 3rd edition, the event will highlight the **governance** models fostering the achievement of smart cities. 
 

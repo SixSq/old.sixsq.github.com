@@ -3,6 +3,7 @@
    {% include head.html %}
   <body>
    {% include top.html %}
+   {% include {{ page.category }}_nav.html %}
 
   <div class="jumbotron">
     <div class="container">
@@ -11,7 +12,7 @@
     </div>
     <div  class="container big">
     {% for post in site.posts reversed %}
-      {% if post.category == page.category %}
+      {% if post.class == page.class %}
     
         <div id="{{ post.title }}" class="row row-highlights">
 

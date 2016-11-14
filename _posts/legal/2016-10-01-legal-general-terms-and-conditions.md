@@ -3,8 +3,8 @@ layout: article_legal
 title: General Terms and Conditions
 subtitle: This agreement describes the general terms and conditions for SixSq products and services.
 summary: These General Terms and Conditions apply to all SixSq contractual documents.
+class: general-terms
 category: legal
-sub: general_terms
 permalink: /legal/general-terms
 redirect_from:
   - /legal/general-terms.html

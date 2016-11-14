@@ -2,7 +2,8 @@
 layout: article
 title: SlipStream SaaS is now Nuvla!
 image: /img/content/nuvla/nuvla_logo_red_on_transparent_512px.png 
-category: news
+class: news
+category: resources
 ---
 
 SixSq is very pleased to announce that its SlipStream online SaaS is now [Nuvla™](http://sixsq.com/services/nuvla/) 

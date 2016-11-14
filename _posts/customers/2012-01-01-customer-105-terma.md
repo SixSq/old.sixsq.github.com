@@ -3,7 +3,8 @@ layout: article
 title: Terma
 head-title: Our Customers&#58; Terma
 image: /img/design/logo_terma.png
-category: customers
+class: customers
+category: about
 permalink: /customers/terma.html
 ---
 

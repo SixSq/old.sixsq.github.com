@@ -2,7 +2,8 @@
 layout: article
 title: Training Event 7 & 8 June 2016
 image: /img/design/slipstream_logo.png 
-category: news
+class: news
+category: resources
 ---
 SixSq's next training event will take place on 7 and 8 June 2016. The training is built around [SlipStream®](http://sixsq.com/products/slipstream/), its multi-cloud application manager and will take place at the SixSq offices in Geneva. Places are strictly limited to ensure an enjoyable experience for all participants, so interested parties are encouraged to sign up as soon as possible.
 

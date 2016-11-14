@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Simple IT for Remote Operations
-class: products
+class: usecases
 category: nuvlabox
-sub: usecases
+group: products_and_services
 favourite: true
 persona: Alice the App Store User
 context: SME, NGOs

@@ -3,7 +3,8 @@ layout: article
 title: INFN
 head-title: Our Customers&#58; INFN
 image: /img/content/logo_infn.png
-category: customers
+class: customers
+category: about
 permalink: /customers/infn.html
 ---
 

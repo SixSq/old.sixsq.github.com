@@ -2,7 +2,8 @@
 layout: article
 title: HNSciCloud Award Ceremony Coming Up!
 image: /img/content/helix-nebula.jpg
-category: news
+class: news
+category: resources
 ---
 The winners of the Helix Nebula Science Cloud tender will be announced in Lyon this week at the [CC-IN2P3 (CNRS)](http://cc.in2p3.fr/?lang=en) premises, one of the main academic data centres in France.
 

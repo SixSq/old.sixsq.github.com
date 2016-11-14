@@ -2,7 +2,8 @@
 layout: article
 title: Cyclone moving into Amsterdam
 image: /img/content/logo_cyclone.png  
-category: news
+class: news
+category: resources
 ---
 
 Members of the SixSq team will be in Amsterdam this week to participate in the [H2020 Cyclone](http://www.cyclone-project.eu) collaboration meeting. The CYCLONE project, part of the EU's [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) programme, is developing a solution for complete dynamic multi-cloud application management from existing, production-quality components. The solution will include automated application management, advanced networking, end-to-end security, and federated identity management. The project will validate and demonstrate the solution via real world applications, including bioinformatics and smart grid.

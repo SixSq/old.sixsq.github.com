@@ -3,8 +3,9 @@ layout: article_nuvlabox_overview
 title: NuvlaBox
 head-title: NuvlaBox&#58; The smart cloud-in-a-box
 title_gfx: /img/design/nuvlabox_logo.png
-class: products
+class: overview
 category: nuvlabox
+group: products_and_services
 permalink: /products/nuvlabox/index.html
 redirect_from:
   - /nuvlabox/

@@ -2,7 +2,8 @@
 layout: article
 title: Helix Nebula - The Science Cloud - goes LIVE
 image: /img/content/HNX_4.png
-category: news
+class: news
+category: resources
 ---
 
 **Helix Nebula - The Science Cloud: From Cloud Active to Cloud Productive, powered by SlipStream from SixSq**

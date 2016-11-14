@@ -3,7 +3,8 @@ layout: article
 title: European Space Operations Centre (ESOC)
 head-title: Our Customers&#58; ESOC
 image: /img/design/logo_esoc.png
-category: customers
+class: customers
+category: about
 permalink: /customers/esoc.html
 ---
 

@@ -18,15 +18,7 @@
     </script>
 
     {% include top.html %}
-    {% if page.category == "r-and-d" %}
-      {% include r-and-d.html %}
-    {% else %}
-      {% if page.category == "jobs" %}
-        {% include jobs.html %}
-      {% else %}
-        {% include media_nav.html %}
-      {% endif %}
-    {% endif %}
+    {% include {{ page.category }}_nav.html %}
     <div class="jumbotron">
       <div class="container">
         <div class="row">

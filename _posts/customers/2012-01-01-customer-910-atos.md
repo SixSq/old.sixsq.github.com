@@ -3,7 +3,8 @@ layout: article
 title: Atos
 head-title: Our Customers&#58; Atos
 image: /img/content/logo_atos.png
-category: customers
+class: customers
+category: about
 permalink: /customers/atos.html
 ---
 

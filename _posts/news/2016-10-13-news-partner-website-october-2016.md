@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Partner Programme Coming Soon!
 image: /img/content/logo_sixsq.png 
-category: news
+class: news
+category: resources
 ---
 SixSq will soon be launching its partner website, giving an opportunity to distributors, resellers and referrers to bring innovative, **secure** and affordable solutions to their customers. 
 

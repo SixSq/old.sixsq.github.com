@@ -2,8 +2,9 @@
 layout: article_nuvla_overview
 title: Nuvla
 head-title: Nuvla&#58; Smart Cloud Brokerage
-class: services
-category: overview
+class: overview
+category: nuvla
+group: products_and_services
 permalink: /services/nuvla/index.html
 redirect_from: /nuvla/
 image: /img/design/slipstream_category.png

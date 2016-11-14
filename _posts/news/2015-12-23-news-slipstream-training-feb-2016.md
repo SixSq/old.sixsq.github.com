@@ -2,7 +2,8 @@
 layout: article
 title: Training Event 8 & 9 February 2016
 image: /img/design/slipstream_logo.png 
-category: news
+class: news
+category: resources
 ---
 Following the success of the last event, which was a sell out, SixSq is running another training event built around [SlipStream®](http://sixsq.com/products/slipstream/), its multi-cloud application manager. The training will take place at the SixSq offices in Geneva and places are strictly limited to ensure an enjoyable experience for all participants.
 

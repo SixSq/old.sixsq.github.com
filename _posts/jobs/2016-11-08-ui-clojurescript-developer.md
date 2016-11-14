@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Web UI and Clojurescript Developer
-category: jobs
+category: about
 class: jobs
 image: /img/content/clojurescript-logo.png
 ---

@@ -2,14 +2,14 @@
 layout: raw
 title: NuvlaBox
 head-title: NuvlaBox&#58; Features
-class: products
+class: features
 category: nuvlabox
+group: products_and_services
 image: /img/design/nuvlabox_category.png
 permalink: /products/nuvlabox/features
 redirect_from:
   - /products/nuvlabox-features.html
   - /products/nuvlabox-features/
-sub: features
 subtitle: Features
 summary: A simple and secure private cloud solution which offers easy and affordable access to the benefits of cloud computing.
 ---

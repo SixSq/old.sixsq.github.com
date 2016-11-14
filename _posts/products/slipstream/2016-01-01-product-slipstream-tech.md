@@ -3,14 +3,14 @@ layout: article_slipstream
 title: SlipStream
 head-title: SlipStream&#58; Technical Specification
 title_gfx: /img/design/slipstream_logo.png
-class: products
+class: techspecs
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/tech
 redirect_link:
   - /products/slipstream-tech.html
   - /products/slipstream-tech/
 image: /img/design/slipstream_category.png
-sub: techspecs
 subtitle: Technical Specification
 summary: Professional open source software delivering PaaS, DevOps and hybrid solution.
 ---

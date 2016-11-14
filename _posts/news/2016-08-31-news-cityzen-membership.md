@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Member of CityZen Initiative
 image: /img/content/logo_cityzen.png
-category: news
+class: news
+category: resources
 ---
   
 SixSq is pleased to announce its membership of the [CityZen](http://cityzen.ch/cityzen.html) initiative. CityZen brings together Swiss companies with expertise in the field of [Smart Cities](http://media.sixsq.com/blog/what-is-a-smart-city) and acts as a centre of competence for cities and communes which need advice on the concept, integration and realisation  of Smart City projects. 

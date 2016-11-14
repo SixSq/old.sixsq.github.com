@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Talking Cloud at Cloudscape Series 2016
 image: /img/design/Cloudscape2016_logo.png
-category: news
+class: news
+category: resources
 ---
 
 **Sign up for key insights into smart technologies & digital disruptions**

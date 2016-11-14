@@ -2,10 +2,10 @@
 layout: raw
 title: SlipStream
 head-title: SlipStream&#58; Documentation and API
-class: products
+class: docs
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/documentation
-sub: docs
 subtitle: Documentation and API
 summary: SlipStream is fully documented, including a dedicated rich API site. 
 ---

@@ -2,8 +2,9 @@
 layout: article_slipstream_overview
 title: SlipStream
 head-title: SlipStream&#58; Smart Cloud Application Management
-class: products
-category: overview
+class: overview
+category: slipstream
+group: products_and_services
 permalink: /products/slipstream/index.html
 redirect_from:
   - /slipstream/
@@ -11,7 +12,6 @@ redirect_from:
   - /products/slipstream-pricing.html
   - /products/slipstream-pricing/
 image: /img/design/slipstream_category.png
-sub: overview
 subtitle: Application Deployment Platform
 summary: Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.
 twitter-highlight-1-title: What does SlipStream give you?

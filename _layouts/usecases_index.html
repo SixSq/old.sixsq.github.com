@@ -12,7 +12,7 @@
     <div class="container big spacy">
       <div class="row row-summary-{{ page.category }}-usecases row-summary">
       {% for post in site.posts %}
-        {% if post.category == page.category and post.class == page.class and post.layout == 'article_usecase' %}
+        {% if post.category == page.category and post.class == 'usecases' %}
         <div class="col-md-4">
           <div>
             <div>
@@ -33,7 +33,7 @@
   </div>
 
   {% for post in site.posts %}
-    {% if post.category == page.category and post.class == page.class and post.layout == 'article_usecase' %}
+    {% if post.class == page.class and post.class == page.class and post.layout == 'article_usecase' %}
     <div class="{{ post.class }} {% cycle 'even', 'odd' %}">
       <div id="{{ post.title | replace:' ','-' }}" class="anchor"></div>
       <div class="container spacy">

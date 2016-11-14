@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Wins Cloud For Europe Contract
 image: /img/design/logo_eu.png
-category: news
+class: news
+category: resources
 ---
  
 [SixSq](http://sixsq.com), a smart cloud automation solutions provider headquartered in Geneva, Switzerland, has been selected as one of the suppliers to the prestigious [Cloud for Europe project](http://www.cloudforeurope.eu).  The company will start work on 1 October 2015 as part of a consortium with the highly respected [Cloud Security Alliance](https://cloudsecurityalliance.org). 

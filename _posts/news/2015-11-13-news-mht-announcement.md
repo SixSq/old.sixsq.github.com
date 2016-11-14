@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Appoints Marie-Hélène Tremblay as New Chief Sales Officer
 image: /img/content/logo_sixsq.png
-category: news
+class: news
+category: resources
 ---
 
 SixSq, a smart cloud automation solutions provider headquartered in Geneva, Switzerland, today announced that [Marie-Hélène Tremblay](https://www.linkedin.com/profile/view?id=AAMAAACke8MBF33ChCUAjPUf65IHmPzICkJPgak&authType=name&authToken=uudn&trk=hp-feed-member-name) has been named Chief Sales Officer for the company. This appointment, effective since last August 10, is part of the company’s strategy to improve its ability to service its clients, both within Switzerland and worldwide. Mrs. Tremblay will work closely with the executive team to set sales goals and strategies and to develop strategic alliances as SixSq expands into new markets. SixSq, a member of [RHEA Group](http://www.rheagroup.com), is in continuous growth with a turnover increase of 300% in the past 7 years.

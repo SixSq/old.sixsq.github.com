@@ -2,7 +2,8 @@
 layout: article
 title: Swiss Space Roadshow is Coming to Town!
 image: /img/content/logo_esa.png 
-category: news
+class: news
+category: resources
 ---
 The [Swiss Space Center](http://space.epfl.ch), the [Swiss Space Office](http://www.sbfi.admin.ch/themen/01371/index.html?lang=en), [ESA](http://www.esa.int/ESA), local universities and local industry players active in space business and are organizing an interactive evening for people interested in a career in space or looking to make specialist contacts in the domain.
 

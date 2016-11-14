@@ -2,7 +2,8 @@
 layout: article
 title: SlipStream – a new web interface for the EGI Federated Cloud
 image: /img/design/slipstream_logo.png
-category: news
+class: news
+category: resources
 ---
 
 **A demonstration at the Technical Forum 2013 will show how to set up cluster deployments for virtual machines.**

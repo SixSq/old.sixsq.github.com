@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Announces New Cloud Brokerage Service
 image: /img/design/nuvla_logo_red_on_transparent_256px.png 
-category: news
+class: news
+category: resources
 ---
 
 **New smart cloud brokerage service providing cost effective access to wide range of cloud providers**

@@ -2,7 +2,8 @@
 layout: article
 title: SixSq Announces Major Software Upgrade with Version 3 Release
 image: /img/design/slipstream_logo_red_on_transparent_256px.png 
-category: news
+class: news
+category: resources
 ---
 
 **New release brings outstanding new functionality**

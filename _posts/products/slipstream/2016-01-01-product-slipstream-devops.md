@@ -3,10 +3,10 @@ layout: raw
 title: SlipStream
 head-title: DevOps
 head-desc: Take full advantage of the cloud to deliver real DevOps benefits
-class: products
+class: devops
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/devops
-sub: devops
 subtitle: DevOps
 summary: Implement DevOps to innovate, develop, test and release faster.
 ---

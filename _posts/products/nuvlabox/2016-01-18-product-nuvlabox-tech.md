@@ -2,13 +2,13 @@
 layout: article_nuvlabox
 title: NuvlaBox
 head-title: NuvlaBox&#58; Technical Specifications
-class: products
+class: techspecs
 category: nuvlabox
+group: products_and_services
 permalink: /products/nuvlabox/tech
 redirect_from:
   - /products/nuvlabox-tech.html
   - /products/nuvlabox-tech/
-sub: techspecs
 subtitle: Technical Specification
 ---
 

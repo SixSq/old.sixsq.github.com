@@ -1,10 +1,10 @@
 ---
 layout: raw
 title: SlipStream
-class: products
+class: install
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/install
-sub: install
 subtitle: Installation Instructions
 summary: Find out which SlipStream version is right for you.
 ---

@@ -1,9 +1,9 @@
 ---
 layout: article_usecase
 title: Smart Cities
-class: products
+class: usecases
 category: nuvlabox
-sub: usecases
+group: products_and_services
 favourite: true
 persona: 
 context: Cyber Intrusion Solutions

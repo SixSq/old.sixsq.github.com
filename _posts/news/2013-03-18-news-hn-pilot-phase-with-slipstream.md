@@ -2,7 +2,8 @@
 layout: article
 title: Helix Nebula Chooses SlipStream
 image: /img/design/slipstream_category.png
-category: news
+class: news
+category: resources
 ---
 
 This week **Helix Nebula – the science cloud** started its Pilot Phase with SlipStream, created by SixSq. SlipStream will allow Helix Nebula users (CERN, ESA and EMBL) to provision complex cloud applications, on several IaaS clouds in parallel, automatically.

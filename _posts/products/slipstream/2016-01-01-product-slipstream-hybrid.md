@@ -3,10 +3,10 @@ layout: raw
 title: SlipStream
 head-title: Hybrid Cloud
 head-desc: Implement simple and sound Hybrid cloud and multi-cloud solution with SlipStream
-class: products
+class: hybrid
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/hybrid
-sub: hybrid
 subtitle: Hybrid Cloud
 summary: Embrace the cloud diversity with a simple, yet effective, hybrid cloud and multi-cloud strategy.
 ---

@@ -2,12 +2,12 @@
 layout: raw
 title: SlipStream
 head-title: SlipStream&#58; All-clouds&#58; We support all  major clouds!
-class: products
+class: allclouds
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/cloud-connectors
 redirect_from:
   - /products/slipstream/cloud-connectors.html
-sub: allclouds
 subtitle: All Clouds
 summary: We support the following Infrastructure as a Service (IaaS) technologies and services. 
 ---

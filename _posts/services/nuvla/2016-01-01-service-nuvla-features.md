@@ -2,8 +2,9 @@
 layout: raw
 title: Nuvla
 head-title: Nuvla Features
-class: services
+class: features
 category: nuvla
+group: products_and_services
 permalink: /products/nuvla/features
 redirect_from:
   - /products/nuvla-features.html

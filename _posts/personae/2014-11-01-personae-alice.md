@@ -2,7 +2,8 @@
 layout: article
 title: Alice
 head-title: Our Personae&#58; Alice
-category: personae
+class: personae
+category: resources
 image: /img/content/personae/alice.png
 overview: App Store user
 ---

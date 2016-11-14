@@ -3,7 +3,8 @@ layout: article
 title: ThalesAlenia Space
 head-title: Our Customers&#58; ThalesAlenia Space
 image: /img/design/logo_thales.png
-category: customers
+class: customers
+category: about
 permalink: /customers/thales.html
 ---
 

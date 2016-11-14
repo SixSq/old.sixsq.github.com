@@ -1,13 +1,13 @@
 ---
 layout: raw
 title: SlipStream
-class: products
+class: features
 category: slipstream
+group: products_and_services
 permalink: /products/slipstream/features
 redirect_from:
   - /products/slipstream-features.html
   - /products/slipstream-features/
-sub: features
 subtitle: Features
 summary: Supports DevOps, Big Data, Smart City and Hybrid Cloud strategies.
 ---
