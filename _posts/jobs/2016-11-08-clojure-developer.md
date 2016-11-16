@@ -49,7 +49,7 @@ Management
 - Ability to communicate effectively with internal teams, partners and customers
 - Experience of Agile or Lean management practises (e.g. Scrum, Kanban, DevOps)
 - Experience in working in an open source environment
-- Ability to identify and share impediment
+- Ability to identify and share impediments
 
 **Nice to have**
 
