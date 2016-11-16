@@ -24,7 +24,7 @@ The responsibilites will include:
 
 - software development including designing solutions, writing code, testing code, automating test and deployment
 - delivery of software components working in collaboration with the rest of the team 
-- imnproving and redeveloping the Web User Interface (UI) of SlipStream using primarily the Clojure/Clojurescript language and its eco-system
+- improving and redeveloping the Web User Interface (UI) of SlipStream using primarily the Clojure/Clojurescript language and its eco-system
 - initially porting and reimplementation of Java logic into Clojure 
 - involvement in R&D projects, both in Switzerland and other European countries
 - contribution to the the development roadmap of the SixSq products and services
