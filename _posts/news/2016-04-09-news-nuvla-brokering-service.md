@@ -34,7 +34,7 @@ following cloud services:
 
 The brokerage service also supports the connection to private clouds, based on:
 
-- [CloudStack]((https://cloudstack.apache.org) )
+- [CloudStack](https://cloudstack.apache.org)
 - [OpenNebula](http://opennebula.org/)
 - [OpenStack](https://www.openstack.org/)
 - [VMware vCloud](https://www.vmware.com/cloud-computing/overview)

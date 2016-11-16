@@ -34,7 +34,7 @@ For more information, please contact
 **Charles Loomis**  
 SixSq CTO 
 
-[cal@sixsq.com](cal@sixsq.com)
+[cal@sixsq.com](mailto:cal@sixsq.com)
 
 
 

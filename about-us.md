@@ -160,12 +160,7 @@ partnerships and collaborations.</p>
     It is paving the way for a Cloud Computing platform that offers a unique resource to governments, businesses and citizens and which is charting a course towards sustainable provision of cloud computing for Europe.
   </p>
   <p>
-    The collaboration is using <a href="/services/nuvla/">Nuvla</a> (<a href="/products/slipstream.html">SlipStream</a> as a Service managed by SixSq) as a broker for the Helix Nebula Marketplace, HNX. 
-    This broker and provisioning engine gives the scientific research community easy access to commercial cloud services and its customers can use the broker to choose between various suppliers or combinations of suppliers offering 
-    independent Cloud services, and to buy, use and manage such Cloud services seamlessly.
-  </p>
-  <p>
-    More information is available <a href="news/2012/03/01/news-hn-annoucement.html">here</a>.
+    More information is available <a href="http://helix-nebula.eu">here</a>.
   </p>
 </div>
 </div>

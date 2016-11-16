@@ -18,9 +18,9 @@ field of cloud computing" says Samuel Mellot, CTO of Darest.  The Swiss
 IT Solutions provider will distribute the product integrated by SixSq.
 
 The nervous system of this software solution is provided by 
-[StratusLab](/products/stratuslab.html)
-v1.4+ and SixSq's [SlipStream](/products/slipstream.html).
-StratusLab provides the cloud
+SixSq's [SlipStream](/products/slipstream.html) and
+OpenNebula.
+OpenNebula provides the cloud
 functionality, while Slipstream allows for automated deployment,
 ensuring simple, reproducible and safe provisioning of virtual
 environments.
@@ -31,14 +31,8 @@ delivered, including a public StratusLab Marketplace and SlipStream
 services, providing users with up-to-date images, as well as
 construction and deployment recipes.
 
-"Being able to create a commercial product, based on StratusLab
+"Being able to create a commercial product, based on SlipStream
 software, with companies like Darest is very exciting." says
 Marc-Elian Bégin, Co-founder of SixSq.  "This shows how well focused FP7
 projects can really make a difference in the commercial world and give
 SMEs like SixSq a significant edge."
-
-The [StratusLab](/products/stratuslab.html) project is an EU-funded initiative to develop an
-open-source cloud computing distribution designed for grid and cluster
-computing.  This latest announcement underlines the success of the
-project and shows how such EU initiatives are adding real value to
-European businesses.

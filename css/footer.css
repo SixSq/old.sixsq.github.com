@@ -22,7 +22,7 @@ footer {
 }
 
 .footer_logo img:hover {
-  background: url(img/design/sixsq_logo_52px.png) no-repeat center top 2px;
+  background: url(/img/design/sixsq_logo_52px.png) no-repeat center top 2px;
 }
 
 .adress_copyright {
@@ -50,11 +50,11 @@ footer {
 }
 
 .contact_us .phone {
-	background: transparent url(img/design/icon_phone.png) no-repeat scroll left 12px;
+	background: transparent url(/img/design/icon_phone.png) no-repeat scroll left 12px;
 }
 
 .contact_us .mail {
-	background: transparent url(img/design/icon_mail.png) no-repeat scroll left 18px;
+	background: transparent url(/img/design/icon_mail.png) no-repeat scroll left 18px;
 }
 
 .contact_us a {
