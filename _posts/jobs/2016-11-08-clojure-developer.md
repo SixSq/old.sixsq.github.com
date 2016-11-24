@@ -4,6 +4,7 @@ title: Clojure and Cloud Developer
 class: jobs
 category: about
 image: /img/content/clojure-logo.png
+permalink: /jobs/clojure-and-cloud-developer
 ---
 
 Description

@@ -4,6 +4,7 @@ title: Web UI and Clojurescript Developer
 category: about
 class: jobs
 image: /img/content/clojurescript-logo.png
+permalink: /jobs/web-ui-and-clojurescript-developer
 ---
 
 Description
