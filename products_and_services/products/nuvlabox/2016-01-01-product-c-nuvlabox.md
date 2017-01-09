@@ -6,7 +6,7 @@ title_gfx: /img/design/nuvlabox_logo.png
 class: overview
 category: nuvlabox
 group: products_and_services
-permalink: /products/nuvlabox/index.html
+permalink: /products/nuvlabox/
 redirect_from:
   - /nuvlabox/
   - /products/nuvlabox.html

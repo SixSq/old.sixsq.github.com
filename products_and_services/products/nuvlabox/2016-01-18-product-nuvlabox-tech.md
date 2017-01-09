@@ -5,7 +5,7 @@ head-title: NuvlaBox&#58; Technical Specifications
 class: techspecs
 category: nuvlabox
 group: products_and_services
-permalink: /products/nuvlabox/tech
+permalink: /products/nuvlabox/tech/
 redirect_from:
   - /products/nuvlabox-tech.html
   - /products/nuvlabox-tech/

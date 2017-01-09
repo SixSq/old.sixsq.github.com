@@ -5,10 +5,11 @@ head-title: Nuvla Features
 class: features
 category: nuvla
 group: products_and_services
-permalink: /products/nuvla/features
+permalink: /services/nuvla/features/
 redirect_from:
   - /products/nuvla-features.html
   - /products/nuvla-features/
+  - /products/nuvla/features
 sub: features
 subtitle: Features
 summary: Supports DevOps, Big Data, Smart City and Hybrid Cloud strategies.

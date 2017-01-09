@@ -5,10 +5,11 @@ head-title: Nuvla Technical Specifications
 class: techspecs
 category: nuvla
 group: products_and_services
-permalink: /products/nuvla/tech
+permalink: /services/nuvla/tech/
 redirect_from:
   - /products/nuvla-tech.html
   - /products/nuvla-tech/
+  - /products/nuvla/tech
 subtitle: Technical Specification
 ---
 

@@ -6,7 +6,7 @@ class: features
 category: nuvlabox
 group: products_and_services
 image: /img/design/nuvlabox_category.png
-permalink: /products/nuvlabox/features
+permalink: /products/nuvlabox/features/
 redirect_from:
   - /products/nuvlabox-features.html
   - /products/nuvlabox-features/

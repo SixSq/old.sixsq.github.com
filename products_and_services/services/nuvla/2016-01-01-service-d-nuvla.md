@@ -5,7 +5,7 @@ head-title: Nuvla&#58; Smart Cloud Brokerage
 class: overview
 category: nuvla
 group: products_and_services
-permalink: /services/nuvla/index.html
+permalink: /services/nuvla/
 redirect_from: /nuvla/
 image: /img/design/slipstream_category.png
 sub: overview

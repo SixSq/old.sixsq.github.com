@@ -5,7 +5,7 @@ head-title: Nuvla&#58; Try Me for Free!
 class: tryme
 category: nuvla
 group: products_and_services
-permalink: /services/nuvla/tryme
+permalink: /services/nuvla/tryme/
 sub: tryme
 subtitle: Try Me
 summary: Try Nuvla today for free. Take the tour and get going in minutes.
