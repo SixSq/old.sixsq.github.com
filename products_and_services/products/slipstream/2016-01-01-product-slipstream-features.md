@@ -4,7 +4,7 @@ title: SlipStream
 class: features
 category: slipstream
 group: products_and_services
-permalink: /products/slipstream/features
+permalink: /products/slipstream/features/
 redirect_from:
   - /products/slipstream-features.html
   - /products/slipstream-features/
