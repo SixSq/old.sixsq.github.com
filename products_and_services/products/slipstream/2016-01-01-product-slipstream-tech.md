@@ -6,7 +6,7 @@ title_gfx: /img/design/slipstream_logo.png
 class: techspecs
 category: slipstream
 group: products_and_services
-permalink: /products/slipstream/tech
+permalink: /products/slipstream/tech/
 redirect_link:
   - /products/slipstream-tech.html
   - /products/slipstream-tech/
