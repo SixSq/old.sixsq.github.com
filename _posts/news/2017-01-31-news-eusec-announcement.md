@@ -1,38 +1,49 @@
 ---
 layout: article
-title: SixSq Working on H2020 Cloud Security Project
+title: SixSq part of H2020 Cloud Security Project
 image: /img/content/logo_sixsq.png
 class: news
 category: resources
 ---
 
-SixSq is part of the Investigating effective and efficient approaches to trust, assurance and compliance in the ICT market
+**Investigating effective and efficient approaches to trust, assurance and compliance in the ICT market**
 
-An EU-financed project studying ways to improve approaches to trust, assurance and compliance in the ICT market has started this month in Berlin. The EU-SEC innovation project is financed by the EU HORIZON 2020 Research and Innovation programme, involves nine partners from seven countries (Germany, Austria, Finland, Slovenia, Slovakia, Switzerland, and the United Kingdom) and will be carried out over a period of three years.
+SixSq is pleased to announce its involvement in the **H2020 EU-SEC** project, an EU-financed project studying ways to improve approaches to trust, assurance and compliance in the ICT market, which kicked off on 1 January 2017.
 
-The multinational and multidisciplinary consortium will work to improve the effectiveness and efficiency of existing approaches for assurance and compliance in the ICT market. To achieve its goal the project EU-SEC will create a framework under which existing, certification and assurance approaches in the ICT market can co-exist. The three core ideas behind the EU-SEC project are that an effective and efficient approach to trust, assurance and compliance has to: 
-•	balance the need of nations and business sectors to develop their specific certification schemas with the need of CSPs to reduce compliance costs 
-•	avoid that humans (auditors) do activities that can be performed by machines (e.g. collecting data) 
-•	make sure that accurate and reliable evidences/information are provided to relevant people, in a timely fashion, leveraging as much as possible automatic means. 
+The multinational and multidisciplinary consortium will work to improve the effectiveness and efficiency of existing approaches for assurance and compliance in the ICT market. The three core ideas behind the EU-SEC project are that an effective and efficient approach to trust, assurance and compliance has to: 
 
-“In recent years the ICT market has evolved toward a cloud-based approach. This shift together with the rapidly changing legal and regulatory landscape has heavily impacted security assurance, governance and compliance,” according to EU-Sec Project coordinator, Linda Strick, senior scientist at Fraunhofer FOKUS. “The project EU-SEC will improve the effectiveness and efficiency of existing approaches for assurance and compliance.”
+- balance the need of nations and business sectors to develop their specific certification schemas, bearing in mind the need to reduce compliance costs 
+- avoid humans, namely auditors, doing activities that could be performed by machines (e.g. data collecton) 
+- ensure that accurate and reliable evidence/information is provided to the relevant people, in a timely fashion, leveraging automatic means as much as possible. 
 
-The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risks management, assurance and compliance. The EU-SEC aims to enhancing trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners.  
+The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risks management, assurance and compliance. The EU-SEC aims to enhance trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners.  
 
-A website for the EU-Sec project offering regular news and information about the initiative will be launched in the coming months. The EU-Sec project has received funding from the European Union’s Horizon 2020 research and innovation programme. 
+A website for the EU-Sec project offering regular news and information about the initiative will be launched in the coming months. 
+
+**How is the project funded?**
+
+SixSq's participation is supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]**. The remaining partners are  financed by the [EU HORIZON 2020 Research and Innovation programme](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020).
 
 
-The nine Partners in the EU-Sec consortium:
+**Who are the EU-SEC consortium partners?**
 
- * Barclays Bank, UK 
-•	CSA, UK
-•	Fabasoft Cloud, Austria 
-•	Fraunhofer, Germany
-•	Ministry of Finance, Slovakia
-•	Ministry of public administration, Slovenia,
-•	NIXU, Finland 
-•	PwC, Germany
-•	SIXSQ, Switzerland 
+The project involves nine partners from seven countries:
+
+- [Cloud Security Alliance](https://cloudsecurityalliance.org), UK
+
+- [Fabasoft Cloud](https://www.fabasoft.com/en/), Austria 
+
+- [Fraunhofer](https://www.fraunhofer.de), Germany
+
+- [Ministry of Finance](http://www.finance.gov.sk/en/), Slovakia
+
+- [Ministry of public administration](http://www.mju.gov.si/en/), Slovenia
+
+- [NIXU](https://www.nixu.com), Finland 
+
+- [PwC](hhttp://www.pwc.de/en/), Germany
+
+- SixSq, Switzerland 
 
 
 
@@ -46,6 +57,8 @@ For more information, please contact
 SixSq Operations Manager  
 +41 77 44 68 119  
 [louise.merifield@sixsq.com](mailto:louise.merifield@sixsq.com)
+
+[seri]: https://www.sbfi.admin.ch/sbfi/en/home.html
 
 
 
