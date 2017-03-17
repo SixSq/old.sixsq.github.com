@@ -1,7 +1,7 @@
 ---
 layout: article
 title: SixSq part of H2020 Cloud Security Project
-image: /img/content/logo_sixsq.png
+image: /img/content/logo_EU_SEC.png
 class: news
 category: resources
 ---
