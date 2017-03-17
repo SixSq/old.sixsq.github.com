@@ -41,7 +41,7 @@ The project involves nine partners from seven countries:
 
 - [NIXU](https://www.nixu.com), Finland 
 
-- [PwC](hhttp://www.pwc.de/en/), Germany
+- [PwC](http://www.pwc.de/en/), Germany
 
 - SixSq, Switzerland 
 
