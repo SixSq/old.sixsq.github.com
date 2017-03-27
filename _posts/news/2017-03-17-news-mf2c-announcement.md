@@ -37,7 +37,7 @@ The project involves ten partners:
 
 - [The Barcelona Supercomputing Center (BSC)](https://www.bsc.es), Spain 
 
-- [Worldsensing](http://www.worldsensing.com), Germany
+- [Worldsensing](http://www.worldsensing.com), UK
 
 - [Tiscali Italia S.p.A.](http://investors.tiscali.it/it/), Italy
 
