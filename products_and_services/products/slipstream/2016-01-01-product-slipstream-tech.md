@@ -23,7 +23,7 @@ summary: Professional open source software delivering PaaS, DevOps and hybrid so
           <p><a href="http://media.sixsq.com/slipstream-product-description" class="btn btn-primary btn-lg" role="button">Discover &raquo;</a></p>
           
  <p>Or take a look at our documentation for a full description of the features, the latest releases as well as a tutorial which guide you through the core features.</p>
- <p><a href="http://ssdocs.sixsq.com/en/v2.23/" class="btn btn-primary btn-lg" role="button">Go to Docs &raquo;</a></p>
+ <p><a href="http://ssdocs.sixsq.com/en/latest/" class="btn btn-primary btn-lg" role="button">Go to Docs &raquo;</a></p>
       </div>
       <div class="col-md-6 col-2-image">
            <h1>

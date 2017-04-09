@@ -45,7 +45,8 @@
             {% endif %}
           </div>
         </div>
-        {% if page.category == "news" %}
+        {% if page.class == "news" or page.class == "jobs" %}
+        <p/>
         <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
         {% endif %}
         {% if page.author %}
