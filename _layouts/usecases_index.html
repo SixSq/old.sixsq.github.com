@@ -33,7 +33,7 @@
   </div>
 
   {% for post in site.posts %}
-    {% if post.class == page.class and post.class == page.class and post.layout == 'article_usecase' %}
+    {% if post.category == page.category and post.class == 'usecases' %}
     <div class="{{ post.class }} {% cycle 'even', 'odd' %}">
       <div id="{{ post.title | replace:' ','-' }}" class="anchor"></div>
       <div class="container spacy">
