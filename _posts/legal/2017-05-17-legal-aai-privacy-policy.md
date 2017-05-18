@@ -19,7 +19,7 @@ last_update: 17/05/2017
 
 1.1	Thanks for your interest in our Software, Products and Services. These are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland.
 
-1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](https://www.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx) and the [Swiss data privacy law](https://www.edoeb.admin.ch/org/00129/index.html?lang=en).
+1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1) and the [Swiss data privacy law](https://www.edoeb.admin.ch/org/00129/index.html?lang=en).
 
 2\. Name of the service
 ---
@@ -109,4 +109,4 @@ Personal data can always be completely erased on request. Other retention policy
 11\. Data Protection Code of Conduct
 ---
 
-Your personal data will be protected according to the [Code of Conduct for Service Providers](https://www.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx), a common standard for the research and higher education sector to protect your privacy.
+Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
