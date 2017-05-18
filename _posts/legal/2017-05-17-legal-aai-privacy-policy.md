@@ -16,7 +16,7 @@ last_update: 17/05/2017
 
 1\. Welcome to SixSq
 ---  
-  
+
 1.1	Thanks for your interest in our Software, Products and Services. These are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland.
 
 1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](https://www.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx) and the [Swiss data privacy law](https://www.edoeb.admin.ch/org/00129/index.html?lang=en).
@@ -32,13 +32,22 @@ The SixSq Federated Identity Portal provides support for basic authentication an
 4\. Contacts
 ---
 4.1 Data Controller:
+
 SixSq
+
 Rue du Bois-du-Lan, 8
+
 1217, Meyrin
+
 Geneva, Switzerland
 
+
+<br>
+
 4.2 Contact Person:
+
 SixSq Support: support@sixsq.com
+
 SixSq Info: info@sixsq.com
 
 
@@ -75,9 +84,13 @@ CH-GE Switzerland Geneva
 ---
 
 8.1 Personal data is not transferred to any 3rd parties unless:
+
  (a) consent has been given by the end user, or
+
  (b) mandated by the Service Provider for enabling access to its service on its behalf
+
  (c) the 3rd party has undertaken similar duties considered sufficient under the data protection law applicable to the Service Provider
+
 
 9\. Accessing and Managing Personal Data
 ---
@@ -90,7 +103,7 @@ CH-GE Switzerland Geneva
 10\. Data Retention
 ---
 
-Personal data can always be completely erased on request. Other retention policy includes removing personal data concerning users with no active sessions, approximately every 15 minutes.
+Personal data can always be completely erased on request. Other retention policy includes removing personal data concerning inactive users after a long period of time.
 
 
 11\. Data Protection Code of Conduct
