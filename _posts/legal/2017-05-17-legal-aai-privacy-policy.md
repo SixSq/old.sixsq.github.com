@@ -45,7 +45,7 @@ SixSq Info: info@sixsq.com
 5\. Jurisdiction
 ---
 
-Switzerland Geneva (CH-GE)
+CH-GE Switzerland Geneva
 
 
 6\. Personal Data
