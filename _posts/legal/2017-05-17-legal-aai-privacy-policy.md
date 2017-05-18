@@ -3,18 +3,18 @@ layout: article_legal
 title: SixSq Federated Identity Portal Privacy License Agreement
 subtitle: This license describes a set of data privacy rules that SixSq commits to in the context of the Nuvla service operations, in compliance with the GÉANT Data Protection Code of Conduct and the Swiss data privacy law.
 summary: This privacy license applies to Nuvla and all SixSq services using the SixSq Federated Identity Portal.
-class: privacy
+class: aai-privacy
 category: legal
 permalink: /legal/aai_privacy
 redirect_from:
-  - /legal/privacy.html
+  - /legal/aai_privacy.html
 applicable_from: 17/05/2017
 last_update: 17/05/2017
 ---
 
-[History](https://github.com/SixSq/sixsq.github.com/commits/legal/_posts/legal/2017-05-17-legal-privacy-policy.md)
+[History](https://github.com/SixSq/sixsq.github.com/commits/master/_posts/legal/2017-05-17-legal-aai-privacy-policy.md)
 
-1\. Welcome to SixSq  
+1\. Welcome to SixSq
 ---  
   
 1.1	Thanks for your interest in our Software, Products and Services. These are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland.
@@ -45,7 +45,7 @@ SixSq Info: info@sixsq.com
 5\. Jurisdiction
 ---
 
-Switzerland Geneva (CH-GE)
+CH-GE Switzerland Geneva
 
 
 6\. Personal Data
