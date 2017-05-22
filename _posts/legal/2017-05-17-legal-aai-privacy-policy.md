@@ -23,7 +23,7 @@ last_update: 17/05/2017
 
 2\. Name of the service
 ---
-SixSq Federated Identity Portal
+SixSq Federated Identity Portal (also known as SixSq Fed-Id SP)
 
 3\. Description of the service
 ---
@@ -110,3 +110,7 @@ Personal data can always be completely erased on request. Other retention policy
 ---
 
 Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
+
+
+---
+_This Privacy License Agreement covers all the SixSq's Authentication and Authorization Infrastructure (AAI), including https://fed-id.nuv.la._
