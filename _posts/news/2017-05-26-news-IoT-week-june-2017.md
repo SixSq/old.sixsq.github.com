@@ -18,7 +18,7 @@ The event will take place over 4 days and will include more than 200 sessions an
 
 **SixSq at IoT Week**
 
-This year, IoT week will include presentations of IoT projects carried out in the canton and the city of Geneva. They will be followed by a panel discussion that addresses the problem of federation of several IoT applications throughout the same city. On Tuesday 6 June 2017 at 16:15, SixSq CEO, Marc-Elian Bégin, will be present the topic **“Delivering energy savings with smart street lighting, a CityZen success.”** [CityZen](http://www.cityzen.ch/cityzen_en.html) is an initiative that brings together Swiss companies with expertise in the field of Smart Cities and acts as a centre of competence for cities and communes which need advice on the concept, integration and realisation of Smart City projects
+This year, IoT week will include presentations of IoT projects carried out in the canton and the city of Geneva. They will be followed by a panel discussion that addresses the problem of federation of several IoT applications throughout the same city. On Tuesday 6 June 2017 at 16:15, SixSq CEO, Marc-Elian Bégin, will deliver a presentation entitled **“Delivering energy savings with smart street lighting, a CityZen success.”** [CityZen](http://www.cityzen.ch/cityzen_en.html) is an initiative that brings together Swiss companies with expertise in the field of Smart Cities and acts as a centre of competence for cities and communes which need advice on the concept, integration and realisation of Smart City projects
 
 **When is IoT Week?**
 
