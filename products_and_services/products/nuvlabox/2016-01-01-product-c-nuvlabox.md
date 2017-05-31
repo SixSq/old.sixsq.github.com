@@ -13,7 +13,7 @@ redirect_from:
 image: /img/design/nuvlabox_category.png
 sub: overview
 subtitle: Smart cloud-in-a-box appliance
-summary: A simple and secure private cloud solution which offers easy and affordable access to the benefits of cloud computing.
+summary: Delivering savings with a simple and secure private cloud solution. Reduce operational costs. Improve efficiency.
 twitter-highlight-1-title: What does the NuvlaBox give you?
 twitter-highlight-1-content: An SME private cloud solution or cloud server.
 twitter-highlight-2-title: Price

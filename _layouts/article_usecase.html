@@ -9,18 +9,12 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8">
-            <h1 class="list_title">Use Case: {{ page.title }}</h1>
+            <h1 class="list_title">{{ page.title }}</h1>
             <a class="twitter-share-button"
               href="https://twitter.com/share"
               data-via="sixsq">
-              Tweet
             </a>
           </div>
-        </div>
-        <h4>Context: {{ page.context }}</h4>
-        <h4>User: <a href="/personae/index.html#{{ post.persona }}">{{ page.persona }}</a></h4>
-        <p/>
-      </div>
     </div>
     
     <div class="container spacy">
@@ -43,10 +37,6 @@
         </div>
       {% endif %}
     </div>
-
-    <script type="text/javascript">
-    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
-    </script>
     
     {% include comments.html %}
 
