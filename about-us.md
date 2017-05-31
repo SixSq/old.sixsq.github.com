@@ -1,7 +1,8 @@
 ---
 layout: plain
 title: About Us
-class: about
+class: about_us
+category: about
 permalink: /about-us/
 redirect_from:
   - /about-us.html
