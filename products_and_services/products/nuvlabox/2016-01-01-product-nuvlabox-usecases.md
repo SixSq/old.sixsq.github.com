@@ -1,7 +1,7 @@
 ---
 layout: usecases_index
 title: NuvlaBox
-head-title: NuvlaBox&#58; Examples Use Cases
+head-title: NuvlaBox&#58; Use Cases
 class: usecases
 category: nuvlabox
 group: products_and_services

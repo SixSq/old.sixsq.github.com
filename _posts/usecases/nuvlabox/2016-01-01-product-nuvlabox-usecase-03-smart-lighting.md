@@ -8,13 +8,12 @@ favourite: true
 context_type: sme
 image: /img/content/street_lighting.jpg
 ---
+As part of SixSq's drive to deliver affordable smart city solutions, we have integrated the NuvlaBox into a smart street lighting solution which brings an unparalleled opportunity to deliver savings.  By implementing this solution, cities can **reduce energy consumption by at least 30%**, whilst still respecting safety standards. This solution has been developed in conjunction with [Schréder Swiss](http://www.schreder.com/fr-ch){:target="_blank"}. 
 
-As part of SixSq's drive to deliver affordable smart city solutions, the NuvlaBox has been integrated into a smart street lighting application which brings an unparalleled opportunity to **deliver savings** to customers who are struggling to address environmental issues while respecting safety standards. By implementing this solution, cities can reduce energy consumption by at least 30%. This solution has been developed in conjunction with [Schréder Swiss](http://www.schreder.com/fr-ch). 
+To find out more, take a look at our Solutions Brief.
 
-To find out more, get in touch with the SixSq team.
-
-<a href="/contact/#contact-us-form" class="btn btn-primary btn-lg">
-        Contact us &raquo;</a>
+<a href="http://media.sixsq.com/smart-street-lighting-for-smart-cities" class="btn btn-primary btn-lg">
+      Read more &raquo;</a>
 
 
 For more on **Smart Cities**, check out our [blog](http://media.sixsq.com/blog/what-is-a-smart-city).
