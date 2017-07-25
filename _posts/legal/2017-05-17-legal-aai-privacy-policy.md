@@ -9,7 +9,7 @@ permalink: /legal/aai_privacy
 redirect_from:
   - /legal/aai_privacy.html
 applicable_from: 17/05/2017
-last_update: 17/05/2017
+last_update: 25/07/2017
 ---
 
 [History](https://github.com/SixSq/sixsq.github.com/commits/master/_posts/legal/2017-05-17-legal-aai-privacy-policy.md)
