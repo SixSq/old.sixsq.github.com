@@ -70,13 +70,15 @@ CH-GE Switzerland Geneva
  - persistent, non-reassigned, opaque identifier for a principal (eduPersonTargetedID)
  - the names of an object (commonName)
  - the name(s) that should appear in white-pages-like applications (displayName:name)
+ - name strings that are the part of a person's name that is not their surname (givenName)
+ - name strings for the family names of a person (sn)
  - long-lived, non re-assignable, omnidirectional identifier (eduPersonUniqueId:sub)
  - URI (either URL or URN) that indicates a set of rights to specific resources (eduPersonEntitlement)
 
 7\. Purpose of the Processing of Personal Data
 ---
 
-7.1 All the personal data is used for user authentication, authorization and access control within SixSq's services and official 3rd party partners (when found appropriate and relevant to suport users, according to section 8.1).
+7.1 All the personal data is used for user authentication, authorization and access control within SixSq's services and official 3rd party partners (when found appropriate and relevant to support users, according to section 8.1).
 
 7.2 No sensitive user information shall be explicit in the Service Provider log files, having these available purely for recording of important service and user events, enabling diagnosis of any possible system failure.
 
