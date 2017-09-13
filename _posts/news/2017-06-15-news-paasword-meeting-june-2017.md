@@ -1,6 +1,6 @@
 ---
 layout: article
-title: PaaSword project
+title: PaaSword Project Improves Trust in Cloud Services
 image: /img/content/logo_paasword.png
 class: news
 category: resources
