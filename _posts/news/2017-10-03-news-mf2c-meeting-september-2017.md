@@ -25,7 +25,7 @@ mF2C has the following three use cases which are very relevant to smart city env
 
 They will be used to demonstrate that fog computing can improve efficiency and services in everyday situtaions.  
 
-During the recent meeting, SixSq took the opportunity to talk with three of the project partners and find out why the project is important and get more insights into the use cases. You can find out more about that on our blog.
+During the recent meeting, SixSq took the opportunity to talk with three of the project partners and find out why the project is important and get more insights into the use cases. You can find out more about that on our [blog](http://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities).
 
 
 For more information, visit the project website [http://www.mf2c-project.eu](http://www.mf2c-project.eu)

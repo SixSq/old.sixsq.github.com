@@ -1,6 +1,7 @@
 ---
-layout: raw
+layout: usecases_index
 title: SlipStream
+head-title: SlipStream&#58; Features
 class: features
 category: slipstream
 group: products_and_services

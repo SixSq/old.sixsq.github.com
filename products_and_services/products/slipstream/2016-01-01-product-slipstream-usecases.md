@@ -1,7 +1,7 @@
 ---
 layout: usecases_index
 title: SlipStream
-head-title: SlipStream&#58; Examples of Use Cases
+head-title: SlipStream&#58; Use Cases
 class: usecases
 category: slipstream
 group: products_and_services
@@ -10,5 +10,5 @@ redirect_from:
   - /products/slipstream-usecases/
   - /products/slipstream-usecases.html
 subtitle: Use Cases
-summary: Case studies and use cases of real applications of SlipStream.
+summary: SlipStream is the powerhouse behind SixSq solutions
 ---

@@ -12,8 +12,8 @@ redirect_from:
   - /products/slipstream-pricing.html
   - /products/slipstream-pricing/
 image: /img/design/slipstream_category.png
-subtitle: Application Deployment Platform
-summary: Affordable, multi-cloud application management platform, built on open source professional software, for the enterprise, with love.
+subtitle: Smart Cloud Application Management
+summary: Affordable, multi-cloud application management platform which supports DevOps, Big Data and Smart City strategies.
 twitter-highlight-1-title: What does SlipStream give you?
 twitter-highlight-1-content: 1-click multi-cloud application deployment platform. Real multi-cloud software solution built on open source software
 twitter-highlight-2-title: Freedom of choice
