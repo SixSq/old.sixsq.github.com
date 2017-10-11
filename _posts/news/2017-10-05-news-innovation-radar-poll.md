@@ -23,7 +23,7 @@ Innovation is vital not only to individual businesses but also to Europe's abili
 SixSq's entry to the competition focuses on **energy-saving** technologies for street lighting systems.
 
 Please take a minute to **vote for SixSq** at **[https://ec.europa.eu/futurium/en/industrial-enabling-tech/sixsq](https://ec.europa.eu/futurium/en/industrial-enabling-tech/sixsq)**
-so that we can be one of the 4 winners from this category and give us the chance to pitch our tech to a jury of experts. Just **2 clicks** is all it takes. 
+so that we can be one of the 4 winners from this category and give us the chance to pitch our tech to a jury of experts. Just **2 clicks** is all it takes. The poll closes 15 October 2017.
 
 Thanks for supporting SixSq! And many thanks to the Swiss State Secretariat for Education, Research and Innovation **[SERI](https://www.sbfi.admin.ch/sbfi/en/home.html)**, [Euresearch](https://www.euresearch.ch/en/) and all our [R&D](http://sixsq.com/r-and-d/) project partners who have made this possible.
 
