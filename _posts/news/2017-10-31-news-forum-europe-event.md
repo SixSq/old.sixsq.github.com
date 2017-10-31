@@ -11,7 +11,9 @@ high-capacity infrastructure & **edge computing capabilities that power smart ci
 
 The event is being organised by [Forum Europe](http://www.forum-europe.com/), a leading EU confernce provider with more than 25 years experience of planning and executing events, and [Hewlett Packard Enterpise](https://www.hpe.com/us/en/home.html).
 
-Marc-Elian will be speaking during the session entitled "Open Ecosystems and Data Governance: Conditions for smart applications." The panel will address the crucial aspect of how cities can create and cater to the demand for transformed public services. Speakers will address how cities can be responsive to citizen’s actual requirements so that services can be targeted at them. 
+Marc-Elian will be contributing to the panel entitled "Open Ecosystems and Data Governance: Conditions for smart applications."  This will address the crucial aspect of how cities can create and cater to the demand for transformed public services and how cities can be responsive to citizen’s actual requirements so that services can be targeted at them. 
+
+Marc-Elian will be specifically focusing on the importance of involving citizens by providing open access to curated and anonymised data, as well as why cities should be encouraged to break their silos in order to deploy cross functional innovation. Operating in this way will encourage technological choices that are future proof and will boost innovation at scale.
 
 If you want an insight into the smart cities of the future, join us in Brussels.
 
