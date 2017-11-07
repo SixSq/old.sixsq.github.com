@@ -12,7 +12,7 @@ In partnership with [Schréder Swiss](http://www.schreder.com/fr-ch), SixSq has 
 
 To find out more, take a look at our Solutions Brief.
 
-<a href="https://cdn2.hubspot.net/hubfs/475360/Data%20Pack/Solutions%20Brief/NuvlaBox%20Smart%20Street%20Lighting%20Application.pdf" class="btn btn-primary btn-lg">
+<a href="https://cdn2.hubspot.net/hubfs/475360/Marketing%20Materials/Solutions%20Brief/NuvlaBox%20Smart%20Street%20Lighting%20Application.pdf" class="btn btn-primary btn-lg">
       Read more &raquo;</a>
 
 Details are also availalbe in French and German on the Schréder website. See [Lösung Volumlight](http://www.schreder.com/de-ch/aboutus/losung-volumlight)&trade; and [Solution Volumlight](http://www.schreder.com/fr-ch/aboutus/Volumlight)&trade;
