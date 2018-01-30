@@ -1,17 +1,65 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
-    {% include top.html %}
-    {% include {{ page.category }}_nav.html %}
-
-    {{ page.content | markdownify }}
-
-    {% include whats_next.html %}
-
-    {% include footer.html %}
-
-    <script type="text/javascript">$("#nav-{{ page.class }}").addClass("active");</script>
-
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+    {{ page.content }}
+		<!-- Start what do you get? -->	
+		<section class="section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated text-center">
+            <div class="icon-title">
+              <i class="fa fa-newspaper-o"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">News</h3>
+						<p class="mt-10 text-center">Read our news and what others write about us.</p>
+            <a class="btn-sixsq mt-20 color-3 text-center" href="/media/news"><i class="fa fa-plus-square-o"></i>  Read</a>
+						</p>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated text-center">
+            <div class="icon-title">
+              <i class="fa fa-video-camera"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">Watch videos</h3>
+						<p class="mt-10 text-center">Sharing our thoughts, tutorials and presentations.</p>
+            <a class="btn-sixsq mt-20 color-3 text-center" href="/media/news"><i class="fa fa-plus-square-o"></i>  Watch</a>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated text-center">
+            <div class="icon-title">
+              <i class="fa fa-rss"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">Blog</h3>
+						<p class="mt-10 text-center">Read our latest thoughts.</p>
+            <a class="btn-sixsq mt-20 color-3 text-center" href="http://media.sixsq.com/blog"><i class="fa fa-plus-square-o"></i>  Read</a>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated text-center">
+            <div class="icon-title">
+              <i class="fa fa-book"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">e-Guides</h3>
+						<p class="mt-10 text-center">Read about our products and services.</p>
+            <a class="btn-sixsq mt-20 color-3 text-center" href="/media/eguides"><i class="fa fa-plus-square-o"></i>  Read</a>
+					</div>
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated text-center">
+            <div class="icon-title">
+              <i class="fa fa-book"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">Solution Briefs</h3>
+						<p class="mt-10 text-center">Read about our solutions.</p>
+            <a class="btn-sixsq mt-20 color-3 text-center" href="/media/solution-briefs"><i class="fa fa-plus-square-o"></i>  Read</a>
+					</div>
+        </div>
+			</div>
+		</section>
+		<!-- Stop what do you get? -->
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
   </body>
 </html>

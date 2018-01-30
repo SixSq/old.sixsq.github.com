@@ -1,0 +1,24 @@
+            <div class="social-media">
+              <ul class="social-media-list">
+                <li>
+                  <!-- Twitter -->
+                  <a class="twitter-share-button"
+                    href="https://twitter.com/share"
+                    data-via="sixsq">
+                    Tweet
+                  </a>
+                </li>
+                <li>
+                  <!-- LinkedIn -->
+                  <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
+                  <script type="IN/Share" data-url={{ page.url | prepend:site.url }}" data-counter="right"></script>
+                </li>
+                <li> 
+                  <!-- Facebook -->
+                  <div class="fb-share-button" data-href="{{ page.url | prepend:site.url }}" data-layout="button_count"></div>
+                </li>
+                <li> 
+                <!-- Google+ -->
+                <div class="g-plus" data-action="share" data-annotation="bubble"></div>
+              </ul>
+            </div>

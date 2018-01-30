@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+  	<main>
+      {% include {{ page.product }}-banner.html %}
+      {% include {{ page.product }}-sub-menu.html %}
+      <section class="section-intro-product section-full section-is-it-for">
+      	<div class="container">
+      		<div class="row justify-content-center mb-100">
+      			<div class="col-md-12 section-title text-center">
+      				<span><h2 class="pb-10 fw700">Select your</h2></span><span class="title-image-product"></span>
+      			</div>
+      		</div>
+      		<div id="hpe" class="row justify-content-center mb-20">
+      			<div class="col-md-12 section-title text-center">
+      				<h2 class="pb-10 fw700">For industrial applications with partner:</h2>
+      			</div>
+      			<div class="col-md-12 text-center mt-20">
+              <img src="/img/content/Hewlett_Packard_Enterprise_logo.png" alt="hpe logo" width="30%">
+      			</div>
+      		</div>
+          <div class="row justify-content-center products-view icon-is-it-for mt-50 mb-50">
+            {% for post in site.products-and-services %}
+              {% if post.product == page.product %}
+                {% if post.class == 'hardware' %}
+                  {% if post.supplier == 'hpe' %}
+                    {% include nuvlabox-device-item.html %}
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+      		</div>
+          <div id="logic-supply" class="row justify-content-center mb-20">
+            <div class="col-md-12 section-title text-center">
+              <h2 class="pb-10 fw700">For desktop applications with partner:</h2>
+            </div>
+            <div class="col-md-12 text-center mt-20">
+              <img src="/img/content/logic-supply-logo.png" alt="logic supply logo" width="30%"/>
+            </div>
+          </div>
+          <div class="row justify-content-center products-view icon-is-it-for logic-supply mt-50 mb-50">
+            {% for post in site.products-and-services %}
+              {% if post.product == page.product %}
+                {% if post.class == 'hardware' %}
+                  {% if post.supplier == 'logic-supply' %}
+                    {% include nuvlabox-device-item.html %}
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+      		</div>
+      	</div>
+      </section>
+      <section>
+      	<div class="container">
+      		<div class="row justify-content-center mt-50 mb-20">
+      			<div class="col-md-12 section-title text-center">
+      				<h2 class="pb-10 fw700">Read the technical specification</h2>
+      			</div>
+      		</div>
+          <div id="nuvlabox-product-description" class="col-md-12 text-center">
+            <p>NuvlaBox is smart cloud-in-a-box appliance which offers easy and affordable access to cloud computing. It comes in two versions, standard and mini, both of which and can be customised with your own branding. The operating system is CentOS, OpenNebula provides the cloud layer and SlipStream is the PaaS. If you want to read more about the software and hardware specifications, take a look at the product description.  </p>
+          </div>
+          <div class="col-md-12 mb-50 text-center">
+            <img style="max-height: 280px;" src="/img/content/product_descriptions/nuvlabox_product_description_screen_shot.png" alt="nuvlabox_product_description"/>
+						<p class="button mt-10 text-center">
+							<a class="btn-sixsq mt-20 color-3 text-center" href="http://media.sixsq.com/nuvlabox-product-description"><i class="fa fa-plus-square-o"></i> Read more</a>
+						</p>
+          </div>
+        </div>
+      </section>
+      {% include whats-next.html %}
+  		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

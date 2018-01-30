@@ -1,0 +1,10 @@
+---
+title: RHEA Group
+image: /img/logo/logo_rhea.png
+head-title: Our Partners&#58; RHEA Group
+class: partners
+category: about
+link: http://rheagroup.com
+---
+
+SixSq is a member of the [RHEA Group](https://www.rheagroup.com), which has over 25 years of experience in the security and space system engineering service market. The RHEA – SixSq partnership, started in 2014, brings with it an established Belgian and Canadian space, defence and cyber security business base that provides SixSq with the required network to develop its ambitious roadmap in Europe and North America. SixSq’s cloud computing knowledge and software development practices combined with RHEA’s strong Space and Cyber security expertise brings more dynamic, more robust, and richer solutions.

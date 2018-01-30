@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<!-- Start what do you get? -->	
+		<section class="bg-white mt-20 section-do-you-get animated">
+			<div class="container">
+				<div class="row justify-content-center pb-50 pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">What do you get?</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center pb-50 pt-50">
+					<div class="product-page-carousel parent-container">
+            {% for post in site.products-and-services %}
+              {% if post.product == page.product %}
+                {% if post.class == 'feature' %}
+                  {% include carousel-with-icon-item.html %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+					</div>
+    			<div class="col-md-12 text-center">
+    			  <a class="btn-sixsq color-dark" href="/products-and-services/{{ page.product }}/features.html"><i class="fa fa-plus-square-o"></i>  Discover all features</a>
+          </div>
+				</div>
+			</div>
+		</section>
+		<!-- Stop what do you get? -->
+		<!-- Start Who is it for? -->	
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center pb-50 pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Who is it for?</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+          {% for post in site.products-and-services %}
+            {% if post.product == page.product %}
+              {% if post.class == 'target-audience' %}
+                {% include highlighted-with-image-item.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+				</div>
+			</div>
+		</section>
+    {{ page.content }}
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

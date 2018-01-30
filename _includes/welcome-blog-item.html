@@ -1,0 +1,12 @@
+<div class="item">
+  <div class="mt-20 image-content">
+		<img src="{{ post.image }}" alt="partners-homepage">
+	</div>
+	<div class="mt-20">
+		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+	</div>
+	<div class="section-news-button float-right ml-20">
+    <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="fa fa-plus-square-o"></i>  Read it</a>
+	  <a class="btn-sixsq mt-20 all" href="http://media.sixsq.com/blog"><i class="fa fa-plus-square-o"></i>  All blog posts</a>
+	</div>
+</div>

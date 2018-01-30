@@ -2,5 +2,41 @@ paginate: 10000
 url: http://sixsq.com
 markdown: kramdown
 encoding: utf-8
-gems:
+collections:
+  blog:
+    output: false
+    permalink: /:collection/:path/
+  customers:
+    output: false
+    permalink: /:collection/:path/
+  jobs:
+    output: true
+    permalink: /:collection/:path/
+  media:
+    output: false
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  r-and-d:
+    output: true
+    permalink: /:collection/:path/
+  partners:
+    output: false
+    permalink: /:collection/:path/
+  products-and-services:
+    output: false
+    permalink: /:collection/:path/
+  solutions:
+    output: false
+    permalink: /:collection/:path/
+  terms:
+    output: true
+    permalink: /:collection/:path/
+  welcome:
+    output: false
+    permalink: /:collection/:path/
+plugins:
   - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap

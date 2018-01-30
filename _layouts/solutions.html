@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+    {{ page.content }}
+		<!-- Start Who is it for? -->	
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center pb-50 pt-50">
+					<div class="col-md-12 section-title text-center">
+						<h2 class="pb-10 fw700">Discover how {{ page.product-name }} is applied in real life.</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="justify-content-center">
+      {% for post in site.solutions %}
+        {% if post.product == page.product %}
+          {% include highlighted-with-image-full-width-item.html %}
+        {% endif %}
+      {% endfor %}
+    </div>
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+    {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

@@ -1,0 +1,83 @@
+.btn-sixsq {
+	line-height: 30px;
+	padding: 0 20px;
+	border-radius: 20px;
+	display: inline-block;
+	font-weight: 500;
+	position: relative;
+	border: 1px solid $light;
+	z-index: 2;
+	color: $light;
+	background: $p1-color;
+	display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  -webkit-transition-property: color;
+  transition-property: color;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  &:before {
+    content: "";
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: $color-primary;
+    border-radius: 20px;
+    -webkit-transform: scaleX(0);
+    transform: scaleX(0);
+    -webkit-transition-property: transform;
+    transition-property: transform;
+    -webkit-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+  }
+  &:hover, &:focus, &:active {
+    color: $light !important;
+  }
+  &:hover:before, &:focus:before, &:active:before {
+    -webkit-transform: scaleX(1);
+    transform: scaleX(1);
+  }	
+	&.color-1 {
+		@include transition (all .3s ease 0s);
+		background: $light;
+		&:hover {
+			background: $light;
+			box-shadow: $hover-shadow;
+			
+			.bottom {
+				p {
+					color: $title-color;
+				}
+			}
+		}
+	}
+	&.color-2{
+		border:1px solid #444;
+		color:#444;
+	}
+	&.color-3{
+		border:1px solid $color-primary;
+		color: $color-primary;
+	}
+	&.color-dark{
+		background: $color-dark;
+		color: #fff;
+		border: 0px;
+	}
+	&.all{
+		background: $color-primary;
+		color: #fff;
+		border: 0px;
+	}
+}

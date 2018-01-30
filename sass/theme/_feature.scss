@@ -1,0 +1,18 @@
+.line {
+	width: 100%;
+	height: 1px;
+	background: $border-color;
+}
+.line-control {
+	left: 50%;
+	transform: translateX(-50%);
+	bottom: 0;
+	position: absolute;
+}
+.icon-title {
+	text-align: center;
+  i {
+  	font-size: 600%;
+    color: $color-primary;
+  }
+}

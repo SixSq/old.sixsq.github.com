@@ -1,0 +1,48 @@
+.solution-section {
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: center top;
+  height: auto;
+  min-height: 200px;
+	position: relative;
+	z-index: 100;
+  padding: 60px 0;
+  .content {
+    height: auto;
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparentize(black, 0.5) !important;
+    padding: 20px;
+	}
+  h2 {
+    padding: 20px;
+    color: white !important;
+  }
+  a {
+    color: white !important;
+    font-weight: bold;
+  }
+  &.solution-nuvlacity-satellite {
+  	background-image: url(/img/content/connected_world.jpg);
+  }
+  &.solution-nuvlacity-security {
+  	background-image: url(/img/content/Security_padlocks.jpg);
+  }
+  &.solution-nuvlacity-volumlight {
+  	background-image: url(/img/content/street_lighting.jpg);
+  }
+  &.solution-nuvlaoutpost-remote-communities {
+  	background-image: url(/img/content/street_lighting.jpg);
+  }
+  &.solution-nuvlaoutpost-education {
+  	background-image: url(/img/content/street_lighting.jpg);
+  }
+  &.solution-nuvlascience-hnscicloud {
+  	background-image: url(/img/content/street_lighting.jpg);
+  }
+  &.solution-nuvlascience-gnss {
+  	background-image: url(/img/content/street_lighting.jpg);
+  }
+}

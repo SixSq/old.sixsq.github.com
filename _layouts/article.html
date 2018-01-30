@@ -1,84 +1,20 @@
 <!DOCTYPE html>
-<html prefix="og: http://ogp.me/ns#">
+<html>
   {% include head.html %}
-  <body>
-    <!-- Facebook SDK -->
-    <div id="fb-root"></div>
-    <script>(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
-        fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));</script>
-
-    <!-- Google+ share SDK -->
-    <script src="https://apis.google.com/js/platform.js" async defer>
-      {lang: 'en-GB'}
-    </script>
-
-    {% include top.html %}
-    {% include {{ page.category }}_nav.html %}
-    <div class="jumbotron">
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<section class="section-article mt-20">
       <div class="container">
-        <div class="row">
-          <!-- Social network shares -->
-          <div class="col-md-8">
-            <h1 class="list_title">{{ page.title }}</h1>
-            <!-- Twitter -->
-            <a class="twitter-share-button"
-              href="https://twitter.com/share"
-              data-via="sixsq">
-              Tweet
-            </a>
-            <!-- LinkedIn -->
-            <script src="//platform.linkedin.com/in.js" type="text/javascript"> lang: en_US</script>
-            <script type="IN/Share" data-url={{ page.url | prepend:site.url }}" data-counter="right"></script>
-            <!-- Facebook -->
-            <div class="fb-share-button" data-href="{{ page.url | prepend:site.url }}" data-layout="button_count"></div>
-            <!-- Google+ -->
-            <div class="g-plus" data-action="share" data-annotation="bubble"></div>
-          </div>
-          <div class="col-md-4">
-            {% if page.image %}
-              <img style="padding-top: 10px; max-height: 11em;" src="{{ page.image }}" />
-            {% endif %}
-          </div>
-        </div>
-        {% if page.class == "news" or page.class == "jobs" %}
-        <p/>
-        <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
-        {% endif %}
-        {% if page.author %}
-        <div class="date">{{ page.date | date: "%d %B %Y" }} - by {{ page.author }}</div>
-        {% endif %}
-        <p/>
+        {{ page.content }}
       </div>
-    </div>
-    
-    <div class="container spacy">
-      {% if page.category == "blog" %}
-      <img class="blog-category" src="{{ page.image }}" alt="category" />
-      {% endif %}
-      {{ page.content | markdownify }}
-      <a class="twitter-share-button"
-        href="https://twitter.com/share"
-        data-via="sixsq">
-      Tweet
-      </a>
-	</div>
-
-    <script type="text/javascript">
-    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
-    </script>
-    
-    {% include comments.html %}
-
-    {% include whats_next.html %}
-
-    {% include footer.html %}
-
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-
+    </section>
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
   </body>
 </html>
