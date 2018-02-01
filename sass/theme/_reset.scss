@@ -280,8 +280,6 @@ td, th {
 	}
 }
 .section-115 { padding: 115px 0; }
-
-
 .flex { @include flexbox();}
 .inline-flex { @include inline-flex();}
 .flex-grow { @include flex-grow(1);}
@@ -305,46 +303,45 @@ td, th {
 .relative {position: relative;}
 .overflow-hidden {overflow: hidden; position: relative;}
 .overlay {
-    position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
-    &.op-2 {
-        background-color: rgba($dark, 0.2);
-    }
-    &.op-3 {
-        background-color: rgba($dark, 0.3);
-    }
-    &.op-4 {
-        background-color: rgba($dark, 0.4);
-    }
-    &.dark, &.op-5 {
-        background-color: rgba(#000, 0.5);
-    }
-    &.op-6 {
-        background-color: rgba($dark, 0.6);
-    }
-    &.op-7 {
-        background-color: rgba($dark, 0.7);
-    }
-    &.dark-3, &.dark-8, &.op-8 {
-        background-color: rgba($dark, 0.8);
-    }
-    &.dark-9 {
-        background-color: rgba($dark, 0.9);
-    }
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  &.op-2 {
+      background-color: rgba($dark, 0.2);
+  }
+  &.op-3 {
+      background-color: rgba($dark, 0.3);
+  }
+  &.op-4 {
+      background-color: rgba($dark, 0.4);
+  }
+  &.dark, &.op-5 {
+      background-color: rgba(#000, 0.5);
+  }
+  &.op-6 {
+      background-color: rgba($dark, 0.6);
+  }
+  &.op-7 {
+      background-color: rgba($dark, 0.7);
+  }
+  &.dark-3, &.dark-8, &.op-8 {
+      background-color: rgba($dark, 0.8);
+  }
+  &.dark-9 {
+      background-color: rgba($dark, 0.9);
+  }
 }
-
 .container {
-    max-width: none;
-    &.fullwidth {
-        width: 100%;
-    }
-    &.nopadding {
-        padding-left: 0;
-        padding-right: 0;
-    }
+  max-width: none;
+  &.fullwidth {
+      width: 100%;
+  }
+  &.nopadding {
+      padding-left: 0;
+      padding-right: 0;
+  }
 }
 .nopadding {
     padding: 0;
@@ -353,26 +350,25 @@ td, th {
     background: #f9fafc;
 }
 .no-flex-xs {
-    @include mobile {
-        display: block !important;
-    }
+  @include mobile {
+      display: block !important;
+  }
 }
-
 .row {
-    &.no-margin {
-        margin-left: 0;
-        margin-right: 0;
-    }
+  &.no-margin {
+      margin-left: 0;
+      margin-right: 0;
+  }
 }
 .red-sixsq {
 	color: $color-primary !important;
 	
 }
-.line-divide{
-		width: 15px;
-		border-bottom: 1px solid #333;;
-		z-index: 10;
-	}
+.line-divide {
+	width: 15px;
+	border-bottom: 1px solid #333;;
+	z-index: 10;
+}
 .widget-section {
 	height: 25px;
 	width: 25px;
@@ -384,28 +380,27 @@ td, th {
 	z-index: 9;
 	padding-top: 0px;
 	position: relative;
-		&:before{
-			position: absolute;
-			content: "";
-			width: 69px;
-			height: 1px;
-			background-color: #333;
-			top: 12px;
-			left: 50%;
-			margin-left: -92px;
-		}
-		&:after{
-			position: absolute;
-			content: "";
-			width: 69px;
-			height: 1px;
-			background-color: #333;
-			top: 12px;
-			right: 50%;
-			margin-right: -92px;
-
-		}
-	i{
+	&:before {
+		position: absolute;
+		content: "";
+		width: 69px;
+		height: 1px;
+		background-color: #333;
+		top: 12px;
+		left: 50%;
+		margin-left: -92px;
+	}
+	&:after {
+		position: absolute;
+		content: "";
+		width: 69px;
+		height: 1px;
+		background-color: #333;
+		top: 12px;
+		right: 50%;
+		margin-right: -92px;
+	}
+	i {
 		padding-bottom: 2px;
 		color: $color-primary;
 	}
@@ -414,7 +409,7 @@ td, th {
 	font-size: 18px;
 	color: #333;
 }
-.bg-grey-f9{
+.bg-grey-f9 {
 	background: $bg-grey-f9;
 }
 .bg-white {

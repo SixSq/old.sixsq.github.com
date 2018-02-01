@@ -2,19 +2,17 @@
 	padding: 40px;
 	background: $gray-bg;
 	z-index: 120;
-	.title-need-contact{
+	.title-need-contact {
 		padding: 20px 0px;
 		@include mobile {
-					text-align: center;
-				}
-		.icon-newsletter{
+      text-align: center;
+		}
+		.icon-newsletter {
 			display: block;
 			float: left;
-			i{
+			i {
 				color: $color-primary;
 				font-size: 68px;
-				
-				
 			}
 		}
 		.title-newsletter {
@@ -46,8 +44,8 @@
 		}
 	}
 }
-.subscribe-field {
-	input {
+.section-newsletter, .hs-form-field {
+	.hs-input {
 		width: 74%;
 		line-height: 49px;
 		padding: 0 15px;
@@ -62,12 +60,12 @@
 			box-shadow: $hover-shadow;
 		}
 	}
-	button {
+	button, .hs-button {
 		padding: 0px 10px 0px 10px;
-		border: none;
+    color: $light;
 		cursor: pointer;
-		background: #ddd;
-		margin: 0;
+  	background: $color-dark;
+		margin: 20px 0;
 		@include transition (all .3s ease);
 		span {
 			font-weight: 600;
@@ -87,7 +85,5 @@
 		&:focus {
 			outline: none;
 		}
-		
-		
 	}
 }

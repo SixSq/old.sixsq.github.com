@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-r-and-d
 title: PaaSword 
 head-title: PaaSword&#58; security and data protection in the cloud
 image: /img/logo/logo_paasword.png
@@ -7,6 +7,9 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+website: 
+duration: 
+partners: 
 ---
 
 Security and data protection issues are a significant barrier to wider

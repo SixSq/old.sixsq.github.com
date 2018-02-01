@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-r-and-d
 title: EU-SEC
 head-title: EU-SEC&#58; portable, inexpensive, self managing &amp; secure cloud
 image: /img/logo//logo_EU_SEC.png
@@ -7,6 +7,8 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+website: http://www.sec-cert.eu
+duration: 36 Months (ends 31 December 2019)
 ---
 
 The EU-SEC project is studying ways to improve approaches to trust, assurance and compliance in the ICT market. To achieve its goal the project EU-SEC will create a framework under which existing, certification and assurance approaches in the ICT market can co-exist.
@@ -15,12 +17,6 @@ The EU-SEC framework will equip stakeholders in the ICT security ecosystem with 
 
 **Funding** EU-SEC is funded through the European Commission's H2020
   programme under grant agreement 731845 . SixSq is funded by SERI under contract number 17.0004.
-
-**Duration:** 36 Months (ends 31 December 2019) 
-
-**Project website:** [http://www.sec-cert.eu][web]
-
-**Partners:** 
 
 The project involves nine partners from seven countries:
 
@@ -39,12 +35,3 @@ The project involves nine partners from seven countries:
 - [PwC](http://www.pwc.de/en/), Germany
 
 - [SixSq](http://sixsq.com), Switzerland 
-
-[web]: http://www.sec-cert.eu
-
-
-
-
-
-
-

@@ -80,9 +80,9 @@
 							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
 						</div>
 						<div class="news-homepage-carousel active-screen-news animated">
-              {% for post in site.news %}
-                {% if post.top-story == true %}
-                  {% include welcome-news-item.html %}
+              {% for post in site.welcome %}
+                {% if post.product == 'quotes' %}
+                  {% include welcome-quotes-item.html %}
                 {% endif %}
               {% endfor %}
 						</div>

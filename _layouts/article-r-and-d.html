@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<section class="section-article mt-20">
+      <div class="container">
+        <div class="row">
+          <!-- Social network shares -->
+          <div class="col-md-8">
+            <p><strong>Website: </strong><a href="{{ page.website }}">{{ page.website }}</a></p>
+            <p><strong>Duration: </strong>36 Months (ended November 2015)</p>
+            <p><strong>Partners: </strong>8 lead by [Athena](http://www.athena-innovation.gr)</p>
+          </div>
+          <div class="col-md-4">
+            {% if page.image %}
+              <img src="{{ page.image }}" />
+            {% endif %}
+          </div>
+          <div class="col-md-12">
+            {{ page.content | markdownify }}
+          </div>
+        </div>
+      </div>
+    </section>
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-r-and-d
 title: mF2C  
 head-title: mF2C&#58; addressing the need for an open and coordinated management of fog and cloud computing 
 image: /img/logo/logo_mf2c.png
@@ -7,7 +7,11 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+website: 
+duration: 
+partners: 
 ---
+
 **Mobile Fog-to-Cloud**
 	
 **Fog computing** brings cloud computing capabilities closer to the end-device and users. When put together, cloud and fog computing create a new stack of resources, which we refer to as Fog-to-Cloud (F2C), creating the need for a new, open and coordinated management ecosystem. The mF2C project sets the goal of designing an open, secure, decentralized, multi-stakeholder management framework, including novel programming models, privacy and security, data storage techniques, service creation, brokerage solutions, SLA policies, and resource orchestration methods. The framework sets the foundations for a novel distributed system architecture, developing a proof-of-concept system and platform, to be tested and validated in real-world use cases, as envisioned by the industrial partners in the consortium with significant interest in rapid innovation in the cloud computing sector.

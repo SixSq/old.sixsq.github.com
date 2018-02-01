@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-r-and-d
 title: SCISSOR  
 head-title: SCISSOR&#58; security monitoring for industrial control systems
 image: /img/logo/logo_scissor.png
@@ -7,6 +7,9 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+website: 
+duration: 
+partners: 
 ---
 
 With a holistic approach, [SCISSOR][web] designs a new generation
