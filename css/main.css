@@ -1277,7 +1277,7 @@ td, th {
   .section-full {
     padding-bottom: 0; } }
 
-.btn-sixsq {
+.btn-sixsq, .hs-button {
   line-height: 30px;
   padding: 0 20px;
   border-radius: 20px;
@@ -1301,7 +1301,7 @@ td, th {
   transition-property: color;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s; }
-  .btn-sixsq:before {
+  .btn-sixsq:before, .hs-button:before {
     content: "";
     position: absolute;
     z-index: -1;
@@ -1319,33 +1319,33 @@ td, th {
     transition-duration: 0.3s;
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out; }
-  .btn-sixsq:hover, .btn-sixsq:focus, .btn-sixsq:active {
+  .btn-sixsq:hover, .btn-sixsq:focus, .btn-sixsq:active, .hs-button:hover, .hs-button:focus, .hs-button:active {
     color: #fff !important; }
-  .btn-sixsq:hover:before, .btn-sixsq:focus:before, .btn-sixsq:active:before {
+  .btn-sixsq:hover:before, .btn-sixsq:focus:before, .btn-sixsq:active:before, .hs-button:hover:before, .hs-button:focus:before, .hs-button:active:before {
     -webkit-transform: scaleX(1);
     transform: scaleX(1); }
-  .btn-sixsq.color-1 {
+  .btn-sixsq.color-1, .hs-button.color-1 {
     -webkit-transition: all 0.3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
     transition: all 0.3s ease 0s;
     background: #fff; }
-    .btn-sixsq.color-1:hover {
+    .btn-sixsq.color-1:hover, .hs-button.color-1:hover {
       background: #fff;
       box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.1); }
-      .btn-sixsq.color-1:hover .bottom p {
+      .btn-sixsq.color-1:hover .bottom p, .hs-button.color-1:hover .bottom p {
         color: #333333; }
-  .btn-sixsq.color-2 {
+  .btn-sixsq.color-2, .hs-button.color-2 {
     border: 1px solid #444;
     color: #444; }
-  .btn-sixsq.color-3 {
+  .btn-sixsq.color-3, .hs-button.color-3 {
     border: 1px solid #9B1313;
     color: #9B1313; }
-  .btn-sixsq.color-dark {
+  .btn-sixsq.color-dark, .hs-button.color-dark {
     background: #333;
     color: #fff;
     border: 0px; }
-  .btn-sixsq.all {
+  .btn-sixsq.all, .hs-button.all {
     background: #9B1313;
     color: #fff;
     border: 0px; }
@@ -1360,6 +1360,17 @@ td, th {
     font-size: 250%;
     margin-top: 10px;
     margin-bottom: 20px; }
+  .section-article strong {
+    font-size: 110%; }
+  .section-article img {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    max-height: 21em; }
+  .section-article ol, .section-article ul {
+    margin-left: 20px;
+    margin-bottom: 20px;
+    padding: 0;
+    list-style: inherit; }
 
 .section-top .background-sx {
   background: url("/img/news/news-background-sx.png");
@@ -1790,7 +1801,7 @@ td, th {
       .section-newsletter .newsletter .newsletter-text p {
         text-align: center; } }
 
-.subscribe-field input {
+.section-newsletter .hs-input, .hs-form-field .hs-input {
   width: 74%;
   line-height: 49px;
   padding: 0 15px;
@@ -1800,37 +1811,37 @@ td, th {
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease; }
   @media (max-width: 767px) {
-    .subscribe-field input {
+    .section-newsletter .hs-input, .hs-form-field .hs-input {
       width: 100%;
       padding: 0 10px; } }
-  .subscribe-field input:focus {
+  .section-newsletter .hs-input:focus, .hs-form-field .hs-input:focus {
     outline: none;
     box-shadow: 0px 25px 50px 0px rgba(0, 0, 0, 0.1); }
-.subscribe-field button {
+.section-newsletter button, .section-newsletter .hs-button, .hs-form-field button, .hs-form-field .hs-button {
   padding: 0px 10px 0px 10px;
-  border: none;
+  color: #fff;
   cursor: pointer;
-  background: #ddd;
-  margin: 0;
+  background: #333;
+  margin: 20px 0;
   -webkit-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease; }
-  .subscribe-field button span {
+  .section-newsletter button span, .section-newsletter .hs-button span, .hs-form-field button span, .hs-form-field .hs-button span {
     font-weight: 600;
     line-height: 50px;
     position: relative;
     z-index: 2; }
   @media (max-width: 767px) {
-    .subscribe-field button {
+    .section-newsletter button, .section-newsletter .hs-button, .hs-form-field button, .hs-form-field .hs-button {
       width: 100%;
       display: inline-block;
       padding: 0;
       text-align: center; } }
   @media (max-width: 767px) {
-    .subscribe-field button {
+    .section-newsletter button, .section-newsletter .hs-button, .hs-form-field button, .hs-form-field .hs-button {
       padding: 0 20px; } }
-  .subscribe-field button:focus {
+  .section-newsletter button:focus, .section-newsletter .hs-button:focus, .hs-form-field button:focus, .hs-form-field .hs-button:focus {
     outline: none; }
 
 @media (max-width: 767px) {
