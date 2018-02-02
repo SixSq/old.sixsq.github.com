@@ -4,7 +4,6 @@
   <body class="home-sixsq">
     {% include welcome-header.html %}
     <main>
-      <!-- Start Banner -->
       <section class="default-banner banner-slider-1">
       	<div class="container">
       		<div class="row height-850">
@@ -20,118 +19,122 @@
       		</div>
       	</div>
       </section>
-      <!-- End Start Banner -->
-		<div class="section-services section-full">
-			<div class="container">
-				<div class="row justify-content-center">
-						<div class="col-md-12 section-title text-center mb-50">
-							<h2 class="pb-10 fw700">Solutions.</h2>
-							<p class="sub-title fw500">Delivering savings with simple and secure cloud and edge solutions.</p>
-							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
-						</div>
-				</div>
-			</div>
-      {% for post in site.welcome %}
-        {% if post.class == 'services' %}
-          {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
-          {% include welcome-services-item.html %}
-        {% endif %}
-      {% endfor %}
-			<div class="clearfix"></div>
-		</div>
-		<!-- End Services -->
-    {% include welcome-newsletter.html %}
-	  <!-- Start Services -->
-	  <section class="section-full section-top relative">
-			<div class="background-dx"></div>
-			<div class="background-sx"></div>
-			<div class="container">
-				<div class="row">
-					<div class="col-md-6 col-sm-12 news-homepage">
-						<h2 class="mb-40 fw700">In Focus.</h2>
-						<div class="news-homepage-carousel animated">
-              {% for post in site.news %}
-                {% if post.in-focus %}
-                  {% include welcome-in-focus-item.html %}
-                {% endif %}
-              {% endfor %}
-						</div>
-					</div>
-					<div class="col-md-6 col-sm-12">
-						<h2 class="mb-40 fw700 text-center">Answering the needs of.</h2>
-						<div class="focus-need">
-              {% for post in site.welcome %}
-                {% if post.class == 'target-audience' %}
-                  {% include welcome-target-audience-item.html %}
-                {% endif %}
-              {% endfor %}
-						</div>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- Start Section News -->
-		<section class="section-full section-news bg-grey-f9">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="section-title text-center">
-							<h2 class="pb-10 fw700">What people say about us.</h2>
-							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
-						</div>
-						<div class="news-homepage-carousel active-screen-news animated">
-              {% for post in site.welcome %}
-                {% if post.product == 'quotes' %}
-                  {% include welcome-quotes-item.html %}
-                {% endif %}
-              {% endfor %}
-						</div>
-					</div>
-          {% for post in site.welcome %}
-            {% if post.class == 'video' %}
-              {% include welcome-video.html %}
-            {% endif %}
-          {% endfor %}
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</section>	
-		<section class="section-full section-news">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="section-title text-center">
-							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
-							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
-						</div>
-						<div class="news-homepage-carousel active-screen-news animated">
-              {% for post in site.partners %}
-                <!-- {% if post.top-story == true %} -->
-                  {% include welcome-partners-item.html %}
-                <!-- {% endif %} -->
-              {% endfor %}
-						</div>
-					</div>
-					<div class="col-lg-6 col-md-6 col-sm-12">
-						<div class="section-title text-center">
-							<h2 class="pb-10 fw700">Our Latest Thoughts.</h2>
-							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
-						</div>
-						<div class="news-homepage-carousel active-screen-news animated">
-              {% for post in site.blog %}
-                {% if post.top-story == true %}
-                  {% include welcome-in-focus-item.html %}
-                {% endif %}
-              {% endfor %}
-						</div>
-					</div>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-		</section>	
-		<!-- End Section News -->	
-    {% include whats-next.html %}
-    {% include primary-footer.html %}
+  		<div class="section-services section-full">
+  			<div class="container">
+  				<div class="row justify-content-center">
+  						<div class="col-md-12 section-title text-center mb-50">
+  							<h2 class="pb-10 fw700">Solutions.</h2>
+  							<p class="sub-title fw500">Delivering savings with simple and secure cloud and edge solutions.</p>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+  						</div>
+  				</div>
+  			</div>
+        {% for post in site.welcome %}
+          {% if post.class == 'services' %}
+            {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+            {% include welcome-services-item.html %}
+          {% endif %}
+        {% endfor %}
+  			<div class="clearfix"></div>
+  		</div>
+      {% include welcome-newsletter.html %}
+  	  <section class="section-full section-top section-news relative">
+  			<div class="background-dx"></div>
+  			<div class="background-sx"></div>
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20">
+  						<div class="section-title text-center">
+  							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.partners %}
+                  <!-- {% if post.top-story == true %} -->
+                    {% include welcome-partners-item.html %}
+                  <!-- {% endif %} -->
+                {% endfor %}
+  						</div>
+  					</div>
+  					<div class="col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-20">
+    						<h2 class="pb-10 fw700 text-center">Answering the needs of.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+              </div>
+  						<div class="focus-need">
+                {% for post in site.welcome %}
+                  {% if post.class == 'target-audience' %}
+                    {% include welcome-target-audience-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  		</section>
+  		<!-- Start Section News -->
+  		<section class="section-full section-news pb-50 bg-grey-f9 relative">
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-lg-6 col-md-6 col-sm-12">
+  						<div class="section-title text-center">
+  							<h2 class="pb-10 fw700">What people say about us.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.welcome %}
+                  {% if post.product == 'quotes' %}
+                    {% include welcome-quotes-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+            {% for post in site.welcome %}
+              {% if post.class == 'video' %}
+                {% include welcome-video.html %}
+              {% endif %}
+            {% endfor %}
+  				</div>
+  			</div>
+  		</section>	
+  		<section class="section-full section-top section-news relative">
+  			<div class="background-dx"></div>
+  			<div class="background-sx"></div>
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-40">
+                <h2 class="pb-10 fw700">In Focus.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+              </div>
+  						<div class="news-homepage-carousel animated">
+                {% for post in site.news %}
+                  {% if post.in-focus %}
+                    {% include welcome-in-focus-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  					<div class="col-lg-6 col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-40">
+  							<h2 class="pb-10 fw700">Our Latest Thoughts.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.blog %}
+                  {% if post.top-story == true %}
+                    {% include welcome-in-focus-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  				</div>
+  				<div class="clearfix"></div>
+  			</div>
+  		</section>	
+  		<!-- End Section News -->	
+      {% include whats-next.html %}
+      {% include primary-footer.html %}
     </main>
     {% include secondary-footer.html %}
   </body>

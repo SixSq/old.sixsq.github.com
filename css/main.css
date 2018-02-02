@@ -439,7 +439,7 @@ td, th {
   transition: all 0.3s ease 0s; }
 
 .section-full {
-  padding: 80px 0; }
+  padding: 40px 0; }
   @media (max-width: 767px) {
     .section-full {
       padding: 60px 0; } }
@@ -1515,7 +1515,7 @@ td, th {
     .section-services {
       padding-bottom: 100px; } }
   .section-services .services-volumlight {
-    background: url(../img/section-services/section-energy-saving.png) no-repeat;
+    background: url(/img/section-services/section-energy-saving.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -1881,16 +1881,17 @@ td, th {
     .section-news .active-screen-news .owl-controls .owl-dots .owl-dot.active {
       position: relative;
       background: #9B1313; }
-@media (max-width: 767px) {
-  .section-news .video-section {
-    margin-top: 100px;
-    margin-bottom: 100px; } }
-.section-news .video-section .content-video {
-  height: 47%;
-  margin-top: 30px; }
-  .section-news .video-section .content-video iframe {
-    height: 100%;
-    width: 100%; }
+.section-news .video-section {
+  margin-bottom: 30px; }
+  @media (max-width: 767px) {
+    .section-news .video-section {
+      margin-top: 100px;
+      margin-bottom: 100px; } }
+  .section-news .video-section .content-video {
+    height: 50%; }
+    .section-news .video-section .content-video iframe {
+      height: 100%;
+      width: 100%; }
 
 .mfp-counter {
   display: none; }
@@ -2164,7 +2165,7 @@ footer .footer-content {
   .solution-section.solution-nuvlacity-security {
     background-image: url(/img/content/Security_padlocks.jpg); }
   .solution-section.solution-nuvlacity-volumlight {
-    background-image: url(/img/content/street_lighting.jpg); }
+    background-image: url(/img/banner/volumlight.png); }
   .solution-section.solution-nuvlaoutpost-remote-communities {
     background-image: url(/img/content/street_lighting.jpg); }
   .solution-section.solution-nuvlaoutpost-education {

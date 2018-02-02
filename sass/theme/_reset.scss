@@ -274,7 +274,8 @@ td, th {
 .text-italic { font-style: italic; }
 .text-white { color: #fff; }
 .transition  { @include transition();}
-.section-full { padding: 80px 0; 
+.section-full {
+  padding: 40px 0; 
 	@media (max-width: 767px) {
 		padding: 60px 0;
 	}
@@ -294,8 +295,8 @@ td, th {
 .space-around {@include justify-content(space-around);}
 .flex-column {@include flex-direction(column);}
 .flex-cell {
-    @include flexbox();
-    @include flex-grow(1);
+  @include flexbox();
+  @include flex-grow(1);
 }
 .display-table {display: table;}
 .light {color: $light;}

@@ -10,7 +10,7 @@
 		<!-- Start Who is it for? -->	
 		<section class="mt-20 section-is-it-for">
 			<div class="container">
-				<div class="row justify-content-center pb-50 pt-50">
+				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
 						<h2 class="pb-10 fw700">Discover how {{ page.product-name }} is applied in real life.</h2>
 					</div>
@@ -20,6 +20,7 @@
 		<div class="justify-content-center">
       {% for post in site.solutions %}
         {% if post.product == page.product %}
+					<div class="widget-section text-center mt-20 mb-20"><i class="fa fa-circle"></i></div>
           {% include highlighted-with-image-full-width-item.html %}
         {% endif %}
       {% endfor %}
