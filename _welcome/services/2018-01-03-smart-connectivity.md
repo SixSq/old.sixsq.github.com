@@ -1,7 +1,7 @@
 ---
 title: NuvlaOutpost with Smart connectivity
-link: /solutions
-action-text: To find out more, take a look at our Solutions Brief.
+link: /solutions/nuvlaoutpost/overview
+action-text: To find out more, take a look at our eGuide.
 class: services
 css-class: services-satellite
 ---

@@ -1,6 +1,6 @@
 ---
 title: 30% Energy Savings Thanks To Volumlight™ Smart Lighting Solution
-link: /solutions
+link: /solutions/nuvlacity/overview
 action-text: To find out more, take a look at our Solutions Brief.
 class: services
 css-class: services-volumlight
