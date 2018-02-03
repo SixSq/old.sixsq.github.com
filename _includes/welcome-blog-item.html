@@ -1,12 +1,16 @@
 <div class="item">
-  <div class="mt-20 image-content">
-		<img src="{{ post.image }}" alt="partners-homepage">
+  <div class="image-content">
+		<img src="{{ post.image }}" alt="news-homepage">
 	</div>
 	<div class="mt-20">
+    <a href="{{ post.url }}">
+			<h3 class="mb-10">{{ post.short-title }}</h3>
+    </a>
 		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+		<p class="date mb-10">{{ post.date | date: "%d %B %Y" }}</p>
 	</div>
 	<div class="section-news-button float-right ml-20">
-    <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="fa fa-plus-square-o"></i>  Read it</a>
-	  <a class="btn-sixsq mt-20 all" href="http://media.sixsq.com/blog"><i class="fa fa-plus-square-o"></i>  All blog posts</a>
+    <a class="btn-sixsq mt-20 color-2" href="{{ post.url }}"><i class="fa fa-plus-square-o"></i>  Read it</a>
+	  <a class="btn-sixsq mt-20 all" href="/media/news"><i class="fa fa-plus-square-o"></i>  All blog posts</a>
 	</div>
 </div>

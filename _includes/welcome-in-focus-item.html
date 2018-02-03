@@ -1,17 +1,15 @@
 <div class="item">
-	<div class="content">
-    <div class="col-lg-4 col-md-12 col-sm-12 nopadding image-content">
-			<img src="{{ post.image }}" alt="news-homepage">
-		</div>
-		<div class="col-lg-8 col-md-12 col-sm-12 nopadding content-text">
-      <a href="{{ post.url }}">
-  			<h3 class="mb-10">{{ post.short-title }}</h3>
-      </a>
-			<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
-			<p class="date mb-10">{{ post.date | date: "%d %B %Y" }}</p>
-		</div>
+  <div class="image-content">
+    <img src="{{ post.image }}" alt="news-homepage">
 	</div>
-	<div class="section-news-button float-right mr-20">
+	<div class="mt-20">
+    <a href="{{ post.url }}">
+			<h3 class="mb-10">{{ post.short-title }}</h3>
+    </a>
+		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+		<p class="date mb-10">{{ post.date | date: "%d %B %Y" }}</p>
+	</div>
+	<div class="section-news-button float-right ml-20">
     <a class="btn-sixsq mt-20 color-2" href="{{ post.url }}"><i class="fa fa-plus-square-o"></i>  Learn more</a>
 	  <a class="btn-sixsq mt-20 all" href="/media/news"><i class="fa fa-plus-square-o"></i>  All news</a>
 	</div>

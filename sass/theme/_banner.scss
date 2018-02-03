@@ -6,7 +6,7 @@
 	&.banner-slider-1 {
 		background: url(/img/banner/background.jpg) no-repeat bottom center/cover;
     @include mobile {
-      background: url(/img/slider/slider-1.jpg) no-repeat;
+      background: url(/img/banner/background.jpg) no-repeat;
       background-size: cover;
       background-position: left center;
     }
@@ -18,10 +18,10 @@
 	background: url(/img/banner/banner-product.jpg) no-repeat bottom center/cover;
 	background-size: cover;
 	height: auto;
-	 @include mobile {
-	 	background: url(/img/banner/banner-product.jpg) no-repeat;
-	 	background-size: cover;
-	 	background-position: left center;
+  @include mobile {
+    background: url(/img/banner/banner-product.jpg) no-repeat;
+    background-size: auto 100%;
+    background-position: left center;
 	}
 	&.banner-slider-2 {
 		background: url(/img/banner/banner-product.jpg) no-repeat bottom center/cover;
@@ -157,11 +157,10 @@
 	}
 	.banner-content {
 		p {
-  			font-size: 24px;
-  			width: 60%;
-  			margin-left: auto;
-  			margin-right: auto;
-  			display: block;
+			font-size: 24px;
+			margin-left: auto;
+			margin-right: auto;
+			display: block;
 		}
 	}
 }

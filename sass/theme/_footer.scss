@@ -172,11 +172,13 @@ footer {
         color: $light;
       }
 		}
-		
 		.copyright {
 			margin-top: 5px;
 			font-size: 13px;
 			line-height: 17px;
+			@media (max-width: 767px) {
+				text-align: center !important;
+      }
 		}
 		.terms {
 			font-size: 14px;
@@ -184,9 +186,7 @@ footer {
 			color:$light;
 			@media (max-width: 767px) {
 				text-align: center !important;
-				
 			}
-			
 			a {
 				color: $light;
 				@media (max-width: 767px) {

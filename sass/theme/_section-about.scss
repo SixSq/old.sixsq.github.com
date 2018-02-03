@@ -1,7 +1,58 @@
 //-------- Section-About --------//
-.section-about {
+.section-about, .hs-form-field {
 	h2 {
     font-size: 250%;
     margin-bottom: 20px;
+	}
+  .even {
+		@include mobile {
+			flex-direction: column-reverse;
+		}
+  }
+  img {
+		@include mobile {
+			margin: 20px;
+    }
+  }
+	.hs-input {
+		width: 74%;
+		line-height: 49px;
+		padding: 0 15px;
+		border: 1px solid #ddd;
+		@include transition (all .3s ease);
+		@include mobile {
+			width: 100%;
+			padding: 0 10px;
+		}
+		&:focus {
+			outline: none;
+			box-shadow: $hover-shadow;
+		}
+	}
+	button, .hs-button {
+		padding: 0px 10px 0px 10px;
+    color: $light;
+		cursor: pointer;
+  	background: $color-dark;
+		margin: 20px 0;
+		@include transition (all .3s ease);
+		span {
+			font-weight: 600;
+			line-height: 50px;
+			position: relative;
+			z-index: 2;
+		}
+		@include mobile {
+			width: 100%;
+			display: inline-block;
+			padding: 0;
+			text-align: center;
+		}
+		@include mobile {
+			padding: 0 20px;
+		}
+		&:focus {
+			outline: none;
+		}
 	}
 }

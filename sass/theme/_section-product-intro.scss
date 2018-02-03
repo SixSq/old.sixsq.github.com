@@ -18,6 +18,14 @@
 			margin-left: 10px;
 		}
 	}
+  .hardware-provider {
+    img {
+      width: 30%;
+      @include mobile {
+        width: 70%;
+      }
+    }
+  }
 	.products-view {
 		@media (max-width: 767px) {
 			margin-bottom: 0;

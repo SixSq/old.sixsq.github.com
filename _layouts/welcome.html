@@ -50,9 +50,9 @@
   						</div>
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.partners %}
-                  <!-- {% if post.top-story == true %} -->
+                  {% if post.top-story == true %}
                     {% include welcome-partners-item.html %}
-                  <!-- {% endif %} -->
+                  {% endif %}
                 {% endfor %}
   						</div>
   					</div>
@@ -72,7 +72,6 @@
   				</div>
   			</div>
   		</section>
-  		<!-- Start Section News -->
   		<section class="section-full section-news pb-50 bg-grey-f9 relative">
   			<div class="container">
   				<div class="row">
@@ -97,7 +96,7 @@
   				</div>
   			</div>
   		</section>	
-  		<section class="section-full section-top section-news relative">
+  		<section class="section-full section-top pb-50 section-news relative">
   			<div class="background-dx"></div>
   			<div class="background-sx"></div>
   			<div class="container">
@@ -107,7 +106,7 @@
                 <h2 class="pb-10 fw700">In Focus.</h2>
   							<div class="widget-section text-center mt-20"><i class="fa fa-circle"></i></div>
               </div>
-  						<div class="news-homepage-carousel animated">
+  						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.news %}
                   {% if post.in-focus %}
                     {% include welcome-in-focus-item.html %}
@@ -123,7 +122,7 @@
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.blog %}
                   {% if post.top-story == true %}
-                    {% include welcome-in-focus-item.html %}
+                    {% include welcome-blog-item.html %}
                   {% endif %}
                 {% endfor %}
   						</div>

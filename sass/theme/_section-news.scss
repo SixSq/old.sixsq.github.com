@@ -9,8 +9,14 @@
         display: flex;
         justify-content: center;
 				img {
-          width: 70%;
-          height: 70%;
+          width: auto;
+          height: auto;
+          max-height: 100px;
+      		@media (max-width: 767px) {
+            max-height: inherit;
+            width: 100%;
+            height: 100%;
+      		}
 				}
 			}
 			.content-text {
@@ -31,6 +37,7 @@
 			bottom: 0;
 			margin-left: 15px;
 			margin-top: -25px;
+			margin-bottom: 25px;
 			.owl-dots {
 				.owl-dot {
 					width: 12px;
