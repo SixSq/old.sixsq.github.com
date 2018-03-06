@@ -19,7 +19,9 @@
             {% for post in site.products-and-services %}
               {% if post.product == page.product %}
                 {% if post.class == 'feature' %}
-                  {% include carousel-with-icon-item.html %}
+                  {% if post.main-feature == true %}
+                    {% include carousel-with-icon-item.html %}
+                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endfor %}
