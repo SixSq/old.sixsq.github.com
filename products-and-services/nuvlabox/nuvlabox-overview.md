@@ -13,12 +13,12 @@ meta-keywords: edge, IoT, device, hyperconvergence, plug and play
 
 <section class="mt-20 section-is-it-for bg-white">
 	<div class="container">
-		<div class="row justify-content-center pb-50 pt-50">
+		<div class="row justify-content-center pt-50">
 			<div class="col-md-12 section-title text-center">
 					<h2 class="pb-10 fw700">Choose your hardware.</h2>
 			</div>
 		</div>
-		<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+		<div class="row justify-content-center icon-is-it-for pb-50 pt-25">
 			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
               <img src="/img/content/Hewlett_Packard_Enterprise_logo.png" alt="hpe logo" width="30%">
               <h3 class="mt-20 text-center fw600">For industrial applications</h3>
@@ -36,7 +36,7 @@ meta-keywords: edge, IoT, device, hyperconvergence, plug and play
               </p>
             </div>
 		</div>
-		<div class="row justify-content-center pb-50 pt-50">
+		<div class="row justify-content-center pb-50">
 			<div class="col-md-12 section-title text-center">
 				<h2 class="pb-10 fw700">Or host it yourself on PC compatible platform.</h2>
 			</div>

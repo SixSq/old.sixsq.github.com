@@ -9,7 +9,7 @@
 		<!-- Start what do you get? -->	
 		<section class="bg-white mt-20 section-do-you-get animated">
 			<div class="container">
-				<div class="row justify-content-center pb-50 pt-50">
+				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
 							<h2 class="pb-10 fw700">What do you get?</h2>
 					</div>
@@ -36,7 +36,7 @@
 		<!-- Start Who is it for? -->	
 		<section class="mt-20 section-is-it-for">
 			<div class="container">
-				<div class="row justify-content-center pb-50 pt-50">
+				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
 							<h2 class="pb-10 fw700">Who is it for?</h2>
 					</div>
@@ -45,7 +45,7 @@
           {% for post in site.products-and-services %}
             {% if post.product == page.product %}
               {% if post.class == 'target-audience' %}
-                {% include highlighted-with-image-item.html %}
+                {% include highlighted-with-image-item-no-truncation.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
