@@ -776,7 +776,7 @@ td, th {
 
 .icon-title {
   text-align: center; }
-  .icon-title i {
+  .icon-title svg {
     font-size: 600%;
     color: #9B1313; }
 
@@ -1172,7 +1172,7 @@ td, th {
         color: #fff; }
       .section-do-you-get .product-page-carousel .owl-stage .center .item p {
         color: #fff; }
-      .section-do-you-get .product-page-carousel .owl-stage .center .item i {
+      .section-do-you-get .product-page-carousel .owl-stage .center .item svg {
         color: #fff;
         font-size: 600%; }
   .section-do-you-get .product-page-carousel .owl-stage .item {
@@ -1199,7 +1199,7 @@ td, th {
         @media (max-width: 767px) {
           .section-do-you-get .product-page-carousel .owl-stage .item .content .content-text p {
             line-height: 18px; } }
-    .section-do-you-get .product-page-carousel .owl-stage .item i {
+    .section-do-you-get .product-page-carousel .owl-stage .item svg {
       font-size: 400%; }
 .section-do-you-get .owl-controls {
   margin-top: 30px;
@@ -1829,7 +1829,7 @@ td, th {
     .section-newsletter .title-need-contact .icon-newsletter {
       display: block;
       float: left; }
-      .section-newsletter .title-need-contact .icon-newsletter i {
+      .section-newsletter .title-need-contact .icon-newsletter svg {
         color: #9B1313;
         font-size: 68px; }
     .section-newsletter .title-need-contact .title-newsletter {
@@ -2106,7 +2106,7 @@ td, th {
     @media (max-width: 767px) {
       #footer .footer-content li {
         text-align: center; } }
-    #footer .footer-content li i {
+    #footer .footer-content li svg {
       margin-right: 5px; }
   @media (min-width: 768px) and (max-width: 992px) {
     #footer .footer-content .contact {
@@ -2147,7 +2147,7 @@ footer .footer-social {
       footer .footer-social li a:hover {
         background: #fff;
         color: #333; }
-      footer .footer-social li a i {
+      footer .footer-social li a svg {
         -webkit-transition: all 0.3s ease;
         -moz-transition: all 0.3s ease;
         -o-transition: all 0.3s ease;

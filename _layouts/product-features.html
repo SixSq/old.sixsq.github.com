@@ -19,7 +19,7 @@
           {% for post in site.products-and-services %}
             {% if post.product == page.product %}
               {% if post.class == 'feature' %}
-                {% include highlighted-with-image-item.html %}
+                {% include highlighted-with-image-item-no-truncation.html %}
               {% endif %}
             {% endif %}
           {% endfor %}
