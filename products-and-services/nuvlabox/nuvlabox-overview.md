@@ -9,6 +9,8 @@ summary: Plug-and-play edge device, delivering savings with a simple and secure 
 permalink: /products-and-services/nuvlabox/overview
 meta-description: Plug-and-play edge device, delivering savings with a simple and secure private cloud solution. Build serious IoT capabilities, reduce operational costs and improve efficiency.
 meta-keywords: edge, IoT, device, hyperconvergence, plug and play
+redirect_from:
+  /nuvlabox
 ---
 
 <section class="mt-20 section-is-it-for bg-white">

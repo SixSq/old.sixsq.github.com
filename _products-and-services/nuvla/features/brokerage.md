@@ -2,7 +2,8 @@
 product: nuvla
 title: Cloud Brokerage
 class: feature
-icon: fa-envira
+main-feature: true
+icon: far fa-handshake
 ---
 
 All the clouds to choose from, with:
