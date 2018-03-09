@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Secure and Intelligent Edge Solutions
+title: Secure Edge and IoT Solutions for a Smarter Connected World
 link: /solutions/nuvlacity/overview
 class: banner
 ---

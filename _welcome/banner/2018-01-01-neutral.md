@@ -1,10 +1,8 @@
 ---
 layout: welcome
-title: Secure IoT services for a smarter connected world
-link: /solutions/nuvlacity/overview
+title: Hybrid IT and Multi-Cloud Solution for Big Data
+link: /solutions/nuvlascience/overview
 class: banner
 ---
 
-Our cutting-edge cloud technologies simplify the delivery of IoT services to bring cities the systems they need. 
-
-
+Big data analytics in the cloud and at the edge for research, scientific and academic communities.
