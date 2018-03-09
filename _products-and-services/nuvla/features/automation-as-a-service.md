@@ -2,7 +2,8 @@
 product: nuvla
 title: Application Deployment Automation
 class: feature
-icon: fa-envira
+main-feature: true
+icon: fa-bolt
 ---
 
 Benefit from high level of automation:

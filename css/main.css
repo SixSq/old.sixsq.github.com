@@ -1083,6 +1083,10 @@ td, th {
 
 .section-is-it-for .icon-is-it-for {
   min-height: 450px; }
+  .section-is-it-for .icon-is-it-for ol, .section-is-it-for .icon-is-it-for ul {
+    margin: inherit;
+    padding: 0px 0px 20px 25px;
+    list-style: inherit; }
   .section-is-it-for .icon-is-it-for .icon {
     padding: 40px;
     height: 100%; }

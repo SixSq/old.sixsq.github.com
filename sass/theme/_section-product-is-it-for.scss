@@ -1,6 +1,11 @@
 .section-is-it-for {
 	.icon-is-it-for {
 		min-height: 450px;
+    ol, ul {
+      margin: inherit;
+      padding: 0px 0px 20px 25px;;
+      list-style: inherit;
+    }
 		.icon {
 			padding: 40px;
 			height: 100%;

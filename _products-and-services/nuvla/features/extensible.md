@@ -1,6 +1,6 @@
 ---
 product: nuvla
-title: An Extensible Framework as a Service
+title: An Extensible Framework
 class: feature
 icon: fa-envira
 ---
