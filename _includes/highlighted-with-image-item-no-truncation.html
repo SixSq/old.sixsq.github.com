@@ -8,12 +8,5 @@
               </div>
             {% endif %}
             <h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
-						<p class="button mt-10 text-center">
-              {% if post.link %}
-                {% assign url = post.link  %}
-              {% else %}
-                {% assign url = post.url  %}
-              {% endif %}
-              <a class="btn-sixsq mt-20 color-3 text-center" href="{{ url }}"><i class="far fa-plus-square"></i>  Take a Look</a>
-						</p>
+						<p class="mt-10 text-center">{{ post.content }}</p>
 					</div>

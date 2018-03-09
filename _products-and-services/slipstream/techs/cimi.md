@@ -1,6 +1,6 @@
 ---
 product: slipstream
-title: DMFT CIMI
+title: DMFT CIMI Standard for REST resources
 class: tech
 image: /img/logo/dmtf.png
 link: http://dmtf.org/cimi

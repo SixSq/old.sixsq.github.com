@@ -1,8 +1,8 @@
 ---
 product: nuvlabox
-title: Built entirely from open source software
+title: Built from open source software
 class: feature
-icon: fa-envira
+icon: fa-github
 ---
 
-NuvlaBox is entirely built from open source software, including the CentOS base operating system, <a href="/products/slipstream/">SlipStream</a> and <a href="http://opennebula.org">OpenNebula</a> solutions.
+NuvlaBox is built from an open source software foundation, ensuring we take advantage of the latest innovation from the thriving open source communities we choose, but also its maturity.

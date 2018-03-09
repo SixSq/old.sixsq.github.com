@@ -97,7 +97,7 @@
 			@media (max-width: 767px) {
 				text-align: center;
 			}
-			i {
+			svg {
 				margin-right: 5px;
 			}
 		}
@@ -152,7 +152,7 @@ footer {
 					background: $light;
 					color:#333;	
 				}
-				i {
+				svg {
 					@include transition (all .3s ease);
 					position: relative;
 					z-index: 2;
