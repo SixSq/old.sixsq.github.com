@@ -4,7 +4,14 @@
 	</div>
 	<div class="mt-20">
     <a href="{{ post.url }}">
-			<h3 class="mb-10">{{ post.short-title }}</h3>
+        {% capture _title %}
+			{% if post.short-title %}
+				{{ post.short-title }}
+			{% else %}
+				{{ post.title }}
+			{% endif %}
+		{% endcapture %}
+		<h3 class="mb-10">{{ _title }}</h3>
     </a>
 		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
 		<p class="date mb-10">{{ post.date | date: "%d %B %Y" }}</p>

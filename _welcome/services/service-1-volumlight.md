@@ -1,5 +1,5 @@
 ---
-title: NuvlaCity delivers 30% Energy Savings Thanks To Volumlight™ Smart Lighting Solution
+title: NuvlaCity delivers 30% Energy Savings Thanks To Volumlight&reg; Smart Lighting Solution
 link: /solutions/nuvlacity/overview
 action-text: To find out more, take a look at our Solutions Brief.
 class: services
