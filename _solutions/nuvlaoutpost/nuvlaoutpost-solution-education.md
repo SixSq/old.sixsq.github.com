@@ -1,5 +1,5 @@
 ---
-title: XXX Giving an Edge to Satellite Services
+title: Bridging the Digital Divide
 product: nuvlaoutpost
 class: education
 image: /img/content/connected_world.jpg

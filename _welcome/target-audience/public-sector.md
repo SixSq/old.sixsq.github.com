@@ -1,6 +1,6 @@
 ---
 title: Public Sector
-link: /solutions
+link: /solutions/nuvlacity/overview
 image: /img/icon/public_sector.png
 class: target-audience
 ---

@@ -1,5 +1,5 @@
 ---
-title: SixSq contributes to the European Open Science Cloud
+title: NuvlaScience&#58; SixSq contributes to the European Open Science Cloud
 link: /solutions/nuvlascience/overview
 action-text: To find out more, take a look at NuvlaScience.
 class: services
