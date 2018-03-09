@@ -1,5 +1,5 @@
 ---
-title: Securing Smart City Solutions
+title: NuvlaCity&#58; Securing Smart City Solutions
 link: /solutions/nuvlacity/overview
 action-text: To find out more, take a look at our Solutions Brief.
 class: services
