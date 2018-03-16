@@ -1,5 +1,5 @@
 ---
-image: /img/logo/logo_scisys.jpg
+image: /img/logo/logo_scisys.png
 class: customers
 category: about
 link: http://scisys.com
