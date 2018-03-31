@@ -24,10 +24,11 @@ In Urdorf in the canton of Zurich, a street light on a busy one-kilometer stretc
 
 **What’s next?**
 
-After only 6 months, the results of the pilot project in Urdorf were so promising that Schréder Swiss started to develop a solution for the market. In partnership with SixSq, the Volumlight™ solution was developed and put into service at the end of 2017. The first three installations were deployed with customers in the canton of Basel.
+After only 6 months, the results of the pilot project in Urdorf were so promising that Schréder Swiss started to develop a solution for the market. In partnership with SixSq, the [Volumlight™](http://sixsq.com/products/nuvlabox/usecases/#30%-Energy-Savings-Thanks-To-Smart-Lighting-Solution) solution was developed and put into service at the end of 2017. The first three installations were deployed with customers in the canton of Basel.
 
 **Volumlight™** uses advanced technologies such as [Edge Computing](http://media.sixsq.com/blog/what-is-edge-computing) and [Private Cloud](http://media.sixsq.com/blog/tackling-cloud-jargon) and is future-oriented, with integration for [Smart Cities](http://media.sixsq.com/blog/what-is-a-smart-city) already planned. With its open architecture, the system is designed to share data and functionality with other systems.
 
-Schréder Swiss
+**Schréder Swiss**
+
 Schréder provides high quality lighting products and is one of Europe’s leading suppliers of street lighting and exterior decorative lighting equipment. Technical quality and aesthetic design are at the heart of the company’s philosophy. Coupled with its customer-focused work ethic, this has led Schréder to develop the most cost effective, energy efficient exterior lighting innovations on the market today.
 
