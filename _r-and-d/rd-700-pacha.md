@@ -7,9 +7,6 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: 
-duration: 
-partners: 
 ---
 
 The main goals of PAChA are first to design a new type of private cloud
@@ -18,7 +15,7 @@ the resources used by various applications running on it. The second goal
 is to design tools to estimate the potential savings (based on a pricing
 model) when deploying applications on cloud.
 
-**Duration:** 15 Months (ends June 2016) 
+**Duration:** 15 Months (ended June 2016) 
 
 **Partners:** 2 lead by [HEPIA](http://hepia.hesge.ch)
 

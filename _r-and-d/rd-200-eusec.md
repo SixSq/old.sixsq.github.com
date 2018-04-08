@@ -7,8 +7,6 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: http://www.sec-cert.eu
-duration: 36 Months (ends 31 December 2019)
 ---
 
 The EU-SEC project is studying ways to improve approaches to trust, assurance and compliance in the ICT market. To achieve its goal the project EU-SEC will create a framework under which existing, certification and assurance approaches in the ICT market can co-exist.

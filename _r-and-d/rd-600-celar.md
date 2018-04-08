@@ -7,9 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: http://celarcloudproject.eu
-duration: 36 Months (ended November 2015)
-partners: 8 lead by [Athena](http://www.athena-innovation.gr)
+
 ---
 
 **The goal of the CELAR project is to develop methods and open-source tools for applying and controlling multi-grained, elastic resource provisioning for Cloud applications in an automated manner.**
@@ -22,3 +20,9 @@ Dynamic resource allocation will be performed through intelligent decision-makin
 
  * Cloud and application performance metrics collected and cost-evaluated through a scalable monitoring system and exposed to the user.
  * Qualitative and quantitative characterisation of the application‘s performance through modelling of its elastic properties.
+ 
+**Website:** http://celarcloudproject.eu
+ 
+**Duration:** 36 Months (ended November 2015)
+
+**Partners:** 8 lead by [Athena](http://www.athena-innovation.gr)

@@ -7,9 +7,6 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: 
-duration: 
-partners: 
 ---
 
 **Mobile Fog-to-Cloud**

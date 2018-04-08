@@ -7,9 +7,6 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: 
-duration: 
-partners: 
 ---
 
 With a holistic approach, [SCISSOR][web] designs a new generation
@@ -35,7 +32,7 @@ hardware and software for challenging real-world SCADA deployment.
 **Funding** SCISSOR is funded through the European Commission's H2020
   programme under grant agreement 644425. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]** under contract number 15.0022.
 
-**Duration:** 36 Months (ends 31/12/2017) 
+**Duration:** 36 Months (ended 31/12/2017) 
 
 **Partners:** 9 lead by [Assystem][assystem] 
 

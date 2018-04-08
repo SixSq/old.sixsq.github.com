@@ -7,9 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: http://www.cyclone-project.eu
-duration: 36 Months (ended 31/12/2017) 
-partners: 7 lead by Interoute
+
 ---
 
 [CYCLONE][web] developed a solution for *complete dynamic multi-cloud
@@ -26,6 +24,12 @@ application deployments and extended to include advanced
 networking and security features.  These extensions benefited
 existing SlipStream users and made it an even more compelling
 solution. 
+
+**Website:** [http://www.cyclone-project.eu](http://www.cyclone-project.eu)
+ 
+**Partners:** 7 lead by Interoute
+
+**Duration:** 36 Months (ended 31/12/2017) 
 
 **Twitter:** [https://twitter.com/H2020_CYCLONE][@H2020_CYCLONE]
 

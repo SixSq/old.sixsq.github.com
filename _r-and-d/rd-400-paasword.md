@@ -7,9 +7,6 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-website: 
-duration: 
-partners: 
 ---
 
 Security and data protection issues are a significant barrier to wider
@@ -30,7 +27,7 @@ components.
 **Funding** PaaSword is funded through the European Commission's H2020
   programme under grant agreement 644814. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]** under contract number 15.0047.
 
-**Duration:** 36 Months (ends 31/12/2017) 
+**Duration:** 36 Months (ended 31/12/2017) 
 
 **Partners:** 10 lead by [CAS][cas]
 

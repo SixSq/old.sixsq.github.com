@@ -5,12 +5,10 @@ class: education
 image: /img/content/connected_world.jpg
 ---
 
-XXX Satellite communications bring connectivity to customers in rural and remote areas who cannot obtain internet access from a terrestrial provider. This gives satellite companies a huge opportunity to deliver add-on service applications to these locations. The problem is how to deliver, maintain and support these applications securely and within a reasonable budget. 
+The quality of education in developing and rural areas often lags behind due to lack of or poor quality teaching material, limited teacher training, poor IT infrastructure and support. In addition, rural schools struggle with limited or unreliable wired or mobile connectivity.  Find out how you can revolutionise education with a simple plug and play solution by reading our eGuide.
 
-The NuvlaBox provides users of satellite connectivity and service providers with an affordable platform to host and support applications over a satellite link, drastically **reducing operational costs** yet at the same time improving service to the end user.
+<a class="btn-sixsq color-3" href="https://cdn2.hubspot.net/hubfs/475360/Marketing%20Materials/eGuides/Sixsq-eguides-education-emerging-markets.pdf"><i class="fa fa-plus-square-o"></i>  Read more</a>
 
-To find out more, get in touch with the SixSq team.
+Or get in touch with the SixSq team.
 
-<a class="btn-sixsq color-3" href="https://cdn2.hubspot.net/hubfs/475360/Marketing%20Materials/Solutions%20Brief/NuvlaBox%20Smart%20Street%20Lighting%20Application.pdf"><i class="fa fa-plus-square-o"></i>  Read more</a>
 
-For more on **Edge Computing**, check out our [blog](http://media.sixsq.com/blog/what-is-edge-computing).

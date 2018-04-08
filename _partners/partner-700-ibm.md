@@ -4,6 +4,7 @@ head-title: Our Partners&#58; IBM
 image: /img/content/ibm-partner-logo.png
 class: partners
 category: about
+link: https://www.ibm.com/us-en/
 permalink: /partners/ibm.html
 ---
 

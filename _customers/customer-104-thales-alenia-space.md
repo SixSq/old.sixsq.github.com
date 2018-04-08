@@ -2,7 +2,7 @@
 image: /img/logo/logo_thales.png
 class: customers
 category: about
-link: http://google.com
+link: https://www.thalesgroup.com/en
 ---
 
 European leader for satellite systems and at the forefront of orbital

@@ -1,16 +1,13 @@
 ---
-title: ZZZ Giving an Edge to Satellite Services
+title: Bringing Innovative IT to Remote Communities
 product: nuvlaoutpost
 class: remote-communities
 image: /img/content/connected_world.jpg
 ---
 
-Satellite communications bring connectivity to customers in rural and remote areas who cannot obtain internet access from a terrestrial provider. This gives satellite companies a huge opportunity to deliver add-on service applications to these locations. The problem is how to deliver, maintain and support these applications securely and within a reasonable budget. 
+Although the trend is towards urbanisation, 45% of the world’s population still lives in rural areas. These remote
+areas are often overlooked when it comes to communication technology infrastructure, including provision of high-speed, secure internet access. Research shows that quality infrastructure can help improve society and the economy in rural areas. Find out how NuvlaOutpost can deliver an affordable solution by reading our eGuide.
 
-The NuvlaBox provides users of satellite connectivity and service providers with an affordable platform to host and support applications over a satellite link, drastically **reducing operational costs** yet at the same time improving service to the end user.
+<a class="btn-sixsq color-3" href="https://cdn2.hubspot.net/hubfs/475360/Marketing%20Materials/eGuides/nuvlabox/eGuide-NuvlaBox-remote-communities.pdf"><i class="fa fa-plus-square-o"></i>  Read more</a>
 
-To find out more, get in touch with the SixSq team.
-
-<a class="btn-sixsq color-3" href="https://cdn2.hubspot.net/hubfs/475360/Data%20Pack/Solutions%20Brief/NuvlaBox%20Satellite%20Application.pdf"><i class="fa fa-plus-square-o"></i>  Read more</a>
-
-For more on **Edge Computing**, check out our [blog](http://media.sixsq.com/blog/what-is-edge-computing).
+Or get in touch with the SixSq team.
