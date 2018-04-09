@@ -75,11 +75,14 @@
 		}
 	}
 	&.banner-nuvla {
-		background: url(/img/banner/nuvla.png) no-repeat bottom center/cover;
+		background: url(/img/content/edge-business.jpg) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/nuvla.png) no-repeat;
+		 	background: url(/img/content/edge-business.jpg) no-repeat;
 		}
     p {
+      background-color: transparentize(black, 0.5) !important;
+		}
+    h2 {
       background-color: transparentize(black, 0.5) !important;
 		}
 	}
