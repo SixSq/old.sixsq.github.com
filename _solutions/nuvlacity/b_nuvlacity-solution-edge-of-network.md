@@ -7,7 +7,7 @@ image: /img/content/connected_world.jpg
 
 Satellite communications bring connectivity to customers in rural and remote areas who cannot obtain internet access from a terrestrial provider. This gives satellite companies a huge opportunity to deliver add-on service applications to these locations. The problem is how to deliver, maintain and support these applications securely and within a reasonable budget. 
 
-The NuvlaBox provides users of satellite connectivity and service providers with an affordable platform to host and support applications over a satellite link, drastically **reducing operational costs** yet at the same time improving service to the end user.
+NuvlaCity solutions provide users of satellite connectivity and service providers with an affordable platform to host and support applications over a satellite link, drastically **reducing operational costs** yet at the same time improving service to the end user.
 
 To find out more, get in touch with the SixSq team.
 
