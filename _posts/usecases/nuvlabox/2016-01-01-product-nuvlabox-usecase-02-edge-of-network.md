@@ -15,7 +15,7 @@ The NuvlaBox provides users of satellite connectivity and service providers with
 
 To find out more, get in touch with the SixSq team.
 
-<a href="https://cdn2.hubspot.net/hubfs/475360/Data%20Pack/Solutions%20Brief/NuvlaBox%20Satellite%20Application.pdf" class="btn btn-primary btn-lg">
+<a href="https://media.sixsq.com/hubfs/Marketing%20Materials/Solutions%20Brief/NuvlaBox%20Satellite%20Application%202018.pdf" class="btn btn-primary btn-lg">
         Find out more &raquo;</a>
 
 For more on **Edge Computing**, check out our [blog](http://media.sixsq.com/blog/what-is-edge-computing).
