@@ -6,7 +6,6 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
-    {{ page.content }}
 		<!-- Start Who is it for? -->	
 		<section class="mt-20 section-is-it-for">
 			<div class="container">
@@ -20,12 +19,19 @@
 		<div class="justify-content-center">
       {% for post in site.solutions %}
         {% if post.product == page.product %}
-			<div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
-          {% include highlighted-with-image-full-width-item.html %}
+          {% if post.class == 'usecase' %}
+            <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
+            {% include highlighted-with-image-full-width-item.html %}
+          {% endif %}
         {% endif %}
       {% endfor %}
     </div>
     <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+		</section>
 		<!-- End Who is it for? -->	
     {% include whats-next.html %}
 		<!-- End Section News -->	

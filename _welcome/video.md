@@ -1,8 +1,7 @@
 ---
-title: Start your Digital Transformation.
-subtitle: Digital transformation means embracing the cloud
-link: https://www.youtube.com/embed/xnpvkLW_VMc
+title: SixSq and HPE - Building the Smart Cities of Tomorrow
+link: https://www.youtube.com/embed/bUpo92404i4
 class: video
 ---
 
-Adopting cloud technologies involves many challenges but cloud is the only proven technology able to deliver the innovation...
+SixSq is focused on cloud and edge solutions for smart cities & beyond, delivering software innovation combined with the HPE portfolio...

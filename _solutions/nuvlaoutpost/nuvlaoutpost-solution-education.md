@@ -1,7 +1,8 @@
 ---
 title: Bridging the Digital Divide
 product: nuvlaoutpost
-class: education
+cssclass: education
+class: usecase
 image: /img/content/connected_world.jpg
 ---
 

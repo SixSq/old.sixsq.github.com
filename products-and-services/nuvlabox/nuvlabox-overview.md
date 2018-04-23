@@ -5,9 +5,9 @@ category: product
 class: overview
 product-name: NuvlaBox
 title: Secure and Intelligent Edge Computing Solution
-summary: Plug-and-play edge device, delivering savings with a simple and secure private cloud solution. Build serious IoT capabilities, reduce operational costs and improve efficiency.
+summary: Plug-and-play edge device, delivering savings with a simple, secure and private "cloud-in-a-box" solution. Build scalable IoT systems, reduce operational costs and improve efficiency.
 permalink: /products-and-services/nuvlabox/overview
-meta-description: Plug-and-play edge device, delivering savings with a simple and secure private cloud solution. Build serious IoT capabilities, reduce operational costs and improve efficiency.
+meta-description: Plug-and-play edge device, delivering savings with a simple, secure and private "cloud-in-a-box" solution. Build scalable IoT systems, reduce operational costs and improve efficiency.
 meta-keywords: edge, IoT, device, hyperconvergence, plug and play
 redirect_from:
   /nuvlabox

@@ -1,7 +1,8 @@
 ---
 title: Giving an Edge to Satellite Services
 product: nuvlacity
-class: satellite
+cssclass: satellite
+class: usecase
 image: /img/content/connected_world.jpg
 ---
 

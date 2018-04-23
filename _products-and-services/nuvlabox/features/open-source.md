@@ -5,4 +5,4 @@ class: feature
 icon: fa-github
 ---
 
-NuvlaBox is built from an open source software foundation, ensuring we take advantage of the latest innovation from the thriving open source communities we choose, but also its maturity.
+NuvlaBox is built from an open source software foundation, ensuring we take advantage of the latest innovation from the thriving open source communities we choose, but also its maturity.  From there, we build a robust and dependable product, that is easy to deploy and use.

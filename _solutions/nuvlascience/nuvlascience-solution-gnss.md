@@ -1,7 +1,8 @@
 ---
 title: GNSS Big Data processing at the edge to foster innovation
 product: nuvlascience
-class: gnss
+cssclass: gnss
+class: usecase
 image: /img/content/connected_world.jpg
 ---
 

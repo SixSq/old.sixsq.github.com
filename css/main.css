@@ -72,7 +72,7 @@ iframe {
 a, a:focus {
   text-decoration: none;
   outline: 0;
-  color: #555555; }
+  color: #9B1313; }
 
 a:hover {
   color: #9B1313;
@@ -139,6 +139,9 @@ h5, .h5 {
 h6, .h6 {
   font-size: 14px;
   color: #333333; }
+
+h4 {
+  line-height: 1.5em; }
 
 td, th {
   border-radius: 0px; }
@@ -839,11 +842,13 @@ td, th {
     .banner-page-int.banner-nuvlabox h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-nuvla {
-    background: url(/img/banner/nuvla.png) no-repeat bottom center/cover; }
+    background: url(/img/content/edge-business.jpg) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-nuvla {
-        background: url(/img/banner/nuvla.png) no-repeat; } }
+        background: url(/img/content/edge-business.jpg) no-repeat; } }
     .banner-page-int.banner-nuvla p {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-nuvla h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-slipstream {
     background: url(/img/banner/slipstream.png) no-repeat bottom center/cover; }
@@ -1172,9 +1177,7 @@ td, th {
       background: #9B1313;
       margin-left: 5px;
       margin-right: 5px; }
-      .section-do-you-get .product-page-carousel .owl-stage .center .item h3 {
-        color: #fff; }
-      .section-do-you-get .product-page-carousel .owl-stage .center .item p {
+      .section-do-you-get .product-page-carousel .owl-stage .center .item h3, .section-do-you-get .product-page-carousel .owl-stage .center .item p, .section-do-you-get .product-page-carousel .owl-stage .center .item ul {
         color: #fff; }
       .section-do-you-get .product-page-carousel .owl-stage .center .item svg {
         color: #fff;
@@ -1951,7 +1954,7 @@ td, th {
       margin-top: 100px;
       margin-bottom: 100px; } }
   .section-news .video-section .content-video {
-    height: 50%; }
+    height: 60%; }
     .section-news .video-section .content-video iframe {
       height: 100%;
       width: 100%; }
@@ -2234,14 +2237,14 @@ footer .footer-content {
   .solution-section.solution-nuvlacity-security {
     background-image: url(/img/content/Security_padlocks.jpg); }
   .solution-section.solution-nuvlacity-volumlight {
-    background-image: url(/img/banner/volumlight.png); }
+    background-image: url(/img/content/volumlight.jpg); }
   .solution-section.solution-nuvlaoutpost-remote-communities {
-    background-image: url(/img/content/street_lighting.jpg); }
+    background-image: url(/img/content/rural_tech.jpg); }
   .solution-section.solution-nuvlaoutpost-education {
-    background-image: url(/img/content/street_lighting.jpg); }
+    background-image: url(/img/content/digital_divide.jpg); }
   .solution-section.solution-nuvlascience-hnscicloud {
-    background-image: url(/img/content/street_lighting.jpg); }
+    background-image: url(/img/content/europe_people.jpg); }
   .solution-section.solution-nuvlascience-gnss {
-    background-image: url(/img/content/street_lighting.jpg); }
+    background-image: url(/img/content/gnss.jpg); }
 
 /*# sourceMappingURL=main.css.map */

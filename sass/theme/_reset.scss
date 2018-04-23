@@ -65,7 +65,7 @@ iframe {
 a, a:focus {
     text-decoration: none;
     outline: 0;
-    color: $text-color;
+    color: $color-primary;
 }
 a:hover{
 	color: $color-primary;
@@ -123,6 +123,10 @@ h3, .h3 { font-size: 24px;}
 h4, .h4 { font-size: 18px;}
 h5, .h5 { font-size: 16px;}
 h6, .h6 { font-size: 14px; color: $title-color;}
+
+h4 {
+  line-height: 1.5em;
+}
 
 td, th {
     border-radius: 0px;

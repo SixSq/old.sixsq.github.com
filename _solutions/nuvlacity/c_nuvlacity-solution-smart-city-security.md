@@ -1,7 +1,8 @@
 ---
 title: Securing Smart City Solutions
 product: nuvlacity
-class: security
+cssclass: security
+class: usecase
 image: /img/content/Security_padlocks.jpg
 ---
 

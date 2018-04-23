@@ -1,7 +1,8 @@
 ---
 title: Bringing Innovative IT to Remote Communities
 product: nuvlaoutpost
-class: remote-communities
+cssclass: remote-communities
+class: usecase
 image: /img/content/connected_world.jpg
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: Helix Nebula Science Cloud
 product: nuvlascience
-class: hnscicloud
+cssclass: hnscicloud
+class: usecase
 image: /img/content/connected_world.jpg
 ---
 

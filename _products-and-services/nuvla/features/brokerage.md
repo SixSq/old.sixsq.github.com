@@ -6,7 +6,7 @@ main-feature: true
 icon: far fa-handshake
 ---
 
-All the clouds to choose from, with:
+All the clouds you want, with:
 
  * 1 contract
  * 1 bill
@@ -14,4 +14,4 @@ All the clouds to choose from, with:
  * 1 trusted advisor
  * The choice is yours. The responsibility is ours!
 
-We will do our very best to match your requirements, and deliver at an affordable price.
+We take away the complexity, so that you can focus on your business.
