@@ -1,9 +1,9 @@
 ---
 product: nuvlacity
-title: Any sensor any actuator
+title: Most protocol
 class: feature
 main-feature: true
-icon: fa-language
+icon: fa-plug
 ---
 
-Write your applications in any language. Don't limit yourself to an SDK or a proprietary eco-system. NuvlaCity builds on the open SixSq eco-system, giving you all freedom possible. We write a lot of our apps in Python, but any other language, running on most operating system will work as well.
+NuvlaCity adapts to any IP-based protocol to communicate with the wide area network. It can also aggregate data from sensors using direct physical connection or radio protocols (e.g. LoRa).
