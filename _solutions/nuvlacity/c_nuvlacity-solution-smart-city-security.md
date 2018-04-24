@@ -1,5 +1,5 @@
 ---
-title: Securing Smart City Solutions
+title: Securing smart city solutions
 product: nuvlacity
 cssclass: security
 class: usecase

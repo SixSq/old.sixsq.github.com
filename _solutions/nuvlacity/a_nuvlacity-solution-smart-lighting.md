@@ -1,5 +1,5 @@
 ---
-title: 30% Energy Savings Thanks To Volumlight&trade; Smart Lighting Solution
+title: 30% Energy Savings thanks to Volumlight&trade; smart lighting solution
 product: nuvlacity
 cssclass: volumlight
 class: usecase
