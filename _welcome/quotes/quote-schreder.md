@@ -1,6 +1,6 @@
 ---
 product: quotes
-image: /img/logo/logo_schreder.png
+image: /img/content/quotes/blum_schreder.png
 author: Thomas Blum, Managing Director, Schréder Swiss
 ---
 

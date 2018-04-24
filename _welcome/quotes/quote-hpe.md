@@ -1,6 +1,6 @@
 ---
 product: quotes
-image: /img/logo/logo_hpe.png
+image: /img/content/quotes/mirlesse_hpe.png
 author: Pierre Mirlesse, Vice President Public Sector, Hewlett Packard Enterprise – EMEA
 ---
 

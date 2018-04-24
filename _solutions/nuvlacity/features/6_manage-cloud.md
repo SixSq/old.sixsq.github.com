@@ -2,7 +2,7 @@
 product: nuvlacity
 title: Manage Cloud Apps as Well
 class: feature
-main-feature: true
+main-feature: false
 icon: fa-cloud
 ---
 

@@ -1,6 +1,6 @@
 ---
 product: quotes
-image: /img/logo/logo_451.png
+image: /img/content/quotes/fellows_451.png
 author: William Fellows, Founder & Research Vice President, 451 Research
 ---
 

@@ -4,6 +4,9 @@
 		@media (max-width: 767px) {
 			min-height: 500px;
 		}
+    .owl-stage-outer {
+  		min-height: 620px;
+    }
 		.owl-stage {
 			.owl-item {
 				pointer-events:inherit;

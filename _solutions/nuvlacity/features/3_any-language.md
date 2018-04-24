@@ -2,7 +2,7 @@
 product: nuvlacity
 title: Any sensor any actuator
 class: feature
-main-feature: true
+main-feature: false
 icon: fa-language
 ---
 

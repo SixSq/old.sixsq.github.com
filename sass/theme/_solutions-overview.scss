@@ -30,23 +30,35 @@
   &.solution-nuvlacity-security {
   	background-image: url(/img/content/Security_padlocks.jpg);
   }
+  &.solution-nuvlacity-industrialised {
+  	background-image: url(/img/content/robot.png);
+    h2, p {
+      color: $color-dark !important;
+    }
+    a {
+      color: $color-primary !important;
+    }
+  }
   &.solution-nuvlacity-volumlight {
   	background-image: url(/img/content/volumlight.jpg);
+  }
+  &.solution-nuvlacity-perfect {
+  	background-image: url(/img/content/dart2.jpg);
   }
   &.solution-nuvlaoutpost-remote-communities {
   	background-image: url(/img/content/rural_tech.jpg);
   }
   &.solution-nuvlaoutpost-education {
   	background-image: url(/img/content/digital_divide.jpg);
-//    .content {
-//      background-color: transparentize(black, 0.7) !important;
-//    }
   }
   &.solution-nuvlaoutpost-satellite {
   	background-image: url(/img/content/connected_world.jpg);
   }
   &.solution-nuvlascience-hnscicloud {
   	background-image: url(/img/content/europe_people.jpg);
+    .content {
+      background-color: transparentize(black, 0.6) !important;
+    }
   }
   &.solution-nuvlascience-gnss {
   	background-image: url(/img/content/gnss.jpg);

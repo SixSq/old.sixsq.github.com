@@ -23,19 +23,13 @@
     background-size: auto 100%;
     background-position: left center;
 	}
-	&.banner-slider-2 {
-		background: url(/img/banner/banner-product.jpg) no-repeat bottom center/cover;
-		 @include mobile {
-		 	background: url(/img/banner/banner-product.jpg) no-repeat;
-		}
-	}
 	&.banner-nuvlacity {
 		background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover;
 		@include mobile {
 		 	background: url(/img/banner/nuvlacity.png) no-repeat;
 		}
     p {
-      background-color: transparentize(black, 0.5) !important;
+      background-color: transparentize(black, 0.7) !important;
 		}
 	}
 	&.banner-nuvlaoutpost {

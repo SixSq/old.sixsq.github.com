@@ -2,7 +2,7 @@
 product: nuvlacity
 title: Most protocol
 class: feature
-main-feature: true
+main-feature: false
 icon: fa-plug
 ---
 
