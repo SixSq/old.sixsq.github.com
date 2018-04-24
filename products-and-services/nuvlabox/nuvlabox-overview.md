@@ -22,7 +22,7 @@ redirect_from:
 		</div>
 		<div class="row justify-content-center icon-is-it-for pb-50 pt-25">
 			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-              <img src="/img/content/Hewlett_Packard_Enterprise_logo.png" alt="hpe logo" width="30%">
+              <img src="/img/logo/logo_hpe.png" alt="hpe logo" width="30%">
               <h3 class="mt-20 text-center fw600">For industrial applications</h3>
               <p class="mt-10 text-center">with a wide range of configurations and capabilities</p>
               <p class="button mt-10 text-center">

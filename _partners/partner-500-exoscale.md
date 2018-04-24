@@ -1,6 +1,6 @@
 ---
 title: Exoscale
-image: /img/content/clouds/exoscale-logo-full-black.png
+image: /img/logo/logo_exoscale.png
 head-title: Our Partners&#58; Exoscale
 class: partners
 category: about

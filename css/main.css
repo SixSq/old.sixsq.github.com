@@ -43,7 +43,7 @@ Created: 21/11/2017
 body {
   color: #555555;
   font-family: "Ubuntu", sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 300;
   line-height: 24px;
   background: #fff;
@@ -2224,16 +2224,13 @@ footer .footer-content {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: rgba(0, 0, 0, 0.5) !important;
     padding: 20px; }
   .solution-section h2 {
-    padding: 20px;
+    padding: 20px 0px;
     color: white !important; }
   .solution-section a {
     color: white !important;
     font-weight: bold; }
-  .solution-section.solution-nuvlacity-satellite {
-    background-image: url(/img/content/connected_world.jpg); }
   .solution-section.solution-nuvlacity-security {
     background-image: url(/img/content/Security_padlocks.jpg); }
   .solution-section.solution-nuvlacity-volumlight {
@@ -2242,6 +2239,8 @@ footer .footer-content {
     background-image: url(/img/content/rural_tech.jpg); }
   .solution-section.solution-nuvlaoutpost-education {
     background-image: url(/img/content/digital_divide.jpg); }
+  .solution-section.solution-nuvlaoutpost-satellite {
+    background-image: url(/img/content/connected_world.jpg); }
   .solution-section.solution-nuvlascience-hnscicloud {
     background-image: url(/img/content/europe_people.jpg); }
   .solution-section.solution-nuvlascience-gnss {

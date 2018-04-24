@@ -1,6 +1,6 @@
 ---
 product: nuvlabox
-title: Remote command &amp; control
+title: Remote Control
 class: feature
 main-feature: true
 icon: fa-tachometer-alt

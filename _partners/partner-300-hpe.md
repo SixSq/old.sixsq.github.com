@@ -1,7 +1,7 @@
 ---
 title: Hewlett Packard Enterprise
 head-title: Our Partners&#58; HPE
-image: /img/content/Hewlett_Packard_Enterprise_logo.png
+image: /img/logo/logo_hpe.png
 class: partners
 category: about
 top-story: true
