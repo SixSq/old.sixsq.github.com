@@ -7,4 +7,4 @@ class: target-audience
 
 System integrators differentiate their smart city solutions by using NuvlaCity to provide secure remote management, self-healing and much more.
 
-Lighting manufacturers incorporate Volumlight into their luminaires to provide the savings only true adaptive lighting can deliver. 
+Lighting manufacturers incorporate Volumlight into their luminaires to provide the savings and safety standards only true adaptive lighting can deliver. 

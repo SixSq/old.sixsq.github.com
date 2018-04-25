@@ -1,7 +1,7 @@
 ---
 title: NuvlaCity&#58; Securing Smart City Solutions
 link: /solutions/nuvlacity/overview
-action-text: To find out more, take a look at our Solutions Brief.
+action-text: Find out how to secure your smart city.
 class: services
 css-class: services-smart-securing
 ---
