@@ -80,7 +80,7 @@
       background-color: transparentize(black, 0.5) !important;
 		}
 	}
-	&.banner-slipstream {
+	&.banner-slipstream, &.banner-developer {
 		background: url(/img/banner/slipstream.png) no-repeat bottom center/cover;
 		@include mobile {
 		 	background: url(/img/banner/slipstream.png) no-repeat;

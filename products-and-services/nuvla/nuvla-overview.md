@@ -9,4 +9,5 @@ summary: Delivering multi-cloud, hybrid and edge asset management. A secure and 
 permalink: /products-and-services/nuvla/overview
 redirect_from:
   - /nuvla
+  - /services/nuvla/
 ---

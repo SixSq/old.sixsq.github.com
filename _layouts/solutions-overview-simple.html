@@ -31,33 +31,6 @@
       {% endfor %}
     </div>
     <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
-		<!-- Start what do you get? -->	
-		<section class="bg-white mt-20 section-do-you-get animated">
-			<div class="container">
-				<div class="row justify-content-center pt-50">
-					<div class="col-md-12 section-title text-center">
-							<h2 class="pb-10 fw700">What do you get?</h2>
-					</div>
-				</div>
-				<div class="row justify-content-center pb-50 pt-50">
-					<div class="product-page-carousel parent-container">
-            {% for post in site.solutions %}
-              {% if post.product == page.product %}
-                {% if post.class == 'feature' %}
-                  {% if post.main-feature == true %}
-                    {% include carousel-with-icon-item.html %}
-                  {% endif %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-					</div>
-    			<div class="col-md-12 text-center">
-    			  <a class="btn-sixsq color-dark" href="/solutions/{{ page.product }}/features"><i class="far fa-plus-square"></i>  Discover all features</a>
-          </div>
-				</div>
-			</div>
-		</section>
-		<!-- Stop what do you get? -->
     {% include whats-next.html %}
     {% include primary-footer.html %}
   </main>

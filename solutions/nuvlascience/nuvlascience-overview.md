@@ -1,5 +1,5 @@
 ---
-layout: solutions-overview
+layout: solutions-overview-simple
 product: nuvlascience
 category: solutions
 class: overview

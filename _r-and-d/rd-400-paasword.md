@@ -7,6 +7,8 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+redirect_from:
+ - /r-and-d/password/
 ---
 
 Security and data protection issues are a significant barrier to wider

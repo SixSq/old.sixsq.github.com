@@ -1,5 +1,5 @@
 ---
-layout: solutions-overview
+layout: solutions-overview-simple
 product: nuvlaoutpost
 category: solutions
 class: overview
