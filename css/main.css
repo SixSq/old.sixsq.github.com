@@ -837,10 +837,10 @@ td, th {
     .banner-page-int.banner-nuvlabox h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-nuvla {
-    background: url(/img/content/edge-business.jpg) no-repeat bottom center/cover; }
+    background: url(/img/banner/nuvla.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-nuvla {
-        background: url(/img/content/edge-business.jpg) no-repeat; } }
+        background: url(/img/banner/nuvla.png) no-repeat; } }
     .banner-page-int.banner-nuvla p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-nuvla h2 {
@@ -1149,7 +1149,9 @@ td, th {
     .section-do-you-get .product-page-carousel .owl-stage .owl-item a {
       cursor: pointer;
       z-index: 200;
-      position: relative; }
+      position: relative;
+      color: #fff;
+      font-weight: bold; }
   .section-do-you-get .product-page-carousel .owl-stage .center {
     transform: scale(1.2);
     -webkit-transform-origin: top top;
@@ -2229,7 +2231,7 @@ footer .footer-content {
     color: white !important;
     font-weight: bold; }
   .solution-section.solution-nuvlacity-security {
-    background-image: url(/img/content/Security_padlocks.jpg); }
+    background-image: url(/img/content/Security_padlocks.png); }
   .solution-section.solution-nuvlacity-industrialised {
     background-image: url(/img/content/robot.png); }
     .solution-section.solution-nuvlacity-industrialised h2, .solution-section.solution-nuvlacity-industrialised p {
@@ -2237,9 +2239,9 @@ footer .footer-content {
     .solution-section.solution-nuvlacity-industrialised a {
       color: #9B1313 !important; }
   .solution-section.solution-nuvlacity-volumlight {
-    background-image: url(/img/content/volumlight.jpg); }
+    background-image: url(/img/content/volumlight.png); }
   .solution-section.solution-nuvlacity-perfect {
-    background-image: url(/img/content/dart2.jpg); }
+    background-image: url(/img/content/perfect.png); }
   .solution-section.solution-nuvlaoutpost-remote-communities {
     background-image: url(/img/content/rural_tech.jpg); }
   .solution-section.solution-nuvlaoutpost-education {

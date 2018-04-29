@@ -16,6 +16,8 @@
 					cursor: pointer;
 					z-index: 200;
 					position: relative;
+					color: $light;
+          font-weight: bold;
 				}
 			}
 			.center {
@@ -45,7 +47,7 @@
 					margin-left: 5px;
 					margin-right: 5px;
 					h3, p, ul {
-						color:$light;
+						color: $light;
 					}
 					svg {
 						color: $light;

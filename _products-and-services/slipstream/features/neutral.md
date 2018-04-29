@@ -2,6 +2,7 @@
 product: slipstream
 title: Cloud Neutrality
 class: feature
+main-feature: true
 icon: fa-hand-peace
 ---
 

@@ -8,14 +8,10 @@
     {% include {{ page.product }}-sub-menu.html %}
 		<section class="mt-20 section-is-it-for">
 			<div class="container">
-        {{ page.content | markdownify }}
-			</div>
-		</section>
-		<section class="mt-20 section-is-it-for">
-			<div class="container">
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
 						<h2 class="pb-10 fw700">Discover real world applications of {{ page.product-name }}.</h2>
+            {{ page.content | markdownify }}
 					</div>
 				</div>
 			</div>
@@ -30,7 +26,6 @@
         {% endif %}
       {% endfor %}
     </div>
-    <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
 		<!-- Start what do you get? -->	
 		<section class="bg-white mt-20 section-do-you-get animated">
 			<div class="container">
