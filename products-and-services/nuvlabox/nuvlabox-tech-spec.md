@@ -9,6 +9,6 @@ summary: Plug-and-play edge device, delivering savings with a simple, secure and
 permalink: /products-and-services/nuvlabox/tech-spec
 ---
 
-The NuvlaBox comes in several versions, adapting to resource requirements.
+The NuvlaBox comes in several versions, adapting to your requirements.
 
 If you want to read more about the software and hardware specifications, take a look at the product description.

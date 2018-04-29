@@ -6,7 +6,7 @@ main-feature: true
 icon: fa-bolt
 ---
 
-Benefit from high level of automation:
+Benefit from a high level of automation:
 
  * No lock-in
  * Cost control
