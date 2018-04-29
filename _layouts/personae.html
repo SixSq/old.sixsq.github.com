@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+    {{ page.content }}
+		<!-- Start what do you get? -->	
+		<section class="section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+        	{% for post in site.developer %}
+						{% include highlighted-with-image-no-action-no-truncation-item.html %}
+	        {% endfor %}
+				</div>
+			</div>
+		</section>
+		<!-- Stop what do you get? -->
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

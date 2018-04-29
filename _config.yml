@@ -9,6 +9,9 @@ collections:
   customers:
     output: false
     permalink: /:collection/:path/
+  developer:
+    output: false
+    permalink: /:collection/:path/
   jobs:
     output: true
     permalink: /:collection/:path/

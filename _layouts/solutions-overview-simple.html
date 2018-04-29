@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+		</section>
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+						<h2 class="pb-10 fw700">Discover real world applications of {{ page.product-name }}.</h2>
+					</div>
+				</div>
+			</div>
+		</section>
+		<div class="justify-content-center minimum-height:1000px">
+      {% for post in site.solutions %}
+        {% if post.product == page.product %}
+          {% if post.class == 'usecase' %}
+            <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
+            {% include highlighted-with-image-full-width-item.html %}
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <div class="widget-section text-center mt-20 mb-20"><i class="fas fa-circle"></i></div>
+    {% include whats-next.html %}
+    {% include primary-footer.html %}
+  </main>
+  {% include secondary-footer.html %}
+  </body>
+</html>
