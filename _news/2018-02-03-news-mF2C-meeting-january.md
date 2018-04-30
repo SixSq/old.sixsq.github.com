@@ -5,7 +5,7 @@ product: news
 product-name: News
 category: media
 class: news
-image: /img/content/logo_mf2c.png
+image: /img/logo/logo_mf2c.png
 top-story: false
 in-focus: false
 ---

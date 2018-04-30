@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Discussing Smart City Solutions with mF2C Project
-image: /img/content/logo_mf2c.png
+image: /img/logo/logo_mf2c.png
 product: news
 product-name: News
 class: news

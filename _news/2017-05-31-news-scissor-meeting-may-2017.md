@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Improving Security of Critical Infrastructures with SCISSOR project
-image: /img/content/logo_scissor.png
+image: /img/logo/logo_scissor.png
 product: news
 product-name: News
 class: news

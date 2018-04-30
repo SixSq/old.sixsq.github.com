@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: SixSq Member of CityZen Initiative
-image: /img/content/logo_cityzen.png
+image: /img/logo/logo_cityzen.png
 product: news
 product-name: News
 class: news

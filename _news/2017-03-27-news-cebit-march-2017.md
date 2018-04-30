@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: SixSq's Innovative Solutions at CeBIT 2017
-image: /img/content/logo_CEBIT_2017.png
+image: /img/logo/logo_CEBIT_2017.png
 product: news
 product-name: News
 class: news

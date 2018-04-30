@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Improving Cloud Management and Security with CYCLONE
-image: /img/content/logo_cyclone.png
+image: /img/logo/logo_cyclone.png
 product: news
 product-name: News
 class: news

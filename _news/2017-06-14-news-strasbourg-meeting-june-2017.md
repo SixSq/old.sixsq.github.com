@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Representing Switzerland at European Symposium on Innovation and Export Policies for SMEs in Europe
-image: /img/content/logo_innovente.png
+image: /img/logo/logo_innovente.png
 product: news
 product-name: News
 class: news

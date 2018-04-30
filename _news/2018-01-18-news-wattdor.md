@@ -5,7 +5,7 @@ product: news
 product-name: News
 category: media
 class: news
-image: /img/content/logo_volumlight.png
+image: /img/logo/logo_volumlight.png
 top-story: false
 in-focus: true
 ---
