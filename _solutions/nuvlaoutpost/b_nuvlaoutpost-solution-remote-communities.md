@@ -3,7 +3,6 @@ title: Bringing Innovative IT to Remote Communities
 product: nuvlaoutpost
 cssclass: remote-communities
 class: usecase
-image: /img/content/connected_world.jpg
 ---
 
 Although the trend is towards urbanisation, 45% of the world’s population still lives in rural areas. These remote

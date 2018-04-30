@@ -3,7 +3,6 @@ title: Giving an Edge to Satellite Services
 product: nuvlaoutpost
 cssclass: satellite
 class: usecase
-image: /img/content/connected_world.jpg
 ---
 
 Satellite communications bring connectivity to customers in rural and remote areas who cannot obtain internet access from a terrestrial provider. This gives satellite companies a huge opportunity to deliver add-on service applications to these locations. The problem is how to deliver, maintain and support these applications securely and within a reasonable budget. 

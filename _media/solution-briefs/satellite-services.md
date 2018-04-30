@@ -1,6 +1,5 @@
 ---
 title: Boosting Satellite Services
-image: /img/content/connected_world.jpg
 product: solution-briefs
 product-name: Solution Briefs
 class: solution-briefs

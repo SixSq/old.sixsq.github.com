@@ -936,24 +936,6 @@ td, th {
         .banner-content .video span {
           width: 180px; } }
 
-/*.height-550 {
-	
-	@include tablet {
-		height: 700px;
-	}
-	@include mobile {
-		height: 600px;
-	}
-	.banner-content {
-		margin-top: 250px;
-		@include tablet {
-			margin-top: 120px;
-		}
-		@include mobile {
-			margin-top: 90px;
-		}
-	}
-}*/
 .height-850 {
   height: 500px; }
   @media (min-width: 768px) and (max-width: 992px) {
@@ -1623,7 +1605,7 @@ td, th {
         color: #333;
         background: #fff; }
   .section-services .services-smart-securing {
-    background: url(../img/section-services/smart-securing.png) no-repeat;
+    background: url(/img/section-services/smart-securing.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -1688,7 +1670,7 @@ td, th {
         border: 1px solid #333;
         background: #333; }
   .section-services .services-satellite {
-    background: url(../img/section-services/section-satellite.png) no-repeat;
+    background: url(/img/section-services/section-satellite.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -1757,7 +1739,7 @@ td, th {
         color: #333;
         background: #fff; }
   .section-services .services-eosc {
-    background: url(../img/section-services/section-eosc.png) no-repeat;
+    background: url(/img/section-services/section-eosc.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -2243,16 +2225,16 @@ footer .footer-content {
   .solution-section.solution-nuvlacity-perfect {
     background-image: url(/img/content/perfect.png); }
   .solution-section.solution-nuvlaoutpost-remote-communities {
-    background-image: url(/img/content/rural_tech.jpg); }
+    background-image: url(/img/content/rural_tech.png); }
   .solution-section.solution-nuvlaoutpost-education {
-    background-image: url(/img/content/digital_divide.jpg); }
+    background-image: url(/img/content/digital_divide.png); }
   .solution-section.solution-nuvlaoutpost-satellite {
-    background-image: url(/img/content/connected_world.jpg); }
+    background-image: url(/img/content/connected_world.png); }
   .solution-section.solution-nuvlascience-hnscicloud {
-    background-image: url(/img/content/europe_people.jpg); }
+    background-image: url(/img/content/europe_people.png); }
     .solution-section.solution-nuvlascience-hnscicloud .content {
       background-color: rgba(0, 0, 0, 0.4) !important; }
   .solution-section.solution-nuvlascience-gnss {
-    background-image: url(/img/content/gnss.jpg); }
+    background-image: url(/img/content/gnss.png); }
 
 /*# sourceMappingURL=main.css.map */
