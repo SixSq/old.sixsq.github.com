@@ -12,5 +12,5 @@ redirect_from:
   - /nuvlacity
 ---
 
-<h4>The use of sensors and actuators in cities enables them to improve their service offering. But in order to properly reduce their associated costs, one needs to take full advantage of both cloud and edge computing. Our solution called NuvlaCity is our IoT platform for achieving that goal.</h4>
+<h4>The use of IoT sensors and actuators enables cities to improve their service offering, making infrastructure more responsive to the needs of citizens. Only by taking full advantage of both cloud and edge computing can cities improve functionality and reduce associated costs. Our NuvlaCity solution is your IoT platform for achieving that goal.</h4>
 

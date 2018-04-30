@@ -5,4 +5,4 @@ class: feature
 icon: fa-dashboard
 ---
 
-Understand your usage across clouds and edge using SlipStream unified metering feature. And with the powerful CIMI query and filtering capabilities, you can integrate this type of near-real-time information in any third party system.
+Understand your usage across clouds and at the edge using the SlipStream unified metering feature. And with the powerful CIMI query and filtering capabilities, you can integrate this type of near-real-time information in any third party system.
