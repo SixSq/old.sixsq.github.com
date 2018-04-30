@@ -11,6 +11,6 @@ redirect_from:
  - /products/nuvlabox/tech/
 ---
 
-The NuvlaBox comes in several versions, adapting to resource requirements.
+The NuvlaBox comes in several versions, adapting to your requirements.
 
 If you want to read more about the software and hardware specifications, take a look at the product description.
