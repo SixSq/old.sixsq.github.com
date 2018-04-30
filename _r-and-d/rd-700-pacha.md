@@ -7,6 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+permalink: /r-and-d/pacha
 ---
 
 The main goals of PAChA are first to design a new type of private cloud

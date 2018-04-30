@@ -7,7 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-
+permalink: /r-and-d/celar
 ---
 
 **The goal of the CELAR project is to develop methods and open-source tools for applying and controlling multi-grained, elastic resource provisioning for Cloud applications in an automated manner.**

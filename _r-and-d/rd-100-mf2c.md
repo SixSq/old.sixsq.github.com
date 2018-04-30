@@ -7,6 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+permalink: /r-and-d/mf2c
 ---
 
 **Mobile Fog-to-Cloud**
