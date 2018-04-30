@@ -31,7 +31,7 @@ redirect_from:
               </p>
             </div>
 			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-              <img src="/img/logo/logic_supply.png" alt="logic supply logo" width="30%">
+              <img src="/img/logo/logo_logic-supply.png" alt="logic supply logo" width="30%">
               <h3 class="mt-20 text-center fw600">For desktop applications</h3>
               <p class="mt-10 text-center">with branded devices</p>
               <p class="button mt-10 text-center">
