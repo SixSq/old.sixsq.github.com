@@ -1,0 +1,19 @@
+					<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
+            {% if post.image %}
+              <img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
+            {% endif %}
+            {% if post.icon %}
+              <div class="icon-title">
+                <i class="fa {{ post.icon }}"></i>
+              </div>
+            {% endif %}
+            <h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
+						<p class="button mt-10 text-center">
+              {% if post.link %}
+                {% assign url = post.link  %}
+              {% else %}
+                {% assign url = post.url  %}
+              {% endif %}
+              <a class="btn-sixsq mt-20 color-3 text-center" href="{{ url }}"><i class="far fa-plus-square"></i>  Take a Look</a>
+						</p>
+					</div>

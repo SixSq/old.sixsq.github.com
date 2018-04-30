@@ -1,294 +1,140 @@
 <!DOCTYPE html>
 <html>
-
   {% include head.html %}
-
-  <body>
-    
-  	<div class="bg"></div>
-    
-    
-
-    {% include top.html %}
-
-    <!--<div class="banner hidden-xs">
-      <div>
-        <a href="/jobs">We're hiring!</a>
-      </div>
-    </div>-->
-
-    <!--<div class="banner">
-      <div>
-        <a href="/jobs/index.html">We're hiring!</a>
-      </div>
-    </div>-->
-
-    <div style="margin-top: 3px;" class="jumbotron top_product slipstream">
-      <div class="container">
-          <div class="row row-summary">
-            <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
-                <h1>
-            	  {% if page.subtitle %}
-            	    {{ page.subtitle }}
-            	  {% else %}
-            	    SixSq: Cloud &amp; Edge Solutions
-                {% endif %}
-              	</h1>
-                {% if page.summary %}
-                  <p>{{ page.summary }}</p>
-                {% else %}
-                  <p>Our smart cloud solutions deliver the business benefits of PaaS, DevOps and Hybrid Cloud.</p>
-                {% endif %}
-            </div>
-            <div class="col-lg-2 col-md-2 col-sm-12 col-xs-12">
-              <center>
-				  
-                <!--<a href="/jobs" class="btn btn-primary btn-lg banner-message">
-                  <h4>
-                  We are hiring!
-                  </h4>
-                  <h5>
-                  Apply here!
-                  </h5>-->
-					
-                </a>
-              </center>
-            </div>
-          </div>
-      </div>
-    </div>
-    
-  	<div class="jumbotron">
-      <div class="container">
-          <h2>The Edge in Action: NuvlaBox combines all the benefits of cloud and edge computing. </h2>
-          <div style="background-color: white; padding: 20px">
-              <div style="padding-bottom: 20px;" class="row row-summary">
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center>
-                        <h3>30% savings with Volumlight Smart Street Lighting</h3>
-                        <img class="img-responsive" src="/img/content/street_lighting.jpg" alt="street lighting photo" />
-                    </center>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center>
-                        <h3>Delivering Innovative IT to Remote Communities</h3>
-                      <img class="img-responsive" src="/img/content/remote_communities.jpg" alt="remote communities photo" />
-                    </center>
-                  </div>
+  <body class="home-sixsq">
+    {% include welcome-header.html %}
+    <main>
+      <section class="default-banner banner-slider-1">
+      	<div class="container">
+      		<div class="row height-850">
+      			<div class="col-md-12 d-flex">
+      				<div class="slider-carousel d-flex">
+                {% for post in site.welcome %}
+                  {% if post.class == 'banner' %}
+                    {% include welcome-banner-item.html %}
+                  {% endif %}
+                {% endfor %}
+      				</div>
+      			</div>
+      		</div>
+      	</div>
+      </section>
+  		<div class="section-services section-full">
+  			<div class="container">
+  				<div class="row justify-content-center">
+  						<div class="col-md-12 section-title text-center mb-50">
+  							<h2 class="pb-10 fw700">Solutions.</h2>
+  							<p class="sub-title fw500">Delivering savings with simple and secure cloud and edge solutions.</p>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+  						</div>
+  				</div>
+  			</div>
+        {% for post in site.welcome %}
+          {% if post.class == 'services' %}
+            {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+            {% include welcome-services-item.html %}
+          {% endif %}
+        {% endfor %}
+  			<div class="clearfix"></div>
+  		</div>
+      {% include welcome-newsletter.html %}
+  	  <section class="section-full section-top section-news relative">
+  			<div class="background-dx"></div>
+  			<div class="background-sx"></div>
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20">
+  						<div class="section-title text-center">
+  							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.partners %}
+                  {% if post.top-story == true %}
+                    {% include welcome-partners-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  					<div class="col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-20">
+    						<h2 class="pb-10 fw700 text-center">Answering the needs of.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+						</div>
+  						<div class="focus-need">
+                {% for post in site.welcome %}
+                  {% if post.class == 'target-audience' %}
+                    {% include welcome-target-audience-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  				</div>
+  			</div>
+  		</section>
+  		<section class="section-full section-news pb-50 bg-grey-f9 relative">
+  			<div class="container">
+  				<div class="row mb-20">
+  					<div class="col-lg-6 col-md-6 col-sm-12">
+  						<div class="section-title text-center">
+  							<h2 class="pb-10 fw700">What people say about us.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.welcome %}
+                  {% if post.product == 'quotes' %}
+                    {% include welcome-quotes-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+            {% for post in site.welcome %}
+              {% if post.class == 'video' %}
+                {% include welcome-video.html %}
+              {% endif %}
+            {% endfor %}
+  				</div>
+  			</div>
+  		</section>	
+  		<section class="section-full section-top pb-50 section-news relative">
+  			<div class="background-dx"></div>
+  			<div class="background-sx"></div>
+  			<div class="container">
+  				<div class="row">
+  					<div class="col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-40">
+                <h2 class="pb-10 fw700">In Focus.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
               </div>
-              <center>
-                  <a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/usecases">Find out more &raquo;</a>
-              </center>
-          </div>
-      </div>
-    </div>
-	
-  	<div class="jumbotron">
-      <div class="container">
-          <h2>Our products and services</h2>
-          <div class="row row-summary row-summary-sixsq">
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                <div>
-                  <div>
-                    <center>
-                      <img style="max-height: 40px;" src="/img/content/nuvla/nuvla_logo_red_on_transparent_512px.png" alt="Nuvla">
-                      <h2>
-                        Smart Cloud Brokerage
-                      </h2>
-                    </center>
-                    <ul>
-
-                      <li>All Clouds to choose from</li>
-                      <li>No lock-in</li>
-                      <li>Cost control</li>
-                      <li>Self-service IT</li>
-                      <li>Clear governance</li>
-                    </ul>
-                  </div>
-                  <center>
-                      <a class="btn btn-primary btn-lg" role="button" href="/services/nuvla/">Read it &raquo;</a>
-                  </center>
-                </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-              <div>
-                <div>
-                  <center>
-                    <img src="/img/design/nuvlabox_logo_red_on_transparent_256px.png" alt="NuvlaBox">
-                    <h2>
-                      Smart Cloud-in-a-box Appliance 
-                    </h2>
-                  </center>
-                  <ul>
-                    <li>Ideal for IoT & Smart City projects</li>
-                    <li>Private and secure cloud</li>
-                    <li>Edge Computing Solution</li>
-                    <li>Remote management & application update capabilities</li>
-                  </ul>
-                </div>
-                <center>
-                    <a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox/">Discover &raquo;</a>
-                </center>
-              </div>
-            </div>
-            <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-              <div>
-                <div>
-                  <center>
-                    <img src="/img/design/slipstream_logo_red_on_transparent_256px.png" alt="SlipStream">
-                    <h2>
-                        Smart Cloud Application Management
-                    </h2>
-                  </center>
-                  <ul>
-                    <li>Any application in any cloud</li>
-                    <li>1-click application deployment</li>
-                    <li>Supports DevOps, Big Data and Smart City strategies</li>
-                    <li>Cost savings via automation</li>
-                    
-                  </ul>
-                </div>
-                <center>
-                  <a class="btn btn-primary btn-lg" role="button" href="/products/slipstream/">Learn more &raquo;</a>
-                </center>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    
-  	<div class="jumbotron">
-      <div class="container">
-          <h2>Smart Cloud-in-a-box Appliance</h2>
-          <div style="background-color: white; padding: 20px">
-              <div style="padding-bottom: 20px;" class="row row-summary">
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center>
-                        <h3>NuvlaBox Standard</h3>
-                        <img class="img-responsive" src="/img/content/nuvlabox/nuvlabox-v2.png" alt="NuvlaBox photo" />
-                    </center>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center>
-                        <h3>NuvlaBox Mini</h3>
-                        <img src="/img/content/nuvlabox/nuvlabox-mini-v2.png" alt="NuvlaBox mini photo" />
-                    </center>
-                  </div>
-              </div>
-              <center>
-                  <a class="btn btn-primary btn-lg" role="button" href="/products/nuvlabox">Discover &raquo;</a>
-              </center>
-          </div>
-      </div>
-    </div>
-	
-  	<div class="jumbotron">
-      <div class="container">
-          <h2>Building the Smart Cities of Tomorrow<h2>
-          <div style="background-color: white; padding: 20px">
-              <div class="row">
-                  <div class="col-lg-7 col-md-7 col-sm-12 col-xs-12 container spacy">
-					  <div class="embed-responsive embed-responsive-16by9">
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/bUpo92404i4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-					  </div>
-                  </div>
-                  <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                    <h2>SixSq and Hewlett Packard Enterprise OEM</h2>
-                    <p>As a Hewlett Packard Enterprise OEM partner, SixSq takes advantage of HPE’s full Edgeline series, as well as their global network of customers and business partners. Packaging SixSq’s innovative software in HPE hardware delivers customers with reliable solutions for a wide range of IoT, edge and smart city scenarios.  By using a wide range of devices from small embedded systems all the way to larger units for big data analytics at the edge, we are leveraging data close to its source to improve services and the environment for citizens, as well as deliver energy and cost saving to public and private customers.</p>
-	                <center>
-	                    <a class="btn btn-primary btn-lg" role="button" href="http://media.sixsq.com/blog/what-is-a-smart-city">Read more about Smart Cities &raquo;</a>
-	                </center>
-                  </div>
-              </div>              
-          </div>
-      </div>
-    </div>
-
-    <div class="jumbotron quotes">
-      <div class="container">
-        <h2>What people say about us?</h2>
-        <div class="row row-summary">
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div>
-              <center>
-                <img src="/img/content/451-research-logo.png" alt="451 Research"/>
-                <h3>
-                  "SixSq delivers the type of fluid and secure cloud solutions for application deployment automation that are critical to successful businesses."
-                </h3>
-                <h4>
-                  William Fellows, Analyst, Research Vice President and Co-founder, 451 Research
-                <h4>
-              </center>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div>
-              <center>
-                <img src="/img/content/Playgen-Logo.png" alt="PlayGen"/>
-                <h3>
-                  "SlipStream is much more transparent than the Amazon scaling tool &amp; the resilient scaling feature helps massively."
-                </h3>
-                <h4>
-                  Mayur Ahir, Senior Lead Developer, PlayGen
-                <h4>
-                <a class="btn btn-primary btn-lg" role="button" href="http://media.sixsq.com/case-study-how-playgen-develops-software-faster-with-slipstream">Read Case Study &raquo;</a>
-              </center>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <div class="jumbotron coming-next">
-      <div class="container">
-        <div class="row row-summary">
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div>
-              <div>
-                <div class="row row-summary">
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <h2>What's coming up?</h2>
-                    <h2>How to Map a Billion Stars</h2>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center><img style="margin-top: 5px; max-width: 150px;" src="/img/content/blogs/milky_way.jpg" alt="news"/></center>
-                  </div>
-                </div>
-                <div>
-                  <p>Follow the second data release of ESA's Gaia mission to find out how big data analysis is changing the way we see our galaxy.<center>
-                            <a class="btn btn-primary btn-lg" role="button" href="http://media.sixsq.com/blog/how-to-map-a-billion-stars">Find out more &raquo;</a>
-                        </center>
-                      <center> <a /></a> </p>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-            <div>
-              <div>
-                <div class="row row-summary">
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <h2>Latest News</h2>
-                     <h2>SixSq’s Innovative Cloud Platform Chosen for Big Data Pilot Phase</h2>
-                  </div>
-                  <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                    <center><img style="margin-top: 5px; max-width: 140px;" src="/img/content/helix-nebula.jpg" alt="blog"/></center>
-                  </div>
-                </div>
-                </div>
-                <p>Along with RHEA Group, T-Systems, Exoscale, Advania and Cyfronet, SixSq will be working on the needs of the European scientific community in both commercial and hybrid clouds.</p>
-                <center>  
-                    <a class="btn btn-primary btn-lg" role="button" href="http://sixsq.com/resources/2018/02/06/news-hnscicloud-phase-three-announcement.html">Read all about it &raquo;</a>
-                </center>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.news %}
+                  {% if post.in-focus %}
+                    {% include welcome-in-focus-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  					<div class="col-lg-6 col-md-6 col-sm-12">
+  						<div class="section-title text-center pb-40">
+  							<h2 class="pb-10 fw700">Our Latest Thoughts.</h2>
+  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+  						</div>
+  						<div class="news-homepage-carousel active-screen-news animated">
+                {% for post in site.blog %}
+                  {% if post.top-story == true %}
+                    {% include welcome-blog-item.html %}
+                  {% endif %}
+                {% endfor %}
+  						</div>
+  					</div>
+  				</div>
+  				<div class="clearfix"></div>
+  			</div>
+  		</section>	
+  		<!-- End Section News -->	
+      {% include whats-next.html %}
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
   </body>
 </html>

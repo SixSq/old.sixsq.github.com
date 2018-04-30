@@ -1,0 +1,42 @@
+.menu-product {
+	background-color: $color-primary;
+  &.menu-product-nuvla {
+  	background-color: $nuvla-color;
+  }
+  &.menu-product-slipstream {
+  	background: $slipstream-color;
+  }
+  &.menu-product-nuvlabox {
+  	background-color: $nuvlabox-color;
+  }
+  &.menu-product-nuvlacity {
+  	background-color: $nuvlacity-color;
+  }
+  &.menu-product-nuvlaoutpost {
+  	background: $nuvlaoutpost-color;
+  }
+  &.menu-product-nuvlascience {
+  	background: $nuvlascience-color;
+  }
+	.menu-product-list {
+		font-size: 18px;
+		ul {
+			float: right;
+			li {
+				margin: 5px;
+				text-align: left;
+				@media (max-width: 767px) {
+					text-align: center;
+					display: block;
+					float: inherit;
+				}
+				a {
+					color: $light;
+				}
+				.active {
+					font-weight: 500;
+				}
+			}
+		}
+	}
+}

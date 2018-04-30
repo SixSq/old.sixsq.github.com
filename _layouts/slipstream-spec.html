@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+  	<main>
+      {% include {{ page.product }}-banner.html %}
+      {% include {{ page.product }}-sub-menu.html %}
+      <section class="section-is-it-for">
+      	<div class="container">
+      			<div class="col-md-12 mt-20 section-title text-center">
+      				<h2 class="pb-10 fw700">Standing on the shoulders of giants</h2>
+              <h4 class="mt-20 ml-20 mr-50">SlipStream builds on the important work of other open source projects. Here are the key technologies, tools and libraries we use to build SlipStream. This ensures a scalable, easy to test and operate software, as well as simple to extend and evolve.</h4>
+              <div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+                {% for post in site.products-and-services %}
+                  {% if post.class == 'tech' %}
+      							<div class="col-md-4 col-sm-4 icon item animated">
+    									<img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
+    									<h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
+    									<p class="mt-10 text-center">{{ post.content }}</p>
+                    	<div class="section-news-button">
+                        <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="far fa-plus-square"></i>  Learn more</a>
+                    	</div>
+      							</div>
+                  {% endif %}
+                {% endfor %}
+              </div>
+      			</div>
+        </div>
+      	<div class="container">
+      		<div class="row justify-content-center mt-50 mb-20">
+      			<div class="col-md-12 section-title text-center">
+      				<h2 class="pb-10 fw700">Read the technical specification</h2>
+      			</div>
+      		</div>
+          <div id="nuvlabox-product-description" class="col-md-12 text-center">
+            <p>XXX NuvlaBox is smart cloud-in-a-box appliance which offers easy and affordable access to cloud computing. It comes in two versions, standard and mini, both of which and can be customised with your own branding. The operating system is CentOS, OpenNebula provides the cloud layer and SlipStream is the PaaS. If you want to read more about the software and hardware specifications, take a look at the product description.  </p>
+          </div>
+          <div class="col-md-12 mb-50 text-center">
+            <img style="max-height: 280px;" src="/img/content/product_descriptions/nuvla_product_description_screen_shot.png" alt="nuvla_product_description"/>
+						<p class="button mt-10 text-center">
+							<a class="btn-sixsq mt-20 color-3 text-center" href="http://media.sixsq.com/nuvla-product-description"><i class="far fa-plus-square"></i> Read more</a>
+						</p>
+          </div>
+        </div>
+      </div>
+      {% include whats-next.html %}
+  		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

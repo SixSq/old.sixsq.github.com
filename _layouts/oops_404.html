@@ -1,34 +1,25 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
-    {% include top.html %}
-
-    <div class="jumbotron">
-      <div class="container">
-        <center>
-          <br/>
-          <h2>Oops! Can't find this page :-(</h2>        
-          <br/>
-          <h3>404 - File not found</h3>
-          <br/>
-          <p>If you found this URL somewhere on the web, please let us know so that we can help fixing the source...</p>
-          <p>just hit the 'Contact us' button below.</p>
-          <p>Thanks!</p>
-          <br/>
-        </center>
-      </div>
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    <div class="container">
+      <center>
+        <br/>
+        <h2>Oops! Can't find this page :-(</h2>        
+        <br/>
+        <h3>404 - File not found</h3>
+        <br/>
+        <h4>If you found this URL somewhere on the web, please let us know so that we can help fixing the source. Thanks!</h4>
+        <br/>
+      </center>
     </div>
-
-    <script type="text/javascript">
-    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
-    </script>
-    
-    {% include whats_next.html %}
-
-    {% include footer.html %}
-
-    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
-
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
   </body>
 </html>

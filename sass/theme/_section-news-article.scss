@@ -1,0 +1,32 @@
+.section-news-article {
+  strong {
+    font-weight: 800;
+  }
+  a {
+    font-weight: 600;
+  }
+  .date {
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+  .social-media {
+    .social-media-list {
+      display: flex;
+      align-items: start;
+      li {
+        text-align: center;
+        margin: 5px;
+      }
+    }
+  }
+  img {
+    float: right;
+    margin: 10px;
+  }
+}
+.fb_iframe_widget {
+    display: inline-block;
+    position: relative;
+    vertical-align: middle;
+    top: -5px;
+}

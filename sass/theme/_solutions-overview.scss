@@ -1,0 +1,66 @@
+.solution-section {
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	background-position: center top;
+  height: auto;
+  min-height: 200px;
+	position: relative;
+	z-index: 100;
+  padding: 60px 0;
+	@include mobile {
+    background-size: auto 100%;
+  }
+  .content {
+    height: auto;
+    color: white !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+//    background-color: transparentize(beige, 0.9) !important;
+    padding: 20px;
+	}
+  h2 {
+    padding: 20px 0px;
+    color: white !important;
+  }
+  a {
+    color: white !important;
+    font-weight: bold;
+  }
+  &.solution-nuvlacity-security {
+  	background-image: url(/img/content/Security_padlocks.png);
+  }
+  &.solution-nuvlacity-industrialised {
+  	background-image: url(/img/content/robot.png);
+    h2, p {
+      color: $color-dark !important;
+    }
+    a {
+      color: $color-primary !important;
+    }
+  }
+  &.solution-nuvlacity-volumlight {
+  	background-image: url(/img/content/volumlight.png);
+  }
+  &.solution-nuvlacity-perfect {
+  	background-image: url(/img/content/perfect.png);
+  }
+  &.solution-nuvlaoutpost-remote-communities {
+  	background-image: url(/img/content/rural_tech.png);
+  }
+  &.solution-nuvlaoutpost-education {
+  	background-image: url(/img/content/digital_divide.png);
+  }
+  &.solution-nuvlaoutpost-satellite {
+  	background-image: url(/img/content/connected_world.png);
+  }
+  &.solution-nuvlascience-hnscicloud {
+  	background-image: url(/img/content/europe_people.png);
+    .content {
+      background-color: transparentize(black, 0.6) !important;
+    }
+  }
+  &.solution-nuvlascience-gnss {
+  	background-image: url(/img/content/gnss.png);
+  }
+}

@@ -1,0 +1,23 @@
+<div class="item">
+  <div class="image-content">
+		<img src="{{ post.image }}" alt="news-homepage">
+	</div>
+	<div class="mt-20">
+    <a href="{{ post.link }}">
+        {% capture _title %}
+			{% if post.short-title %}
+				{{ post.short-title }}
+			{% else %}
+				{{ post.title }}
+			{% endif %}
+		{% endcapture %}
+		<h3 class="mb-10">{{ _title }}</h3>
+    </a>
+		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
+		<p class="date mb-10">{{ post.date | date: "%d %B %Y" }}</p>
+	</div>
+	<div class="section-news-button float-right ml-20">
+    <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="far fa-plus-square"></i>  Read it</a>
+	  <a class="btn-sixsq mt-20 all" href="https://media.sixsq.com/blog"><i class="far fa-plus-square"></i>  All blog posts</a>
+	</div>
+</div>

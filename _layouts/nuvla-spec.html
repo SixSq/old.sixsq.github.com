@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+  	<main>
+      {% include {{ page.product }}-banner.html %}
+      {% include {{ page.product }}-sub-menu.html %}
+      <section>
+      	<div class="container">
+      		<div class="row justify-content-center mt-50 mb-20">
+      			<div class="col-md-12 section-title text-center">
+      				<span><h2 class="pb-10 fw700">Read the technical specification</h2>
+      			</div>
+      		</div>
+          <div id="nuvla-product-description" class="col-md-12 mb-20">
+            <h4 style="line-height: 1.5em">{{ page.content }}</h4>
+          </div>
+          <div class="col-md-12 mb-50 text-center">
+            <img style="max-height: 280px;" src="/img/content/product_descriptions/nuvla_product_description_screen_shot.png" alt="nuvla_product_description"/>
+						<p class="button mt-10 text-center">
+							<a class="btn-sixsq mt-20 color-3 text-center" href="http://media.sixsq.com/nuvla-product-description"><i class="far fa-plus-square"></i> Read more</a>
+						</p>
+          </div>
+        </div>
+      </div>
+      {% include whats-next.html %}
+  		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

@@ -1,0 +1,35 @@
+/******************************************************************
+Theme Name: SIXSQ HTML5 + CSS
+Description: Website Template
+Author: Trust-it services
+Author URI: http://www.trust-itservices.com/
+Created: 21/11/2017
+******************************************************************/
+
+
+// including variables and mixins
+@import "theme/variables";
+@import "theme/mixins";
+@import "theme/flexbox";
+@import "theme/reset";
+
+// including reset styles
+@import "theme/header.scss";
+@import "theme/feature.scss";
+@import "theme/banner.scss";
+@import "theme/section-menu-product-page.scss";
+@import "theme/section-product-is-it-for.scss";
+@import "theme/section-product-icon-get.scss";
+@import "theme/section-product-contact-us.scss";
+@import "theme/section-product-intro.scss";
+@import "theme/btn.scss";
+@import "theme/section-about.scss";
+@import "theme/section-article.scss";
+@import "theme/section-top.scss";
+@import "theme/section-services.scss";
+@import "theme/section-newsletter.scss";
+@import "theme/section-news.scss";
+@import "theme/section-news-article.scss";
+@import "theme/section-videos.scss";
+@import "theme/footer.scss";
+@import "theme/solutions-overview.scss";

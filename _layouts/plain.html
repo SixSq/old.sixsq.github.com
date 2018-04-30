@@ -1,15 +1,17 @@
 <!DOCTYPE html>
 <html>
   {% include head.html %}
-  <body>
-    {% include top.html %}
-    {% include {{ page.category }}_nav.html %}
-	
-    {{ page.content | markdownify }}
-
-    {% include footer.html %}
-
-    <script type="text/javascript">$("#nav-{{ page.class }}").addClass("active");</script>
-
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+    {{ page.content }}
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
   </body>
 </html>

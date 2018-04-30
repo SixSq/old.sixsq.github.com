@@ -1,0 +1,19 @@
+			<div class="service {{ post.css-class }}">
+				<div class="container">
+					<div class="row">{{ post.align-text }}
+          {% if thecycle == 'even' or post.align-text == 'right' %}
+            <div class="col-md-6 col-sm-12"></div>
+          {% endif %}
+						<div class="col-md-6 col-sm-12 services-content animated">
+							<h2 class="pb-10 fw700">{{ post.title }}</h2>
+							<p class="fw100">{{ post.content }}</p>
+							<div class="line mb-20"></div>
+							<p class="fw100">{{ post.action-text }}</p>
+							<a class="btn-sixsq " href="{{ post.link }}"><i class="far fa-plus-square"></i> Learn more</a>
+						</div>
+          {% if thecycle == 'odd' or post.align-text == 'left' %}
+            <div class="col-md-6 col-sm-12"></div>
+          {% endif %}
+					</div>
+				</div>
+			</div>

@@ -1,5 +1,0 @@
-{% for post in site.posts %}
-{% if post.category == "summary" and post.class == page.class %}
-  {{ post.content | markdownify }}
-{% endif %}
-{% endfor %}
