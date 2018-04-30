@@ -15,11 +15,9 @@
 //-------- Page-products Nuvla --------//
 
 .banner-page-int {
-	background: url(/img/banner/banner-product.jpg) no-repeat bottom center/cover;
 	background-size: cover;
 	height: auto;
   @include mobile {
-    background: url(/img/banner/banner-product.jpg) no-repeat;
     background-size: auto 100%;
     background-position: left center;
 	}

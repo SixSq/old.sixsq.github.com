@@ -794,12 +794,10 @@ td, th {
       background-position: left center; } }
 
 .banner-page-int {
-  background: url(/img/banner/banner-product.jpg) no-repeat bottom center/cover;
   background-size: cover;
   height: auto; }
   @media (max-width: 767px) {
     .banner-page-int {
-      background: url(/img/banner/banner-product.jpg) no-repeat;
       background-size: auto 100%;
       background-position: left center; } }
   .banner-page-int.banner-nuvlacity {
