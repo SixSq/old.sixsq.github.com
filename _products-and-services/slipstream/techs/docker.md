@@ -6,4 +6,4 @@ image: /img/logo/docker.png
 link: http://docker.com
 ---
 
-Transitional and event based logic is handled using Apache Zookeeper. It also allows a simple and elegant support for push notifications, at scale. Another good one.
+SlipStream uses and supports containers. It uses them as packaging for its micro-services, while also allowing users to deploy their cloud and edge applications as container(s). And as the container world moves rather fast, we are tracking that target as well.

@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: mF2C Meeting to Review Progress on IoT and Fog Computing Solutions
-image: http://sixsq.com/img/content/logo_mf2c.png
+image: /img/content/logo_mf2c.png
 product: news
 product-name: News
 class: news

@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Workshop to leverage Swiss Innovation for Earth Observation (EO) Data Processing Value Added Services
-image: http://sixsq.com/img/content/EO-workshop.jpg
+image: /img/content/EO-workshop.jpg
 product: news
 product-name: News
 class: news

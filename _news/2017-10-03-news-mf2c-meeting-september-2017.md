@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Discussing Smart City Solutions with mF2C Project
-image: http://sixsq.com/img/content/logo_mf2c.png
+image: /img/content/logo_mf2c.png
 product: news
 product-name: News
 class: news
@@ -24,13 +24,8 @@ mF2C has the following three use cases which are very relevant to smart city env
 - [Enriched Navigation Service](http://www.mf2c-project.eu/use-case-2-sentinel-smart-boat-use-case/)
 - [Smart Fog-Hub Service in Airports](http://www.mf2c-project.eu/use-case-3-the-smart-fog-hub-service-in-airports/)
 
-
-
 They will be used to demonstrate that fog computing can improve efficiency and services in everyday situtaions.
 
 During the recent meeting, SixSq took the opportunity to talk with three of the project partners and find out why the project is important and get more insights into the use cases. You can find out more about that on our [blog](http://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities).
 
 For more information, visit the project [website](http://www.mf2c-project.eu)
-
-
-

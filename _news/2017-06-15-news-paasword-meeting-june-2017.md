@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: PaaSword Project Improves Trust in Cloud Services
-image: http://sixsq.com/img/content/logo_paasword.png
+image: /img/content/logo_paasword.png
 product: news
 product-name: News
 class: news

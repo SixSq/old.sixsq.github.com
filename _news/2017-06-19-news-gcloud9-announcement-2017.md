@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: SixSq's NuvlaBox accepted onto UK's Digital Marketplace
-image: http://sixsq.com/img/content/nuvlabox/nuvlabox-mini-v2.png
+image: /img/content/nuvlabox/nuvlabox-mini-v2.png
 product: news
 product-name: News
 class: news

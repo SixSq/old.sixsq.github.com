@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Connecting the Citizen with Smart Applications
-image: http://sixsq.com/img/content/news/Connecting-Citizen-Smart-Cities.png 
+image: /img/content/news/Connecting-Citizen-Smart-Cities.png 
 product: news
 product-name: News
 class: news
@@ -12,7 +12,7 @@ in-focus: false
 
 SixSq CEO [Marc-Elian Bégin]() will be speaking at the 3rd edition of the Public Sector Transformation Conference, which this year will focus on the digitisation of cities and subsequent strengthening of government-citizen relationships. Drawing on case studies from Europe and around the world, the event will examine high-capacity infrastructure & edge computing capabilities that power smart cities and how new data sources can be exploited to develop new citizen applications.
 
-The event is being organised by [Forum Europe](http://www.forum-europe.com/), a leading EU confernce provider with more than 25 years experience of planning and executing events, and Hewlett Packard Enterpise.
+The event is being organised by [Forum Europe](http://www.forum-europe.com/), a leading EU conference provider with more than 25 years experience of planning and executing events, and Hewlett Packard Enterprise.
 
 Marc-Elian will be contributing to the panel entitled “Open Ecosystems and Data Governance: Conditions for smart applications.” This will address the crucial aspect of how cities can create and cater to the demand for transformed public services and how cities can be responsive to citizen’s actual requirements so that services can be targeted at them.
 

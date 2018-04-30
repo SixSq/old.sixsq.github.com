@@ -5,7 +5,7 @@ product: news
 product-name: News
 category: media
 class: news
-image: http://sixsq.com/img/content/logo_mf2c.png
+image: /img/content/logo_mf2c.png
 top-story: false
 in-focus: false
 ---
@@ -22,9 +22,9 @@ The first day was dedicated to a practical integration workshop in the SixSq off
 
 **What’s next?**
 
-There will soon be workshops on the [use cases](http://www.mf2c-project.eu/blog/press-room/use-cases/) which are very interesting and practical examples of how fog computing impacts real life scenarios. The project will in particlar work on security features.
+There will soon be workshops on the [use cases](http://www.mf2c-project.eu/blog/press-room/use-cases/) which are very interesting and practical examples of how fog computing impacts real life scenarios. The project will in particular work on security features.
 
-SixSq’s participaton in the project is funded by [SERI](https://www.sbfi.admin.ch/sbfi/en/home.html) under contract number 16.0202.
+SixSq’s participation in the project is funded by [SERI](https://www.sbfi.admin.ch/sbfi/en/home.html) under contract number 16.0202.
 
 For more information, visit the project website [http://www.mf2c-project.eu](http://www.mf2c-project.eu)
 

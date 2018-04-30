@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Launching the Helix Nebula Science Cloud Prototype Phase
-image: http://sixsq.com/img/content/helix-nebula.jpg
+image: /img/content/helix-nebula.jpg
 product: news
 product-name: News
 class: news
