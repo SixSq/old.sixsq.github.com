@@ -13,7 +13,7 @@ applicable_from: 01/10/2016
 last_update: 01/10/2016
 ---
 
-[History](https://github.com/SixSq/sixsq.github.com/commits/master/_posts/legal/2016-10-01-legal-general-terms-and-conditions.md)
+[History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-general-terms-and-conditions.md)
 
 1\.	Welcome to SixSq
 ---
