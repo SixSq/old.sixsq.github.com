@@ -7,7 +7,7 @@
                 <i class="fa {{ post.icon }}"></i>
               </div>
             {% endif %}
-			  <p class="mt-10 text-center">{{ post.content | strip_html | truncatewords: 30  }}</p>
+			  <p class="mt-10 text-center">{{ post.content | strip_html }}</p>
 			  <p class="button mt-10 text-center">
               {% if post.link %}
                 {% assign url = post.link  %}
