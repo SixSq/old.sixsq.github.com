@@ -8,7 +8,7 @@ class: news
 category: media
 summary: Hewlett Packard Enterprise’s largest IT event of the year is taking place this week in Madrid. Thousands of attendees will be on site to listen to high-profile speakers and take a sneak peak at upcoming technologies.
 top-story: false
-in-focus: true
+in-focus: false
 ---
 
 [Discover 2017 Madrid](https://www.hpe.com/events/discover/) showcases the latest technological developments in **digital transformation**

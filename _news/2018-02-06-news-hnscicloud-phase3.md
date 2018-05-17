@@ -7,7 +7,7 @@ product-name: News
 category: media
 class: news
 image: http://sixsq.com/img/content/helix-nebula.jpg
-top-story: true
+top-story: false
 in-focus: true
 ---
 
