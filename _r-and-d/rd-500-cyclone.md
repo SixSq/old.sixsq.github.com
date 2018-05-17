@@ -7,7 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-
+permalink: /r-and-d/cyclone
 ---
 
 [CYCLONE][web] developed a solution for *complete dynamic multi-cloud

@@ -15,14 +15,14 @@ applicable_from: 17/05/2017
 last_update: 25/07/2017
 ---
 
-[History](https://github.com/SixSq/sixsq.github.com/commits/master/_posts/legal/2017-05-17-legal-aai-privacy-policy.md)
+[History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-aai-privacy-policy.md)
 
 1\. Welcome to SixSq
 ---  
 
 1.1	Thanks for your interest in our Software, Products and Services. These are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland.
 
-1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1) and the [Swiss data privacy law](https://www.edoeb.admin.ch/org/00129/index.html?lang=en).
+1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1) and the [Swiss data privacy law](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html).
 
 2\. Name of the service
 ---

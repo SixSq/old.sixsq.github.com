@@ -2,11 +2,12 @@
 layout: article-r-and-d
 title: EU-SEC
 head-title: EU-SEC&#58; portable, inexpensive, self managing &amp; secure cloud
-image: /img/logo//logo_EU_SEC.png
+image: /img/logo/logo_EU_SEC.png
 class: r-and-d
 category: resources
 product: about
 product-name: R&D
+permalink: /r-and-d/eusec
 ---
 
 The EU-SEC project is studying ways to improve approaches to trust, assurance and compliance in the ICT market. To achieve its goal the project EU-SEC will create a framework under which existing, certification and assurance approaches in the ICT market can co-exist.

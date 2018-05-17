@@ -6,8 +6,8 @@ product: news
 product-name: News
 category: media
 class: news
-image: http://sixsq.com/img/content/helix-nebula.jpg
-top-story: false
+image: /img/content/helix-nebula.jpg
+top-story: true
 in-focus: true
 ---
 
@@ -15,7 +15,7 @@ SixSq, a cloud solutions provider headquartered in Geneva, Switzerland, is part 
 
 Along with [RHEA Group](https://www.rheagroup.com/) as consortium leader, [T-Systems](https://www.t-systems.com/), [Exoscale](https://www.exoscale.com/), [Advania](https://advania.com/) and [Cyfronet](http://www.cyfronet.krakow.pl/en/4421,main.html), SixSq will be working on the challenging needs of the European scientific community in both commercial and hybrid clouds, managing a range of applications, at scale and in a multi-cloud environment.
 
-“We are delighted to be in the final phase of this prestigious contest. Looking at the competition like Indra, IBM and T-Systems, as an SME, it makes our achievement even more impressive. I’m incredibly proud of our amazing team,” said [Marc-Elian Bégin](http://sixsq.com/about-us/), SixSq’s CEO.
+“We are delighted to be in the final phase of this prestigious contest. Looking at the competition like Indra, IBM and T-Systems, as an SME, it makes our achievement even more impressive. I’m incredibly proud of our amazing team,” said [Marc-Elian Bégin](/about/about-us), SixSq’s CEO.
 
 The [HNSciCloud buyers group](http://www.hnscicloud.eu/about-us/hnscicloud-partners) consists of highly-demanding scientific laboratories and organisations, such as CERN, the world’s largest particle physics lab, the European Molecular Biology Laboratory (EMBL) and CNRS, the French National Centre for Scientific Research. The idea behind the project is to bring together public and commercial organisations to provide innovative and cost-effective access to cloud services. This is driven by the big data revolution, requiring scientific communities to process ever-growing amounts of data over the next 10 to 15 years.
 

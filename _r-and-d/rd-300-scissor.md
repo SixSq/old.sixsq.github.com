@@ -7,6 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
+permalink: /r-and-d/scissor
 ---
 
 With a holistic approach, [SCISSOR][web] designs a new generation

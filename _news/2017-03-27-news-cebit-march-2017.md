@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: SixSq's Innovative Solutions at CeBIT 2017
-image: http://sixsq.com/img/content/logo_CEBIT_2017.png
+image: /img/logo/logo_CEBIT_2017.png
 product: news
 product-name: News
 class: news
@@ -16,7 +16,7 @@ SixSq has been selected to be part of the EC Village.
 
 **What is the EC Village?**
 
-The European Commission will have a large EU Village at CeBIT and will be showcasing EU-funded innovators and their products and services. SixSq will be demonstrating the market potential of the innovations developed as part of the [CYCLONE](http://sixsq.com/r-and-d/cyclone/) and [Scissor](http://sixsq.com/r-and-d/scissor/) projects.
+The European Commission will have a large EU Village at CeBIT and will be showcasing EU-funded innovators and their products and services. SixSq will be demonstrating the market potential of the innovations developed as part of the [CYCLONE](/r-and-d/cyclone) and [Scissor](/r-and-d/scissor) projects.
 
 **When?**
 

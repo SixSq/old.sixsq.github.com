@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: H2020 award to push cloud, IoT and smart city product & service development
-image: http://sixsq.com/img/content/logo_mf2c.png
+image: /img/logo/logo_mf2c.png
 product: news
 product-name: News
 class: news

@@ -1,7 +1,7 @@
 ---
 layout: news-article
 title: Improving Cloud Management and Security with CYCLONE
-image: http://sixsq.com/img/content/logo_cyclone.png
+image: /img/logo/logo_cyclone.png
 product: news
 product-name: News
 class: news
@@ -26,7 +26,7 @@ The aim of this week’s meeting is to review progess made in each work area, in
 
 **What is SixSq’s contribution?**
 
-It’s hard to deploy federated applications to multiple clouds and also scale them dynamically. The CYCLONE project relies on [SlipStream](http://sixsq.com/products/slipstream/index.html), SixSq’s multi-cloud application management platform, to ease these activities considerably. SixSq also brings its expertise in cloud computing to the collaboration.
+It’s hard to deploy federated applications to multiple clouds and also scale them dynamically. The CYCLONE project relies on [SlipStream](/products-and-services/slipstream/overview), SixSq’s multi-cloud application management platform, to ease these activities considerably. SixSq also brings its expertise in cloud computing to the collaboration.
 
 You can read more about the main components of CYCLONE [here](http://www.cyclone-project.eu/software.html#main-components) and you can try out the project’s tools here [http://www.cyclone-project.eu/tryit.html](http://www.cyclone-project.eu/tryit.html).
 
