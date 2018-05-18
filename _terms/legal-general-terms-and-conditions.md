@@ -11,6 +11,8 @@ icon: fa-gavel
 permalink: /terms/general-terms-and-conditions
 applicable_from: 01/10/2016
 last_update: 01/10/2016
+redirect_from:
+  - /legal/general-terms
 ---
 
 [History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-general-terms-and-conditions.md)
