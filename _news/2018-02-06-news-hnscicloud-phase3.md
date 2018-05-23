@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/helix-nebula.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 SixSq, a cloud solutions provider headquartered in Geneva, Switzerland, is part of a consortium selected for the prestigious pilot phase of the [Helix Nebula - the Science Cloud](http://www.hnscicloud.eu/) (HNSciCloud) project. This is one of only two contracts awarded under the final phase of a €5.3 million pre-commercial procurement tender sponsored by ten of Europe’s leading public research organisations and co-funded by the European Union’s [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) Research and Innovation Programme. During this final stage of the project, the consortium will make available 10,000 cores and 1 PB of data, allowing research and scientific institutes to deploy applications at scale on the platform. 
