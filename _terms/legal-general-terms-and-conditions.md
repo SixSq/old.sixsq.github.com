@@ -221,7 +221,7 @@ For any Goods that must be returned by Customer to SixSq e.g. defective Goods un
 20\.	Customer’s Data
 ---
 
-20.1	If the Customer provides SixSq with any personal data then: (a) Customer shall be the data controller and SixSq shall be a data processor; (b) Customer agrees that SixSq may process it for the purpose of the Contract and that SixSq may transfer or store personal data in the European Union, the European Economic Area, Switzerland, the UK or the country where the Customer is located in order to supply the Goods or perform the Services; and (c) Customer shall ensure that the relevant third parties have been informed of and have given their consent to such use, processing and transfer as required by all applicable data protection legislation.
+20.1	With regard to the personal data submitted by the Customer or Users to SixSq, which are recorded and processed, SixSq undertakes to comply with the Regulation 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (“GDPR”) including any amendment thereof and the relevant Swiss legislation on data protection, and as further described in SixSq's privacy policy available on SixSq's website. [https://sixsq.com/terms/aai-privacy](https://sixsq.com/terms/aai-privacy)
 
 20.2	SixSq shall take appropriate technical and organisational measures against unauthorised or unlawful processing of Customer’s data or its accidental loss, destruction or damage. However, under no circumstances shall SixSq be held responsible for any such unauthorised or unlawful processing of Customer’s data or its accidental loss, destruction or damage.
 

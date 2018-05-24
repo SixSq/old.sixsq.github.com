@@ -1,8 +1,8 @@
 ---
 layout: article
-title: SixSq Federated Identity Portal Privacy License Agreement
-subtitle: This license describes a set of data privacy rules that SixSq commits to in the context of the Nuvla service operations, in compliance with the GÉANT Data Protection Code of Conduct and the Swiss data privacy law.
-summary: This privacy license applies to Nuvla and all SixSq services using the SixSq Federated Identity Portal.
+title: SixSq Approach to Privacy
+subtitle: This notice describes a set of data privacy rules that SixSq commits to in the context of the Nuvla service operations, in compliance GDPR and Swiss data privacy law.
+summary: This privacy license applies to Nuvla and all SixSq services.
 class: aai-privacy
 category: legal
 product: terms
@@ -17,105 +17,115 @@ last_update: 25/07/2017
 
 [History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-aai-privacy-policy.md)
 
-1\. Welcome to SixSq
+1\. Who are we?
 ---  
 
-1.1	Thanks for your interest in our Software, Products and Services. These are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland.
+The Software, Products and Services made available to you are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland. 
 
-1.2	This license describes a set of data privacy rules that SixSq commits to, in compliance with the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1) and the [Swiss data privacy law](https://www.admin.ch/opc/en/classified-compilation/19920153/index.html).
-
-2\. Name of the service
----
-SixSq Federated Identity Portal (also known as SixSq Fed-Id SP)
-
-3\. Description of the service
----
-The SixSq Federated Identity Portal provides support for basic authentication and authorization through external identity providers and federations.
-
-4\. Contacts
----
-4.1 Data Controller:
-
-SixSq
-
-Rue du Bois-du-Lan, 8
-
-1217, Meyrin
-
-Geneva, Switzerland
+SixSq is the data controller which collects your personal information, thus deciding (upon your consent) how that data is processed and for what purposes. 
 
 
-<br>
+1.1. Contacts
 
-4.2 Contact Person:
+1.1.1. Address
 
-SixSq Support: support@sixsq.com
+**Global Headquarters:**
+SixSq <br>
+Rue du Bois-du-Lan, 8 <br>
+1217, Meyrin <br>
+Geneva, Switzerland <br>
 
+
+1.1.2. Contact Information
+
+**Email:** <br>
+SixSq Support: support@sixsq.com <br>
 SixSq Info: info@sixsq.com
 
+**Phone:** <br>
+Info/Support: +41 22 54 41 733
 
-5\. Jurisdiction
+**Homepage:** <br>
+[SixSq](http://sixsq.com "SixSq's Homepage")
+
+
+2\. What personal data we collect from you?
+---  
+
+During the process of registration for our services and products, we collect personal and unique information, which can be used to identify you, such as your email address, name, organization, and any other information that you might willingly share when you authenticate via a social provider or an identity federation. 
+
+With respect to the Federated Identity Portal, the following data, if available, (with respective attribute names in SAML:OIDC) are required and retrieved from the persons’ Home Organization:
+
+- email (email:mail)
+- user identifier (eduPersonPrincipalName:preferred_username)
+- type of affiliation (eduPersonAffiliation)
+- person’s affiliation within a particular security domain (eduPersonScopedAffiliation)
+- home organization type (schacHomeOrganizationType)
+- person’s home organization using the domain name of the organization (schacHomeOrganization)
+- persistent, non-reassigned, opaque identifier for a principal (eduPersonTargetedID)
+- the names of an object (commonName)
+- the name(s) that should appear in white-pages-like applications (displayName:name)
+- name strings that are the part of a person’s name that is not their surname (givenName)
+- name strings for the family names of a person (sn)
+- long-lived, non re-assignable, omnidirectional identifier (eduPersonUniqueId:sub)
+- URI (either URL or URN) that indicates a set of rights to specific resources (eduPersonEntitlement)
+
+The processing of personal data is [governed by the General Data Protection Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32016R0679) (GDPR).
+
+
+3\. How will we use your personal data?
+---  
+
+The personal data we collect from you is mostly used to identify you as a user/customer of our products and services (authentication and authorization). Your personal data (for example email) might also be used to communicate important matters related to your usage and general status (like billing, service maintenances, etc.) of the products and services you've registered to.
+
+Your personal data might also be used to link your user account with your Cloud Service Providers (CSPs).
+
+Any other personal data processing purposes other than the ones described in this notice will be preceded by a new data processing notice, asking for your consent.
+
+3.1. Access to personal data
+
+SixSq only reserves the rights to manage your personal data, it being entirely owned by you.
+
+If at any time you wish to be provided with a copy of all the information we have about you, you have the right to request it using the contact information provided in section 1.
+
+3.2. Data retention
+
+Personal data can be completely erased on request. Other retention policies include removing personal data of inactive users after a period of 24 months.
+
+3.3. Data integrity
+
+As a data controller, SixSq complies with GDPR when it comes to:
+ - protecting personal information from loss, misuse and unauthorized access;
+ - storing, managing and deleting personal data;
+ - maintaining full transparency between the data we hold and the user;
+ - keeping personal data up to date.
+
+Data integrity is enforced by the implementation of ISO27001 controls.
+
+3.4. Sharing
+
+Personal data is not transferred to any 3rd parties unless:
+
+ - consent has been given by the user, or
+ - mandated by the Service Provider for enabling access to its service on its behalf;
+ - the 3rd party has undertaken similar duties considered sufficient under the data protection law applicable to the Service Provider.
+
+3.5. Lawfulness of processing (according to [Article 6 of the GDPR](http://www.privacy-regulation.eu/en/article-6-lawfulness-of-processing-GDPR.htm))
+
+Lawful processing of your personal data is ensured by applying the following:
+
+ - _"the data subject has given consent to the processing of his or her personal data for one or more specific purposes"_;
+
+**No special categories of personal data ([Article 9 of the GDPR](http://www.privacy-regulation.eu/en/article-9-processing-of-special-categories-of-personal-data-GDPR.htm)) are processed by SixSq**.
+
+Where do we keep your personal data?
+
+All personal data is kept within EU data centers and might be moved between data centers residing in other countries also within the EU. Personal data is protected according to the [Code of Conduct for Service Providers](https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx), a common standard for the research and higher education sector to protect your privacy.
+
+
+4\. Applicability 
 ---
 
-CH-GE Switzerland Geneva
+Independently of the existing relations with third-party partners and references to other websites, this privacy notice only applies to SixSq's websites and web services like [sixsq.com](http://sixsq.com), [nuv.la](https://nuv.la), [fed-id.nuv.la](https://fed-id.nuv.la) and any other public pages with static content, owned by SixSq and related to our services and products. This includes the documentation website [ssdocs.sixsq.com](http://ssdocs.sixsq.com/en/latest/).
 
 
-6\. Personal Data
----
-
-6.1 If available, the following data (with respective attribute names in SAML:OIDC) are required and retrieved from the persons' Home Organization:
- - email (email:mail)
- - user identifier (eduPersonPrincipalName:preferred_username)
- - type of affiliation (eduPersonAffiliation)
- - person's affiliation within a particular security domain (eduPersonScopedAffiliation)
- - home organization type (schacHomeOrganizationType)
- - person's home organization using the domain name of the organization (schacHomeOrganization)
- - persistent, non-reassigned, opaque identifier for a principal (eduPersonTargetedID)
- - the names of an object (commonName)
- - the name(s) that should appear in white-pages-like applications (displayName:name)
- - name strings that are the part of a person's name that is not their surname (givenName)
- - name strings for the family names of a person (sn)
- - long-lived, non re-assignable, omnidirectional identifier (eduPersonUniqueId:sub)
- - URI (either URL or URN) that indicates a set of rights to specific resources (eduPersonEntitlement)
-
-7\. Purpose of the Processing of Personal Data
----
-
-7.1 All the personal data is used for user authentication, authorization and access control within SixSq's services and official 3rd party partners (when found appropriate and relevant to support users, according to section 8.1).
-
-7.2 No sensitive user information shall be explicit in the Service Provider log files, having these available purely for recording of important service and user events, enabling diagnosis of any possible system failure.
-
-8\. Disclosing Personal Data to 3rd Parties
----
-
-8.1 Personal data is not transferred to any 3rd parties unless:
-
- (a) consent has been given by the end user, or
-
- (b) mandated by the Service Provider for enabling access to its service on its behalf
-
- (c) the 3rd party has undertaken similar duties considered sufficient under the data protection law applicable to the Service Provider
-
-
-9\. Accessing and Managing Personal Data
----
-
-9.1 For any special access please contact the support person mentioned in section 4.2.
-
-9.2 If the personal data and respective attributes are inconsistent, false or in need of rectification, the person's Home Organisation (as the Identity Provider) should be contacted.
-
-
-10\. Data Retention
----
-
-Personal data can always be completely erased on request. Other retention policy includes removing personal data concerning inactive users after a long period of time.
-
-
-11\. Data Protection Code of Conduct
----
-
-Your personal data will be protected according to the [Code of Conduct for Service Providers](http://www.geant.net/uri/dataprotection-code-of-conduct/v1), a common standard for the research and higher education sector to protect your privacy.
-
-
----
-_This Privacy License Agreement covers all the SixSq's Authentication and Authorization Infrastructure (AAI), including https://fed-id.nuv.la._
