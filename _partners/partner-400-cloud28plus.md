@@ -1,7 +1,7 @@
 ---
 title: Cloud28+
 head-title: Our Partners&#58; HPE
-image: /img/logo/logo_cloud28plus.jpg
+image: /img/logo/logo_cloud28plus.png
 class: partners
 category: about
 top-story: true
