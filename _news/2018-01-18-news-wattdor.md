@@ -7,7 +7,7 @@ category: media
 class: news
 image: /img/logo/logo_volumlight.png
 top-story: false
-in-focus: true
+in-focus: false
 ---
 
 [Schréder Swiss](http://www.schreder.com/), one of Europe’s leading suppliers of street lighting equipment, in partnership with [EKZ (Elektrizitätswerke des Kantons Zürich)](https://www.ekz.ch/de/ueber-ekz/newsroom/medienmitteilungen-2018/watt-dor-verkehrsbeobachtendes-licht.html), has been presented with the Watt d’Or 2018 award for the Energy Technologies Category. The prize is awarded by the Swiss Federal Office of Energy to innovative Swiss companies and organisations which have developed practical, sustainable energy solutions.
