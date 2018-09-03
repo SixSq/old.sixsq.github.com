@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/news/HPE_2018.jpeg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 [HPE Discover 2018 Las Vegas](https://www.hpe.com/events/discover/) will focus on emerging technologies which are set to upturn industry. There are eleven content tracks covering key topics around **digital transformation.** Thousands of technology experts from around the world will gather at the event for learning and networking, all hoping to take away key intelligence that will boost their business. Important topics include:

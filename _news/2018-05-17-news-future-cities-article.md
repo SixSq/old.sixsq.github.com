@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/news/shutterstock_219573052.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 We were recently asked to contribute to the Spring Edition of the Diplomatic Courier by writing an article on Future Cities. Here are our thoughts. Let us know what kind of city you'd like to live in.
