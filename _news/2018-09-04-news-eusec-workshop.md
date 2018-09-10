@@ -1,6 +1,6 @@
 ---
 layout: news-article
-short-title: oin the Workshop on European Security Certification
+short-title: Join the Workshop on European Security Certification
 title: Join the Workshop on European Security Certification
 image: /img/logo/logo_EU_SEC.jpeg
 product: news
