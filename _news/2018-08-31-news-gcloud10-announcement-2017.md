@@ -1,13 +1,14 @@
 ---
 layout: news-article
+short-title: SixSq's NuvlaBox on UK's G-Cloud 10
 title: SixSq's NuvlaBox on UK's G-Cloud 10
 image: /img/content/nuvlabox/hpe/gl20.png
 product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 We are pleased to announce that SixSq has been approved to supply the UK public sector with cloud hosting services under [G-Cloud 10](https://www.gov.uk/government/news/thousands-of-small-businesses-lined-up-for-g-cloud-10).  

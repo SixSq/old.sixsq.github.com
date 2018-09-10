@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/logo/logo_mf2c.png
-top-story: true
-in-focus: true
+top-story: false	
+in-focus: false
 ---
 
 SixSq is part of mF2C, an [H2020](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) project which is developing a hierarchical, coordinated management platform facilitating the usage of cloud/fog/Internet of Things (IoT) resources.

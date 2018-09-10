@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/news/satellite.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 SixSq will be working alongside [Nottingham Scientific Ltd](http://www.nsl.eu.com/) (NSL) and the [University of Nottingham](https://www.nottingham.ac.uk/) on an exciting new project set to improve the exploitation and application of big data collected by global navigation systems. 

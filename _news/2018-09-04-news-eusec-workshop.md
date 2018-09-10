@@ -1,13 +1,14 @@
 ---
 layout: news-article
+short-title: oin the Workshop on European Security Certification
 title: Join the Workshop on European Security Certification
 image: /img/logo/logo_EU_SEC.jpeg
 product: news
 product-name: News
 class: news
 category: media
-top-story: false
-in-focus: false
+top-story: true
+in-focus: true
 ---
 
 **Contribute to improving trust, assurance and compliance in the ICT market**
