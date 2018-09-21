@@ -17,7 +17,7 @@ SixSq is part of mF2C, an [H2020](https://ec.europa.eu/programmes/horizon2020/en
 
 There is no denying that we are experiencing a proliferation of so-called smart smart devices, especially in the realm of smart cities, embedded in such things as diverse as meters, cars and wireless sensor networks. These smart devices are leading to the development of value-added smart services using cloud and [fog computing](http://www.mf2c-project.eu/iot-cloud-fog-edge-do-i-hear-more/). When used alongside cloud computing, fog computing presents a number of potential advantages, including real time processing, privacy of data storage and analysis, as well as new market opportunities with rapid innovation possibilities. However, this also throws up the challenge of managing fog and cloud computing systems in parallel. The mF2C project addresses the need for an open and coordinated management of these systems, which is especially relevant with the rise of [smart cities](http://media.sixsq.com/blog/what-is-a-smart-city), e-health and so on.
 
-**What is aim of the workhsop?**
+**What is aim of the workshop?**
 
 The workshop deals with the different aspects related to innovative large and distributed computing scenarios that are envisioned as the natural evolution of current cloud scenarios. The workshop also address the different aspects of parallel programming, its applicability to those scenarios and any other software required to suitable manage such a complex scenarios, including security and privacy aspects.
 
