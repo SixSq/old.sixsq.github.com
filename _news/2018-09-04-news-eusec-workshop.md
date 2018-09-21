@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 **Contribute to improving trust, assurance and compliance in the ICT market**

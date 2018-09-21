@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: false
-in-focus: false
+top-story: true
+in-focus: true
 ---
 
 We are pleased to announce that SixSq has been approved to supply the UK public sector with cloud hosting services under [G-Cloud 10](https://www.gov.uk/government/news/thousands-of-small-businesses-lined-up-for-g-cloud-10).  
