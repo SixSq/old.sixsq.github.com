@@ -19,11 +19,11 @@ The partners will discuss the continued development of the [multi-party recognit
 
 The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risks management, assurance and compliance. The EU-SEC aims to enhance trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners.
 
-When the discussions are over, there is plenty in Linz to keep the participans happy, with the attractions of the River Danube and the delicious Linzer torte, the oldest cake in the world. 
+When the discussions are over, there is plenty in Linz to keep the participants happy, with the attractions of the River Danube and the delicious Linzer torte, the oldest cake in the world. 
 
 **When?**
 
-15 to 17 October 10 2018
+15 to 17 October 2018
 
 **Where?**
 
