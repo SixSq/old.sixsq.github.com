@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/logo/logo_mf2c.png
-top-story: true	
-in-focus: true
+top-story: false	
+in-focus: false
 ---
 
 Members of the SixSq team are heading to the historic Oxfordshire town of Abingdon, which claims to be the oldest town in the UK. The reason is not to take part in the famous tradition of bun throwing, but to participate in the next [mF2C](http://www.mf2c-project.eu/) project meeting. Following the recent project review by the European Commission there will be lots to discuss. Having passed the half-way mark in the project, it's a great time to review what is working well and make sure the roadmap is on track.
