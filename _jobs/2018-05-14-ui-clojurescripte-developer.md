@@ -8,47 +8,39 @@ class: jobs
 image: /img/content/clojurescript-logo.png
 ---
 
-Overview
-====
+Creating Awesome User Experience
+----
 
-SixSq is currently recruiting a *Web UI and Clojurescript Developer*. As part of the SixSq core development team, the work will
-consist in further developing [SlipStream](/products-and-services/slipstream/overview), an open source multi-cloud management solution.  The successful candidate will focus on the Web User Interface (UI), improving and redeveloping the current product interface, using primarily the Clojure/Clojurescript language and its eco-system.  Since SlipStream Web UI already includes a significant base of Javascript, porting and reimplementation of Javascript logic into Clojurescript will also take place initially.
+SixSq is currently recruiting a **Web UI and Clojurescript Developer**. As part of the SixSq core development team, the work will
+consist in further developing [SlipStream](/products-and-services/slipstream/overview), our open source multi-cloud and cloud-to-edge management platform.
 
-SlipStream is the foundation technology for SixSq's [Nuvla service](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview).
+You will focus on the Web User Interface (UI), both on the creative side as well as its implementation.  The new UI is based on the Clojurescript language and its eco-system (e.g. React, Reagent, re-frame, Semantic UI).
 
-The developer will be involved in R&D projects, both in Europe and Switzerland. He/She will also be involved in the
-development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service,
-the successful candidate will be interfacing with customers and users, thus building handson knowledge.
-  
-Since SixSq operates as a start-up and follows the kanban agile methodology and elements of devops, the successful candidate must have demonstrated experience and appetit for operating in this mode.
+SlipStream is the foundation technology for SixSq's [Nuvla platform](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview), powering our Smart City, Smart Science and Industry 4.0 business.
 
-The successful candidate must be able to strive in a start-up environment and a flat hierarchy.
+As part of the SixSq DevOps team, you will also be involved in the development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service, you will be interfacing with customers and users, thus recieving direct feedback from users.
 
-The selected candidate will be located in Geneva, as part of the SixSq core team.  Home working one day per week is possible but
-the candidate must be within daily commute distance from the Geneva office.
+Since SixSq operates as a start-up and follows the kanban agile methodology and devops, you must have demonstrated experience and appetit for operating in this mode. You therefore must be able to strive in a start-up environment and a flat hierarchy.
 
-The position is an unlimited assignment and can only be via a direct Swiss employment contract.
+The core of the SixSq DevOps team is located in Geneva.  While remote work is possible, especially initialy, we would prefer if the selected candidate was to eventually relocate to Geneva.  SixSq employees often work one day per week from home.
 
-The candidate must be a Swiss or European citizen or have a valid Swiss working permit. 
+Two possible employment models are:
 
-**Note: Placement agencies, please do not apply as we require direct assignment.**
+1. Unlimited assignment via a direct Swiss employment contract, with location in Geneva.
+2. Consultancy contract (renewable yearly).
 
-The selected candidate will receive intensive training on the core technologies of SixSq, as well as R&D projects
-currently running or about to kickoff.
+The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holiday), free public transport,
+private laptop, etc.
+
+{% comment %} Note: Placement agencies, please do not apply as we require direct assignment. {% endcomment %}
+
+Upon starting the position, you will receive intensive training on the core technologies of SixSq, as well as our DevOps automation environment and the codebase.
 
 Regular travels in Europe for short meetings should be expected.
 
-The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holiday), free public transport,
-private laptop.
+We are looking for candidates with the following skills and experience:
 
-
-Skills and Experience
-====
-
-We are looking for candidates with the following skills and experience:  
-
-
-Management
+Management Skills and Experience
 ----
 
 **Mandatory**
@@ -61,20 +53,20 @@ Management
 
 **Nice to have**
 
-- Experience in providing content for dissemination purposes (e.g. social networks, blogs)
+- Experience in providing content for dissemination purposes (e.g. social networks, blogs).
 
 
-Technical
+Technical Skills and Experience
 ----
 
 **Mandatory**
 
-- Demonstrated experience in working on software systems, cloud services and technologies, as well as distributed systems
+- Experience in creating fun and user friendly web interfaces
 - Mastery of the Clojurescript language and its eco-system, including tools and libraries
-- Mastery of the Javascript language
+- Good knowledge of the Javascript language
 - Able to enunciate simple designs from high-level user story requirements, alone and in a small team
 - Experienced with Linux: CentOS and/or Ubuntu (all SixSq production services currently run on CentOS 7)
-- Experienced with Mac products, including macOS
+- Experienced with Mac products, including MacOS
 
 **Nice to have**
 
@@ -82,13 +74,14 @@ Technical
 - Knowledge of open source cloud solutions: OpenStack, CloudStack, EC2, vCloud...
 - Experience in the Python language and its eco-system
 - Experience in Java and its eco-system
+- Demonstrated experience in working on large software systems, cloud services and technologies
 - Pair programming experience
 
 
-Educational
+Education and Experience
 ----
 
-University Degree or equivalent in a technical discipline, including in-work experience
+University Degree or equivalent in a technical discipline, or relevent work experience.
 
 
 Language skills
@@ -103,9 +96,8 @@ SixSq operates in English and French. All official documentation is written in E
 If you have any questions on the vacancy or SixSq, don't hesitate to [get in touch](mailto:jobs@sixsq.com?subject=job%20application).
 
 Selection Process
-===================
+----
 
-Interested? Apply now by sending your CV, motivation letter and names of 3 references to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
+Interested? Apply now by sending your CV, motivation letter and names of 3 references to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application).
 
 Or know someone who could do this? Share this position with a friend.
-
