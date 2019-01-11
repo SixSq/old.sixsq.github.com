@@ -20,7 +20,7 @@ SlipStream is the foundation technology for SixSq's [Nuvla platform](/products-a
 
 As part of the SixSq DevOps team, you will also be involved in the development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service, you will be interfacing with customers and users, thus receiving direct feedback from users.
 
-Since SixSq operates as a start-up and follows the kanban agile methodology and devops, you must have demonstrated experience and appetite for operating in this mode. You therefore must be able to strive in a start-up environment and a flat hierarchy.
+Since SixSq operates as a start-up and follows the kanban agile methodology and DevOps, you must have demonstrated experience and an appetite for operating in this mode. You therefore must be able to thrive in a start-up environment and a flat hierarchy.
 
 The core of the SixSq DevOps team is located in Geneva.  While remote work is possible, especially initially, we would prefer if the selected candidate was to eventually relocate to Geneva.  SixSq employees often work one day per week from home.
 
@@ -29,7 +29,7 @@ Two possible employment models are:
 1. Unlimited assignment via a direct Swiss employment contract, with location in Geneva.
 2. Consultancy contract.
 
-The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holiday), free public transport in Geneva,
+The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holidays), free public transport in Geneva,
 private laptop, etc.
 
 {% comment %} Note: Placement agencies, please do not apply as we require direct assignment. {% endcomment %}

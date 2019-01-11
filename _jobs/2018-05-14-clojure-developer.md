@@ -12,7 +12,7 @@ Overview
 ====
 
 SixSq is currently recruiting a *Clojure and Cloud Developer*. As part of the SixSq core development team, the work will
-consist in further developing [SlipStream](/products-and-services/slipstream/overview), an open source multi-cloud management solution.  The successful candidate will work in extending the product, using primarily the Clojure language and its eco-system.  Since SlipStream still has Java elements, porting and reimplementation of Java logic into Clojure will also take place initially.
+consist of further developing [SlipStream](/products-and-services/slipstream/overview), an open source multi-cloud management solution.  The successful candidate will work in extending the product, using primarily the Clojure language and its eco-system.  Since SlipStream still has Java elements, porting and reimplementation of Java logic into Clojure will also take place initially.
 
 SlipStream is the foundation technology for SixSq's [Nuvla service](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview).
 
@@ -20,9 +20,9 @@ The developer will be involved in R&D projects, both in Europe and Switzerland. 
 development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service,
 the successful candidate will be interfacing with customers and users, thus building handson knowledge.
   
-Since SixSq operates as a start-up and follows the kanban agile methodology and elements of devops, the successful candidate must have demonstrated experience and appetit for operating in this mode.
+Since SixSq operates as a start-up and follows the kanban agile methodology and elements of devops, the successful candidate must have demonstrated experience and an appetite for operating in this mode.
 
-The successful candidate must be able to strive in a start-up environment and a flat hierarchy.
+The successful candidate must be able to thrive in a start-up environment and a flat hierarchy.
 
 The selected candidate will be located in Geneva, as part of the SixSq core team.  Home working one day per week is possible but
 the candidate must be within daily commute distance from the Geneva office.
@@ -38,7 +38,7 @@ currently running or about to kickoff.
 
 Regular travels in Europe for short meetings should be expected.
 
-The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holiday), free public transport,
+The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holidays), free public transport,
 private laptop.
 
 
@@ -55,9 +55,9 @@ Management
 
 - Demonstrated experience in working in a multi-cultural environment
 - Ability to communicate effectively with internal teams, partners and customers
-- Experience of Agile or Lean management practises (e.g. Scrum, Kanban, DevOps)
+- Experience of Agile or Lean management practices (e.g. Scrum, Kanban, DevOps)
 - Experience in working in an open source environment
-- Ability to identify and share impediment
+- Ability to identify and share impediments
 
 **Nice to have**
 
@@ -91,7 +91,7 @@ Technical
 Educational
 ----
 
-University Degree or equivalent in a technical discipline, including in-work experience
+University Degree or equivalent in a technical discipline, or relevant work experience.
 
 
 Language skills
