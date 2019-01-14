@@ -8,6 +8,9 @@ class: jobs
 image: /img/logo/logo_sixsq.png
 ---
 
+Scale Edge-to-Cloud and Multi-Cloud Operations
+----
+
 SixSq is currently recruiting a **lead operations developer** who will
 **improve and refine the processes around our production and
 pre-production services**.  These processes involve the deployment,
