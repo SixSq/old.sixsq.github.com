@@ -9,7 +9,7 @@ image: /img/logo/logo_sixsq.png
 ---
 
 SixSq is currently recruiting a **lead operations developer** who will
-take the lead in **refining the processes around our production and
+**improve and refine the processes around our production and
 pre-production services**.  These processes involve the deployment,
 maintenance, and support of our services on cloud and container
 infrastructures.
