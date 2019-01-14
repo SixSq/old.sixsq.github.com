@@ -1,20 +1,18 @@
 ---
 layout: article
-title: Lead Operation Developer
+title: Lead Operations Developer
 product: about
 product-name: Jobs
 category: about
 class: jobs
-image: /img/content/logo-sixsq.png
+image: /img/logo/logo-sixsq.png
 ---
 
-Lead Operations Developer
-----
-
-SixSq is currently recruiting a **developer** who will take the lead
-in **refining the processes around our production and pre-production
-services**.  These processes involve the deployment, maintenance, and
-support of our services on cloud and container infrastructures.
+SixSq is currently recruiting a **lead operations developer** who will
+take the lead in **refining the processes around our production and
+pre-production services**.  These processes involve the deployment,
+maintenance, and support of our services on cloud and container
+infrastructures.
 
 SlipStream, the foundation for SixSq's [Nuvla
 platform](/products-and-services/nuvla/overview) and [NuvlaBox
@@ -35,16 +33,16 @@ thrive in a start-up environment with a flat hierarchy.
 
 As part of the SixSq DevOps team, you are expected to be within daily
 commuting distance from the Geneva office.  SixSq employees are
-permitted to and often do work from home one day per week.
-
-The employment contract includes a standard package - e.g. 5 weeks
-holiday (plus public holidays), reimbursement of a public transport
-pass in Geneva, work laptop, etc. Regular travel in Europe for short
-meetings should be expected.
+permitted to and often do work from home one day per week.  The
+employment contract includes a standard package - e.g. 5 weeks holiday
+(plus public holidays), reimbursement of a public transport pass in
+Geneva, work laptop, etc. Regular travel in Europe for short meetings
+should be expected.
 
 Upon starting the position, you will receive intensive training on the
 core technologies of SixSq, current DevOps processes, and information
 about our engagements with our current clients and projects.
+
 
 Technical Skills
 ----
@@ -109,14 +107,13 @@ written in English.
 - Excellent spoken and written English
 - French fluency would be an advantage
 
+
 Selection Process
 ----
 
-Interested? Apply now by sending your CV, motivation letter and names
-of 3 references to
+Interested? Apply now by sending your CV, motivation letter, salary
+expectations, and names of 3 references to
 [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application).
-
-Or know someone who could do this? Share this position with a friend.
 
 
 More Information
