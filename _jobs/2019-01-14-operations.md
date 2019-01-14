@@ -5,7 +5,7 @@ product: about
 product-name: Jobs
 category: about
 class: jobs
-image: /img/logo/logo-sixsq.png
+image: /img/logo/logo_sixsq.png
 ---
 
 SixSq is currently recruiting a **lead operations developer** who will
