@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/helix-nebula.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 The [Helix Nebula - the Science Cloud](http://www.hnscicloud.eu/) (HNSciCloud) project is in its third and final phase. The project will establish a European hybrid cloud platform to support the deployment of high-performance computing and big-data capabilities for scientific research. 
