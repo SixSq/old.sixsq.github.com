@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 **EU-SEC - The chance to boost clarity in cloud certification**
