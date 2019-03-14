@@ -24,7 +24,7 @@ ELASTIC has the three main objectives:
 
 **SixSq's role in the project:** 
 
-Within the project, SixSq will facilitate the implementation of a transparent cloud to edge ecosystem, with support for cloud-native applications. This will make use of SixSq's expertise on **edge-to-cloud** and **edge-to-edge** products and services.
+Within the project, SixSq will facilitate the implementation of a transparent cloud to edge ecosystem, with support for cloud-native applications. This will make use of SixSq's expertise in **edge-to-cloud** and **edge-to-edge** products and services to enable smart city and IoT projects.
 
 **Project Website** [https://elastic-project.bsc.es/](https://elastic-project.bsc.es/)
 
