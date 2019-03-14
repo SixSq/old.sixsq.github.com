@@ -2,7 +2,7 @@
 layout: article-r-and-d
 title: ELASTIC  
 head-title: ELASTIC; Developing Edge to Cloud Architecture for Advanced Mobility Systems 
-iimage: /img/logo/elastic-logo-simple.png
+image: /img/logo/elastic-logo-simple.png
 class: r-and-d
 category: resources
 product: about
@@ -10,52 +10,48 @@ product-name: R&D
 permalink: /r-and-d/elastic
 ---
 
-**Mobile Fog-to-Cloud**
+**Technology for advanced mobility systems and autonomous transport networks.**
 	
-**Fog computing** brings cloud computing capabilities closer to the end-device and users. When put together, cloud and fog computing create a new stack of resources, which we refer to as Fog-to-Cloud (F2C), creating the need for a new, open and coordinated management ecosystem. The mF2C project sets the goal of designing an open, secure, decentralized, multi-stakeholder management framework, including novel programming models, privacy and security, data storage techniques, service creation, brokerage solutions, SLA policies, and resource orchestration methods. The framework sets the foundations for a novel distributed system architecture, developing a proof-of-concept system and platform, to be tested and validated in real-world use cases, as envisioned by the industrial partners in the consortium with significant interest in rapid innovation in the cloud computing sector.
+ELASTIC has the three main objectives:
 
-**Project Focus**
+- ELASTIC will develop a **software architecture incorporating a new elasticity concept**, that will enable smart systems to satisfy the performance requirements of extreme-scale analytics workloads. The new elasticity concept will efficiently distribute the workloads across the compute continuum, whilst guaranteeing real-time, energy, communication quality and security non-function properties inherited from the system domain.
+ 
+- The vision of ELASTIC is that by extending the **elasticity concept across the compute continuum in a fog computing environment**, combined with the usage of advanced hardware architectures at the edge side, can significantly increase the capabilities of the extreme-scale analytics integrating both responsive data-in-motion and latent data-at-rest analytics into a single solution.
+ 
+- ELASTIC will consider a realistic yet visionary **smart mobility use-case**, which will elaborate of huge amounts of data coming from a large set of IoT sensors distributed along the Florence tramway network. ELASTIC will adopt a very innovative federated/distributed fog architecture, supporting elasticity across the compute continuum whilst fulfilling real-time, energy, communication and secure properties.
 
-* design an open, secure, decentralized, multi-stakeholder management framework
-* privacy and security
-* data storage techniques
-* brokerage solutions
-* SLA policies
-* resource orchestration methods
 
 
 **SixSq's role in the project:** 
 
-Within the project, SixSq will bring its experience in building cloud systems and early work in IoT and edge computing to the overall architecture. Furthermore, SixSq will also share its vision in building highly valuable products and services, such as the open source SlipStream solution, the Nuvla service and the NuvlaBox product range.  As a professional agile pratitioner, SixSq will contribute and share its industrial software development practices to ensure that mF2C results are of the highest possible quality. SixSq will quikcly integrate mF2C results into its commercial products and services.
+Within the project, SixSq will facilitate the implementation of a transparent cloud to edge ecosystem, with support for cloud-native applications. This will make use of SixSq's expertise on **edge-to-cloud** and **edge-to-edge** products and services.
 
-**Project Website** [http://mf2c-project.eu](http://mf2c-project.eu)
+**Project Website** [https://elastic-project.bsc.es/](https://elastic-project.bsc.es/)
 
-**Funding** mf2c is funded through the European Commission's H2020
-  programme under grant agreement 730929. SixSq is funded by SERI under contract number 16.0202.
+**Funding:** The ELASTIC project has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement Nº 825473.
 
-**Duration:** 01 January 2017 to 31 December 2019.
+**Duration:** 01 December 2018 to 30 November 2021.
 
 **Partners:** 
 
-The project involves ten partners:
+The project involves nine partners:
 
-- [Atos](http://booklet.atosresearch.eu), Spain
+- [Barcelona Computing Centre](hhttps://www.bsc.es/), Spain
 
-- [Xlab](http://www.xlab.si/?lang=en), Slovenia 
+- [Ikerlan](https://www.ikerlan.es/en), Spain 
 
-- [The Universitat Politècnica de Catalunya (UPC)](http://www.upc.edu), Spain
+- [Instituto Superior De Engenharia Do Porto](https://www.isep.ipp.pt/), Portugal
 
-- [The Technische Universität Carolo-Wilhelmina zu Braunschweig (TUBS)](https://www.tu-braunschweig.de), Germany
+- [Information Catalyst for Enterprise Ltd](http://informationcatalyst.com/), UK
 
-- [Intel](http://www.intel.eu/content/www/eu/en/research/intel-labs.html), Ireland
+- [SixSq](https://sixsq.com/), Switzerland
 
-- [The Barcelona Supercomputing Center (BSC)](https://www.bsc.es), Spain 
+- [Thales SA](https://www.thalesgroup.com/en), France 
 
-- [Worldsensing](http://www.worldsensing.com), UK
+- [THALES Italia SPA](https://www.thalesgroup.com/en/italy), Italy
 
-- [Tiscali Italia S.p.A.](http://investors.tiscali.it/it/), Italy
+- [Gestione Ed Eserizio del Sistema Tranviario SPA](https://www.ratpdev.it/gest/), Italy
 
-- [Science Technology Facilities Council(STFC)](http://www.stfc.ac.uk), UK
+- [Citta Metropolitana di Firenze](https://www.ratpdev.it/gest/), Italy
 
 
-- SixSq, Switzerland 
