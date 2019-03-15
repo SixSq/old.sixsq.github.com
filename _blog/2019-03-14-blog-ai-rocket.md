@@ -1,7 +1,7 @@
 ---
 title: The AI rocket is powered by Edge to Cloud
 image: https://media.sixsq.com/hubfs/ai-rocket.png
-link: http://media.sixsq.com/blog/ai-rocket-powered-by-edge-to-cloud
+link: https://media.sixsq.com/blog/ai-rocket-powered-by-edge-to-cloud
 top-story: true
 ---
 

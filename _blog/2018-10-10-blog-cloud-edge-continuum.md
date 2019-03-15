@@ -1,7 +1,7 @@
 ---
 title: Cloud and Edge are part of the same Continuum
 image: https://media.sixsq.com/hubfs/shutterstock_1160196997-small.jpeg
-link: http://media.sixsq.com/blog/edge-cloud-continuum
+link: https://media.sixsq.com/blog/edge-cloud-continuum
 top-story: true
 ---
 
