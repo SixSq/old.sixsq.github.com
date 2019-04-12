@@ -10,4 +10,4 @@ Thanks to the development of the **Internet of Things** (IoT), it is now much ea
 
 <a class="btn-sixsq color-3" href="https://media.sixsq.com/hubfs/Marketing%20Materials/eGuides/eguides-Smart-city.pdf"><i class="fa fa-plus-square-o"></i>  Find out more</a>
 
-For more on **Smart Cities**, check out our [blog](http://media.sixsq.com/blog/what-is-a-smart-city).
+For more on **Smart Cities**, check out our [blog](https://media.sixsq.com/blog/what-is-a-smart-city).

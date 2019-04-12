@@ -13,4 +13,4 @@ To find out more, get in touch with the SixSq team.
 
 <a class="btn-sixsq color-3" href="https://media.sixsq.com/hubfs/Marketing%20Materials/Solutions%20Brief/NuvlaBox%20Satellite%20Application%202018.pdf"><i class="fa fa-plus-square-o"></i>  Find out more</a>
 
-For more on **Edge Computing**, check out our [blog](http://media.sixsq.com/blog/what-is-edge-computing).
+For more on **Edge Computing**, check out our [blog](https://media.sixsq.com/blog/what-is-edge-computing).

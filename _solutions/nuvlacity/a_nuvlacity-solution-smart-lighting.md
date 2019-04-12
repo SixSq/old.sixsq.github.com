@@ -13,4 +13,4 @@ To find out more, take a look at our Solutions Brief.
 
 Details are also available in French and German on the Schréder website. See [Lösung Volumlight](http://www.schreder.com/de-ch/aboutus/losung-volumlight)&trade; and [Solution Volumlight](http://www.schreder.com/fr-ch/aboutus/Volumlight)&trade;
 
-For more on **Smart Cities**, check out our [blog](http://media.sixsq.com/blog/what-is-a-smart-city).
+For more on **Smart Cities**, check out our [blog](https://media.sixsq.com/blog/what-is-a-smart-city).

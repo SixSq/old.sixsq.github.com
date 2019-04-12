@@ -12,4 +12,4 @@ To find out more, get in touch with the SixSq team. Or take a look at the Europe
 <a href="http://www.esa.int/Our_Activities/Navigation" class="btn-sixsq color-3">
         Find out more &raquo;</a>
 
-For more on **Edge Computing**, check out our [blog](http://media.sixsq.com/blog/what-is-edge-computing).
+For more on **Edge Computing**, check out our [blog](https://media.sixsq.com/blog/what-is-edge-computing).

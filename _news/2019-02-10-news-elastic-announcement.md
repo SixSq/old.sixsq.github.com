@@ -29,4 +29,4 @@ ELASTIC (A Software Architecture for Extreme-ScaLe Big-Data AnalyticS in Fog Com
 
 For more information on the project, visit the ELASTIC website [https://elastic-project.bsc.es/](https://elastic-project.bsc.es/)
 
-For more information on edge and cloud computing, take a look at our blog [Cloud and Edge are part of the same Continuum](http://media.sixsq.com/blog/edge-cloud-continuum).
+For more information on edge and cloud computing, take a look at our blog [Cloud and Edge are part of the same Continuum](https://media.sixsq.com/blog/edge-cloud-continuum).
