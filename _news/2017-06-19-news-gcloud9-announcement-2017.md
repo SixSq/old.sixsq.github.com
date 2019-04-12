@@ -23,4 +23,4 @@ SixSq’s NuvlaBox features in the Cloud Hosting category. It is a turnkey insta
 
 For further information, check out the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/327544682430488).
 
-If you want to know more about the benefits of cloud computing, take a look at our [blog](http://media.sixsq.com/blog/what-is-cloud-technology).
+If you want to know more about the benefits of cloud computing, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology).

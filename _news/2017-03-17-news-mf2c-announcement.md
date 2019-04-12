@@ -14,7 +14,7 @@ SixSq is pleased to announce its involvement in H2020 mF2C, an EU-financed proje
 
 **What is Fog computing?**
 
-[Fog computing](http://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities), also known as fog networking or fogging, is a decentralised computing infrastructure in which data, compute, storage and applications are distributed in the most logical, efficient place between the data source and the cloud. Fog computing extends cloud computing and services to the edge of the network, bringing the advantages and power of the cloud closer to where data is created and acted upon.
+[Fog computing](https://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities), also known as fog networking or fogging, is a decentralised computing infrastructure in which data, compute, storage and applications are distributed in the most logical, efficient place between the data source and the cloud. Fog computing extends cloud computing and services to the edge of the network, bringing the advantages and power of the cloud closer to where data is created and acted upon.
 
 **Why is it important?**
 

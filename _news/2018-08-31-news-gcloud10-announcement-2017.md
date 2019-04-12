@@ -23,4 +23,4 @@ SixSq’s [NuvlaBox](https://sixsq.com/products-and-services/nuvlabox/overview) 
 
 For further information, check out the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/983492311279939).
 
-If you want to know more about edge computing, take a look at our [blog](http://media.sixsq.com/blog/what-is-edge-computing).
+If you want to know more about edge computing, take a look at our [blog](https://media.sixsq.com/blog/what-is-edge-computing).

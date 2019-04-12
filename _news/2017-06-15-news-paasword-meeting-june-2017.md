@@ -42,4 +42,4 @@ PaasWord is funded through the European Commission’s H2020 programme under gra
 
 For more information, visit the project website [https://www.paasword.eu](https://www.paasword.eu).
 
-For more on the benefits of cloud adoption, take a look at our [blog](http://media.sixsq.com/blog/what-is-cloud-technology).
+For more on the benefits of cloud adoption, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology).

@@ -12,7 +12,7 @@ in-focus: false
 
 Within the scope of the [mF2C project](http://www.mf2c-project.eu/), SixSq has once again met with its partners for a 3-day meeting in Vilanova i la Geltrú, hosted by the [Universitat Politècnica de Catalunya](http://www.upc.edu/en).
 
-The mF2C project addresses the need for an open and coordinated management of fog and cloud computing systems, which is especially relevant with the rise for [smart cities](http://media.sixsq.com/blog/what-is-a-smart-city).
+The mF2C project addresses the need for an open and coordinated management of fog and cloud computing systems, which is especially relevant with the rise for [smart cities](https://media.sixsq.com/blog/what-is-a-smart-city).
 
 The first day was dedicated to a technical workshop about [Barcelona Supercomputing Center’s](https://www.bsc.es/) tools COMPSs and DataClay, including demos and practical examples of use.
 
@@ -26,6 +26,6 @@ mF2C has the following three use cases which are very relevant to smart city env
 
 They will be used to demonstrate that fog computing can improve efficiency and services in everyday situtaions.
 
-During the recent meeting, SixSq took the opportunity to talk with three of the project partners and find out why the project is important and get more insights into the use cases. You can find out more about that on our [blog](http://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities).
+During the recent meeting, SixSq took the opportunity to talk with three of the project partners and find out why the project is important and get more insights into the use cases. You can find out more about that on our [blog](https://media.sixsq.com/blog/improving-emergency-situation-management-smart-cities).
 
 For more information, visit the project [website](http://www.mf2c-project.eu)
