@@ -2,7 +2,7 @@
 layout: article-r-and-d
 title: OCRE Open Clouds for Research Environments  
 head-title: OCRE; accelerating cloud adoption in the European research community
-image: /img/logo/OCRE logo.png
+image: /img/logo/OCRE_logo.png
 class: r-and-d
 category: resources
 product: about
@@ -11,7 +11,7 @@ permalink: /r-and-d/ocre
 ---
 
 **Stimulating the Uptake of Commericial Digital Services by European Research Community**
-	
+
 The Open Clouds for Research Environments project (OCRE), aims to accelerate cloud adoption in the European research community, by bringing together cloud providers, Earth Observation (EO) organisations and the research and education community, through ready-to-use service agreements and €9.5 million in adoption funding.
 
 Cloud-based services offer the European research community a wealth of powerful tools, but for many researchers, these are currently out of reach, with suitable services difficult to find and select.
@@ -21,7 +21,7 @@ OCRE, which launched in January 2019, will address this by running a pan-Europea
 
 **SixSq's role in the project:** 
 
-SixSq’s role in OCRE is to make use of [Nuvla](https://sixsq.com/products-and-services/nuvla/overview)’s capabilities to build the OCRE Business Platform, which will provide a voucher management system for researchers and research institutes who are looking for Cloud and Earth Observation suppliers. SixSq will also further improve and integrate its resource monitoring and accounting functionalities into the OCRE Business Platform, giving users an overall view of their resource usage
+SixSq’s role in OCRE is to make use of [Nuvla](https://sixsq.com/products-and-services/nuvla/overview)’s capabilities to build the OCRE Business Platform, which will provide a voucher management system for researchers and research institutes who are looking for Cloud and Earth Observation suppliers. SixSq will also further improve and integrate its resource monitoring and accounting functionalities into the OCRE Business Platform, giving users an overall view of their resource usage.
 
 **Project Website** 
 
@@ -37,7 +37,7 @@ OCRE receives funding from the European Union’s Horizon 2020 research and inno
 
 **Partners:** 
 
-The project involves four partners:
+The OCRE consortium combines the expertise of the four partners to enable access to and drive the usage of commercial digital services by the European research community:
 
 - [GEANT](https://www.geant.org/)
 
