@@ -1,7 +1,7 @@
 ---
-title: SixSq and HPE - Building the Smart Cities of Tomorrow
-link: https://www.youtube.com/embed/bUpo92404i4
+title: The ultimate Edge solution - Big Data in space
+link: https://www.youtube.com/embed/l8XD8bHceOY
 class: video
 ---
 
-SixSq is focused on cloud and edge solutions for smart cities & beyond, delivering software innovation combined with the HPE portfolio...
+Extracting Big Data from space has the potential to bring huge benefits to the human race. Find out how AI and our edge-to-cloud software, with HPE and NSL, meets the challenges of the European Space Agency.
