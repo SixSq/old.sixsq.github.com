@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/helix-nebula.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 The final review of the [Helix Nebula - the Science Cloud](http://www.hnscicloud.eu/) (HNSciCloud) project took place at CERN last week. Sponsored by ten of Europe’s leading public research organisations and co-funded by the European Union’s [Horizon 2020](https://ec.europa.eu/programmes/horizon2020/) Research and Innovation Programme, HNSciCloud has laid the foundations of the European Open Science Cloud (EOSC) business model. 
