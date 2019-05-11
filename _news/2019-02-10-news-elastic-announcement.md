@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 SixSq is pleased to announce its involvement in the H2020 project [ELASTIC](http://www.elastic-project.eu/). The project’s main objective is to develop a novel software architecture to distribute computational resources from edge to cloud. The ELASTIC software architecture will form the technological basis for **advanced mobility systems** and **autonomous transport networks**.
