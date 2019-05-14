@@ -31,8 +31,7 @@ Two possible employment models are:
 1. Unlimited assignment via a direct Swiss employment contract, with location in Geneva.
 2. Consultancy contract.
 
-The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holidays), free public transport in Geneva,
-private laptop, etc.
+The employment contract includes a standard package - e.g. 5 weeks holiday (plus public holidays), free public transport in Geneva, private laptop, etc.
 
 {% comment %} Note: Placement agencies, please do not apply as we require direct assignment. {% endcomment %}
 
