@@ -71,7 +71,7 @@ Technical Skills and Experience
 **Nice to have**
 
 - Knowledge of the reframe/reagent/react framework
-- Knowledge of open source cloud solutions: OpenStack, CloudStack, EC2, vCloud...
+- Knowledge of cloud solutions: OpenStack, CloudStack, EC2, vCloud...
 - Experience in the Python language and its eco-system
 - Experience in Java and its eco-system
 - Demonstrated experience in working on large software systems, cloud services and technologies

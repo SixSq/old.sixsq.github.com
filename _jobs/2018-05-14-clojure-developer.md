@@ -83,7 +83,7 @@ Technical
 
 **Nice to have**
 
-- Knowledge of open source cloud solutions: OpenStack, CloudStack, EC2, vCloud...
+- Knowledge of cloud solutions: OpenStack, CloudStack, EC2, vCloud...
 - Experience in the Python language and its eco-system
 - Experience in Clojurescript and its eco-system
 - Pair programming experience
