@@ -12,7 +12,7 @@ Building distributed systems for edge-to-cloud and AI
 ----
 
 SixSq is currently recruiting a *Junior Python and Container Orchestration Developer*. As part of the SixSq core development team, the work will
-consist of further developing [Nuvla](/products-and-services/slipstream/overview), an open source multi-cloud management solution.  You will work in extending the product, using primarily the Python language and its eco-system, as well as Docker Swarm and Kubernetes container orchestration engines.  
+consist of further developing [Nuvla](/products-and-services/nuvla/overview), an open source multi-cloud management solution.  You will work in extending the product, using primarily the Python language and its eco-system, as well as Docker Swarm and Kubernetes container orchestration engines.  
 
 Nuvla is the foundation technology for SixSq's [Nuvla platform](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview), powering our Smart City, Smart Science and Industry 4.0 business.
 

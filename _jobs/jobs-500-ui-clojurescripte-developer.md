@@ -12,11 +12,9 @@ Creating Awesome User Experience
 ----
 
 SixSq is currently recruiting a **Web UI and Clojurescript Developer**. As part of the SixSq core development team, the work will
-consist in further developing [SlipStream](/products-and-services/slipstream/overview), our [open source](http://ssdocs.sixsq.com) multi-cloud and cloud-to-edge management platform.
+consist in further developing [Nuvla](/products-and-services/nuvla/overview), our [open source](http://ssdocs.sixsq.com) multi-cloud and cloud-to-edge management platform.
 
 You will focus on the Web User Interface (UI), both on the creative side as well as its implementation.  The new UI is based on the Clojurescript language and its eco-system (e.g. React, Reagent, re-frame, Semantic UI).
-
-SlipStream is the foundation technology for SixSq's [Nuvla platform](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview), powering our Smart City, Smart Science and Industry 4.0 business.
 
 As part of the SixSq DevOps team, you will also be involved in the development roadmap of the SixSq products and services.  Since each member of the team contributes to the support service, you will be interfacing with customers and users, thus receiving direct feedback from users.
 

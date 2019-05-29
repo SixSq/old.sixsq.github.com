@@ -12,7 +12,7 @@ Building distributed systems for edge-to-cloud and AI
 ----
 
 SixSq is currently recruiting a *Junior Clojure and Cloud Developer*. As part of the SixSq core development team, the work will
-consist of further developing [Nuvla](/products-and-services/slipstream/overview), an open source multi-cloud management solution.  You will work in extending the product, using primarily the Clojure language and its eco-system.  The stateful backend is based on Elasticsearch and Zookeeper, creating a horizontally scalable infrastructure.
+consist of further developing [Nuvla](/products-and-services/nuvla/overview), an open source multi-cloud management solution.  You will work in extending the product, using primarily the Clojure language and its eco-system.  The stateful backend is based on Elasticsearch and Zookeeper, creating a horizontally scalable infrastructure.
 
 Nuvla is the foundation technology for SixSq's [Nuvla platform](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview), powering our Smart City, Smart Science and Industry 4.0 business.
 
