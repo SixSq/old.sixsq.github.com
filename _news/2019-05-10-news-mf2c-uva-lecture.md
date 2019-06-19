@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/news/devops2019-uva.jpg
-top-story: true	
-in-focus: true
+top-story: false	
+in-focus: false
 ---
 
 [Dr. Cal Loomis](https://www.linkedin.com/in/charlesloomis/), SixSq CTO, recently had the opportunity to give a lecture to masters students of the [DevOps and Cloud-based Software Development](http://studiegids.uva.nl/xmlpages/page/2018-2019/zoek-vak/vak/63471) course at the [University of Amsterdam](https://www.uva.nl/en).
@@ -27,13 +27,13 @@ The course covers the following topics:
 
 **Security and Security Development Lifecycle management** (SDLM)
 
-**DevOps applications architecture**, configuration management, environment setups in AWS cloud using [Ansible](https://www.ansible.com/) or [SlipStream](https://sixsq.com/products-and-services/slipstream/overview) platform
+**DevOps applications architecture**, configuration management, environment setups in AWS cloud using [Ansible](https://www.ansible.com/) or [Nuvla](https://sixsq.com/products-and-services/nuvla/overview) platform
 
 
 The programme includes technology lectures, use cases and applications of DevOps, and a number of guest lectures from leading cloud or DevOps/application development and integration companies, including [Sogeti](https://www.sogeti.com/), [Microsoft](https://www.microsoft.com/), [Voiceworks](https://www.voiceworks.com/en) and [SixSq](https://sixsq.com/).
 
 
-_“This focus of my lecture was SixSq's application management software [SlipStream](https://sixsq.com/products-and-services/slipstream/overview) and management platform [Nuvla](https://sixsq.com/products-and-services/nuvla/overview), with an emphasis on the evolution of the software and how the push towards the edge was motivated in part by our work with **mF2C**,”_  said Cal. _“The lecture also included a demo of deploying a swarm cluster through Nuvla and then using that cluster via our upcoming “Nuvla 2.0”.”_
+_“This focus of my lecture was SixSq's application management platform [Nuvla](https://sixsq.com/products-and-services/nuvla/overview), with an emphasis on the evolution of the software and how the push towards the edge was motivated in part by our work with **mF2C**,”_  said Cal. _“The lecture also included a demo of deploying a swarm cluster through Nuvla and then using that cluster via our upcoming “Nuvla 2.0”.”_
 
 SixSq has been part of the [H2020](https://ec.europa.eu/programmes/horizon2020/en/what-horizon-2020) [mF2C project](https://www.mf2c-project.eu/) since January 2017. The project is developing a hierarchical, coordinated management platform facilitating the usage of cloud/fog/Internet of Things (IoT) and edge conputing resources, and has been one of the drivers behind recent developments in the SixSq software suite.
 

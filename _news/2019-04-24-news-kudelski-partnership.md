@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/logo/logo_nagra_kudelski.png
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 Cheseaux-sur-Lausanne, Switzerland, Phoenix (AZ), USA, and Geneva, Switzerland,  April 24, 2019.
