@@ -667,7 +667,7 @@ td, th {
   z-index: 99999; }
   .header-welcome .nav-link, .header-welcome .dropdown-item {
     color: rgba(255, 255, 255, 0.8) !important;
-    background-color: rgba(51, 51, 51, 0.4); }
+    background-color: rgba(51, 51, 51, 0.8); }
   .header-welcome .dropdown-menu {
     background-color: rgba(51, 51, 51, 0.9); }
     .header-welcome .dropdown-menu .dropdown-item:hover {
@@ -786,10 +786,10 @@ td, th {
 .default-banner.banner-1 {
   background: rgba(255, 255, 255, 0.4); }
 .default-banner.banner-slider-1 {
-  background: url(/img/banner/background.jpg) no-repeat bottom center/cover; }
+  background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover; }
   @media (max-width: 767px) {
     .default-banner.banner-slider-1 {
-      background: url(/img/banner/background.jpg) no-repeat;
+      background: url(/img/banner/nuvlacity.png) no-repeat;
       background-size: cover;
       background-position: left center; } }
 
