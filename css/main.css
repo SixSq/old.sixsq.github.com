@@ -745,7 +745,7 @@ td, th {
   font-weight: 400;
   text-transform: uppercase; }
   .navbar .navbar-nav .nav-item a.nav-link:hover, .navbar .navbar-nav .nav-item a.dropdown-item:hover {
-    color: #9B1313 !important; }
+    color: #DF3123 !important; }
   .navbar .navbar-nav .nav-item a.nav-link.active, .navbar .navbar-nav .nav-item a.dropdown-item.active {
     font-weight: 800 !important; }
   @media (max-width: 767px) {
