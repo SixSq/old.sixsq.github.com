@@ -1,9 +1,9 @@
 ---
-title: NuvlaCity delivers 30% Energy Savings Thanks To Volumlight&reg; Smart Street Lighting Solution
+title: NuvlaCity&#58; 30% Energy Savings with Smart Street Lighting
 link: /solutions/nuvlacity/overview
 action-text: Find out more about this tried and tested solution.
 class: services
 css-class: services-volumlight
 ---
 
-In partnership with Schréder Swiss, SixSq delivers intelligent street lighting solutions which brings an unparalleled opportunity to deliver savings and perfect lighting at the same time. Climate change in action. 
+In partnership with Schréder, SixSq delivers Volumlight&reg;, an intelligent street lighting solutions, which delivers unparalleled opportunity for energy savings and perfect lighting at the same time. Climate change in action. 
