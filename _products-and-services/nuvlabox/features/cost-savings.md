@@ -5,4 +5,4 @@ class: feature
 icon: fa-euro
 ---
 
-Replace up to 8 of your servers with an appliance as small as a modem... or 2 Swiss chocolate boxes. The NuvlaBox can fully manage up to 8 virtual servers, including applications, from a user-friendly web interface. Why clog up your office with ugly servers?
+By moving to containers, you can replace several physical servers with a single NuvlaBox. And with the Nuvla secured remote management platform, you can centralise your operations, thus creating more savings. Why clog up your office with ugly and noisy servers when you could have a highly optimised, silent and simple to operate edge-to-cloud solution?

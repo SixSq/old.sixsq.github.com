@@ -26,7 +26,7 @@ The aim of this week’s meeting is to review progess made in each work area, in
 
 **What is SixSq’s contribution?**
 
-It’s hard to deploy federated applications to multiple clouds and also scale them dynamically. The CYCLONE project relies on [SlipStream](/products-and-services/slipstream/overview), SixSq’s multi-cloud application management platform, to ease these activities considerably. SixSq also brings its expertise in cloud computing to the collaboration.
+It’s hard to deploy federated applications to multiple clouds and also scale them dynamically. The CYCLONE project relies on [Nuvla](/products-and-services/nuvla/overview), SixSq’s multi-cloud application management platform, to ease these activities considerably. SixSq also brings its expertise in cloud computing to the collaboration.
 
 You can read more about the main components of CYCLONE [here](http://www.cyclone-project.eu/software.html#main-components) and you can try out the project’s tools here [http://www.cyclone-project.eu/tryit.html](http://www.cyclone-project.eu/tryit.html).
 

@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/Real_Time_traffic_Data.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 Geneva, Switzerland and Brussels, Belgium, 2nd May 2019

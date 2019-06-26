@@ -17,11 +17,8 @@ pre-production services**.  These processes involve the deployment,
 maintenance, and support of our services on cloud and container
 infrastructures.
 
-SlipStream, the foundation for SixSq's [Nuvla
-platform](/products-and-services/nuvla/overview) and [NuvlaBox
-product](/products-and-services/nuvlabox/overview), powers our Smart
-City, Smart Science and Industry 4.0 business.  You, with the help of
-all DevOps team members, will ensure that Nuvla and its supporting
+Nuvla is the foundation technology for SixSq's [Nuvla platform](/products-and-services/nuvla/overview) and [NuvlaBox product](/products-and-services/nuvlabox/overview), powering our Smart City, Smart Science and Industry 4.0 business. With the help of
+all DevOps team members, you will ensure that Nuvla and its supporting
 services have high levels of reliability and availability.
 
 As a member of the SixSq DevOps team, you will also be involved in the

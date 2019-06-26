@@ -1,8 +1,8 @@
 ---
 product: nuvlabox
-title: Built from open source software
+title: NuvlaBox is now fully Open Source software
 class: feature
 icon: fa-github
 ---
 
-NuvlaBox is built upon an open source software foundation, ensuring we take advantage of not only the latest innovations from the thriving open source communities we choose, but also their maturity.  From there, we build a robust and dependable product that is easy to deploy and use.
+NuvlaBox is now fully open source software, and we ensure that the entire stack, including its dependencies, is Apache 2.0 compatible. This means that we leverage the latest innovations from the thriving open source communities, but also their maturity.  From there, you are able to build your own edge-to-cloud journey, knowing that there is no lock-in.

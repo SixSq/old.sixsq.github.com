@@ -1,0 +1,9 @@
+---
+title: NuvlaScience&#58; Managing Big Data for Big Science
+link: /solutions/nuvlascience/overview
+action-text: Turning big data into added-value services.
+class: services
+css-class: services-smart-securing
+---
+
+Data from space	provides us with critical information to help us understand climate change, predict hazardous weather and provide early warning of potential water shortages. Transforming the raw data to useful added-value information needs innovative technology. Find out how SixSq plays a part.

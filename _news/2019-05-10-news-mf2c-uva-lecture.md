@@ -23,7 +23,7 @@ The course covers the following topics:
 
 **DevOps and software engineering on major cloud platforms**: AWS, Microsoft Azure.
 
-**Cloud automation tools**: Chef, Puppet, Ansible, SlipStream
+**Cloud automation tools**: Chef, Puppet, Ansible, Nuvla
 
 **Security and Security Development Lifecycle management** (SDLM)
 

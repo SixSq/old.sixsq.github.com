@@ -1,9 +1,9 @@
 ---
 product: nuvla
-title: Edge device command and control
+title: Edge-to-cloud solution
 class: feature
 main-feature: true
 icon: fa-tachometer-alt
 ---
 
-Control your edge devices ([NuvlaBox](/products-and-services/nuvlabox/overview)) using Nuvla. Our multi-cloud and edge management features provide a unified command and control interface. This means you can seamlessly control your edge and cloud applications with the same tools and processes for greater efficiency.
+With [NuvlaBox](/products-and-services/nuvlabox/overview), create a complete edge-to-cloud solution, including secure registration, update, as well as monitoring and notifications. With choices from a wide range of x86 and ARM hardware platforms, the NuvlaBox software connects automatically to your Nuvla service to simplify operations and extend your IT infrastructure.

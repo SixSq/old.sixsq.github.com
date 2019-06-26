@@ -5,4 +5,4 @@ class: feature
 icon: fab fa-docker
 ---
 
-You can deploy applications to the NuvlaBox as container (e.g. Docker) images. You can even create a network of edge devices, leveraging container orchestration engines, such as Docker Swarm or Kubernetes.
+Applications are packaged as Docker containers. Then, Nuvla uses Container Orchestration Engines (COE) to deploy your apps. NuvlaBox is automatically installed with Docker Swarm and Kubernetes is coming soon. This means you can deploy load balanced and highly available services, as well as edge-to-edge strategies.

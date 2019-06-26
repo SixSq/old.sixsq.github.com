@@ -8,4 +8,4 @@ link: https://www.ibm.com/us-en/
 permalink: /partners/ibm.html
 ---
 
-SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/slipstream.html">SlipStream</a> on IBM hardware and software solutions, making IBM a sound target for solid SixSq-based deployments.
+SixSq is member of the <a href="http://www.ibm.com/partnerworld">IBM Partner World</a> program. We have certified <a href="/products/nuvla.html">Nuvla</a> on IBM hardware and software solutions, making IBM a sound target for solid SixSq-based deployments.
