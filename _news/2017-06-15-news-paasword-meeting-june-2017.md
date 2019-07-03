@@ -40,6 +40,6 @@ The PaaSword project involves 10 partners:
 
 PaasWord is funded through the European Commission’s H2020 programme under grant agreement 644814. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation [SERI](https://www.sbfi.admin.ch/sbfi/en/home.html) under contract number 15.0047.
 
-For more information, visit the project website [https://www.paasword.eu](https://www.paasword.eu).
+For more information, visit the project website [https://paasword.io](https://paasword.io).
 
 For more on the benefits of cloud adoption, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology).
