@@ -85,4 +85,4 @@ If you have any questions on the vacancy or SixSq, don't hesitate to [get in tou
 Selection Process
 ===================
 
-Interested? Apply now by sending your CV, motivation letter and names of 3 references to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
+Interested? Apply now by sending your CV, motivation letter and the contact details of 1 reference to [jobs@sixsq.com](mailto:jobs@sixsq.com?subject=job%20application). Please clearly indicate your preferred starting date and salary expectations.
