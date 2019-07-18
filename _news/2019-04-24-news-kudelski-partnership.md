@@ -57,7 +57,7 @@ Head of Marketing
 
 +1 (480) 819-5781 
 
-[christopher.schouten@nagra.com](christopher.schouten@nagra.com)
+<christopher.schouten@nagra.com>
 
 Cédric Alber
 
@@ -69,7 +69,7 @@ Senior Manager Media Relations
 
 +1 (415) 962-5005
 
-[cedric.alber@nagra.com](cedric.alber@nagra.com)
+<cedric.alber@nagra.com>
 
 **SIXSQ**
 
@@ -79,4 +79,4 @@ Operations Manager and Co-founder
 
 +41 77 44 68 170
 
-[merifield@sixsq.com](merifield@sixsq.com)
+<merifield@sixsq.com>

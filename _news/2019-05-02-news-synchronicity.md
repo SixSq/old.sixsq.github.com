@@ -43,9 +43,9 @@ For more information, visit us at [www.sixsq.com](https://sixsq.com/) or follow 
 
 **Contact**
 
-•	SynchroniCity: [info@synchronicity-iot.eu](info@synchronicity-iot.eu) 
+•	SynchroniCity: <info@synchronicity-iot.eu>
 
-•	SixSq: Louise Merifield, [louise.merifield@sixsq.com](louise.merifield@sixsq.com)
+•	SixSq: Louise Merifield, <merifield@sixsq.com>
 
-•	Schréder: Clarisse Fenart, [cfenart@schreder.com](cfenart@schreder.com)
+•	Schréder: Clarisse Fenart, <cfenart@schreder.com>
 
