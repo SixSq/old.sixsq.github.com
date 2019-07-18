@@ -23,7 +23,7 @@ case for the project, but SixSq will also enhance SlipStream with
 features to facilitate the implementation and use of PaaSword storage
 components. 
 
-**Project website:** [http://paasword.eu][web]
+**Project website:** [http://paasword.io][web]
 
 **Funding** PaaSword is funded through the European Commission's H2020
   programme under grant agreement 644814. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]** under contract number 15.0047.
@@ -37,6 +37,6 @@ components.
   Integration of project software into SlipStream *Platform as a
   Service* feature set.
 
-[web]: http://paasword.eu 
+[web]: http://paasword.io 
 [cas]: http://www.cas.de/en/homepage.html
 [seri]: https://www.sbfi.admin.ch/sbfi/en/home.html
