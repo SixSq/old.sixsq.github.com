@@ -861,6 +861,15 @@ td, th {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-about h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
+  .banner-page-int.banner-partnership {
+    background: url(/img/banner/partnership.jpg) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-partnership {
+        background: url(/img/banner/partnership.jpg) no-repeat; } }
+    .banner-page-int.banner-partnership p {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-partnership h2 {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-media {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -1158,6 +1167,8 @@ td, th {
       margin-right: 5px; }
       .section-do-you-get .product-page-carousel .owl-stage .center .item h3, .section-do-you-get .product-page-carousel .owl-stage .center .item p, .section-do-you-get .product-page-carousel .owl-stage .center .item ul {
         color: #fff; }
+      .section-do-you-get .product-page-carousel .owl-stage .center .item img {
+        filter: brightness(0) invert(1); }
       .section-do-you-get .product-page-carousel .owl-stage .center .item svg {
         color: #fff;
         font-size: 600%; }
