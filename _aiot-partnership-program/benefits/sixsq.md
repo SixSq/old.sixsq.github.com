@@ -6,4 +6,4 @@ main-benefit: false
 icon: fa-superpowers
 ---
 
-Full access to the expertise of SixSq in edge computing as well as software containerisation to speed you up.
+Direct access to SixSq’s expertise in edge computing as well as software containerisation to get you going faster.
