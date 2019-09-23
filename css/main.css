@@ -1405,6 +1405,9 @@ td, th {
 
 .section-article {
   margin-bottom: 100px; }
+  .section-article h1 {
+    margin-top: 20px;
+    margin-bottom: 20px; }
   .section-article h2 {
     font-size: 250%;
     margin-top: 10px;

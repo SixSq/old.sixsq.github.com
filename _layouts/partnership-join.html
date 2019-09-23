@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<!-- Start Who is it for? -->	
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+        {{ page.content | markdownify }}
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Join us now and speed up your AI go to market</h2>
+<!--[if lte IE 8]>
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
+<![endif]-->
+<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
+<script>
+  hbspt.forms.create({
+	portalId: "475360",
+	formId: "9c720b19-9bba-4219-9132-5b7fdbc421ff"
+});
+</script>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+    {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

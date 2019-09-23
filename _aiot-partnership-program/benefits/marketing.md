@@ -6,4 +6,4 @@ main-benefit: true
 icon: fa-bullhorn
 ---
 
-Co-marketing of your solution through our website and our sales presence in Switzerland, Belgium, Canada and Asia
+Co-marketing of your solution through our website and our sales presence in Switzerland, Belgium, Canada and Asia Pacific

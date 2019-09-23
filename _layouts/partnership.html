@@ -6,12 +6,16 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
-		<!-- Start what do you get? -->	
+		<section class="section-article mb-20 mt-20">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+    </section>
 		<section class="bg-white mt-20 section-do-you-get animated">
 			<div class="container">
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
-						<h2 class="pb-10 fw700">What do you get?</h2>
+						<h2 class="pb-10 fw700">What are the benefits?</h2>
 					</div>
 				</div>
 				<div class="row justify-content-center pb-50 pt-50">
@@ -25,36 +29,13 @@
             {% endfor %}
 					</div>
     			<div class="col-md-12 text-center">
-    			  <a class="btn-sixsq color-dark" href="/partnership/benefits"><i class="far fa-plus-square"></i>  Discover all features</a>
+    			  <a class="btn-sixsq color-dark" href="/partnership/benefits"><i class="far fa-plus-square"></i>  Discover all benefits</a>
           </div>
 				</div>
 			</div>
 		</section>
-		<!-- Stop what do you get? -->
-		<!-- Start Who is it for? -->	
-		<section class="mt-20 section-is-it-for">
-			<div class="container">
-				<div class="row justify-content-center pt-50">
-					<div class="col-md-12 section-title text-center">
-							<h2 class="pb-10 fw700">Join us now and speed up your AI go to market</h2>
-<!--[if lte IE 8]>
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2-legacy.js"></script>
-<![endif]-->
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/v2.js"></script>
-<script>
-  hbspt.forms.create({
-	portalId: "475360",
-	formId: "9c720b19-9bba-4219-9132-5b7fdbc421ff"
-});
-</script>
-					</div>
-				</div>
-			</div>
-		</section>
-		<!-- End Who is it for? -->	
     {% include whats-next.html %}
-		<!-- End Section News -->	
-      {% include primary-footer.html %}
+    {% include primary-footer.html %}
     </main>
     {% include secondary-footer.html %}
   </body>
