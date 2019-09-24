@@ -6,4 +6,4 @@ main-benefit: true
 icon: fab fa-docker
 ---
 
-Get started with 1000s of ready containers from the Docker Hub that can be deployed at the edge.
+Get started with 1000s of ready containers from the [Docker Hub](https://hub.docker.com/) that can be deployed at the edge.
