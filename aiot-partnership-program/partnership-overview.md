@@ -5,6 +5,8 @@ class: overview
 title: AIoT Partnership Program
 summary: Discover the SixSq Artificial Intelligence Internet of Things partnership program.
 permalink: /partnership/overview
+redirect_from:
+  - /partnership
 ---
 
 Delivering AI to the Market
