@@ -2,8 +2,8 @@
 layout: partnership
 product: partnership
 class: overview
-title: AIoT Partnership Program
-summary: Discover the SixSq Artificial Intelligence Internet of Things partnership program.
+title: AIoT Partnership Programme
+summary: Discover the SixSq Artificial Intelligence Internet of Things partnership programme.
 permalink: /partnership/overview
 redirect_from:
   - /partnership
@@ -22,7 +22,7 @@ If you have an AI solution and are looking to reduce your time to market and del
 * **Mobility**
 * **Big Data Science**
 
-Our AIoT partnership program accelerates the creation and delivery of applications in these fields and many more.
+Our AIoT partnership programme accelerates the creation and delivery of applications in these fields and many more.
 
 Benefits of Nuvla 
 ====

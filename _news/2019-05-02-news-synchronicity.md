@@ -27,7 +27,7 @@ _“We are delighted to have been selected for this pilot, especially considerin
 
 **What is Synchronicity?**
 
-SynchroniCity opens a global IoT market for cities and businesses. They develop shared digital services to improve the lives of citizens and to grow local economies. The SynchroniCity project received funding from the European Union research and innovation program Horizon 2020 under grant agreement No. 732240 and fits into the program for large-scale pilot projects of €104 million. 38 partners worldwide - companies, academic institutions, municipalities and NGOs - contribute to the project.
+SynchroniCity opens a global IoT market for cities and businesses. They develop shared digital services to improve the lives of citizens and to grow local economies. The SynchroniCity project received funding from the European Union research and innovation programme Horizon 2020 under grant agreement No. 732240 and fits into the programme for large-scale pilot projects of €104 million. 38 partners worldwide - companies, academic institutions, municipalities and NGOs - contribute to the project.
 
 **About Schréder**
 
