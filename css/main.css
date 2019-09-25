@@ -862,10 +862,10 @@ td, th {
     .banner-page-int.banner-about h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-partnership {
-    background: url(/img/banner/partnership.jpg) no-repeat bottom center/cover; }
+    background: url(/img/banner/partnership.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-partnership {
-        background: url(/img/banner/partnership.jpg) no-repeat; } }
+        background: url(/img/banner/partnership.png) no-repeat; } }
     .banner-page-int.banner-partnership p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-partnership h2 {
