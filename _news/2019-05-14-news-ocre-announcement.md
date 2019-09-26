@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/logo/OCRE_logo.png
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 The [Open Clouds for Research Environments](https://www.ocre-project.eu/) project (OCRE) aims to accelerate cloud adoption in the European research community, by bringing together cloud providers, Earth Observation (EO) organisations and the research and education community, through ready-to-use service agreements and €9.5 million in adoption funding. The project started on 1 January 2019 and will run for three years. To accelerate this adoption, the OCRE project will develop and operate a management platform. 
