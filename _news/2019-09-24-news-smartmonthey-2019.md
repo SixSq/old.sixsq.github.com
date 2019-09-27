@@ -2,7 +2,7 @@
 layout: news-article
 short-title: Adaptive Lighting Delivers Savings to Smart Monthey
 title: Adaptive Lighting Delivers Saving to Smart Monthey
-image: /img/content/news/Monthey_logo.jpg
+image: /img/content/news/Monthey_logo.png
 product: news
 product-name: News
 class: news
