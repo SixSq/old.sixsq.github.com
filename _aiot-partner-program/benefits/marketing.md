@@ -1,7 +1,7 @@
 ---
 title: Combined marketing
 class: benefit
-category: partnership
+category: partner
 main-benefit: true
 icon: fa-bullhorn
 ---

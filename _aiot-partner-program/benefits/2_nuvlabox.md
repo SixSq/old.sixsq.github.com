@@ -1,7 +1,7 @@
 ---
 title: Full access to our NuvlaBox software
 class: benefit
-category: partnership
+category: partner
 main-benefit: true
 image: /img/content/nuvla/nuvlabox_logo_red_on_transparent_512px.png
 ---

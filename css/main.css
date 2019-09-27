@@ -861,14 +861,14 @@ td, th {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-about h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-  .banner-page-int.banner-partnership {
-    background: url(/img/banner/partnership.png) no-repeat bottom center/cover; }
+  .banner-page-int.banner-partner {
+    background: url(/img/banner/partner.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-partnership {
-        background: url(/img/banner/partnership.png) no-repeat; } }
-    .banner-page-int.banner-partnership p {
+      .banner-page-int.banner-partner {
+        background: url(/img/banner/partner.png) no-repeat; } }
+    .banner-page-int.banner-partner p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-partnership h2 {
+    .banner-page-int.banner-partner h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-media {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }

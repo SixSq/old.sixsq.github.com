@@ -1,7 +1,7 @@
 ---
 title: Free programme
 class: benefit
-category: partnership
+category: partner
 main-benefit: false
 icon: fa-eur
 ---

@@ -1,8 +1,8 @@
 ---
 title: 1000s of ready containers 
 class: benefit
-category: partnership
-main-benefit: true
+category: partner
+main-benefit: false
 icon: fab fa-docker
 ---
 

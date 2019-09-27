@@ -1,7 +1,7 @@
 ---
 title: Differentiate your solution
 class: benefit
-category: partnership
+category: partner
 main-benefit: false
 icon: fa-bolt
 ---

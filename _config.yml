@@ -27,7 +27,7 @@ collections:
   partners:
     output: false
     permalink: /:collection/:path/
-  aiot-partnership-program:
+  aiot-partner-program:
     output: false
     permalink: /:collection/:path/
   products-and-services:

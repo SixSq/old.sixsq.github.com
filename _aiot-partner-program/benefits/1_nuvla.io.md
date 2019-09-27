@@ -1,7 +1,7 @@
 ---
 title: Full access to our Nuvla.io platform
 class: benefit
-category: partnership
+category: partner
 main-benefit: true
 image: /img/content/nuvla/nuvla.io_logo_red_on_transparent_512px.png
 ---

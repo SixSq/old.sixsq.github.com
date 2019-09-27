@@ -1,7 +1,7 @@
 ---
 title: Infrastructure &amp; partners
 class: benefit
-category: partnership
+category: partner
 main-benefit: false
 icon: fa-certificate
 ---

@@ -1,7 +1,7 @@
 ---
 title: Access to competitive pricing for hardware
 class: benefit
-category: partnership
+category: partner
 main-benefit: true
 icon: fa-shopping-basket
 ---

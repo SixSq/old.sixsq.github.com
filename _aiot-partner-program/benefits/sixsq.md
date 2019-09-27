@@ -1,7 +1,7 @@
 ---
 title: Experts at the ready
 class: benefit
-category: partnership
+category: partner
 main-benefit: false
 icon: fa-superpowers
 ---
