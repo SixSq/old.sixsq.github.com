@@ -800,6 +800,13 @@ td, th {
     .banner-page-int {
       background-size: auto 100%;
       background-position: left center; } }
+  .banner-page-int.banner-nuvlaretail {
+    background: url(/img/banner/nuvlaretail.png) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-nuvlaretail {
+        background: url(/img/banner/nuvlaretail.png) no-repeat; } }
+    .banner-page-int.banner-nuvlaretail p {
+      background-color: rgba(0, 0, 0, 0.3) !important; }
   .banner-page-int.banner-nuvlacity {
     background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -1049,6 +1056,8 @@ td, th {
     background-color: #F39314; }
   .menu-product.menu-product-nuvlacity {
     background-color: #009051; }
+  .menu-product.menu-product-nuvlaretail {
+    background-color: #163154; }
   .menu-product.menu-product-nuvlaoutpost {
     background: #136697; }
   .menu-product.menu-product-nuvlascience {
@@ -2224,14 +2233,16 @@ footer .footer-content {
   .solution-section a {
     color: white !important;
     font-weight: bold; }
+  .solution-section.solution-nuvlaretail {
+    background-image: url(/img/content/Security_padlocks.png); }
   .solution-section.solution-nuvlacity-security {
     background-image: url(/img/content/Security_padlocks.png); }
   .solution-section.solution-nuvlacity-industrialised {
     background-image: url(/img/content/robot.png); }
-    .solution-section.solution-nuvlacity-industrialised h2, .solution-section.solution-nuvlacity-industrialised p {
-      color: #333 !important; }
-    .solution-section.solution-nuvlacity-industrialised a {
-      color: #9B1313 !important; }
+  .solution-section.solution-nuvlacity-industrialised h2, .solution-section.solution-nuvlacity-industrialised p {
+    color: #333 !important; }
+  .solution-section.solution-nuvlacity-industrialised a {
+    color: #9B1313 !important; }
   .solution-section.solution-nuvlacity-volumlight {
     background-image: url(/img/content/volumlight.png); }
   .solution-section.solution-nuvlacity-perfect {
