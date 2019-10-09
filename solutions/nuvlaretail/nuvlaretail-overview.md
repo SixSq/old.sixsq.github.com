@@ -12,5 +12,5 @@ redirect_from:
   - /nuvlaretail
 ---
 
-<h4>The use of IoT sensors and actuators enables cities to improve their service offering, making infrastructure more responsive to the needs of citizens. Only by taking full advantage of both cloud and edge computing can cities improve functionality and reduce associated costs. Our NuvlaCity solution is your IoT platform for achieving that goal.</h4>
+<h4>NuvlaRetail helps retailers close the gap between e-commerce analytics and in-store analytics. This innovative includes a near real-time notification mechanism which notifies store staff when opted-in customers enter the store, providing customers with the personalised shopping experience they are looking for. Add this to real-time behaviour analytics and you start to level the playing field.</h4>
 

@@ -10,7 +10,7 @@ cfa: /something
 permalink: /solutions/nuvlacity/tech-spec
 ---
 
-NuvlaCity bring the power of the [NuvlaBox](/products-and-services/nuvlabox/overview) smart edge device and the [Nuvla](/products-and-services/nuvla/overview) command and control platform to tackle your smart city challenges.
+NuvlaCity brings the power of the [NuvlaBox](/products-and-services/nuvlabox/overview) smart edge device and the [Nuvla](/products-and-services/nuvla/overview) command and control platform to tackle your smart city challenges.
 
 Here's how it works:
 

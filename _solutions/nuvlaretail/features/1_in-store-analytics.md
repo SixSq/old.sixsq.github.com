@@ -6,4 +6,4 @@ main-feature: true
 icon: fa-search-minus
 ---
 
-Bring the processing to the data.  Instead of moving tons of data to the cloud, do the sensible thing and take advantage of edge computing. This means you process your data in near real-time and reduce your reliance on the network.  In a smart city context, relying on the quality of your network is not so, well... smart. 
+Retail stores need improved data insights. Foot traffic analytics from tools like people counters play their part, but competition from e-commerce demands a faster, more sophisticated response. NuvlaRetail provides real-time anonymised behaviour analysis to give a deeper understanding of consumer behaviour.
