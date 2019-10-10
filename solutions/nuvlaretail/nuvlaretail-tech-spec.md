@@ -17,4 +17,4 @@ Cameras are deployed at strategic points in the store and are connected to an ed
 
 ![NuvlaRetail](/img/content/nuvlaretail/nuvlaretail-real-time.png "NuvlaRetail")
 
-When a registered customer enters the store, relevant data is pulled from the company's CRM. Sales staff can then approach the customer armed with name and purchase history, enabling a much more meaningful interaction with the client.
+When a registered customer enters the store, relevant data is pulled from the company's CRM (Customer relationship management) and/or any recommendation engine. Sales staff can then approach the customer armed with valuable insights, including for example name, purchase history, recommended products, enabling a much more meaningful interaction with the client.
