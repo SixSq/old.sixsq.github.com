@@ -41,7 +41,7 @@ redirect_from:
 		</div>
 		<div class="row justify-content-center pb-50">
 			<div class="col-md-12 section-title text-center">
-				<h2 class="pb-10 fw700">Or host it yourself on PC compatible platform.</h2>
+				<h2 class="pb-10 fw700">Or host it yourself on any compatible x86 or ARM platform.</h2>
 			</div>
 		</div>
 	</div>
