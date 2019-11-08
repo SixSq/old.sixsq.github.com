@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false 
 ---
 
 Members of the SixSq team are in the beautiful city of Florence this week for a meeting with other partners in the  [ELASTIC](http://www.elastic-project.eu/) project, which include the [City of Florence](https://www.comune.fi.it/).
