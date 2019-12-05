@@ -807,6 +807,15 @@ td, th {
         background: url(/img/banner/nuvlaretail.png) no-repeat; } }
     .banner-page-int.banner-nuvlaretail p {
       background-color: rgba(0, 0, 0, 0.3) !important; }
+  .banner-page-int.banner-nuvlafactory {
+    background: url(/img/banner/nuvlafactory.jpg) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-nuvlafactory {
+        background: url(/img/banner/nuvlafactory.png) no-repeat; } }
+    .banner-page-int.banner-nuvlafactory p {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-nuvlafactory h2 {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-nuvlacity {
     background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -1058,6 +1067,8 @@ td, th {
     background-color: #009051; }
   .menu-product.menu-product-nuvlaretail {
     background-color: #163154; }
+  .menu-product.menu-product-nuvlafactory {
+    background-color: #1341A3; }
   .menu-product.menu-product-nuvlaoutpost {
     background: #136697; }
   .menu-product.menu-product-nuvlascience {
