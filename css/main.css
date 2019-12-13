@@ -59,6 +59,10 @@ ol, ul {
   list-style: disc !important;
 }
 
+.ordered-list {
+  list-style-type: decimal !important;
+}
+
 select {
   display: block; }
 
