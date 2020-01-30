@@ -35,23 +35,23 @@ $(document).ready(function(){
         // });
 
          // Add smooth scrolling to Menu links
-         $(".main-menu nav ul li a, .side-menubar nav ul li a").on('click', function(event) {
-		        if (this.hash !== "") {
-		          event.preventDefault();
-		          var hash = this.hash;
-		          $('html, body').animate({
-		            scrollTop: $(hash).offset().top - (-10)
-		        }, 600, function(){
-		         
-		            window.location.hash = hash;
-		        });
-	        } 
-	    });
-
-          $(".main-menu nav ul li a").on('click', function (e) {
-            $(".main-menu nav ul li").removeClass("active");
-            $(this).addClass("active");     
-        });
+      //          $(".main-menu nav ul li a, .side-menubar nav ul li a").on('click', function(event) {
+      //             if (this.hash !== "") {
+      //               event.preventDefault();
+      //               var hash = this.hash;
+      //               $('html, body').animate({
+      //                 scrollTop: $(hash).offset().top - (-10)
+      //             }, 600, function(){
+      //
+      //                 window.location.hash = hash;
+      //             });
+      //     }
+      // });
+      //
+      //           $(".main-menu nav ul li a").on('click', function (e) {
+      //             $(".main-menu nav ul li").removeClass("active");
+      //             $(this).addClass("active");
+      //         });
 
          $(window).on('scroll', function(event){
              var scrollPos = $(document).scrollTop();

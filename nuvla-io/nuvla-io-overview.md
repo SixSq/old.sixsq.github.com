@@ -1,12 +1,12 @@
 ---
-layout: nuvla-spec
+layout: nuvla-io
 product: nuvla-io
-category: product
-class: tech-spec
-product-name: Nuvla
+category: nuvla-io
+class: overview
+product-name: Nuvla.io
 title: Multi-Cloud, Hybrid-Cloud and Edge Application Management Service
 summary: Delivering multi-cloud, hybrid and edge asset management. A secure and powerful way to reduce operational costs and improve efficiency.
-permalink: /products-and-services/nuvla/tech-spec
+permalink: /nuvla-io/overview
+redirect_from:
+  - /nuvla.io/overview
 ---
-
-If you want to read more about the Nuvla offer, take a look at the product description.

@@ -33,7 +33,10 @@ collections:
   products-and-services:
     output: false
     permalink: /:collection/:path/
-  solutions:
+  nuvla-io:
+    output: false
+    permalink: /:collection/:path/
+  casestudies:
     output: false
     permalink: /:collection/:path/
   terms:

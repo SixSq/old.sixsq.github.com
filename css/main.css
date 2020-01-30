@@ -795,10 +795,10 @@ td, th {
 .default-banner.banner-1 {
   background: rgba(255, 255, 255, 0.4); }
 .default-banner.banner-slider-1 {
-  background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover; }
+  background: url(/img/banner/city.png) no-repeat bottom center/cover; }
   @media (max-width: 767px) {
     .default-banner.banner-slider-1 {
-      background: url(/img/banner/nuvlacity.png) no-repeat;
+      background: url(/img/banner/city.png) no-repeat;
       background-size: cover;
       background-position: left center; } }
 
@@ -809,46 +809,53 @@ td, th {
     .banner-page-int {
       background-size: auto 100%;
       background-position: left center; } }
-  .banner-page-int.banner-nuvlaretail {
-    background: url(/img/banner/nuvlaretail.png) no-repeat bottom center/cover; }
+  .banner-page-int.banner-nuvla-io {
+    background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlaretail {
-        background: url(/img/banner/nuvlaretail.png) no-repeat; } }
-    .banner-page-int.banner-nuvlaretail p {
+      .banner-page-int.banner-nuvla-io {
+        background: url(/img/banner/nuvla-io.png) no-repeat; } }
+    .banner-page-int.banner-nuvla-io p {
       background-color: rgba(0, 0, 0, 0.3) !important; }
-  .banner-page-int.banner-nuvlafactory {
-    background: url(/img/banner/nuvlafactory.jpg) no-repeat bottom center/cover; }
+  .banner-page-int.banner-retail {
+    background: url(/img/banner/retail.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlafactory {
-        background: url(/img/banner/nuvlafactory.png) no-repeat; } }
-    .banner-page-int.banner-nuvlafactory p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvlafactory h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-  .banner-page-int.banner-nuvlacity {
-    background: url(/img/banner/nuvlacity.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlacity {
-        background: url(/img/banner/nuvlacity.png) no-repeat; } }
-    .banner-page-int.banner-nuvlacity p {
+      .banner-page-int.banner-retail {
+        background: url(/img/banner/retail.png) no-repeat; } }
+    .banner-page-int.banner-retail p {
       background-color: rgba(0, 0, 0, 0.3) !important; }
-  .banner-page-int.banner-nuvlaoutpost {
-    background: url(/img/banner/nuvlaoutpost.png) no-repeat bottom center/cover; }
+  .banner-page-int.banner-factory {
+    background: url(/img/banner/factory.jpg) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlaoutpost {
-        background: url(/img/banner/nuvlaoutpost.png) no-repeat; } }
-    .banner-page-int.banner-nuvlaoutpost p {
+      .banner-page-int.banner-factory {
+        background: url(/img/banner/factory.png) no-repeat; } }
+    .banner-page-int.banner-factory p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvlaoutpost h2 {
+    .banner-page-int.banner-factory h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-  .banner-page-int.banner-nuvlascience {
-    background: url(/img/banner/nuvlascience.png) no-repeat bottom center/cover; }
+  .banner-page-int.banner-city {
+    background: url(/img/banner/city.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlascience {
-        background: url(/img/banner/nuvlascience.png) no-repeat; } }
-    .banner-page-int.banner-nuvlascience p {
+      .banner-page-int.banner-city {
+        background: url(/img/banner/city.png) no-repeat; } }
+    .banner-page-int.banner-city p {
+      background-color: rgba(0, 0, 0, 0.3) !important; }
+  .banner-page-int.banner-outpost {
+    background: url(/img/banner/outpost.png) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-outpost {
+        background: url(/img/banner/outpost.png) no-repeat; } }
+    .banner-page-int.banner-outpost p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvlascience h2 {
+    .banner-page-int.banner-outpost h2 {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+  .banner-page-int.banner-science {
+    background: url(/img/banner/science.png) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-science {
+        background: url(/img/banner/science.png) no-repeat; } }
+    .banner-page-int.banner-science p {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-science h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-nuvlabox {
     background: url(/img/banner/nuvlabox.png) no-repeat bottom center/cover; }
@@ -1072,15 +1079,15 @@ td, th {
     background: #9B1313; }
   .menu-product.menu-product-nuvlabox {
     background-color: #F39314; }
-  .menu-product.menu-product-nuvlacity {
+  .menu-product.menu-product-city {
     background-color: #009051; }
-  .menu-product.menu-product-nuvlaretail {
+  .menu-product.menu-product-retail {
     background-color: #163154; }
-  .menu-product.menu-product-nuvlafactory {
+  .menu-product.menu-product-factory {
     background-color: #1341A3; }
-  .menu-product.menu-product-nuvlaoutpost {
+  .menu-product.menu-product-outpost {
     background: #136697; }
-  .menu-product.menu-product-nuvlascience {
+  .menu-product.menu-product-science {
     background: #9D6A1F; }
   .menu-product .menu-product-list {
     font-size: 18px; }
@@ -2253,19 +2260,19 @@ footer .footer-content {
   .solution-section a {
     color: white !important;
     font-weight: bold; }
-  .solution-section.solution-nuvlaretail {
+  .solution-section.solution-retail {
     background-image: url(/img/content/Security_padlocks.png); }
-  .solution-section.solution-nuvlacity-security {
+  .solution-section.solution-city-security {
     background-image: url(/img/content/Security_padlocks.png); }
-  .solution-section.solution-nuvlacity-industrialised {
+  .solution-section.solution-city-industrialised {
     background-image: url(/img/content/robot.png); }
-  .solution-section.solution-nuvlacity-industrialised h2, .solution-section.solution-nuvlacity-industrialised p {
+  .solution-section.solution-city-industrialised h2, .solution-section.solution-city-industrialised p {
     color: #333 !important; }
-  .solution-section.solution-nuvlacity-industrialised a {
+  .solution-section.solution-city-industrialised a {
     color: #9B1313 !important; }
-  .solution-section.solution-nuvlacity-volumlight {
+  .solution-section.solution-city-volumlight {
     background-image: url(/img/content/volumlight.png); }
-  .solution-section.solution-nuvlacity-perfect {
+  .solution-section.solution-city-perfect {
     background-image: url(/img/content/perfect.png); }
   .solution-section.solution-nuvlaoutpost-remote-communities {
     background-image: url(/img/content/rural_tech.png); }
