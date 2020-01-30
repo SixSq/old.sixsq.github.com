@@ -568,6 +568,9 @@ td, th {
 .dark {
   color: #000; }
 
+.navbar-nav .nav-item a.red-link {
+  text-decoration: underline !important; }
+
 .relative {
   position: relative; }
 
