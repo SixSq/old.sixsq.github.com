@@ -2277,17 +2277,17 @@ footer .footer-content {
     background-image: url(/img/content/volumlight.png); }
   .solution-section.solution-city-perfect {
     background-image: url(/img/content/perfect.png); }
-  .solution-section.solution-nuvlaoutpost-remote-communities {
+  .solution-section.solution-outpost-remote-communities {
     background-image: url(/img/content/rural_tech.png); }
-  .solution-section.solution-nuvlaoutpost-education {
+  .solution-section.solution-outpost-education {
     background-image: url(/img/content/digital_divide.png); }
-  .solution-section.solution-nuvlaoutpost-satellite {
+  .solution-section.solution-outpost-satellite {
     background-image: url(/img/content/connected_world.png); }
-  .solution-section.solution-nuvlascience-hnscicloud {
+  .solution-section.solution-science-hnscicloud {
     background-image: url(/img/content/europe_people.png); }
-    .solution-section.solution-nuvlascience-hnscicloud .content {
+    .solution-section.solution-science-hnscicloud .content {
       background-color: rgba(0, 0, 0, 0.4) !important; }
-  .solution-section.solution-nuvlascience-gnss {
+  .solution-section.solution-science-gnss {
     background-image: url(/img/content/gnss.png); }
 
 /*# sourceMappingURL=main.css.map */
