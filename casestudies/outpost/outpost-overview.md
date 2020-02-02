@@ -9,6 +9,7 @@ summary: Improve ICT infrastructure with this simple, secure solution that ensur
 cfa: /something
 permalink: /casestudies/outpost/overview
 redirect_from:
+  - /outpost
   - /nuvlaoutpost
   - /solutions/nuvlaoutpost/overview
 ---

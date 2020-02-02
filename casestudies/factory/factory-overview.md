@@ -9,6 +9,7 @@ summary: Factory... Retail 2.0 — reinventing the shopping experience with mean
 cfa: /something
 permalink: /casestudies/factory/overview
 redirect_from:
+  - /factory
   - /nuvlafactory
   - /solutions/nuvlafactory/overview
 ---

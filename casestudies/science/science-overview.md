@@ -9,6 +9,7 @@ summary: SixSq products are helping scientific institutions manage data in the c
 cfa: /something
 permalink: /casestudies/science/overview
 redirect_from:
+  - /science
   - /nuvlascience
   - /solutions/nuvlascience/overview
 ---

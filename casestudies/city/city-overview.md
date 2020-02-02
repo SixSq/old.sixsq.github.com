@@ -9,6 +9,7 @@ summary: Build tomorrow's Smart City today with a secured and future-proof solut
 cfa: /something
 permalink: /casestudies/city/overview
 redirect_from:
+  - /city
   - /nuvlacity
   - /solutions/nuvlacity/overview
 ---

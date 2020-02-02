@@ -9,6 +9,7 @@ summary: Retail 2.0 — reinventing the shopping experience with meaningful insi
 cfa: /something
 permalink: /casestudies/retail/overview
 redirect_from:
+  - /retail
   - /nuvlaretail
   - /solutions/nuvlaretail/overview
 ---
