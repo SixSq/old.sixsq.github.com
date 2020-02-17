@@ -1,10 +1,10 @@
 ---
 title: Science
-link: /solutions/nuvlascience/overview
+link: /solutions/science/overview
 image: /img/icon/eosc.png
 class: target-audience
 ---
 
-Large research laboratories such as CERN are using NuvlaScience to access scientific data and carry out modelling and statistical analysis.
+Large research laboratories such as CERN are using nuvla.io to access scientific data and carry out modelling and statistical analysis.
 
 This benefits areas such as bioinformatics, life sciences and high-energy physics. 

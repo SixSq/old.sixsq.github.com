@@ -1,6 +1,6 @@
 ---
-title: NuvlaScience&#58; Managing Big Data for Big Science
-link: /solutions/nuvlascience/overview
+title: Science&#58; Managing Big Data for Big Science
+link: /casestudies/science/overview
 action-text: Turning big data into added-value services.
 class: services
 css-class: services-smart-securing

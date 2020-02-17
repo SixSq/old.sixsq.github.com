@@ -1,5 +1,5 @@
 ---
-title: NuvlaRetail&#58; Reinventing the shopping experience with edge computing analytics
+title: Retail&#58; Reinventing the shopping experience with edge computing analytics
 link: /solutions/nuvlaretail/overview
 action-text: Find out more.
 class: services
