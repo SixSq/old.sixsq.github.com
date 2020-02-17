@@ -6,18 +6,24 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
+
     {{ page.content }}
+
+    <h2 class="text-center pt-50">Meet the team!</h2>
 		<section class="section-is-it-for">
 			<div class="container">
-				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
-		      {% for post in site.partners %}
-						{% include highlighted-with-image-no-title-item-no-truncation.html %}
+				<div class="row justify-content-center icon-is-it-for pb-20 pt-20">
+		      {% for post in site.staff %}
+						{% include highlighted-staff.html %}
 		      {% endfor %}
 				</div>
 			</div>
 		</section>
+
+		<!-- End Who is it for? -->	
     {% include whats-next.html %}
-    {% include primary-footer.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
     </main>
     {% include secondary-footer.html %}
   </body>

@@ -2290,4 +2290,14 @@ footer .footer-content {
   .solution-section.solution-science-gnss {
     background-image: url(/img/content/gnss.png); }
 
+.bandw img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+
+.bandw:hover img {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+
 /*# sourceMappingURL=main.css.map */

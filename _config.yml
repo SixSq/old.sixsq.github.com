@@ -42,6 +42,9 @@ collections:
   terms:
     output: true
     permalink: /:collection/:path/
+  staff:
+    output: false
+    permalink: /:collection/:path/
   welcome:
     output: false
     permalink: /:collection/:path/
