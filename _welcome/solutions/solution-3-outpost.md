@@ -1,6 +1,6 @@
 ---
-title: NuvlaOutpost&#58; Smart Field Infrastructure always connected
-link: /solutions/nuvlaoutpost/overview
+title: Outpost&#58; Smart Field Infrastructure always connected
+link: /casestudies/outpost/overview
 action-text: Take a look at some real world applications.
 class: services
 css-class: services-satellite

@@ -1,8 +1,8 @@
 ---
 layout: welcome
-title: Secure Edge and IoT Solutions for a Smarter Connected World
-link: /solutions/nuvlacity/overview
+title: Container-Based Platform for Edge and IoT Applications
+link: /nuvla-io/overview
 class: banner
 ---
 
-Discover our Smart City platform that delivers real benefits to citizens. Secure, scalable, affordable. 
+Discover our management platform as a service that that simplifies your edge, cloud and IoT operations. 
