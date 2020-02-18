@@ -827,7 +827,7 @@ td, th {
     .banner-page-int.banner-retail p {
       background-color: rgba(0, 0, 0, 0.3) !important; }
   .banner-page-int.banner-factory {
-    background: url(/img/banner/factory.jpg) no-repeat bottom center/cover; }
+    background: url(/img/banner/factory.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-factory {
         background: url(/img/banner/factory.png) no-repeat; } }

@@ -36,7 +36,7 @@ Within the project, SixSq will facilitate the implementation of a transparent cl
 
 The project involves nine partners:
 
-- [Barcelona Computing Centre](hhttps://www.bsc.es/), Spain
+- [Barcelona Computing Centre](https://www.bsc.es/), Spain
 
 - [Ikerlan](https://www.ikerlan.es/en), Spain 
 

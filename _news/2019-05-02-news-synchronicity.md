@@ -33,7 +33,7 @@ SynchroniCity opens a global IoT market for cities and businesses. They develop 
 
 Schréder is a worldwide leader in intelligent outdoor lighting solutions. The company, founded in 1907, is present in over 70 countries spanning 5 continents. Our tradition of engineering means we have been at the forefront of innovation throughout our history. The latest wave of urbanism means city centres are becoming more vital than ever: connectivity is crucial. Experts in lightability™, we propose lighting infrastructure that will play a pivotal role in building Smart Cities and future communication networks. 
 
-For more information, visit us at [www.schreder.com](www.schreder.com) or follow us on [LinkedIn](https://www.linkedin.com/company/schreder), [Twitter](https://twitter.com/SchrederGroup), [YouTube](https://www.youtube.com/SchrederGroup) and [Instagram](https://www.instagram.com/schredergroup). 
+For more information, visit us at [www.schreder.com](https://www.schreder.com) or follow us on [LinkedIn](https://www.linkedin.com/company/schreder), [Twitter](https://twitter.com/SchrederGroup), [YouTube](https://www.youtube.com/SchrederGroup) and [Instagram](https://www.instagram.com/schredergroup). 
 
 **About SixSq**
 
