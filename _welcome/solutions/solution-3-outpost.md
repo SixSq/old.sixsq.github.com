@@ -6,4 +6,4 @@ class: services
 css-class: services-satellite
 ---
 
-Deploy lightweight and fully automated IT infrastructures anywhere on Earth. Keep it connected with satellite link, so your operations stay centralised. Another way to leverage edge-to-cloud solutions.
+Control and operate your IT infrastructure anywhere on Earth.
