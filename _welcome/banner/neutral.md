@@ -1,8 +1,8 @@
 ---
 layout: welcome
-title: Hybrid IT and Multi-Cloud Solution for Big Data
-link: /solutions/nuvlascience/overview
+title: Adopt a Cloud Neutral Solution for your edge to cloud projects
+link: /products-and-services/nuvla/overview
 class: banner
 ---
 
-Big data analytics in the cloud and at the edge for research, scientific and academic communities.
+True independence to run in any cloud or across a variety of clouds at once.
