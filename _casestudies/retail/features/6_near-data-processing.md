@@ -1,7 +1,7 @@
 ---
 product: retail
 title: Near data processing
-class: feature
+class: feature__
 main-feature: false
 icon: fa-signal
 ---

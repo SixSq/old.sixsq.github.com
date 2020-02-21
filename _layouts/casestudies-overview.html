@@ -10,7 +10,7 @@
 			<div class="container">
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
-						<h2 class="pb-10 fw700">Discover real world applications of {{ page.product-name }}.</h2>
+						<h2 class="pb-10 fw700">Discover how Nuvla.io enables {{ page.product-name }}.</h2>
             {{ page.content | markdownify }}
 					</div>
 				</div>
@@ -27,29 +27,22 @@
       {% endfor %}
     </div>
 		<!-- Start what do you get? -->	
-		<section class="bg-white mt-20 section-do-you-get animated">
+		<section class="mt-20 section-is-it-for">
 			<div class="container">
-				<div class="row justify-content-center pt-50">
-					<div class="col-md-12 section-title text-center">
-							<h2 class="pb-10 fw700">What do you get?</h2>
-					</div>
-				</div>
 				<div class="row justify-content-center pb-50 pt-50">
-					<div class="product-page-carousel parent-container">
-            {% for post in site.casestudies %}
-              {% if post.product == page.product %}
-                {% if post.class == 'feature' %}
-                  {% if post.main-feature == true %}
-                    {% include carousel-with-icon-item.html %}
-                  {% endif %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Discover the main features.</h2>
 					</div>
-    			<div class="col-md-12 text-center">
-    			  <a class="btn-sixsq color-dark" href="/casestudies/{{ page.product }}/features"><i class="far fa-plus-square"></i>  Discover all features</a>
-          </div>
 				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+          {% for post in site.casestudies %}
+            {% if post.product == page.product %}
+              {% if post.class == 'feature' %}
+                {% include highlighted-with-image-item-no-truncation.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
 			</div>
 		</section>
 		<!-- Stop what do you get? -->

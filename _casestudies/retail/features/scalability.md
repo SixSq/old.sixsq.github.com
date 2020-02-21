@@ -1,7 +1,7 @@
 ---
 product: retail
 title: Built for Scale
-class: feature
+class: feature__
 main-feature: false
 icon: fab fa-mixcloud
 ---

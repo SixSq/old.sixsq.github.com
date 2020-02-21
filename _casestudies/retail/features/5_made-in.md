@@ -1,7 +1,7 @@
 ---
 product: retail
 title: Designed in Switzerland
-class: feature
+class: feature__
 main-feature: false
 icon: fa-plus-square
 ---
