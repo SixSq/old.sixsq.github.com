@@ -1,7 +1,7 @@
 ---
 title: Bringing Innovative IT to Remote Communities
 product: outpost
-cssclass: remote-communities
+cssclass: casestudy-section casestudy-outpost-remote-communities
 class: usecase
 ---
 

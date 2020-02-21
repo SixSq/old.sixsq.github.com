@@ -1,7 +1,7 @@
 ---
 title: Helix Nebula Science Cloud
 product: science
-cssclass: hnscicloud
+cssclass: casestudy-section casestudy-science-hnscicloud
 class: usecase
 ---
 

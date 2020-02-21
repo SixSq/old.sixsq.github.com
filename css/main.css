@@ -52,16 +52,7 @@ body {
 ol, ul {
   margin: 0;
   padding: 0;
-  list-style: none;
-}
-
-.bulleted-list {
-  list-style: disc !important;
-}
-
-.ordered-list {
-  list-style-type: decimal !important;
-}
+  list-style: none; }
 
 select {
   display: block; }
@@ -568,9 +559,6 @@ td, th {
 .dark {
   color: #000; }
 
-.navbar-nav .nav-item a.red-link {
-  text-decoration: underline !important; }
-
 .relative {
   position: relative; }
 
@@ -679,7 +667,7 @@ td, th {
   z-index: 99999; }
   .header-welcome .nav-link, .header-welcome .dropdown-item {
     color: rgba(255, 255, 255, 0.8) !important;
-    background-color: rgba(51, 51, 51, 0.8); }
+    background-color: rgba(51, 51, 51, 0.4); }
   .header-welcome .dropdown-menu {
     background-color: rgba(51, 51, 51, 0.9); }
     .header-welcome .dropdown-menu .dropdown-item:hover {
@@ -722,7 +710,7 @@ td, th {
       .common-header a.nav-link, .common-header a.dropdown-item {
         color: #fff !important; }
         .common-header a.nav-link:hover, .common-header a.dropdown-item:hover {
-          color: #9B1313 !important; } }
+          color: #DF3123 !important; } }
 
 .is-sticky .common-header {
   padding: 10px 0; }
@@ -731,11 +719,11 @@ td, th {
     .is-sticky .common-header .dropdown-menu .dropdown-item:hover {
       background-color: rgba(51, 51, 51, 0.5); }
     .is-sticky .common-header .dropdown-menu .dropdown-item.active {
-      background-color: rgba(51, 51, 51, 0.2); }
+      background-color: rgba(51, 51, 51, 0.6); }
   .is-sticky .common-header a.nav-link, .is-sticky .common-header a.dropdown-item {
     color: #fff !important; }
     .is-sticky .common-header a.nav-link:hover, .is-sticky .common-header a.dropdown-item:hover {
-      color: #9B1313 !important; }
+      color: #DF3123 !important; }
 
 .home-sixsq .sticky-wrapper {
   position: absolute;
@@ -763,9 +751,11 @@ td, th {
   @media (max-width: 767px) {
     .navbar .navbar-nav .nav-item a.nav-link, .navbar .navbar-nav .nav-item a.dropdown-item {
       text-align: center; } }
+.navbar .navbar-nav .nav-item a.link {
+  text-decoration: underline !important; }
 
 .navbar-brand img {
-  width: 64px; }
+  width: 50px; }
   @media (max-width: 767px) {
     .navbar-brand img {
       width: 40px; } }
@@ -812,29 +802,6 @@ td, th {
     .banner-page-int {
       background-size: auto 100%;
       background-position: left center; } }
-  .banner-page-int.banner-nuvla-io {
-    background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-nuvla-io {
-        background: url(/img/banner/nuvla-io.png) no-repeat; } }
-    .banner-page-int.banner-nuvla-io p {
-      background-color: rgba(0, 0, 0, 0.3) !important; }
-  .banner-page-int.banner-retail {
-    background: url(/img/banner/retail.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-retail {
-        background: url(/img/banner/retail.png) no-repeat; } }
-    .banner-page-int.banner-retail p {
-      background-color: rgba(0, 0, 0, 0.3) !important; }
-  .banner-page-int.banner-factory {
-    background: url(/img/banner/factory.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-factory {
-        background: url(/img/banner/factory.png) no-repeat; } }
-    .banner-page-int.banner-factory p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-factory h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-city {
     background: url(/img/banner/city.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -850,6 +817,15 @@ td, th {
     .banner-page-int.banner-outpost p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-outpost h2 {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+  .banner-page-int.banner-retail {
+    background: url(/img/banner/retail.png) no-repeat bottom center/cover; }
+    @media (max-width: 767px) {
+      .banner-page-int.banner-retail {
+        background: url(/img/banner/retail.png) no-repeat; } }
+    .banner-page-int.banner-retail p {
+      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-retail h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-science {
     background: url(/img/banner/science.png) no-repeat bottom center/cover; }
@@ -878,14 +854,14 @@ td, th {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-nuvla h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-  .banner-page-int.banner-slipstream, .banner-page-int.banner-developer {
-    background: url(/img/banner/slipstream.png) no-repeat bottom center/cover; }
+  .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
+    background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
-      .banner-page-int.banner-slipstream, .banner-page-int.banner-developer {
-        background: url(/img/banner/slipstream.png) no-repeat; } }
-    .banner-page-int.banner-slipstream p, .banner-page-int.banner-developer p {
+      .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
+        background: url(/img/banner/nuvla-io.png) no-repeat; } }
+    .banner-page-int.banner-nuvla-io p, .banner-page-int.banner-developer p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-slipstream h2, .banner-page-int.banner-developer h2 {
+    .banner-page-int.banner-nuvla-io h2, .banner-page-int.banner-developer h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-about {
     background: url(/img/banner/about.png) no-repeat bottom center/cover; }
@@ -895,15 +871,6 @@ td, th {
     .banner-page-int.banner-about p {
       background-color: rgba(0, 0, 0, 0.5) !important; }
     .banner-page-int.banner-about h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-  .banner-page-int.banner-partner {
-    background: url(/img/banner/partner.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-partner {
-        background: url(/img/banner/partner.png) no-repeat; } }
-    .banner-page-int.banner-partner p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-partner h2 {
       background-color: rgba(0, 0, 0, 0.5) !important; }
   .banner-page-int.banner-media {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
@@ -1082,15 +1049,11 @@ td, th {
     background: #9B1313; }
   .menu-product.menu-product-nuvlabox {
     background-color: #F39314; }
-  .menu-product.menu-product-city {
+  .menu-product.menu-product-nuvlacity {
     background-color: #009051; }
-  .menu-product.menu-product-retail {
-    background-color: #163154; }
-  .menu-product.menu-product-factory {
-    background-color: #1341A3; }
-  .menu-product.menu-product-outpost {
+  .menu-product.menu-product-nuvlaoutpost {
     background: #136697; }
-  .menu-product.menu-product-science {
+  .menu-product.menu-product-nuvlascience {
     background: #9D6A1F; }
   .menu-product .menu-product-list {
     font-size: 18px; }
@@ -1206,8 +1169,6 @@ td, th {
       margin-right: 5px; }
       .section-do-you-get .product-page-carousel .owl-stage .center .item h3, .section-do-you-get .product-page-carousel .owl-stage .center .item p, .section-do-you-get .product-page-carousel .owl-stage .center .item ul {
         color: #fff; }
-      .section-do-you-get .product-page-carousel .owl-stage .center .item img {
-        filter: brightness(0) invert(1); }
       .section-do-you-get .product-page-carousel .owl-stage .center .item svg {
         color: #fff;
         font-size: 600%; }
@@ -1441,6 +1402,14 @@ td, th {
       padding: 0 20px; } }
   .section-about button:focus, .section-about .hs-button:focus, .hs-form-field button:focus, .hs-form-field .hs-button:focus {
     outline: none; }
+.section-about .bandw img, .hs-form-field .bandw img {
+  -webkit-filter: grayscale(100%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%); }
+.section-about .bandw:hover img, .hs-form-field .bandw:hover img {
+  -webkit-filter: grayscale(0%);
+  /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%); }
 
 .section-article {
   margin-bottom: 100px; }
@@ -1448,7 +1417,7 @@ td, th {
     margin-top: 20px;
     margin-bottom: 20px; }
   .section-article h2 {
-    font-size: 250%;
+    font-size: 175%;
     margin-top: 10px;
     margin-bottom: 20px; }
   .section-article strong {
@@ -2238,7 +2207,7 @@ footer .footer-content {
         footer .footer-content .terms p .to-the-top {
           padding-right: 0px; } }
 
-.solution-section {
+.casestudy-section {
   background-repeat: no-repeat;
   background-size: 100% auto;
   background-position: center top;
@@ -2248,56 +2217,44 @@ footer .footer-content {
   z-index: 100;
   padding: 60px 0; }
   @media (max-width: 767px) {
-    .solution-section {
+    .casestudy-section {
       background-size: auto 100%; } }
-  .solution-section .content {
+  .casestudy-section .content {
     height: auto;
     color: white !important;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px; }
-  .solution-section h2 {
+  .casestudy-section h2 {
     padding: 20px 0px;
     color: white !important; }
-  .solution-section a {
+  .casestudy-section a {
     color: white !important;
     font-weight: bold; }
-  .solution-section.solution-retail {
+  .casestudy-section.casestudy-city-security {
     background-image: url(/img/content/Security_padlocks.png); }
-  .solution-section.solution-city-security {
-    background-image: url(/img/content/Security_padlocks.png); }
-  .solution-section.solution-city-industrialised {
+  .casestudy-section.casestudy-city-factory {
     background-image: url(/img/content/robot.png); }
-  .solution-section.solution-city-industrialised h2, .solution-section.solution-city-industrialised p {
-    color: #333 !important; }
-  .solution-section.solution-city-industrialised a {
-    color: #9B1313 !important; }
-  .solution-section.solution-city-volumlight {
+    .casestudy-section.casestudy-city-factory h2, .casestudy-section.casestudy-city-factory p {
+      color: #333 !important; }
+    .casestudy-section.casestudy-city-factory a {
+      color: #9B1313 !important; }
+  .casestudy-section.casestudy-city-volumlight {
     background-image: url(/img/content/volumlight.png); }
-  .solution-section.solution-city-perfect {
+  .casestudy-section.casestudy-city-perfect {
     background-image: url(/img/content/perfect.png); }
-  .solution-section.solution-outpost-remote-communities {
+  .casestudy-section.casestudy-outpost-remote-communities {
     background-image: url(/img/content/rural_tech.png); }
-  .solution-section.solution-outpost-education {
+  .casestudy-section.casestudy-outpost-education {
     background-image: url(/img/content/digital_divide.png); }
-  .solution-section.solution-outpost-satellite {
+  .casestudy-section.casestudy-outpost-satellite {
     background-image: url(/img/content/connected_world.png); }
-  .solution-section.solution-science-hnscicloud {
+  .casestudy-section.casestudy-science-hnscicloud {
     background-image: url(/img/content/europe_people.png); }
-    .solution-section.solution-science-hnscicloud .content {
+    .casestudy-section.casestudy-science-hnscicloud .content {
       background-color: rgba(0, 0, 0, 0.4) !important; }
-  .solution-section.solution-science-gnss {
+  .casestudy-section.casestudy-science-gnss {
     background-image: url(/img/content/gnss.png); }
-
-.bandw img {
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
-}
-
-.bandw:hover img {
-  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(0%);
-}
 
 /*# sourceMappingURL=main.css.map */

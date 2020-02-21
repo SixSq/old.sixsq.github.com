@@ -1,7 +1,7 @@
 ---
 title: Perfect lighting with realtime traffic monitoring means higher security
 product: city
-cssclass: perfect
+cssclass: casestudy-section casestudy-city-perfect
 class: usecase
 image: /img/banner/volumlight.png
 ---

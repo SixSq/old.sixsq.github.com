@@ -1,7 +1,7 @@
 ---
 title: Bridging the Digital Divide
 product: outpost
-cssclass: education
+cssclass: casestudy-section casestudy-outpost-education
 class: usecase
 ---
 
