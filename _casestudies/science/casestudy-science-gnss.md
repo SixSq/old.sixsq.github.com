@@ -1,7 +1,7 @@
 ---
 title: GNSS Big Data processing at the edge to foster innovation
 product: science
-cssclass: gnss
+cssclass: casestudy-section casestudy-science-gnss
 class: usecase
 ---
 

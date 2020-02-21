@@ -61,7 +61,7 @@
     a.nav-link, a.dropdown-item {
 			color: $light !important;
       &:hover {
-  			color: $color-primary !important; 
+  			color: $color-primary-light !important; 
       }
     }
 	}
@@ -78,14 +78,14 @@
           background-color: transparentize($header-sticky,0.5);
         }
         &.active {
-          background-color: transparentize($header-sticky,0.8);
+          background-color: transparentize($header-sticky,0.4);
         }
       }
     }
     a.nav-link, a.dropdown-item {
 			color: $light !important;
       &:hover {
-  			color: $color-primary !important; 
+  			color: $color-primary-light !important; 
       }
     }
   }
@@ -127,7 +127,7 @@
 				font-weight: 400;
         text-transform: uppercase;
         &:hover {
-    			color: $color-primary !important; 
+    			color: $color-primary-light !important; 
         }
         &.active {
           font-weight: 800 !important;
@@ -136,13 +136,15 @@
           text-align: center;
     		}
       }
+      a.link {
+        text-decoration: underline !important; }
     }
   }
 }
 
 .navbar-brand {
   img {
-    width: 64px;
+    width: 50px;
   	@include mobile {
 			width: 40px;
 		}

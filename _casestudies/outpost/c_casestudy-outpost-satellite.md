@@ -1,7 +1,7 @@
 ---
 title: Giving an Edge to Satellite Services
 product: outpost
-cssclass: satellite
+cssclass: casestudy-section casestudy-outpost-satellite
 class: usecase
 ---
 

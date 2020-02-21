@@ -1,7 +1,7 @@
 ---
 title: Securing smart city solutions
 product: city
-cssclass: security
+cssclass: casestudy-section casestudy-city-security
 class: usecase
 image: /img/content/Security_padlocks.jpg
 ---
