@@ -1,10 +1,10 @@
 //-------- Welcome page --------//
-.header-welcome {
+.header-welcome, .header-std {
 	position: relative;
 	z-index: 99999;
   .nav-link, .dropdown-item {
     color: rgba(255, 255, 255, 0.8) !important;
-    background-color: transparentize($header-sticky,0.6);
+    background-color: transparentize($header-sticky,0.4);
   }
   .dropdown-menu {
     background-color: transparentize($header-sticky,0.1);
@@ -19,31 +19,11 @@
   }
 }
 
-//-------- Standard page --------//
-.header-std {
-	position: relative;
-	z-index: 99999;
-  .nav-link, .dropdown-item {
-    color: rgba(0, 0, 0, 0.8) !important;
-  }
-  .dropdown-menu {
-    background-color: transparentize(white, 0.1);
-    .dropdown-item {
-      &:hover {
-        background-color: transparentize(white, 0.1);
-      }
-      &.active {
-        background-color: transparentize(white, 0.1);
-      }
-    }
-  }
-}
-
 .common-header {
-	padding: 10px 0;
+	padding: 0;
 	@include mobile {
     background: $header-sticky !important;
-		padding: 10px 0;
+		padding: 0;
     position: relative;
     z-index: 99;
     .dropdown-menu {
@@ -70,7 +50,7 @@
 
 .is-sticky {
 	.common-header {
-		padding: 10px 0;
+		padding: 0;
     .dropdown-menu {
       background-color: $header-sticky;
       .dropdown-item {
@@ -91,23 +71,9 @@
   }
 }
 
-.home-sixsq {
+.home-sixsq, .sixsq {
   .sticky-wrapper {
     position: absolute;
-    top: 0;
-    width: 100%;
-    left: 0;
-  }
-  .is-sticky {
-    .common-header {
-      background: $header-sticky;
-    }
-  }
-}
-
-//-------- header-std --------//
-.sixsq {
-  .sticky-wrapper {
     top: 0;
     width: 100%;
     left: 0;
@@ -123,7 +89,7 @@
   .navbar-nav {
     .nav-item {
       a.nav-link, a.dropdown-item {
-				font-size: 15px;
+				font-size: 13px;
 				font-weight: 400;
         text-transform: uppercase;
         &:hover {
@@ -144,12 +110,12 @@
 
 .navbar-brand {
   img {
-    width: 50px;
+    width: 40px;
   	@include mobile {
-			width: 40px;
+			width: 30px;
 		}
   	@include tablet {
-			width: 50px;
+			width: 40px;
 		}
   }
 }
