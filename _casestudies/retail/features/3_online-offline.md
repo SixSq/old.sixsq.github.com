@@ -6,4 +6,4 @@ main-feature: true
 icon: fa-cart-plus
 ---
 
-Most purchasers research online before buying offline. Integrating NuvlaRetail with your customer data means that you can improve the shoppers in-store experience and optimise the chances of that purchase taking place
+Most purchasers research online before buying offline. Integrating an edge solution with your customer data means that you can improve the shoppers in-store experience and optimise the chances of that purchase taking place.

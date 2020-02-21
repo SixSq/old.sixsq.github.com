@@ -1,7 +1,7 @@
 ---
 product: retail
 title: Privacy
-class: feature
+class: feature__
 main-feature: false
 icon: fa-shield
 ---

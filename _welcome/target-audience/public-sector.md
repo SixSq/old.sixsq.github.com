@@ -1,12 +1,9 @@
 ---
-title: Public Sector
-link: /solutions/nuvlacity/overview
-image: /img/icon/public_sector.png
+title: AI and IoT Applications
+link: /casestudies/city/overview
+image: /img/icon/tech_partners.png
 class: target-audience
 ---
 
-Public sector buyers are under increasing pressure to reduce costs and meet ambitious energy reduction targets.
-
-This can only be achieved by including the latest technologies like NuvlaCity in their IT infrastructure. 
-
+Bridge the gap between your AI software solution and your current and future customers by using Nuvla.io to deploy and manage your application. Give your customers an as-a-service experience that allows them to accelerate their business in a secure a flexible way.
 
