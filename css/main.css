@@ -1213,6 +1213,8 @@ td, th {
         bottom: -33px;
         left: 6px; }
 
+.section-contact a {
+  color: #DF3123; }
 .section-contact .image-contact-us {
   background: url("../img/page-product/section-contact/image-section-contact-product.jpg");
   background-size: cover;
@@ -1223,6 +1225,8 @@ td, th {
   margin-right: 0; }
   .section-contact .image-contact-us .content-text p {
     font-size: 18px; }
+  .section-contact .image-contact-us img {
+    opacity: 0.5; }
 
 .section-intro-product .section-title {
   float: left; }
@@ -1581,7 +1585,7 @@ td, th {
         background-position: center center; } }
     .section-services .services-volumlight .services-content {
       height: auto;
-      padding-top: 210px; }
+      padding-top: 140px; }
       @media (min-width: 1500px) and (max-width: 2000px) {
         .section-services .services-volumlight .services-content {
           padding-top: 170px; } }
