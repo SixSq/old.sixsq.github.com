@@ -1099,6 +1099,14 @@ td, th {
 .logic-supply img {
   margin-bottom: 30px; }
 
+.cards {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center; }
+  .cards .top {
+    max-width: 80%; }
+
 .section-do-you-get .product-page-carousel {
   min-height: 520px; }
   @media (max-width: 767px) {
@@ -1232,16 +1240,6 @@ td, th {
   float: left; }
   .section-intro-product .section-title span {
     display: inline-block; }
-  .section-intro-product .section-title .title-image-product {
-    background: url("/img/page-product/img_nuvlabox.png");
-    background-repeat: repeat;
-    background-size: auto auto;
-    width: 176px;
-    height: 33px;
-    display: inline-block;
-    background-repeat: no-repeat;
-    background-size: 100%;
-    margin-left: 10px; }
 .section-intro-product .hardware-provider img {
   width: 30%; }
   @media (max-width: 767px) {

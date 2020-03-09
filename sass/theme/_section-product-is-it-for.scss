@@ -64,3 +64,20 @@
     margin-bottom: 30px;
   }
 }
+
+.cards {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    .top {
+//      align-self: flex-start;
+max-width: 80%;
+    }
+    .center {
+//      align-self: center;
+    }
+    .bottom {
+//      align-self: flex-end;
+    }
+}
