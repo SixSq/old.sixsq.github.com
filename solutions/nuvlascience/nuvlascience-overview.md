@@ -10,4 +10,5 @@ cfa: /something
 permalink: /solutions/nuvlascience/overview
 redirect_from:
   - /nuvlascience
+  - /science
 ---

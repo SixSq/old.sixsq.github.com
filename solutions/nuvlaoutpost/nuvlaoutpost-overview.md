@@ -10,4 +10,5 @@ cfa: /something
 permalink: /solutions/nuvlaoutpost/overview
 redirect_from:
   - /nuvlaoutpost
+  - /outpost
 ---

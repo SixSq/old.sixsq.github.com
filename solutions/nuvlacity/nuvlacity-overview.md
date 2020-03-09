@@ -10,6 +10,8 @@ cfa: /something
 permalink: /solutions/nuvlacity/overview
 redirect_from:
   - /nuvlacity
+  - /city
+  - /smartcity
 ---
 
 <h4>The use of IoT sensors and actuators enables cities to improve their service offering, making infrastructure more responsive to the needs of citizens. Only by taking full advantage of both cloud and edge computing can cities improve functionality and reduce associated costs. Our NuvlaCity solution is your IoT platform for achieving that goal.</h4>
