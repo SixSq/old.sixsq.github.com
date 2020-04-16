@@ -3,7 +3,7 @@ title: Retail&#58; Reinventing the shopping experience with edge computing analy
 link: /casestudies/retail/overview
 action-text: Find out more.
 class: services
-css-class: services-eosc
+css-class: services-retail
 align-text: left
 ---
 

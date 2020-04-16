@@ -4,19 +4,11 @@
   <body class="home-sixsq">
     {% include welcome-header.html %}
     <main>
-      <section class="default-banner banner-slider-1">
+      <section class="default-banner banner-slider-1 top-message">
       	<div class="container">
-      		<div class="row height-850">
-      			<div class="col-md-12 d-flex">
-      				<div class="slider-carousel d-flex">
-                {% for post in site.welcome %}
-                  {% if post.class == 'banner' %}
-                    {% include welcome-banner-item.html %}
-                  {% endif %}
-                {% endfor %}
-      				</div>
-      			</div>
-      		</div>
+      		<h2 class="header text-white mb-30">We enable AI at the edge, as a Service</h2>
+      		<h2 class="subheader text-white">You take control of your data at the edge and we take away the pain and complexity of running your own management platform.</h2>
+  				<a class="btn-sixsq" href="/nuvla-io"><i class="far fa-plus-square"></i> Discover Nuvla.io</a>
       	</div>
       </section>
       <!-- % include welcome-webinar.html % -->

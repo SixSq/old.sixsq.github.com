@@ -1,19 +1,26 @@
 //-------- Home --------//
 .default-banner {
-	&.banner-1 {
-		background: $p1-color;
-	}
-	&.banner-slider-1 {
-		background: url(/img/banner/city.png) no-repeat bottom center/cover;
-    @include mobile {
-      background: url(/img/banner/city.png) no-repeat;
-      background-size: cover;
-      background-position: left center;
-    }
-	}
+	background: $p1-color;
+  padding: 175px 0 100px 0;
+	background: url(/img/banner/city.png) no-repeat bottom center/cover;
+  @include mobile {
+    background: url(/img/banner/city.png) no-repeat;
+    background-size: cover;
+    background-position: left center;
+  }
+  h2.header {
+    font-size: 48px;
+    font-weight: 600;
+    text-transform: uppercase;
+  }
+  h2.subheader {
+    font-size: 250%;
+    font-weight: 700;
+    padding: 10px 0 25px 0;
+  }
 }
-//-------- Page-products Nuvla --------//
 
+//-------- Page-products Nuvla --------//
 .banner-page-int {
 	background-size: cover;
 	height: auto;

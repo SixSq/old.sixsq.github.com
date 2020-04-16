@@ -149,7 +149,6 @@
 		@media (min-width: 2000px) {
 			  min-height: 1330px;
 			  margin-top: -19%;
-			  
 		}
 		@media (min-width: 1500px) and (max-width: 2000px) {
 			 min-height: 1050px;
@@ -214,25 +213,24 @@
 			}
 		}
 	}
-	.services-eosc {
-		background: url(/img/section-services/section-eosc.png) no-repeat;
+	.services-retail {
+		background: url(/img/section-services/section-retail.png) no-repeat;
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position: center top;
 		height: 100%;
 		min-height: 1200px;
 		position: relative;
-		z-index: 100;
-
+		z-index: 112;
 		@media (min-width: 2000px) {
-				min-height: 923px;
-				margin-top: -26%;
-				z-index: 112;
+			min-height: 923px;
+			margin-top: -26%;
+			z-index: 112;
 		}
 		@media (min-width: 1500px) and (max-width: 2000px) {
-				 min-height: 916px;
-				 margin-top: -28%;
-				 z-index: 112;
+			min-height: 916px;
+			margin-top: -28%;
+			z-index: 112;
 		}
 		@media (min-width: 992px) and (max-width: 1500px) {
 			background-size: cover;
@@ -255,17 +253,26 @@
 			background-position: center center;
 		}
 		.services-content {
-			padding-top: 350px;
+			padding-top: 400px;
 			height: auto;
+			@media (min-width: 2000px) {
+				padding-top: 420px;
+			}
+			@media (min-width: 1500px) and (max-width: 2000px) {
+				padding-top: 320px;
+			}
 			@media (min-width: 992px) and (max-width: 1500px) {
-				padding-top: 230px;
+				padding-top: 250px;
+			}
+			@media (min-width: 768px) and (max-width: 992px) {
+				padding-top: 170px;
 			}
 			@media (max-width: 767px) {
-				padding-top: 300px;
+				padding-top: 250px;
 			}
-			@include tablet {
+			@media (min-width: 480px) and (max-width: 767px) {
 				padding-top: 200px;
-			}				
+			}	
 			h2 {
 			color: #0C79C5;
 			font-size: 250%;

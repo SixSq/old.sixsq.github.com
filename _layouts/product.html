@@ -52,7 +52,11 @@
 				</div>
 			</div>
 		</section>
-    {{ page.content }}
+		<section class="bg-white mt-20 section-is-it-for">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+		</section>
 		<!-- End Who is it for? -->	
     {% include whats-next.html %}
 		<!-- End Section News -->	
