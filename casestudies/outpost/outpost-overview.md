@@ -1,11 +1,11 @@
 ---
-layout: casestudies-overview-simple
+layout: casestudies-overview
 product: outpost
 category: casestudies
 class: overview
 product-name: Outpost
-title: Breaking down communication barriers
-summary: Improve ICT infrastructure with this simple, secure solution that ensures the delivery of up-to-date  content to any location.
+title: Deploy secure and dependable IT in the field
+summary: Nuvla.io ensures deployment simplicity wherever your field offices are located.
 cfa: /something
 permalink: /casestudies/outpost/overview
 redirect_from:
@@ -13,3 +13,8 @@ redirect_from:
   - /nuvlaoutpost
   - /solutions/nuvlaoutpost/overview
 ---
+
+An NGO based in Geneva approached SixSq to help with the deployment of an application for field clinics in various locations around the world. They needed a robust, scalable solution that did not require an on-site IT specialist and which would work in areas where connectivity is often volatile. Using [NuvlaBox](https://sixsq.com/products-and-services/nuvlabox/overview) software and [Nuvla.io](/nuvla.io/overview) in combination with the containerised field clinic application, SixSq provided a solution for remote management of the clinic software, including monitoring, updates and alerts. This enables the staff in the field to focus on what they do best and leave the IT to the tech experts.
+
+
+

@@ -1,5 +1,5 @@
 ---
-title: 30% Energy Savings thanks to Volumlight&trade; smart lighting solution
+title: 30% Energy Savings thanks to Volumlight&trade; adaptive lighting solution
 product: city
 cssclass: casestudy-section casestudy-city-volumlight
 class: usecase
