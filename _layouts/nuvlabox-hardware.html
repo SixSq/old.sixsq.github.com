@@ -8,6 +8,11 @@
       {% include {{ page.product }}-sub-menu.html %}
       <section class="section-intro-product section-full section-is-it-for">
       	<div class="container">
+      		<div class="row justify-content-center mb-20">
+      			<div class="col-md-12 section-title text-center">
+      				<h2 class="pb-10 fw700">Hardware to transform into a <img class="pb-15" src="/img/logo/logo_nuvlabox_black.png"/></h2>
+      			</div>
+      		</div>
           <div id="nuvlabox-product-description" class="col-md-12 text-center mb-20">
             <h4 style="line-height: 1.5em">{{ page.content | markdownify }}</h4>
           </div>
@@ -21,22 +26,6 @@
               {% if post.product == page.product %}
                 {% if post.class == 'hardware-overview' %}
                   {% include highlighted-with-image-no-title-item-no-truncation.html %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-          </div>
-    		</div>
-      </section>
-      <section class="mt-20 section-is-it-for">
-        <div class="container">
-          <div class="row justify-content-center icon-is-it-for mt-50 mb-50">
-            {% assign height = "200px" %}
-            {% for post in site.products-and-services %}
-              {% if post.product == page.product %}
-                {% if post.supplier == 'hpe' %}
-                  {% if post.class == 'hardware' %}
-                    {% include highlighted-with-image-no-title-item-no-truncation.html %}
-                  {% endif %}
                 {% endif %}
               {% endif %}
             {% endfor %}

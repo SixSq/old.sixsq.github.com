@@ -1,5 +1,5 @@
 ---
-image: /img/logo/logo_dell.png
+image: /img/logo/logo_dell-small.png
 class: partners
 category: about
 top-story: true

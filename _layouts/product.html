@@ -34,7 +34,7 @@
 		</section>
 		<!-- Stop what do you get? -->
 		<!-- Start Who is it for? -->	
-		<section class="mt-20 section-is-it-for">
+		<section id="who-is-it-for" class="mt-20 section-is-it-for">
 			<div class="container">
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
@@ -43,7 +43,7 @@
 				</div>
 				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
           {% for post in site.products-and-services %}
-            {% if post.product == page.product %}
+            {% if post.product == 'nuvla-io' %}
               {% if post.class == 'target-audience' %}
                 {% include highlighted-with-image-item-no-truncation.html %}
               {% endif %}
@@ -54,7 +54,19 @@
 		</section>
 		<section class="bg-white mt-20 section-is-it-for">
 			<div class="container">
-        {{ page.content | markdownify }}
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Here have a look.</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+          <iframe width="540" height="304" src="https://www.youtube.com/embed/BHzbEDzyfnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+				</div>
+			</div>
+		</section>
+		<section class="bg-white mt-20 section-is-it-for">
+			<div class="container">
+        {{ page.content }}
 			</div>
 		</section>
 		<!-- End Who is it for? -->	

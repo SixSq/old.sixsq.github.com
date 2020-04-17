@@ -6,9 +6,9 @@
     <main>
       <section class="default-banner banner-slider-1 top-message">
       	<div class="container">
-      		<h2 class="header text-white mb-30">We enable AI at the edge, as a Service</h2>
-      		<h2 class="subheader text-white">You take control of your data at the edge and we take away the pain and complexity of running your own management platform.</h2>
-  				<a class="btn-sixsq" href="/nuvla-io"><i class="far fa-plus-square"></i> Discover Nuvla.io</a>
+      		<h2 class="header text-white mb-30">{{ page.header }}</h2>
+      		<h2 class="subheader text-white">{{ page.subheader }}</h2>
+  				<a class="btn-sixsq" href="/nuvla-io"><i class="far fa-plus-square"></i> {{ page.header-action}}</a>
       	</div>
       </section>
       <!-- % include welcome-webinar.html % -->
@@ -31,7 +31,7 @@
   			<div class="clearfix"></div>
   		</div>
       {% include welcome-newsletter.html %}
-  	  <section class="section-full section-top section-news relative">
+  	  <section class="section-full section-top section-news section-partners relative">
   			<div class="background-dx"></div>
   			<div class="background-sx"></div>
   			<div class="container">
@@ -48,20 +48,28 @@
                   {% endif %}
                 {% endfor %}
   						</div>
+            	<div class="section-news-button float-right ml-20">
+            	  <a class="btn-sixsq mt-20 all" href="/about/partners"><i class="far fa-plus-square"></i>  All partners</a>
+            	</div>
   					</div>
   					<div class="col-md-6 col-sm-12">
   						<div class="section-title text-center pb-20">
-    						<h2 class="pb-10 fw700 text-center">Enablement partner for.</h2>
+    						<h2 class="pb-10 fw700 text-center">Enabling the edge for.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-						</div>
-  						<div class="focus-need">
-                {% for post in site.welcome %}
-                  {% if post.class == 'target-audience' %}
-                    {% include welcome-target-audience-item.html %}
+                <div class="focus-need mb-20">
+                {% for post in site.products-and-services %}
+                  {% if post.product == 'nuvla-io' %}
+                    {% if post.class == 'target-audience' %}
+                      {% include highlighted-with-image-no-text-no-action-item.html %}
+                    {% endif %}
                   {% endif %}
                 {% endfor %}
-  						</div>
-  					</div>
+                </div>
+                <div class="text-center" style="display: bottom;">
+                  <a class="btn-sixsq mt-20 color-3 text-center" href="/products-and-services/nuvla-io/overview#who-is-it-for"><i class="far fa-plus-square"></i> Discover more</a>
+                </div>
+              </div>
+            </div>
   				</div>
   			</div>
   		</section>

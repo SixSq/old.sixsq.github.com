@@ -78,36 +78,30 @@
 		@include mobile {
 		 	background: url(/img/banner/nuvlabox.png) no-repeat;
 		}
-    p {
-      background-color: transparentize(black, 0.5) !important;
-		}
-    h2 {
-      background-color: transparentize(black, 0.5) !important;
-		}
+    .banner-content {
+      background-color: transparentize(black, 0.5);
+      padding-top: 20px;
+    }
 	}
 	&.banner-nuvla {
 		background: url(/img/banner/nuvla.png) no-repeat bottom center/cover;
 		@include mobile {
 		 	background: url(/img/banner/nuvla.png) no-repeat;
 		}
-    p {
-      background-color: transparentize(black, 0.5) !important;
-		}
-    h2 {
-      background-color: transparentize(black, 0.5) !important;
-		}
+    .banner-content {
+      background-color: transparentize(black, 0.5);
+      padding-top: 20px;
+    }
 	}
 	&.banner-nuvla-io, &.banner-developer {
 		background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover;
 		@include mobile {
 		 	background: url(/img/banner/nuvla-io.png) no-repeat;
 		}
-    p {
-      background-color: transparentize(black, 0.5) !important;
-		}
-    h2 {
-      background-color: transparentize(black, 0.5) !important;
-		}
+    .banner-content {
+      background-color: transparentize(black, 0.5);
+      padding-top: 20px;
+    }
 	}
 	&.banner-about {
 		background: url(/img/banner/about.png) no-repeat bottom center/cover;

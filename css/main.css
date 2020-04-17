@@ -830,28 +830,25 @@ td, th {
     @media (max-width: 767px) {
       .banner-page-int.banner-nuvlabox {
         background: url(/img/banner/nuvlabox.png) no-repeat; } }
-    .banner-page-int.banner-nuvlabox p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvlabox h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-nuvlabox .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-nuvla {
     background: url(/img/banner/nuvla.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-nuvla {
         background: url(/img/banner/nuvla.png) no-repeat; } }
-    .banner-page-int.banner-nuvla p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvla h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-nuvla .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
     background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
         background: url(/img/banner/nuvla-io.png) no-repeat; } }
-    .banner-page-int.banner-nuvla-io p, .banner-page-int.banner-developer p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-nuvla-io h2, .banner-page-int.banner-developer h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-nuvla-io .banner-content, .banner-page-int.banner-developer .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-about {
     background: url(/img/banner/about.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -1565,123 +1562,127 @@ td, th {
   @media (max-width: 767px) {
     .section-services {
       padding-bottom: 100px; } }
-  .section-services .services-volumlight {
-    background: url(/img/section-services/section-energy-saving.png) no-repeat;
+  .section-services .services-1 {
+    background: url(/img/section-services/service-1.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
     height: 100%;
     min-height: 1200px; }
     @media (min-width: 1500px) and (max-width: 2000px) {
-      .section-services .services-volumlight {
+      .section-services .services-1 {
         min-height: 930px; } }
     @media (min-width: 992px) and (max-width: 1500px) {
-      .section-services .services-volumlight {
+      .section-services .services-1 {
         background-size: cover;
         min-height: 830px;
         background-position: center center; } }
     @media (min-width: 768px) and (max-width: 992px) {
-      .section-services .services-volumlight {
+      .section-services .services-1 {
         background-size: cover;
         min-height: 800px;
         background-position: center center; } }
     @media (max-width: 767px) {
-      .section-services .services-volumlight {
+      .section-services .services-1 {
         background-size: cover;
         background-position: center center; } }
-    .section-services .services-volumlight .services-content {
+    .section-services .services-1 .services-content {
       height: auto;
-      padding-top: 140px; }
+      padding-top: 240px; }
       @media (min-width: 1500px) and (max-width: 2000px) {
-        .section-services .services-volumlight .services-content {
+        .section-services .services-1 .services-content {
+          padding-top: 170px; } }
+      @media (min-width: 992px) and (max-width: 1500px) {
+        .section-services .services-1 .services-content {
           padding-top: 170px; } }
       @media (min-width: 768px) and (max-width: 992px) {
-        .section-services .services-volumlight .services-content {
+        .section-services .services-1 .services-content {
           padding-top: 100px; } }
       @media (max-width: 767px) {
-        .section-services .services-volumlight .services-content {
+        .section-services .services-1 .services-content {
           padding-top: 280px; } }
-      .section-services .services-volumlight .services-content h2 {
-        color: #fff;
+      .section-services .services-1 .services-content h2 {
+        color: #333;
         font-size: 250%; }
-      .section-services .services-volumlight .services-content .line {
-        color: #fff;
-        background: #fff;
+      .section-services .services-1 .services-content .line {
+        color: #333;
+        background: #333;
         width: 50%;
         text-align: left; }
-      .section-services .services-volumlight .services-content p {
-        color: #fff;
-        font-size: 120%; }
-      .section-services .services-volumlight .services-content a {
+      .section-services .services-1 .services-content p {
         color: #333;
-        background: #fff; }
-  .section-services .services-smart-securing {
-    background: url(/img/section-services/smart-securing.png) no-repeat;
+        font-size: 120%; }
+      .section-services .services-1 .services-content a {
+        color: #fff;
+        border: 1px solid #333;
+        background: #333; }
+  .section-services .services-2 {
+    background: url(/img/section-services/service-2.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
     height: 100%;
     min-height: 1200px; }
     @media (min-width: 2000px) {
-      .section-services .services-smart-securing {
+      .section-services .services-2 {
         min-height: 1200px;
         margin-top: -18%; } }
     @media (min-width: 1500px) and (max-width: 2000px) {
-      .section-services .services-smart-securing {
+      .section-services .services-2 {
         min-height: 1015px;
         margin-top: -20%; } }
     @media (min-width: 992px) and (max-width: 1500px) {
-      .section-services .services-smart-securing {
+      .section-services .services-2 {
         background-size: cover;
         min-height: 830px;
         margin-top: -20%;
         background-position: center center; } }
     @media (min-width: 768px) and (max-width: 992px) {
-      .section-services .services-smart-securing {
+      .section-services .services-2 {
         background-size: cover;
         margin-top: -30%;
         min-height: 800px;
         background-position: center center; } }
     @media (max-width: 767px) {
-      .section-services .services-smart-securing {
+      .section-services .services-2 {
         background-size: cover;
         margin-top: -83%;
         background-position: center center; } }
-    .section-services .services-smart-securing .services-content {
+    .section-services .services-2 .services-content {
       height: auto;
       padding-top: 210px; }
       @media (min-width: 2000px) {
-        .section-services .services-smart-securing .services-content {
+        .section-services .services-2 .services-content {
           padding-top: 390px; } }
       @media (min-width: 1500px) and (max-width: 2000px) {
-        .section-services .services-smart-securing .services-content {
+        .section-services .services-2 .services-content {
           padding-top: 300px; } }
       @media (min-width: 992px) and (max-width: 1500px) {
-        .section-services .services-smart-securing .services-content {
+        .section-services .services-2 .services-content {
           padding-top: 250px; } }
       @media (min-width: 768px) and (max-width: 992px) {
-        .section-services .services-smart-securing .services-content {
+        .section-services .services-2 .services-content {
           padding-top: 200px; } }
       @media (max-width: 767px) {
-        .section-services .services-smart-securing .services-content {
+        .section-services .services-2 .services-content {
           padding-top: 270px; } }
-      .section-services .services-smart-securing .services-content h2 {
+      .section-services .services-2 .services-content h2 {
         color: #333;
         font-size: 250%; }
-      .section-services .services-smart-securing .services-content .line {
+      .section-services .services-2 .services-content .line {
         color: #333;
         background: #333;
         width: 50%;
         text-align: left; }
-      .section-services .services-smart-securing .services-content p {
+      .section-services .services-2 .services-content p {
         color: #333;
         font-size: 120%; }
-      .section-services .services-smart-securing .services-content a {
+      .section-services .services-2 .services-content a {
         color: #fff;
         border: 1px solid #333;
         background: #333; }
-  .section-services .services-satellite {
-    background: url(/img/section-services/section-satellite.png) no-repeat;
+  .section-services .services-3 {
+    background: url(/img/section-services/service-3.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -1690,67 +1691,67 @@ td, th {
     position: relative;
     z-index: 110; }
     @media (min-width: 2000px) {
-      .section-services .services-satellite {
+      .section-services .services-3 {
         min-height: 1330px;
         margin-top: -19%; } }
     @media (min-width: 1500px) and (max-width: 2000px) {
-      .section-services .services-satellite {
+      .section-services .services-3 {
         min-height: 1050px;
         margin-top: -25%; } }
     @media (min-width: 992px) and (max-width: 1500px) {
-      .section-services .services-satellite {
+      .section-services .services-3 {
         background-size: cover;
         min-height: 830px;
         margin-top: -20%;
         background-position: center center; } }
     @media (min-width: 768px) and (max-width: 992px) {
-      .section-services .services-satellite {
+      .section-services .services-3 {
         background-size: cover;
         margin-top: -30%;
         min-height: 800px;
         background-position: center center; } }
     @media (max-width: 767px) {
-      .section-services .services-satellite {
+      .section-services .services-3 {
         background-size: cover;
         background-position: center center;
         margin-top: -84%;
         z-index: 109; } }
-    .section-services .services-satellite .services-content {
+    .section-services .services-3 .services-content {
       height: auto; }
       @media (min-width: 2000px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 250px; } }
       @media (min-width: 1500px) and (max-width: 2000px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 160px; } }
       @media (min-width: 992px) and (max-width: 1500px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 170px; } }
       @media (min-width: 768px) and (max-width: 992px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 170px; } }
       @media (max-width: 767px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 250px; } }
       @media (min-width: 480px) and (max-width: 767px) {
-        .section-services .services-satellite .services-content {
+        .section-services .services-3 .services-content {
           padding-top: 200px; } }
-      .section-services .services-satellite .services-content h2 {
+      .section-services .services-3 .services-content h2 {
         color: #fff;
         font-size: 250%; }
-      .section-services .services-satellite .services-content .line {
+      .section-services .services-3 .services-content .line {
         color: #fff;
         background: #fff;
         width: 50%;
         text-align: left; }
-      .section-services .services-satellite .services-content p {
+      .section-services .services-3 .services-content p {
         color: #fff;
         font-size: 120%; }
-      .section-services .services-satellite .services-content a {
+      .section-services .services-3 .services-content a {
         color: #333;
         background: #fff; }
-  .section-services .services-retail {
-    background: url(/img/section-services/section-retail.png) no-repeat;
+  .section-services .services-4 {
+    background: url(/img/section-services/service-4.png) no-repeat;
     background-repeat: no-repeat;
     background-size: 100% auto;
     background-position: center top;
@@ -1759,70 +1760,70 @@ td, th {
     position: relative;
     z-index: 112; }
     @media (min-width: 2000px) {
-      .section-services .services-retail {
+      .section-services .services-4 {
         min-height: 923px;
         margin-top: -26%;
         z-index: 112; } }
     @media (min-width: 1500px) and (max-width: 2000px) {
-      .section-services .services-retail {
+      .section-services .services-4 {
         min-height: 916px;
         margin-top: -28%;
         z-index: 112; } }
     @media (min-width: 992px) and (max-width: 1500px) {
-      .section-services .services-retail {
+      .section-services .services-4 {
         background-size: cover;
         min-height: 830px;
         margin-top: -20%;
         background-position: center center; } }
     @media (min-width: 768px) and (max-width: 992px) {
-      .section-services .services-retail {
+      .section-services .services-4 {
         background-size: cover;
         margin-top: -30%;
         min-height: 80px;
         background-position: center center; } }
     @media (max-width: 767px) {
-      .section-services .services-retail {
+      .section-services .services-4 {
         background-size: cover;
         margin-top: -95%;
         min-height: 500px;
         position: relative;
         z-index: 110;
         background-position: center center; } }
-    .section-services .services-retail .services-content {
+    .section-services .services-4 .services-content {
       padding-top: 400px;
       height: auto; }
       @media (min-width: 2000px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 420px; } }
       @media (min-width: 1500px) and (max-width: 2000px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 320px; } }
       @media (min-width: 992px) and (max-width: 1500px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 250px; } }
       @media (min-width: 768px) and (max-width: 992px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 170px; } }
       @media (max-width: 767px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 250px; } }
       @media (min-width: 480px) and (max-width: 767px) {
-        .section-services .services-retail .services-content {
+        .section-services .services-4 .services-content {
           padding-top: 200px; } }
-      .section-services .services-retail .services-content h2 {
-        color: #0C79C5;
+      .section-services .services-4 .services-content h2 {
+        color: #333;
         font-size: 250%; }
-      .section-services .services-retail .services-content .line {
+      .section-services .services-4 .services-content .line {
         width: 50%;
         text-align: left; }
-      .section-services .services-retail .services-content p {
-        color: #999;
+      .section-services .services-4 .services-content p {
+        color: #333;
         font-size: 120%; }
-      .section-services .services-retail .services-content .logo-helix {
+      .section-services .services-4 .services-content .logo-helix {
         float: left; }
-      .section-services .services-retail .services-content .text-helix {
+      .section-services .services-4 .services-content .text-helix {
         display: inline-block; }
-      .section-services .services-retail .services-content a {
+      .section-services .services-4 .services-content a {
         background: #333; }
 
 .section-newsletter {
@@ -1903,6 +1904,9 @@ td, th {
       padding: 0 20px; } }
   .section-newsletter button:focus, .section-newsletter .hs-button:focus, .hs-form-field button:focus, .hs-form-field .hs-button:focus {
     outline: none; }
+
+.section-partners .owl-dots {
+  margin-top: 20px; }
 
 @media (max-width: 767px) {
   .section-news {

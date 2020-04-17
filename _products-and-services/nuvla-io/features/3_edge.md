@@ -1,6 +1,6 @@
 ---
 product: nuvla-io
-title: Edge-to-cloud solution
+title: Enable your Edge
 class: feature
 main-feature: true
 icon: fa-tachometer-alt

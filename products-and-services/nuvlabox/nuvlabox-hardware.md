@@ -13,4 +13,4 @@ redirect_from:
 
 The NuvlaBox software runs on most single board computers, both x86 and ARM architectures.
 
-Here are the hardware products certified to run as NuvlaBox. If you have different hardware, get in touch, chances are that it'll work right out of the box. Otherwise, we'll be happy to help you with certification.
+Here are manufacturers we work with and who provide edge hardware we have certified to run as NuvlaBox. If you have different hardware, get in touch, chances are that it'll work right out of the box. Otherwise, we'll be happy to help you with certification.

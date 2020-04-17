@@ -7,8 +7,8 @@
 	@media (max-width: 767px) {
 		padding-bottom: 100px;
 	}
-  	.services-volumlight {
-  	background: url(/img/section-services/section-energy-saving.png) no-repeat;
+  	.services-1 {
+  	background: url(/img/section-services/service-1.png) no-repeat;
   	background-repeat: no-repeat;
   	background-size: 100% auto;
   	background-position: center top;
@@ -34,8 +34,11 @@
   	}
   	.services-content {
   		height: auto;
-  		padding-top: 140px;	
+  		padding-top: 240px;	
   		@media (min-width: 1500px) and (max-width: 2000px) {
+  			padding-top: 170px;
+  		}
+  		@media (min-width: 992px) and (max-width: 1500px) {
   			padding-top: 170px;
   		}
   		@media (min-width: 768px) and (max-width: 992px) {
@@ -45,27 +48,29 @@
   			padding-top: 280px;
   		}
   		h2 {
-  		color: #fff;
+  		color: #333;
   		font-size: 250%;
   		}
   		.line {
-  			color: #fff;
-  			background: #fff;
+  			color: #333;
+  			background: #333;
   			width: 50%;
   			text-align: left;
+			
   		}
   		p {
-  			color:#fff;
+  			color:#333;
   			font-size: 120%;
   		}
   		a {
-  			color:#333;
-  			background: #fff;
+  			color: #fff;
+  			border: 1px solid #333;
+  			background: #333;
   		}
   	}
   }
-  .services-smart-securing {
-  	background: url(/img/section-services/smart-securing.png) no-repeat;
+  .services-2 {
+  	background: url(/img/section-services/service-2.png) no-repeat;
   	background-repeat: no-repeat;
   	background-size: 100% auto;
   	background-position: center top;
@@ -74,7 +79,6 @@
   	@media (min-width: 2000px) {
   		  min-height: 1200px;
   		  margin-top: -18%;
-		  
   	}
   	@media (min-width: 1500px) and (max-width: 2000px) {
   		 min-height: 1015px;
@@ -137,8 +141,8 @@
   		}
   	}
   }
-	.services-satellite {
-		background: url(/img/section-services/section-satellite.png) no-repeat;
+	.services-3 {
+		background: url(/img/section-services/service-3.png) no-repeat;
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position: center top;
@@ -213,8 +217,8 @@
 			}
 		}
 	}
-	.services-retail {
-		background: url(/img/section-services/section-retail.png) no-repeat;
+	.services-4 {
+		background: url(/img/section-services/service-4.png) no-repeat;
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position: center top;
@@ -274,7 +278,7 @@
 				padding-top: 200px;
 			}	
 			h2 {
-			color: #0C79C5;
+  		color: #333;
 			font-size: 250%;
 			}
 			.line {
@@ -282,7 +286,7 @@
 				text-align: left;
 			}
 			p {
-				color:#999;
+    		color: #333;
 				font-size: 120%;
 			}
 			.logo-helix{
