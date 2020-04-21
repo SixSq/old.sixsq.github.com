@@ -14,35 +14,10 @@ redirect_from:
   - /products/nuvlabox
 ---
 
-<section class="mt-20 section-is-it-for bg-white">
-	<div class="container">
-		<div class="row justify-content-center pt-50">
-			<div class="col-md-12 section-title text-center">
-					<h2 class="pb-10 fw700">Choose your hardware.</h2>
-			</div>
-		</div>
-		<div class="row justify-content-center icon-is-it-for pb-50 pt-25">
-			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-              <img src="/img/logo/logo_hpe.png" alt="hpe logo" width="30%">
-              <h3 class="mt-20 text-center fw600">For industrial applications</h3>
-              <p class="mt-10 text-center">with a wide range of configurations and capabilities</p>
-              <p class="button mt-10 text-center">
-        	      <a class="btn-sixsq mt-20 color-3 text-center" href="/products-and-services/nuvlabox/tech-spec#hpe"><i class="fa fa-plus-square-o"></i>  Explore</a>
-              </p>
-            </div>
-			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-              <img src="/img/logo/logo_logic-supply.png" alt="logic supply logo" width="30%">
-              <h3 class="mt-20 text-center fw600">For desktop applications</h3>
-              <p class="mt-10 text-center">with branded devices</p>
-              <p class="button mt-10 text-center">
-        	      <a class="btn-sixsq mt-20 color-3 text-center" href="/products-and-services/nuvlabox/tech-spec#logic-supply"><i class="fa fa-plus-square-o"></i>  Explore</a>
-              </p>
-            </div>
-		</div>
-		<div class="row justify-content-center pb-50">
-			<div class="col-md-12 section-title text-center">
-				<h2 class="pb-10 fw700">Or host it yourself on any compatible x86 or ARM platform.</h2>
-			</div>
-		</div>
-	</div>
-</section>
+
+
+### The NuvlaBox software turns most ARM and x86 single board hardware platform into a smart edge device, managed from [Nuvla.io](/products-and-services/nuvla-io/overview).
+{: class="text-center pb-20"}
+
+#### The software is open source, secure and simple to install.
+{: class="text-center"}

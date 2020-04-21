@@ -1,5 +1,10 @@
 .section-intro-product {
-	
+  @extend .pt-50;  
+  @extend .pb-50;  
+h2 {
+  @extend .pb-10;
+  @extend .fw700;
+}	
 	.section-title {
 		float: left;
 		span{

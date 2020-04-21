@@ -36,7 +36,7 @@
   			<div class="background-sx"></div>
   			<div class="container">
   				<div class="row">
-  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20">
+  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20" style="display: flex; flex-direction: column;">
   						<div class="section-title text-center">
   							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
@@ -48,11 +48,11 @@
                   {% endif %}
                 {% endfor %}
   						</div>
-            	<div class="section-news-button float-right ml-20">
-            	  <a class="btn-sixsq mt-20 all" href="/about/partners"><i class="far fa-plus-square"></i>  All partners</a>
+            	<div class="section-news-button mt-30" style="align-self: flex-end;">
+            	  <a class="btn-sixsq all" href="/about/partners"><i class="far fa-plus-square"></i>  All partners</a>
             	</div>
   					</div>
-  					<div class="col-md-6 col-sm-12">
+  					<div class="col-md-6 col-sm-12" style="display: flex; flex-direction: column;">
   						<div class="section-title text-center pb-20">
     						<h2 class="pb-10 fw700 text-center">Enabling the edge for.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
@@ -65,7 +65,7 @@
                   {% endif %}
                 {% endfor %}
                 </div>
-                <div class="text-center" style="display: bottom;">
+                <div class="text-center" style="align-self: flex-end;">
                   <a class="btn-sixsq mt-20 color-3 text-center" href="/products-and-services/nuvla-io/overview#who-is-it-for"><i class="far fa-plus-square"></i> Discover more</a>
                 </div>
               </div>

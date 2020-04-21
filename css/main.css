@@ -195,7 +195,7 @@ td, th {
 .fw600 {
   font-weight: 600; }
 
-.fw700 {
+.fw700, .section-intro-product h2 {
   font-weight: 700; }
 
 .fsi {
@@ -351,7 +351,7 @@ td, th {
 .pt-40 {
   padding-top: 40px; }
 
-.pt-50 {
+.pt-50, .section-intro-product {
   padding-top: 50px; }
 
 .pt-60 {
@@ -375,7 +375,7 @@ td, th {
 .pb-0 {
   padding-bottom: 0px; }
 
-.pb-10 {
+.pb-10, .section-intro-product h2 {
   padding-bottom: 10px; }
 
 .pb-15 {
@@ -393,7 +393,7 @@ td, th {
 .pb-40 {
   padding-bottom: 40px; }
 
-.pb-50 {
+.pb-50, .section-intro-product {
   padding-bottom: 50px; }
 
 .pb-60 {
@@ -847,7 +847,7 @@ td, th {
       .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
         background: url(/img/banner/nuvla-io.png) no-repeat; } }
     .banner-page-int.banner-nuvla-io .banner-content, .banner-page-int.banner-developer .banner-content {
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(0, 0, 0, 0.2);
       padding-top: 20px; }
   .banner-page-int.banner-about {
     background: url(/img/banner/about.png) no-repeat bottom center/cover; }

@@ -8,41 +8,8 @@
       {% include {{ page.product }}-sub-menu.html %}
       <section class="section-is-it-for">
       	<div class="container">
-      			<div class="col-md-12 mt-20 section-title text-center">
-      				<h2 class="pb-10 fw700">Standing on the shoulders of giants</h2>
-              <h4 class="mt-20 ml-20 mr-50">Nuvla builds on the important work of other open source projects. Here are the key technologies, tools and libraries we use to build Nuvla. This ensures a software which is scalable, easy to test and operate, as well as simple to extend and evolve.</h4>
-              <div class="row justify-content-center icon-is-it-for pb-50 pt-50">
-                {% for post in site.nuvla-io %}
-                  {% if post.class == 'tech' %}
-      							<div class="col-md-4 col-sm-4 icon item animated">
-    									<img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
-    									<h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
-    									<p class="mt-10 text-center">{{ post.content }}</p>
-                    	<div class="section-news-button">
-                        <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="far fa-plus-square"></i>  Learn more</a>
-                    	</div>
-      							</div>
-                  {% endif %}
-                {% endfor %}
-              </div>
-      			</div>
+          {{ page.content | markdownify }}
         </div>
-      	<!-- <div class="container">
-      		<div class="row justify-content-center mt-50 mb-20">
-      			<div class="col-md-12 section-title text-center">
-      				<h2 class="pb-10 fw700">Read the technical specification</h2>
-      			</div>
-      		</div>
-          <div id="slipstream-product-description" class="col-md-12 text-center">
-            <p>If you want to know more about Nuvla, take a look at the product description.  </p>
-          </div>
-          <div class="col-md-12 mb-50 text-center">
-            <img style="max-height: 280px;" src="/img/content/product_descriptions/slipstream_product_description_screen_shot.png" alt="slipstream_product_description"/>
-						<p class="button mt-10 text-center">
-							<a class="btn-sixsq mt-20 color-3 text-center" href="https://media.sixsq.com/hubfs/Marketing%20Materials/Product_Descriptions/Nuvla-Product-Description-2019.pdf"><i class="far fa-plus-square"></i> Read more</a>
-						</p>
-          </div>
-        </div> -->
       </div>
       {% include whats-next.html %}
   		<!-- End Section News -->	

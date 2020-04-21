@@ -6,69 +6,9 @@
   	<main>
       {% include {{ page.product }}-banner.html %}
       {% include {{ page.product }}-sub-menu.html %}
-      <section class="section-intro-product section-full section-is-it-for">
+      <section class="section-intro-product bg-white">
       	<div class="container">
-      		<div class="row justify-content-center mb-100">
-      			<div class="col-md-12 section-title text-center">
-      				<span><h2 class="pb-10 fw700">Select your</h2></span><span class="title-image-product"></span>
-      			</div>
-      		</div>
-      		<div id="hpe" class="row justify-content-center mb-20 hardware-provider">
-      			<div class="col-md-12 section-title text-center">
-      				<h2 class="pb-10 fw700">For industrial applications with partner:</h2>
-      			</div>
-      			<div class="col-md-12 text-center mt-20">
-              <img src="/img/logo/logo_hpe.png" alt="hpe logo" width="70%">
-      			</div>
-      		</div>
-          <div class="row justify-content-center products-view icon-is-it-for mt-50 mb-50">
-            {% for post in site.products-and-services %}
-              {% if post.product == page.product %}
-                {% if post.class == 'hardware' %}
-                  {% if post.supplier == 'hpe' %}
-                    {% include nuvlabox-device-item.html %}
-                  {% endif %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-      		</div>
-          <div id="logic-supply" class="row justify-content-center mb-20 hardware-provider">
-            <div class="col-md-12 section-title text-center">
-              <h2 class="pb-10 fw700">For desktop applications with partner:</h2>
-            </div>
-            <div class="col-md-12 text-center mt-20">
-              <img src="/img/logo/logo_logic-supply.png" alt="logic supply logo" width="30%"/>
-            </div>
-          </div>
-          <div class="row justify-content-center products-view icon-is-it-for logic-supply mt-50 mb-50">
-            {% for post in site.products-and-services %}
-              {% if post.product == page.product %}
-                {% if post.class == 'hardware' %}
-                  {% if post.supplier == 'logic-supply' %}
-                    {% include nuvlabox-device-item.html %}
-                  {% endif %}
-                {% endif %}
-              {% endif %}
-            {% endfor %}
-      		</div>
-      	</div>
-      </section>
-      <section>
-      	<div class="container">
-      		<div class="row justify-content-center mt-50 mb-20">
-      			<div class="col-md-12 section-title text-center">
-      				<h2 class="pb-10 fw700">Read the technical specification</h2>
-      			</div>
-      		</div>
-          <div id="nuvlabox-product-description" class="col-md-12 text-center mb-20">
-            <h4 style="line-height: 1.5em">{{ page.content }}</h4>
-          </div>
-          <div class="col-md-12 mb-50 text-center">
-            <img style="max-height: 280px;" src="/img/content/product_descriptions/nuvlabox_product_description.png" alt="nuvlabox_product_description"/>
-						<p class="button mt-10 text-center">
-							<a class="btn-sixsq mt-20 color-3 text-center" href="https://media.sixsq.com/hubfs/Marketing%20Materials/Product_Descriptions/NuvlaBox-Product-Description-2019.pdf"><i class="far fa-plus-square"></i> Read more</a>
-						</p>
-          </div>
+          {{ page.content | markdownify }}
         </div>
       </section>
       {% include whats-next.html %}
