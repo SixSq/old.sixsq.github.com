@@ -796,35 +796,33 @@ td, th {
     @media (max-width: 767px) {
       .banner-page-int.banner-city {
         background: url(/img/banner/city.png) no-repeat; } }
-    .banner-page-int.banner-city p {
-      background-color: rgba(0, 0, 0, 0.3) !important; }
+    .banner-page-int.banner-city .banner-content {
+      background-color: rgba(0, 0, 0, 0.3);
+      padding-top: 20px; }
   .banner-page-int.banner-outpost {
     background: url(/img/banner/outpost.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-outpost {
         background: url(/img/banner/outpost.png) no-repeat; } }
-    .banner-page-int.banner-outpost p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-outpost h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-outpost .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-retail {
     background: url(/img/banner/retail.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-retail {
         background: url(/img/banner/retail.png) no-repeat; } }
-    .banner-page-int.banner-retail p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-retail h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-retail .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-science {
     background: url(/img/banner/science.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-science {
         background: url(/img/banner/science.png) no-repeat; } }
-    .banner-page-int.banner-science p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-science h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-science .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-nuvlabox {
     background: url(/img/banner/nuvlabox.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
@@ -854,46 +852,41 @@ td, th {
     @media (max-width: 767px) {
       .banner-page-int.banner-about {
         background: url(/img/banner/about.png) no-repeat; } }
-    .banner-page-int.banner-about p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-about h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-about .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-media {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-media {
         background: url(/img/banner/media.png) no-repeat; } }
-    .banner-page-int.banner-media p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-media h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-media .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-news {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-news {
         background: url(/img/banner/media.png) no-repeat; } }
-    .banner-page-int.banner-news p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-news h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-news .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-videos {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-videos {
         background: url(/img/banner/media.png) no-repeat; } }
-    .banner-page-int.banner-videos p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-videos h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-videos .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int.banner-terms {
     background: url(/img/banner/terms.png) no-repeat bottom center/cover; }
     @media (max-width: 767px) {
       .banner-page-int.banner-terms {
         background: url(/img/banner/terms.png) no-repeat; } }
-    .banner-page-int.banner-terms p {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
-    .banner-page-int.banner-terms h2 {
-      background-color: rgba(0, 0, 0, 0.5) !important; }
+    .banner-page-int.banner-terms .banner-content {
+      background-color: rgba(0, 0, 0, 0.5);
+      padding-top: 20px; }
   .banner-page-int .banner-content p {
     font-size: 24px;
     margin-left: auto;
@@ -1030,17 +1023,15 @@ td, th {
 .menu-product {
   background-color: #9B1313; }
   .menu-product.menu-product-nuvla {
-    background-color: #4A3D8D; }
-  .menu-product.menu-product-slipstream {
-    background: #9B1313; }
+    background-color: #9B1313; }
   .menu-product.menu-product-nuvlabox {
-    background-color: #F39314; }
+    background-color: #9B1313; }
   .menu-product.menu-product-nuvlacity {
-    background-color: #009051; }
+    background-color: #9B1313; }
   .menu-product.menu-product-nuvlaoutpost {
-    background: #136697; }
+    background: #9B1313; }
   .menu-product.menu-product-nuvlascience {
-    background: #9D6A1F; }
+    background: #9B1313; }
   .menu-product .menu-product-list {
     font-size: 18px; }
     .menu-product .menu-product-list ul {
