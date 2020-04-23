@@ -2,7 +2,8 @@
 product: nuvla-io
 title: Cloud neutrality
 class: feature
+main-feature: false
 icon: fa-hand-peace
 ---
 
-Nuvla communicates with Container as a Service (CaaS). With Docker being supported by virtually all public and private clouds, via Docker machine, this means we’re surely already supporting the cloud(s) you use. Or if you can’t decide which cloud to use, Nuvla takes the stress out of making the wrong decision. Nuvla’s cloud and infrastructure neutrality means it isolates users from vendor lock-in, providing unprecedented flexibility in your choice of cloud solutions.
+Nuvla.io is container native. And since Docker is supported by virtually all public and private clouds, via Docker machine, this means we certainly already support the cloud(s) you use. Nuvla.io's infrastructure neutrality means it isolates you from vendor lock-in, providing unprecedented flexibility in your choice of cloud solutions and edge hardware.

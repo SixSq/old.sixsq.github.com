@@ -1135,7 +1135,7 @@ td, th {
       cursor: pointer;
       z-index: 200;
       position: relative;
-      color: #fff;
+      color: #9B1313;
       font-weight: bold; }
   .section-do-you-get .product-page-carousel .owl-stage .center {
     transform: scale(1.2);
@@ -1161,7 +1161,7 @@ td, th {
       background: #9B1313;
       margin-left: 5px;
       margin-right: 5px; }
-      .section-do-you-get .product-page-carousel .owl-stage .center .item h3, .section-do-you-get .product-page-carousel .owl-stage .center .item p, .section-do-you-get .product-page-carousel .owl-stage .center .item ul {
+      .section-do-you-get .product-page-carousel .owl-stage .center .item h3, .section-do-you-get .product-page-carousel .owl-stage .center .item p, .section-do-you-get .product-page-carousel .owl-stage .center .item ul, .section-do-you-get .product-page-carousel .owl-stage .center .item a {
         color: #fff; }
       .section-do-you-get .product-page-carousel .owl-stage .center .item svg {
         color: #fff;

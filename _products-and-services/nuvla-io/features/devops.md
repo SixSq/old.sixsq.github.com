@@ -2,10 +2,10 @@
 product: nuvla-io
 title: DevOps powered
 class: feature
-main-feature: true
+main-feature: false
 icon: fa-fast-forward
 ---
 
-The Nuvla service follows a DevOps process. This means we upgrade the [nuvla.io](https://nuvla.io) service regularly (often weekly), taking our innovation to production fast, meaning you can benefit more quickly.
+Our team managing the Nuvla.io service follows a mature DevOps process. This means we upgrade Nuvla.io service regularly, responding fast to your feedback.
 
-We find this is the best way to help our customers and partners get the job done. If you are running your own Nuvla service, simply engage with our community to get notified of updates, such that you can decide if and when to upgrade.
+You can also integrate Nuvla.io in your own DevOps process, such that you can, for example, extend DevOps to the edge.

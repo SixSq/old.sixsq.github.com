@@ -16,7 +16,7 @@
 					cursor: pointer;
 					z-index: 200;
 					position: relative;
-					color: $light;
+					color: $color-primary;
           font-weight: bold;
 				}
 			}
@@ -46,7 +46,7 @@
 					background: $color-primary;
 					margin-left: 5px;
 					margin-right: 5px;
-					h3, p, ul {
+					h3, p, ul, a {
 						color: $light;
 					}
 					svg {

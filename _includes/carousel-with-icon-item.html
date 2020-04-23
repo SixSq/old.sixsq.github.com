@@ -1,6 +1,6 @@
-						<div class="item single-icon col-md-12 mt-30 text-center">
+						<div class="item single-icon col-md-12 mt-30 text-center {{ post.cssclass }}">
               {% if post.image %}
-                <img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
+                <img src="{{ post.image }}" alt="{{ post.title }}" style="display: inline; max-width: 30%; width: auto;">
               {% endif %}
               {% if post.icon %}
   							<i class="fas {{ post.icon }}"></i>
@@ -10,3 +10,4 @@
 								<p>{{ post.content }}</p>
 							</div>
 						</div>
+ 

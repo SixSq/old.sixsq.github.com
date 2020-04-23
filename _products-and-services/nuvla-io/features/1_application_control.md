@@ -2,7 +2,7 @@
 product: nuvla-io
 title: Application Control
 class: feature
-main-feature: true
+main-feature: false
 icon: fa-bolt
 ---
 

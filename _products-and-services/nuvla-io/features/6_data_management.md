@@ -2,8 +2,8 @@
 product: nuvla-io
 title: Data management
 class: feature
-main-feature: true
-icon: fa-tachometer-alt
+main-feature: false
+icon: fas fa-database
 ---
 
-Data produced at the edge or in the cloud is managed, including data tagging, replication and transfer, as well as data search and access. This feature also works in semi-connected mode, such that in the case of a loss of connection, data transfer or replication resumes once the connection is re-established. Data can also be mounted directly inside the application container, massively simplifying data access.
+Manage your data, produced at the edge or in the cloud. Nuvla.io supports data replication, as well as data search, access and download. If there's a loss of connection, data transfer or replication resumes once the connection is re-established. Data can also be mounted directly inside the application container, massively simplifying data access.

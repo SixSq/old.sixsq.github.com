@@ -2,7 +2,7 @@
 product: nuvla-io
 title: Governance
 class: feature
-main-feature: true
+main-feature: false
 icon: far fa-handshake
 ---
 

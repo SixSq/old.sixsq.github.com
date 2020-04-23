@@ -1,8 +1,9 @@
 ---
 product: nuvla-io
-title: Automation as a Service
+title: Automation
 class: feature
-icon: fa-magic
+icon: fa-flash
 ---
 
-Repetitive, manual deployments are costing your organisation money. Introducing automation reduces expenditure and gives your people more time to be more creative. **[Nuvla.io](https://nuvla.io)** even takes away the burden of running your own service. But you can also have your own, the choice is yours.
+Repetitive, manual deployments are costing your organisation money. Introducing automation reduces expenditure and gives your people more time to be more creative. Nuvla.io allows you to manage at scale, apps deployed in the cloud and at the edge. [NuvlaBoxes](/products-and-services/nuvlabox/overview) are also managed from the same platform, giving you a single pane of glass for your edge-to-cloud fleet.
+    
