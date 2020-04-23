@@ -5,4 +5,4 @@ link: https://media.sixsq.com/blog/what-is-a-smart-city
 top-story: true
 ---
 
-This basic guide to smart cities gives an introduction to one of today's hot topics.
+This basic guide to smart cities gives an introduction to one of today's hot topics, and explore why it matters.
