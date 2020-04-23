@@ -4,8 +4,8 @@ product: nuvlabox
 category: product
 class: overview
 product-name: NuvlaBox
-title: Secure and Intelligent Edge Computing Solution
-summary: Plug-and-play edge to cloud solution, delivering savings with a simple, secure and private "cloud-in-a-box" solution. Build scalable IoT systems, reduce operational costs and improve efficiency.
+title: Secure and Intelligent Edge Computing Software
+summary: Software that turns your hardware into a smart edge device.
 permalink: /products-and-services/nuvlabox/overview
 meta-description: Plug-and-play edge device, delivering savings with a simple, secure and private "cloud-in-a-box" solution. Build scalable IoT systems, reduce operational costs and improve efficiency.
 meta-keywords: edge, IoT, device, hyperconvergence, plug and play
@@ -17,7 +17,7 @@ redirect_from:
 ## What does it do?
 {: class="text-center"}
 
-### NuvlaBox software turns ARM and x86 single board computer into a smart edge device
+### NuvlaBox software turns any ARM or x86 single board computer into a smart edge device
 {: class="text-center pt-10 pb-20"}
 
 ### Managed from [Nuvla.io](/products-and-services/nuvla-io/overview).

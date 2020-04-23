@@ -12,7 +12,7 @@ permalink: /products-and-services/nuvla-io/tech-spec
 ## How does it work?
 {: class="text-center"}
 
-### 1. Create an account on [Nuvla.io](https://nuvla.io/sign-up)
+### 1. Create an account on [Nuvla.io](https://nuvla.io/ui/sign-up)
 {: class="text-center pt-20 pb-10"} 
 ### 2. Create an infrastructure ([NuvlaBox](/products-and-services/nuvlabox/overview) or container orchestration engine)
 {: class="text-center pb-10"}

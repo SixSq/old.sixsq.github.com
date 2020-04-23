@@ -5,7 +5,7 @@ category: product
 class: overview
 product-name: Nuvla
 title: Edge and Container Management Software
-summary: Manage any containerised applications across a fleet of edge devices and container orchestration engines.
+summary: Manage any containerised application across a fleet of edge devices and container orchestration engines.
 permalink: /products-and-services/nuvla/overview
 redirect_from:
   - /nuvla
