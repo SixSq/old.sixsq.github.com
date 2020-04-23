@@ -28,6 +28,9 @@ redirect_from:
 {: class="text-center pb-10"}
 ### 3. Launch!
 {: class="text-center pb-50"}
+
+### Now you can manage, monitor and update your app.
+{: class="text-center pb-50"}
  
-### From there you can manage, monitor and update your app.
+### **... and do the same for your fleet of edge devices.**
 {: class="text-center"}

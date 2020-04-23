@@ -14,9 +14,13 @@ redirect_from:
   - /products/nuvlabox
 ---
 
+## What does it do?
+{: class="text-center"}
 
+### NuvlaBox software turns ARM and x86 single board computer into a smart edge device
+{: class="text-center pt-10 pb-20"}
 
-### The NuvlaBox software turns most ARM and x86 single board hardware platform into a smart edge device, managed from [Nuvla.io](/products-and-services/nuvla-io/overview).
+### Managed from [Nuvla.io](/products-and-services/nuvla-io/overview).
 {: class="text-center pb-20"}
 
 #### The software is open source, secure and simple to install.

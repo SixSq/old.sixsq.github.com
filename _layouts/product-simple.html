@@ -6,11 +6,11 @@
   	<main>
       {% include {{ page.product }}-banner.html %}
       {% include {{ page.product }}-sub-menu.html %}
-      <section class="section-is-it-for">
+      <section class="section-intro-product section-intro-product bg-white">
       	<div class="container">
           {{ page.content | markdownify }}
         </div>
-      </div>
+      </section>
       {% include whats-next.html %}
   		<!-- End Section News -->	
       {% include primary-footer.html %}

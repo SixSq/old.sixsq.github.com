@@ -1,12 +1,22 @@
 ---
 layout: nuvla-spec
-product: nuvla-io
+product: nuvla
 category: product
 class: tech-spec
 product-name: Nuvla
-title: Multi-Cloud, Hybrid-Cloud and Edge Application Management Service
-summary: Delivering multi-cloud, hybrid and edge asset management. A secure and powerful way to reduce operational costs and improve efficiency.
+title: Edge and Container Management Software
+summary: Manage any containerised applications across a fleet of edge devices and container orchestration engines.
 permalink: /products-and-services/nuvla/tech-spec
 ---
 
-If you want to read more about the Nuvla offer, take a look at the product description.
+## How does it work?
+{: class="text-center"}
+
+### The Nuvla software is open source and can be found on [Github](https://github.com/nuvla/nuvla).
+{: class="text-center pt-20 pb-20"}
+
+#### You will also find quick **installation instructions on our [documentation website](https://docs.nuvla.io)**.
+{: class="text-center pt-20 pb-20"}
+
+#### For production deployment of Nuvla, get in touch.
+{: class="text-center pt-20"}

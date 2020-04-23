@@ -6,9 +6,14 @@
   	<main>
       {% include {{ page.product }}-banner.html %}
       {% include {{ page.product }}-sub-menu.html %}
-      <section class="section-is-it-for">
+  		<section class="section-intro-product">
+  			<div class="container">
+          {{ page.content | markdownify }}
+  			</div>
+  		</section>
+      <section class="section-is-it-for bg-white">
       	<div class="container">
-      			<div class="col-md-12 mt-20 section-title text-center">
+      			<div class="col-md-12 mt-20 section-title text-center pt-50">
       				<h2 class="pb-10 fw700">Standing on the shoulders of giants</h2>
               <h4 class="mt-20 ml-20 mr-50">Nuvla builds on the important work of other open source projects. Here are the key technologies, tools and libraries we use to build Nuvla. This ensures a software which is scalable, easy to test and operate, as well as simple to extend and evolve.</h4>
               <div class="row justify-content-center icon-is-it-for pb-50 pt-50">

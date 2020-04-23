@@ -1,5 +1,5 @@
 ---
-layout: nuvlabox-spec
+layout: product-simple
 product: nuvlabox
 category: product
 class: tech-spec

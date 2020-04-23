@@ -1241,6 +1241,8 @@ td, th {
   .section-contact .image-contact-us img {
     opacity: 0.5; }
 
+.section-intro-product img {
+  max-width: 100%; }
 .section-intro-product .section-title {
   float: left; }
   .section-intro-product .section-title span {
