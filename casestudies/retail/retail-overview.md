@@ -14,11 +14,11 @@ redirect_from:
   - /solutions/nuvlaretail/overview
 ---
 
-Piximate is a computer vision and AI solution company that connects the on-line and off-line worlds. Working closely with Piximate, SixSq has packaged their solution with [NuvlaBox](https://sixsq.com/products-and-services/nuvlabox/overview) software and [Nuvla.io](/nuvla.io/overview) to provide a product which helps retailers close the gap between e-commerce analytics and in-store analytics. This innovative solution includes a near real-time notification mechanism which notifies store staff when opted-in customers enter the store, providing customers with the personalised shopping experience they are looking for. Add this to real-time behaviour analytics and you start to level the playing field.
+Piximate is a computer vision and AI solution company that connects the on-line and off-line worlds. Working closely with Piximate, SixSq has packaged their solution with [NuvlaBox](/products-and-services/nuvlabox/overview) software and [Nuvla.io](/nuvla-io/overview) to provide a product which helps retailers close the gap between e-commerce analytics and in-store analytics. This innovative solution includes a near real-time notification mechanism which notifies store staff when opted-in customers enter the store, providing customers with the personalised shopping experience they are looking for. Add this to real-time behaviour analytics and you start to level the playing field.
 
 The [Piximate](https://piximate.net/en/home/) software makes intensive use of video analytics software, including AI, for facial recognition. No personal data is stored on the people being filmed, making the solution compliant with data privacy legislation. Instead, the software automatically calculates a unique signature for identifying people and only that signature is stored.
 
-Cameras are deployed at strategic points in the store and are connected to an edge device running the [NuvlaBox](https://sixsq.com/products-and-services/nuvlabox/overview) software. The edge devices and the application software are deployed and managed through the [Nuvla.io](/nuvla.io/overview) software management platform.
+Cameras are deployed at strategic points in the store and are connected to an edge device running the [NuvlaBox](/products-and-services/nuvlabox/overview) software. The edge devices and the application software are deployed and managed through the [Nuvla.io](/nuvla-io/overview) software management platform.
 
 ![NuvlaRetail](/img/content/nuvlaretail/nuvlaretail-real-time.png "NuvlaRetail")
 
