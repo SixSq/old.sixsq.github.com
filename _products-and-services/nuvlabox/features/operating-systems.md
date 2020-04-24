@@ -1,8 +1,8 @@
 ---
 product: nuvlabox
-title: Support standard Operating Systems
+title: Support Linux Operating Systems
 class: feature
 icon: fa-linux
 ---
 
-NuvlaBox can host a range of operating systems and applications (e.g. different Linux flavours), as long as they are containerised and available for your chosen hardware platform (e.g. x86 or ARM). We have also documented how to build your own Docker images to take advantage of our advanced parameterisation and data management features.
+The NuvlaBox software runs on most Linux operating systems, as long as they support Docker. We have also [documented](https://docs.nuvla.io) how to build your own Docker images. If you have your own Linux foundation and want to certify it run NublaBox software, get in touch.

@@ -1,5 +1,5 @@
 ---
-product: nuvlabox
+product: nuvla-all
 title: Made in Switzerland
 class: feature
 icon: fa-plus-square

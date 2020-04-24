@@ -6,4 +6,4 @@ main-feature: true
 icon: fa-signal
 ---
 
-Certified for all common forms of IP connectivity, the NuvlaBox edge device can communicate on GSM (3G, 4G and we are working on 5G), Ethernet, Wi-Fi and even satellite. It is available via a secured managed VPN, can also create its own secured Wi-Fi (if supported by the hardware) or LoRa local network.
+Certified for all common forms of IP connectivity, the NuvlaBox powered edge device can communicate on mobile (3G, 4G and soon 5G), Ethernet, Wi-Fi and even satellite. When registering a NuvlaBox, a secured VPN connection is established with Nuvla.io. From there you can control your edge devices as if there were on you private network.
