@@ -1,8 +1,5 @@
 			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-        {% unless height %}
-          {% assign height = "250px" %}
-        {% endunless %}
-        <div class="cards" style="height: {{ height }};">
+        <div class="cards">
           <div class="top text-center">
           {% if post.image %}
             <img src="{{ post.image }}" alt="{{ post.title }}"/>
@@ -13,7 +10,7 @@
             </div>
           {% endif %}
           </div>
-          <p class="mt-10 text-center center">{{ post.content | strip_html }}</p>
+          <p class="mt-10 center">{{ post.content | strip_html }}</p>
           {% if post.link %}
             {% assign url = post.link  %}
           {% else %}
