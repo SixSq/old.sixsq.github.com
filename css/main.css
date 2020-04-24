@@ -1049,6 +1049,8 @@ td, th {
         .menu-product .menu-product-list ul li .active {
           font-weight: 500; }
 
+.section-is-it-for img {
+  width: 100%; }
 .section-is-it-for .icon-is-it-for {
   min-height: 450px; }
   .section-is-it-for .icon-is-it-for ol, .section-is-it-for .icon-is-it-for ul {

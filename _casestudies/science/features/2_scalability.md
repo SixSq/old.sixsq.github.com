@@ -6,4 +6,4 @@ main-feature: true
 icon: fab fa-mixcloud
 ---
 
-[Nuvla.io](/nuvla-io/overview) is built for scale. In any project, you can experiment with a pilot deployment then scale up, with agile commissioning of additional edge devices or additional applications. 
+This project builds on [Nuvla.io](/nuvla-io/overview) scalability feature. With 50 GNSS stations connected (a reasonable objective) the overall system would provess 1PB of data at the edge daily, autonomously. With the ability for users to query data and deploy AI apps at the end and in the cloud, we believe this architecture provides scale and flexibility never seen in this industry. 

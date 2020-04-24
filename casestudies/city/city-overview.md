@@ -20,5 +20,5 @@ The solution leverages the power of the [NuvlaBox](/products-and-services/nuvlab
 
 Here's how it works:
 
-![NuvlaCity Architecture](/img/content/diagrams/nuvlacity-architecture.png "NuvlaCity Architecture")
-
+![Smart City Architecture](/img/content/diagrams/smartcity-architecture.png "Smart City Architecture")
+{: class="pt-20"}
