@@ -6,4 +6,4 @@ main-feature: true
 icon: fa-user-secret
 ---
 
-Once powered-up, any edge device installed with NuvlaBox software initiates a secured connection to [Nuvla.io](/nuvla.io/overview). Each edge device is then unique and assigned to a specific user organisation. This means that any device can be controlled remotely and isolated (quarantined), upgraded or downgraded should any problems arise. 
+[Nuvla.io](/nuvla-io/overview) enables end-to-end security controls from the edge to the cloud, and back, using VPN, identity and access management, as well as integrity enforcement. Nuvla.io can also integrate with enterprise authentication services and federated identity solutions.
