@@ -7,11 +7,9 @@
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
 
-    {{ page.content }}
-
-    <h2 class="text-center pt-50">Meet the team!</h2>
 		<section class="section-about section-is-it-for">
 			<div class="container">
+        <h2 class="text-center pt-50">Meet the team!</h2>
 				<div class="row justify-content-center icon-is-it-for pb-20 pt-20">
 		      {% for post in site.staff %}
 						{% include highlighted-staff.html %}
@@ -19,6 +17,14 @@
 				</div>
 			</div>
 		</section>
+
+		<section class="section-about section-is-it-for">
+			<div class="container pt-10 pb-50">
+        <h2 class="text-center">Where we come from</h2>
+        {{ page.content | markdownify }}
+			</div>
+		</section>
+
 
 		<!-- End Who is it for? -->	
     {% include whats-next.html %}

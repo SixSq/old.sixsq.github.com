@@ -1,8 +1,8 @@
 <head>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="author" content="SixSq Sàrl">
-	<meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}Nuvla.io is an edge management platform. Nuvla.io is an edge management service. Nuvla.io is edge management as a service (SaaS). NuvlaBox turns single board computer (x86 and ARM) into smart edge device. Nuvla is open source edge menagement. Cloud neutral and multi-cloud. Nuvla.io is container native. Package your application as docker container and it can be deployed at the edge and in the cloud. Nuvla also supports Kubernetes and Docker Swarm. Nuvla.io supports edge on a subscription model. Our customers use Nuvla.io and NuvlaBox to create solutions for: Smart City, Science, retail, outpost. Nuvla.io accelerates AI deployment at the edge. Nuvla.io supports IoT, IIoT, Industry 4.0, artificial intelligence (AI), machine learning (ML) and big data applications.{% endif %}">
-	<meta name="keywords" content="{% if page.meta-keywords %}{{ page.meta-keywords }}{% else %}edge management service, edge management platform, cloud computing, edge computing, Nuvla.io, Nuvla, NuvlaBox, Science, Outpost, Smart City, IoT, IIoT, Industry 4.0, artificial intelligence, ai, machine learning, ml, big data, Docker, Kubernetes, Docker Swarm, ARM, x86, single board computer{% endif %}">
+	<meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.summary }}{% endif %}">
+	<meta name="keywords" content="{% if page.meta-keywords %}{{ page.meta-keywords }}{% else %}{{ site.keywords }}{% endif %}">
 	<meta charset="UTF-8">
 	<title>SixSq | {{ page.title }}</title>
   <!-- Global Site Tag (gtag.js) - Google Analytics -->

@@ -770,11 +770,6 @@ td, th {
   background: rgba(255, 255, 255, 0.4);
   padding: 175px 0 100px 0;
   background: url(/img/banner/city.png) no-repeat bottom center/cover; }
-  @media (max-width: 767px) {
-    .default-banner {
-      background: url(/img/banner/city.png) no-repeat;
-      background-size: cover;
-      background-position: left center; } }
   .default-banner h2.header {
     font-size: 48px;
     font-weight: 600;
@@ -793,97 +788,61 @@ td, th {
       background-position: left center; } }
   .banner-page-int.banner-city {
     background: url(/img/banner/city.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-city {
-        background: url(/img/banner/city.png) no-repeat; } }
     .banner-page-int.banner-city .banner-content {
       background-color: rgba(0, 0, 0, 0.3);
       padding-top: 20px; }
   .banner-page-int.banner-outpost {
     background: url(/img/banner/outpost.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-outpost {
-        background: url(/img/banner/outpost.png) no-repeat; } }
     .banner-page-int.banner-outpost .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-retail {
     background: url(/img/banner/retail.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-retail {
-        background: url(/img/banner/retail.png) no-repeat; } }
     .banner-page-int.banner-retail .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-science {
     background: url(/img/banner/science.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-science {
-        background: url(/img/banner/science.png) no-repeat; } }
     .banner-page-int.banner-science .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-nuvlabox {
     background: url(/img/banner/nuvlabox.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-nuvlabox {
-        background: url(/img/banner/nuvlabox.png) no-repeat; } }
     .banner-page-int.banner-nuvlabox .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-nuvla {
     background: url(/img/banner/nuvla.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-nuvla {
-        background: url(/img/banner/nuvla.png) no-repeat; } }
     .banner-page-int.banner-nuvla .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
     background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-nuvla-io, .banner-page-int.banner-developer {
-        background: url(/img/banner/nuvla-io.png) no-repeat; } }
     .banner-page-int.banner-nuvla-io .banner-content, .banner-page-int.banner-developer .banner-content {
       background-color: rgba(0, 0, 0, 0.2);
       padding-top: 20px; }
   .banner-page-int.banner-about {
     background: url(/img/banner/about.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-about {
-        background: url(/img/banner/about.png) no-repeat; } }
     .banner-page-int.banner-about .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-media {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-media {
-        background: url(/img/banner/media.png) no-repeat; } }
     .banner-page-int.banner-media .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-news {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-news {
-        background: url(/img/banner/media.png) no-repeat; } }
     .banner-page-int.banner-news .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-videos {
     background: url(/img/banner/media.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-videos {
-        background: url(/img/banner/media.png) no-repeat; } }
     .banner-page-int.banner-videos .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
   .banner-page-int.banner-terms {
     background: url(/img/banner/terms.png) no-repeat bottom center/cover; }
-    @media (max-width: 767px) {
-      .banner-page-int.banner-terms {
-        background: url(/img/banner/terms.png) no-repeat; } }
     .banner-page-int.banner-terms .banner-content {
       background-color: rgba(0, 0, 0, 0.5);
       padding-top: 20px; }
@@ -1051,6 +1010,12 @@ td, th {
 
 .section-is-it-for img {
   width: 100%; }
+.section-is-it-for iframe {
+  width: 810px;
+  height: 456px; }
+  @media (max-width: 767px) {
+    .section-is-it-for iframe {
+      max-width: 100%; } }
 .section-is-it-for .icon-is-it-for {
   min-height: 450px; }
   .section-is-it-for .icon-is-it-for ol, .section-is-it-for .icon-is-it-for ul {

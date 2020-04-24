@@ -4,9 +4,6 @@
   padding: 175px 0 100px 0;
 	background: url(/img/banner/city.png) no-repeat bottom center/cover;
   @include mobile {
-    background: url(/img/banner/city.png) no-repeat;
-    background-size: cover;
-    background-position: left center;
   }
   h2.header {
     font-size: 48px;
@@ -31,7 +28,6 @@
 	&.banner-city {
 		background: url(/img/banner/city.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/city.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.7);
@@ -41,7 +37,6 @@
 	&.banner-outpost {
 		background: url(/img/banner/outpost.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/outpost.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -51,7 +46,6 @@
 	&.banner-retail {
 		background: url(/img/banner/retail.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/retail.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -61,7 +55,6 @@
 	&.banner-science {
 		background: url(/img/banner/science.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/science.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -71,7 +64,6 @@
 	&.banner-nuvlabox {
 		background: url(/img/banner/nuvlabox.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/nuvlabox.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -81,7 +73,6 @@
 	&.banner-nuvla {
 		background: url(/img/banner/nuvla.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/nuvla.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -91,7 +82,6 @@
 	&.banner-nuvla-io, &.banner-developer {
 		background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/nuvla-io.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.8);
@@ -101,7 +91,6 @@
 	&.banner-about {
 		background: url(/img/banner/about.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/about.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -111,7 +100,6 @@
 	&.banner-media {
 		background: url(/img/banner/media.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/media.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -121,7 +109,6 @@
 	&.banner-news {
 		background: url(/img/banner/media.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/media.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -131,7 +118,6 @@
 	&.banner-videos {
 		background: url(/img/banner/media.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/media.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
@@ -141,7 +127,6 @@
 	&.banner-terms {
 		background: url(/img/banner/terms.png) no-repeat bottom center/cover;
 		@include mobile {
-		 	background: url(/img/banner/terms.png) no-repeat;
 		}
     .banner-content {
       background-color: transparentize(black, 0.5);
