@@ -1,5 +1,5 @@
 ---
-product: nuvla-io
+product: nuvla-all
 title: Docker Hub and registries
 class: feature
 icon: fab fa-docker

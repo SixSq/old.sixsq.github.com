@@ -2,6 +2,7 @@
 product: nuvla
 title: Multi-cloud and Infrastructures
 class: feature
+main-feature: false
 icon: fa-cloud
 ---
 

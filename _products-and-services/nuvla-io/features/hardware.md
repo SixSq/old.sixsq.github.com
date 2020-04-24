@@ -1,5 +1,5 @@
 ---
-product: nuvla-io
+product: nuvla-all
 title: Any edge hardware - ARM &amp; x86
 class: feature
 main-feature: true

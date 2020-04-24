@@ -1,5 +1,5 @@
 ---
-product: nuvla-io
+product: nuvla-all
 title: Powerful API
 class: feature
 icon: fa-arrows-alt

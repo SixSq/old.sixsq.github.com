@@ -1,5 +1,5 @@
 ---
-product: nuvla-io
+product: nuvla-all
 title: Governance
 class: feature
 main-feature: false

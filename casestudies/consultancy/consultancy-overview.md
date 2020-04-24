@@ -1,5 +1,5 @@
 ---
-layout: casestudies-overview-simple
+layout: casestudies-overview
 product: consultancy
 category: casestudies
 class: overview

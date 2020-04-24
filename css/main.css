@@ -1807,6 +1807,8 @@ td, th {
         color: #333;
         font-size: 250%; }
       .section-services .services-4 .services-content .line {
+        color: #333;
+        background: #333;
         width: 50%;
         text-align: left; }
       .section-services .services-4 .services-content p {

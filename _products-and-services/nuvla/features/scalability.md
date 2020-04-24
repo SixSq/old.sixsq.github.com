@@ -1,6 +1,6 @@
 ---
 product: nuvla
-title: Built for Scale
+title: Designed for Scale
 class: feature
 main-feature: true
 icon: fab fa-mixcloud
