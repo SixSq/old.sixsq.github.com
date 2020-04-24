@@ -1,6 +1,7 @@
 ---
 layout: product
 product: nuvla-io
+uberproduct: nuvla-all
 category: nuvla-io
 class: overview
 product-name: Nuvla.io

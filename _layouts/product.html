@@ -22,7 +22,7 @@
 				<div class="row justify-content-center pb-50 pt-50">
 					<div class="product-page-carousel parent-container">
             {% for post in site.products-and-services %}
-              {% if post.product == page.product %}
+              {% if page.product == post.product or page.uberproduct == post.product %}
                 {% if post.class == 'feature' %}
                   {% if post.main-feature == true %}
                     {% include carousel-with-icon-item.html %}

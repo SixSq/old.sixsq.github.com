@@ -6,4 +6,4 @@ class: services
 css-class: services-4
 ---
 
-<p class="fw100">Deploying AI applications in stores narrows the gap between e-commerce and the in-store experience. Using Nuvla.io to deploy and manage those apps means you can focus on your customers and leave the tech to the techies.</p>
+Deploying AI applications in stores narrows the gap between e-commerce and the in-store experience. Using Nuvla.io to deploy and manage those apps means you can focus on your customers and leave the tech to the techies.

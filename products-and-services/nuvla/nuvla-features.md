@@ -1,6 +1,7 @@
 ---
 layout: product-features
 product: nuvla
+uberproduct: nuvla-all
 category: product
 class: features
 product-name: Nuvla

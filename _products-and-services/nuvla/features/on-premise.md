@@ -2,7 +2,8 @@
 product: nuvla
 title: On premise installation
 class: feature
+main-feature: false
 icon: fa-arrow-down
 ---
 
-If you prefer to install Nuvla within your own walls or on a public cloud, you can buy an on-premise support license. The model can be tailor-made to suit your organisation. This option is best if you need access to support and maintenance from SixSq. And since Nuvla is containerised, simply follow the [installation instructions](https://docs.nuvla.io) to quickly deploy your own Nuvla service.
+You can install Nuvla within your own walls or on a public cloud. You can also buy professional support from SixSq. You will find quick [installation instructions](https://docs.nuvla.io) to setup a simple Nuvla service.  For production setups, we recommend you get in touch.
