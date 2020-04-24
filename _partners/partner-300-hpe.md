@@ -9,6 +9,6 @@ link: https://www.hpe.com/emea_europe/en/home.html
 permalink: /partners/hpe.html
 ---
 
-SixSq is a Hewlett Packard Enterprise OEM Partner. HPE offers worldwide IT, technology & enterprise products, solutions and services. This expertise combined with SixSq's knowledge of cloud and edge computing makes an ideal partnership. 
+SixSq is a Hewlett Packard Enterprise OEM Partner. HPE offers worldwide IT, technology & enterprise products and services. This expertise combined with SixSq's knowledge of cloud and edge computing makes an ideal partnership. 
 
  
