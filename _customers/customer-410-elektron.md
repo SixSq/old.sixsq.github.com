@@ -5,4 +5,4 @@ category: about
 link: https://www.elektron.ch
 ---
 
-At Elektron we develops energy-efficient solutions in our five different business areas – drive engineering, power electronics, lighting engineering, payment systems and smart city – thereby helping our clients ensure their competitiveness.
+Elektron develops energy-efficient solutions in five different business areas – drive engineering, power electronics, lighting engineering, payment systems and smart city – thereby helping its clients ensure their competitiveness.
