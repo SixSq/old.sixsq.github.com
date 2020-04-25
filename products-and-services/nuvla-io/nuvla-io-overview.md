@@ -12,6 +12,7 @@ permalink: /products-and-services/nuvla-io/overview
 redirect_from:
   - /nuvla.io
   - /nuvla-io
+  - /services/nuvla/
 ---
 
 ## How does it work?

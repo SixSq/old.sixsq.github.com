@@ -6,4 +6,4 @@ main-feature: true
 icon: fab fa-mixcloud
 ---
 
-[Nuvla.io](/nuvla-io/overview) is built for scale. In any project, you can experiment with a pilot deployment then scale up, with agile commissioning of additional edge devices or additional applications. 
+[Nuvla.io](/products-and-services/nuvla-io/overview) is built for scale. In any project, you can experiment with a pilot deployment then scale up, with agile commissioning of additional edge devices or additional applications. 

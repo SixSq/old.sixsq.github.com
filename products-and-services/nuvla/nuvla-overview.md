@@ -10,7 +10,10 @@ summary: Manage any containerised application across a fleet of edge devices and
 permalink: /products-and-services/nuvla/overview
 redirect_from:
   - /nuvla
-  - /services/nuvla/
+  - /products/slipstream
+  - /products/slipstream.html
+  - /slipstream/overview
+  - /products/slipstream/index.html
 ---
 
 ## Here's the open source software behind [Nuvla.io](/products-and-services/nuvla-io/overview)
