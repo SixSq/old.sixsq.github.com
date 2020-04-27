@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: nuvla-overview
 product: nuvla
 uberproduct: nuvla-all
 category: product

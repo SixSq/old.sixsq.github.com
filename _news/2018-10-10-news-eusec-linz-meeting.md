@@ -15,7 +15,7 @@ in-focus: false
 
 Members of the [EU-SEC](https://www.sec-cert.eu/) project are heading to the beautiful city of Linz in Austria next week for a meeting with the project's advisory board and the general assembly of all partners. 
 
-The partners will discuss the continued development of the [multi-party recognition framework](https://www.sec-cert.eu/eu-sec/certification_framework) and address the current challenges. Special emphasis will be placed on the importance of the pilots.
+The partners will discuss the continued development of the [multi-party recognition framework](https://www.sec-cert.eu/eu-sec/Multi-Party_Recognition_Framework) and address the current challenges. Special emphasis will be placed on the importance of the pilots.
 
 The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risks management, assurance and compliance. The EU-SEC aims to enhance trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners.
 

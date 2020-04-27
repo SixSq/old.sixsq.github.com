@@ -1,5 +1,5 @@
 ---
-layout: nuvla-spec
+layout: product-simple
 product: nuvla
 category: product
 class: tech-spec
@@ -18,5 +18,5 @@ permalink: /products-and-services/nuvla/tech-spec
 #### You will also find quick **installation instructions on our [documentation website](https://docs.nuvla.io)**.
 {: class="text-center pt-20 pb-20"}
 
-#### For production deployment of Nuvla, get in touch.
+#### For production deployment of Nuvla, [get in touch](/about/contact#contact-us-form).
 {: class="text-center pt-20"}

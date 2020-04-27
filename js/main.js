@@ -17,58 +17,35 @@ $(document).ready(function(){
    $(".header-welcome").sticky({topSpacing:0});
    $(".header-std").sticky({topSpacing:0});
 
-	 //------- Add smooth scrolling to all links
-     //---- Toggle Menu Bar
+   $(window).on('scroll', function(event){
+       var scrollPos = $(document).scrollTop();
+       $(".main-menu nav ul li a, .side-menubar nav ul li a").each(function () {
+         var currLink = $(this);
+         var refElement = $(currLink.attr("href"));
 
-        // $('.toggle-btn').on('click', function(e){
-        //     e.preventDefault();
-        //     $('body').toggleClass('overflow-hidden');
-        //     $('.side-menubar').toggleClass('open-menubar');
-        //     $("span", this).toggleClass("lnr-menu lnr-cross");
-        //
-        // });
-        // $('.side-menubar nav ul li a').on('click', function(e){
-        //     e.preventDefault();
-        //     $('.side-menubar').toggleClass('open-menubar');
-        //     $(".toggle-btn span").toggleClass("lnr-menu lnr-cross");
-        //     $('body').removeClass('overflow-hidden');
-        // });
+         if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
+           currLink.parent().addClass("active").siblings().removeClass("active"); 
+           return;
+         }
+         else{
+           currLink.parent().removeClass("active");
+         }
+       })
+   })
 
-         // Add smooth scrolling to Menu links
-      //          $(".main-menu nav ul li a, .side-menubar nav ul li a").on('click', function(event) {
-      //             if (this.hash !== "") {
-      //               event.preventDefault();
-      //               var hash = this.hash;
-      //               $('html, body').animate({
-      //                 scrollTop: $(hash).offset().top - (-10)
-      //             }, 600, function(){
-      //
-      //                 window.location.hash = hash;
-      //             });
-      //     }
-      // });
-      //
-      //           $(".main-menu nav ul li a").on('click', function (e) {
-      //             $(".main-menu nav ul li").removeClass("active");
-      //             $(this).addClass("active");
-      //         });
-
-         $(window).on('scroll', function(event){
-             var scrollPos = $(document).scrollTop();
-             $(".main-menu nav ul li a, .side-menubar nav ul li a").each(function () {
-               var currLink = $(this);
-               var refElement = $(currLink.attr("href"));
-
-               if (refElement.position().top <= scrollPos && refElement.position().top + refElement.height() > scrollPos) {
-                 currLink.parent().addClass("active").siblings().removeClass("active"); 
-                 return;
-             }
-             else{
-                 currLink.parent().removeClass("active");
-             }
-         })
-         })
-
+   // ===== Scroll to Top ==== 
+   $(window).scroll(function() {
+       if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+           $('#return-to-top').fadeIn(200);    // Fade in the arrow
+       } else {
+           $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+       }
+   });
+   $('#return-to-top').click(function() {      // When arrow is clicked
+       $('body,html').animate({
+           scrollTop : 0                       // Scroll to top of body
+       }, 500);
+   });
         
     //-------- 02 home slider Carousel -------//
 
@@ -144,13 +121,13 @@ $(document).ready(function(){
     
     //-------- button scroll to top -------//
     
-	$('#to-the-top').click(function(e) { 
-		e.preventDefault(); $('body,html').animate({scrollTop: 0}, 500); 
-	});
+	  $('#to-the-top').click(function(e) { 
+		  e.preventDefault(); $('body,html').animate({scrollTop: 0}, 500); 
+	  });
 	
-});
+  });
 	
-(function($) {
+  (function($) {
     var element = $('#social'),
         originalY = element.offset().top;
 
@@ -169,6 +146,6 @@ $(document).ready(function(){
                     : scrollTop + originalY + topMargin
         }, 400);
     });
-})(jQuery);
+  })(jQuery);
 	
 

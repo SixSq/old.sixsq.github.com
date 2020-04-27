@@ -44,4 +44,4 @@ Although we all have our own idea of Utopia, we have to accept that cities will 
 About the authors: **Marc-Elian Bégin** is CEO and co-founder of SixSq, an SME based in Geneva, Switzerland. He has worked with the Canadian and European Space Agencies, as well as CERN, on distributed software systems, grid and cloud computing development projects. His current focus is edge computing technologies and is passionate about building smart city solutions and open data access which will deliver real and tangible benefits to society. **Louise Merifield** is Operations Manager and co-founder of SixSq. She has worked for the UK public service and the European Central Bank and now focuses on communications, hoping to improve everyone’s understanding of technology.
 
 
-This article originally appeared in the [Diplomatic Courier](https://www.diplomaticourier.com/blade-runner-the-matrix-back-to-the-futureor-shall-we-write-our-own-script/) May 2018 Vol XII, Issue III
+This article originally appeared in the [Diplomatic Courier](https://www.diplomaticourier.com/posts/blade-runner-the-matrix-back-to-the-futureor-shall-we-write-our-own-script) May 2018 Vol XII, Issue III

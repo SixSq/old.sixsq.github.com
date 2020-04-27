@@ -126,6 +126,6 @@ All personal data is kept within EU data centers and might be moved between data
 4\. Applicability 
 ---
 
-Independently of the existing relations with third-party partners and references to other websites, this privacy notice only applies to SixSq's websites and web services like [sixsq.com](http://sixsq.com), [nuv.la](https://nuv.la), [fed-id.nuv.la](https://fed-id.nuv.la) and any other public pages with static content, owned by SixSq and related to our services and products. This includes the documentation website [ssdocs.sixsq.com](http://ssdocs.sixsq.com/en/latest/).
+Independently of the existing relations with third-party partners and references to other websites, this privacy notice only applies to SixSq's websites and web services like [sixsq.com](https://sixsq.com), [Nuvla.io](https://nuvla.io) and any other public pages with static content, owned by SixSq and related to our services and products. This includes the documentation website [docs.nuvla.io](https://docs.nuvla.io).
 
 

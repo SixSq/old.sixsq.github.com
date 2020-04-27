@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<!-- Start what do you get? -->	
+		<section class="section-intro-product">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+		</section>
+    <section class="section-is-it-for bg-white">
+    	<div class="container">
+    			<div class="col-md-12 mt-20 section-title text-center pt-50">
+    				<h2 class="pb-10 fw700">Standing on the shoulders of giants</h2>
+            <h4 class="mt-20 ml-20 mr-50">Nuvla builds on the important work of other open source projects. Here are the key technologies, tools and libraries we use to build Nuvla. This ensures a software which is scalable, easy to test and operate, as well as simple to extend and evolve.</h4>
+            <div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+              {% for post in site.products-and-services %}
+                {% if post.class == 'tech' %}
+    							<div class="col-md-4 col-sm-4 icon item animated">
+  									<img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
+  									<h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
+  									<p class="mt-10 text-center">{{ post.content }}</p>
+                  	<div class="section-news-button">
+                      <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}"><i class="far fa-plus-square"></i>  Learn more</a>
+                  	</div>
+    							</div>
+                {% endif %}
+              {% endfor %}
+            </div>
+    			</div>
+      </div>
+    </section>
+		<section class="mt-20 section-do-you-get animated">
+			<div class="container">
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">What do you get?</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center pb-50 pt-50">
+					<div class="product-page-carousel parent-container">
+            {% for post in site.products-and-services %}
+              {% if page.product == post.product or page.uberproduct == post.product %}
+                {% if post.class == 'feature' %}
+                  {% if post.main-feature == true %}
+                    {% include carousel-with-icon-item.html %}
+                  {% endif %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+					</div>
+    			<div class="col-md-12 text-center">
+    			  <a class="btn-sixsq color-dark" href="/products-and-services/{{ page.product }}/features"><i class="far fa-plus-square"></i>  Discover all features</a>
+          </div>
+				</div>
+			</div>
+		</section>
+		<!-- Stop what do you get? -->
+		<!-- Start Who is it for? -->	
+		<section id="who-is-it-for" class="mt-20 section-is-it-for bg-white">
+			<div class="container">
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Who is it for?</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+          {% for post in site.products-and-services %}
+            {% if post.product == 'nuvla-io' %}
+              {% if post.class == 'target-audience' %}
+                {% include highlighted-with-image-item-no-truncation.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+				</div>
+			</div>
+		</section>
+		<section class="mt-20 section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="pb-10 fw700">Here have a look.</h2>
+					</div>
+				</div>
+        <div class="pt-20 pb-50">
+        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/BHzbEDzyfnQ' frameborder='0' allowfullscreen></iframe></div>
+			</div>
+        <!-- <div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+          <iframe src="https://www.youtube.com/embed/BHzbEDzyfnQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div> -->
+			</div>
+		</section>
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>
