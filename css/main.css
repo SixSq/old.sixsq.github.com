@@ -659,6 +659,9 @@ td, th {
 .bg-grey-f9 {
   background: #f9f9f9; }
 
+.bg-grey-e4 {
+  background: #E4E6E7; }
+
 .bg-white {
   background: #fff; }
 
@@ -1078,6 +1081,20 @@ td, th {
   align-items: center; }
   .cards .top {
     max-width: 80%; }
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%; }
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
 
 .section-do-you-get .product-page-carousel {
   min-height: 520px; }

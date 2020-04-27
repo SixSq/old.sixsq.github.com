@@ -1,0 +1,16 @@
+{% if include.bg %}
+  {% assign bg = include.bg %}
+{% else %}
+  {% assign bg = 'bg-grey-e4' %}
+{% endif %}
+		<section class="pt-50 pb-20 section-is-it-for {{ bg }}">
+			<div class="container">
+				<div class="row justify-content-center pb-50">
+					<div class="col-md-8 section-title text-center">
+    				<h2 class="fw700 pb-20">{{ include.title }}</h2>
+            <div class='embed-container'><iframe src='https://www.youtube.com/embed/{{ include.video-id }}' frameborder='0' allowfullscreen></iframe></div>
+      			</div>
+					</div>
+				</div>
+			</div>
+		</section>
