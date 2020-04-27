@@ -8,6 +8,7 @@ product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 video: https://www.youtube.com/embed/BHzbEDzyfnQ
+image: /img/content/diagrams/nuvla-io-overview.png
 permalink: /products-and-services/nuvla-io/overview
 redirect_from:
   - /nuvla.io
