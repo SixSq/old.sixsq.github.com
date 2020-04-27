@@ -15,14 +15,14 @@ redirect_from:
   - /solutions/nuvlascience/overview
 ---
 
-Global Navigation Satellite System (GNSS) refers to a constellation of satellites providing signals from space that transmit positioning and timing (e.g. GPS, Galilei, GLONASS) data to GNSS receivers. The receivers then use this data to determine location. SixSq is working with partners [NSL](https://www.nsl.eu.com/) and [University of Nottingham](https://www.nottingham.ac.uk/) on the GNSS Big Data project, which is creating a disruptive solution to provide the GNSS developer community and public authorities with tools to gather new insights from GNSS data. Our customer is the **European Space Agency (ESA)**.
+Global Navigation Satellite System (GNSS) refers to a constellation of satellites providing signals from space that transmit positioning and timing (e.g. GPS, Galilei, GLONASS) data to GNSS receivers. The receivers then use this data to determine location. SixSq is working with partners [NSL](https://www.nsl.eu.com/) and [University of Nottingham](https://www.nottingham.ac.uk/) on the GNSS Big Data project, which is creating a disruptive solution to provide the GNSS developer community and public authorities with tools to gather new insights from GNSS data. Our customer is the **European Space Agency ([ESA](https://gssc.esa.int/))**.
 
 ## Here's how it works
 {: class="pb-20"}
 
-The volume of data produced and stored at the edge and in the cloud is so enormous that it needs to be processed and analysed so that users can extract valuable information more easily.
+The volume of raw data produced and stored by the project at the edge and in the cloud is counted in Petabytes. This raw data is processed and analysed so that users can extract from it valuable information and insights easily.
 
-Nuvla.io enables this process by providing users with data registration, management and processing capabilities via a rich web UI and API.
+[Nuvla.io](/products-and-services/nuvla-io/overview) enables this process by providing users with data registration, management and processing capabilities via a rich web UI and API.
 
 Users are able to define and run search parameters, allowing them to efficiently interrogate the available data, regardless of location (edge or cloud). In addition, Nuvla.io automatically suggests which applications are available to process that data. Data is automatically and continuously analysed such that non-essential data can be discarded, making sure storage space is optimised. 
 
