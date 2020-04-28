@@ -1410,6 +1410,8 @@ td, th {
     margin-bottom: 20px;
     padding: 0;
     list-style: inherit; }
+  .section-article p {
+    text-align: justify; }
 
 .section-top .background-sx {
   background: url("/img/news/news-background-sx.png");
