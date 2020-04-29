@@ -94,7 +94,7 @@ last_update: 28/04/2020
 6\. Service Level Agreement (SLA)
 ---
 
-6.1 End-Users purchase or subscribe to a level of service when using the Service. Several SLAs are be defined in the EULA, unless specified directly in the Order Confirmation.
+6.1 End-Users purchase or subscribe to a level of service when using the Service. Several SLAs are defined in the EULA, unless specified directly in the Order Confirmation.
 
 6.2 By default, the *Bronze Service Level Agreement* applies if none other are specified in the Order Confirmation. The Bronze SLA includes: (a) 24 hours a day and 7 days a week automated monitoring service; (b) human support service available during normal working days; (c) the human support service is not available during the official public holidays in Geneva; (d) End-users must report serious issues by creating a ticket, sending an email to [support@sixsq.com](mailto:support@sixsq.com) or using an in Service feature (if available); 
 
