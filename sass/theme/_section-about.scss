@@ -65,3 +65,9 @@
     filter: grayscale(0%);
   }
 }
+
+.terms {
+  ol {
+    list-style: decimal !important;
+  }
+}

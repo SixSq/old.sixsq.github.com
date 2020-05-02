@@ -1,8 +1,8 @@
 ---
 layout: article
 title: SixSq Approach to Privacy
-subtitle: This notice describes a set of data privacy rules that SixSq commits to in the context of the Nuvla service operations, in compliance GDPR and Swiss data privacy law.
-summary: This privacy license applies to Nuvla and all SixSq services.
+subtitle: This notice describes a set of data privacy rules that SixSq commits to in the context of the Nuvla.io service operations, in compliance GDPR and Swiss data privacy law.
+summary: This privacy license applies to Nuvla.io and all SixSq websites and services.
 class: aai-privacy
 category: legal
 product: terms
@@ -11,8 +11,8 @@ icon: fa-user-secret
 permalink: /terms/aai-privacy
 redirect_from:
   - /legal/aai_privacy.html
-applicable_from: 17/05/2017
-last_update: 25/07/2017
+applicable_from: 28/04/2020
+last_update: 28/04/2020
 ---
 
 [History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-aai-privacy-policy.md)
@@ -20,7 +20,7 @@ last_update: 25/07/2017
 1\. Who are we?
 ---  
 
-The Software, Products and Services made available to you are provided by SixSq Sàrl (SixSq) located at Rue du Bois-du-Lan 8, 1217, Meyrin, Geneva, Switzerland. 
+The Software, Products and Services made available to you are provided by SixSq Sàrl (SixSq) located at: {{ site.address }}. 
 
 SixSq is the data controller which collects your personal information, thus deciding (upon your consent) how that data is processed and for what purposes. 
 
@@ -31,7 +31,7 @@ SixSq is the data controller which collects your personal information, thus deci
 
 **Global Headquarters:**
 SixSq <br>
-Rue du Bois-du-Lan, 8 <br>
+Route de Meyrin, 267 <br>
 1217, Meyrin <br>
 Geneva, Switzerland <br>
 
@@ -42,19 +42,16 @@ Geneva, Switzerland <br>
 SixSq Support: support@sixsq.com <br>
 SixSq Info: info@sixsq.com
 
-**Phone:** <br>
-Info/Support: +41 22 54 41 733
-
 **Homepage:** <br>
-[SixSq](http://sixsq.com "SixSq's Homepage")
+[SixSq](https://sixsq.com "SixSq's Homepage")
 
 
 2\. What personal data we collect from you?
 ---  
 
-During the process of registration for our services and products, we collect personal and unique information, which can be used to identify you, such as your email address, name, organization, and any other information that you might willingly share when you authenticate via a social provider or an identity federation. 
+During the process of registration for our services and products, we may collect personal and unique information, which can be used to identify you, such as your email address, name, organisation, and any other information that you might willingly share when you authenticate via a social provider or an identity federation.
 
-With respect to the Federated Identity Portal, the following data, if available, (with respective attribute names in SAML:OIDC) are required and retrieved from the persons’ Home Organization:
+With respect to the Federated Identity Portal, the following data, if available, (with respective attribute names in SAML:OIDC) are required and retrieved from the persons’ Home Organisation:
 
 - email (email:mail)
 - user identifier (eduPersonPrincipalName:preferred_username)
@@ -76,9 +73,9 @@ The processing of personal data is [governed by the General Data Protection Regu
 3\. How will we use your personal data?
 ---  
 
-The personal data we collect from you is mostly used to identify you as a user/customer of our products and services (authentication and authorization). Your personal data (for example email) might also be used to communicate important matters related to your usage and general status (like billing, service maintenances, etc.) of the products and services you've registered to.
+The personal data we collect from you is mostly used to identify you as a user/customer of our products and services (authentication and authorisation). Your personal data (for example email) might also be used to communicate important matters related to your usage and general status (like billing, service maintenances, etc.) of the products and services you've registered for.
 
-Your personal data might also be used to link your user account with your Cloud Service Providers (CSPs).
+Your personal data might also be used to link your user account with third party service providers, such as Docker registries.
 
 Any other personal data processing purposes other than the ones described in this notice will be preceded by a new data processing notice, asking for your consent.
 
@@ -95,7 +92,7 @@ Personal data can be completely erased on request. Other retention policies incl
 3.3. Data integrity
 
 As a data controller, SixSq complies with GDPR when it comes to:
- - protecting personal information from loss, misuse and unauthorized access;
+ - protecting personal information from loss, misuse and unauthorised access;
  - storing, managing and deleting personal data;
  - maintaining full transparency between the data we hold and the user;
  - keeping personal data up to date.
@@ -120,12 +117,10 @@ Lawful processing of your personal data is ensured by applying the following:
 
 Where do we keep your personal data?
 
-All personal data is kept within EU data centers and might be moved between data centers residing in other countries also within the EU. Personal data is protected according to the [Code of Conduct for Service Providers](https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx), a common standard for the research and higher education sector to protect your privacy.
+All personal data is kept within EU and Swiss data centres and might be moved between data centres residing in other countries also within the EU and Switzerland. Personal data is protected according to the [Code of Conduct for Service Providers](https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx), a common standard for the research and higher education sector to protect your privacy.
 
 
 4\. Applicability 
 ---
 
 Independently of the existing relations with third-party partners and references to other websites, this privacy notice only applies to SixSq's websites and web services like [sixsq.com](https://sixsq.com), [Nuvla.io](https://nuvla.io) and any other public pages with static content, owned by SixSq and related to our services and products. This includes the documentation website [docs.nuvla.io](https://docs.nuvla.io).
-
-
