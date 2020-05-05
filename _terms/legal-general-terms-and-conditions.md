@@ -63,6 +63,8 @@ redirect_from:
 
 4.5	SixSq shall be entitled to charge Customer for any expenses reasonably incurred by its Personnel whom SixSq engages in connection with the Services including, but not limited to, travelling expenses, hotel costs, subsistence and any associated expenses (charged at cost) and for the cost of services provided by third parties and required by SixSq for the performance of the Services, and for the cost of any materials.
 
+4.6 SixSq can change its price list, at any time, provided it includes one month notice. SixSq shall communicate price list changes to its customers using in-application means, if available, the SixSq's website and email.  By continuing to use the Service, customers tacitly accept the price list change.
+
 5\.	Payment
 ---
 
