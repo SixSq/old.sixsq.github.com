@@ -1,0 +1,57 @@
+					<div class="col-md-5 col-sm-6 col-xs-12 ml-10 mb-10 item icon animated icon-pricing text-center">
+            <div class="icon-title" style="background-color: {{ post.color }}">
+                    {% if post.free %}
+                      <i class="fas fa-euro-sign"></i><span class="fs-30 fw600" style="font-size: 60px; color: #9B1313"> 0.00</span>
+                    {% else %}
+                      <i class="fa {{ post.icon }}"></i>
+                    {% endif %}
+            </div>
+            <h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
+						<h4 class="mt-10 text-center">{{ post.subtitle }}</h4>
+            <hr/>
+						<h4 class="mt-10 mb-10 text-center">{{ post.condition }}</h4>
+            <div class="row">
+              <div class="col-md-6 col-sm-6 col-xs-6 text-center" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
+                <div>
+                  <p class="fs-30 fw600">{{ post.nb_limit }}</p>
+                  <p>Concurrently active NuvlaBoxes</p>
+                </div>
+                <div>
+                  <p>Monthly</p>
+                  <center>
+                    <h4 class="mt-20 text-center fw600 circle">
+                      {% if post.free %}
+                        Free
+                      {% else %}
+                        <i class="fas fa-euro-sign"></i>{{ post.nb_price }}
+                      {% endif %}
+                    </h4>
+                  </center>
+                </div>
+                <div>
+                  <p class="mt-20 pb-25">per NuvlaBox</p>
+                </div>
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-6 text-center" style="align-item: center; border-left: 1px solid rgba(0, 0, 0, 0.1); display: flex; flex-direction: column; justify-content: space-between">
+                <div>
+                  <p class="fs-30 fw600">{{ post.is_limit }}</p>
+                  <p>Concurrent infrastructure service app deployments</p>
+                </div>
+                <div>
+                  <p>Monthly</p>
+                  <center>
+                    <h4 class="mt-20 text-center fw600 circle">
+                      {% if post.free %}
+                        Free
+                      {% else %}
+                        <i class="fas fa-euro-sign"></i>{{ post.is_price }}
+                      {% endif %}
+                    </h4>
+                  </center>
+                </div>
+                <div>
+                <p class="mt-20">per infrastructure service app deployment</p>
+                </div>
+              </div>
+            </div>
+					</div>
