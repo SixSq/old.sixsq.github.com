@@ -53,7 +53,7 @@ The project involves ten partners:
 
 - [Worldsensing](http://www.worldsensing.com), UK
 
-- [Tiscali Italia S.p.A.](http://investors.tiscali.it/it/), Italy
+- [Tiscali Italia S.p.A.](https://www.tiscali.com/en/), Italy
 
 - [Science Technology Facilities Council(STFC)](http://www.stfc.ac.uk), UK
 

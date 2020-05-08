@@ -27,6 +27,6 @@ The project is set in the context of fog computing, an extended version of cloud
 
 ELASTIC (A Software Architecture for Extreme-ScaLe Big-Data AnalyticS in Fog CompuTIng ECosystems) is a European funded project under the grant agreement number 825473, with a budget of €5.9 million. The project started on 1 December 2018 and lasts for 3 years. Coordinated by [BSC](https://www.bsc.es/), the project brings together a multidisciplinary consortium of stakeholders from smart mobility and research domain sectors: Barcelona Supercomputing Center (BSC, Spain), Ikerlan (Spain), Instituto Superior da Engenharia do Porto (ISEP, Portugal), Information Catalyst (ICE, UK), SixSq (Switzerland), Thales TRT (France), Thales Italia (Italy), Gestione ed Esercizio del Sistema Tranviario (GEST, Italy) and Città Metropolitana di Firenze (Italy).
 
-For more information on the project, visit the ELASTIC website [https://elastic-project.bsc.es/](https://elastic-project.bsc.es/)
+For more information on the project, visit the ELASTIC [website](https://elastic-project.eu)
 
 For more information on edge and cloud computing, take a look at our blog [Cloud and Edge are part of the same Continuum](https://media.sixsq.com/blog/edge-cloud-continuum).

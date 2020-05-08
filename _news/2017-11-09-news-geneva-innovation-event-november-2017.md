@@ -10,7 +10,7 @@ top-story: false
 in-focus: false
 ---
 
-[GE=Ci2](https://www.ge.ch/dossier/developpement-economique-innovation/geneve-campus-international-innovation-geci2) is an exceptional and innovative event that will build bridges between the different local and international actors of innovation, create synergies and collaborations between the areas of expertise to build the future and invest in innovation, sustainability and entrepreneurship.
+GE=Ci2 is an exceptional and innovative event that will build bridges between the different local and international actors of innovation, create synergies and collaborations between the areas of expertise to build the future and invest in innovation, sustainability and entrepreneurship.
 
 Geneva has unique strengths and intends to demonstrate this: multilateral governance, centres of excellence, diversity, openness to the world, quality of universities and infrastructure. Geneva is where innovative business models of the future, especially in the field of digitalisation and sustainability, are conceived and developed.
 

@@ -20,19 +20,9 @@ SixSq CEO Marc-Elian Bégin was on stage for the Spotlight session entitled **Io
 Find videos and other resources from the event on the HPE website.
 
 [IoT and AI at the Space Edge: To infinity and beyond](https://www.hpe.com/events/discover/more/details/SL6849)
-	
-[Session Presentation](https://wegone.s3.amazonaws.com/32/event_session/SL6849_16849_Presentation_2.pdf?AWSAccessKeyId=1KDH1JS22Y0W84AHYCR2&Signature=ORXc1v5Xe8bJ8bgJHxVWhrNECxc%3D&Expires=1559751696)
 
 **Read more**
 
  [Cloud and Edge are part of the same continuum](https://media.sixsq.com/blog/edge-cloud-continuum)
  
  [What is Edge Computing?](https://media.sixsq.com/blog/what-is-edge-computing)
-
-
-
-
-
-
-
-

@@ -18,8 +18,8 @@ CYCLONE integrates and extends open source software to create a unified cloud ap
 
 The project partners have identified two flagship domains which have been used to guide the development of the project’s tools:
 
-- [Bioinformatics](http://www.cyclone-project.eu/usecases/1-bioinformatics.html): Leveraging the expertise of partner The French Insitutute of Bioinformatics, the team is developing ways to secure human biomedical data and create a cloud virtual pipeline for microbial genomes analysis.
-- [Energy](http://www.cyclone-project.eu/usecases/2-energy.html): In order to comply with the climate change mitigation goals of the EU, energy supply has to move from fossil fuels to renewable energy sources. This brings a challenge to energy management systems which are unable to cope with decentralised energy production. The team is working on a platform to do make that possible. You can read more about the [Virtual Power Plant](https://cyclone.france-bioinformatique.fr/usecases/view/157) on the CYCLONE website.
+- [Bioinformatics](http://www.cyclone-project.eu/usecases/1-bioinformatics.html): Leveraging the expertise of partner The French Institute of Bioinformatics, the team is developing ways to secure human biomedical data and create a cloud virtual pipeline for microbial genomes analysis.
+- [Energy](http://www.cyclone-project.eu/usecases/2-energy.html): In order to comply with the climate change mitigation goals of the EU, energy supply has to move from fossil fuels to renewable energy sources. This brings a challenge to energy management systems which are unable to cope with decentralised energy production. The team is working on a platform to do make that possible. You can read more about the Virtual Power Plant on the CYCLONE website.
 
 
 The aim of this week’s meeting is to review progess made in each work area, including what will be presented at the project’s final review at the beginning of 2018. Great work has been done on the DACI authorisation framework developed by partner University of Amsterdam.

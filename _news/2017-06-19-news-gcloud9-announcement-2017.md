@@ -21,6 +21,4 @@ The cloud-based services on the Digital Marketplace are split into 4 categories:
 
 SixSq’s NuvlaBox features in the Cloud Hosting category. It is a turnkey instant private cloud solution which is secure, affordable and simple to use. It includes a plug and play device with remote management & application update capabilities. A non-technical operator can easily and securely set up the appliance. Multi-cloud app store and unified dashboard simplify operations.
 
-For further information, check out the [Digital Marketplace](https://www.digitalmarketplace.service.gov.uk/g-cloud/services/327544682430488).
-
 If you want to know more about the benefits of cloud computing, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology).

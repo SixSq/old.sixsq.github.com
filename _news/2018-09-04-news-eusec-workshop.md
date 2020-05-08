@@ -24,9 +24,6 @@ The aim of this workshop is to reflect the achievements and progress of the EU-S
 - Scheme owners and authorities: have your compliance scheme integrated in EU-SEC. 
 - Auditors: use the framework to **facilitate audits** and optimise your client’s service experience.
 
-The full agenda is available [here](https://cdn0.scrvt.com/fokus/97a05e0223ad853f/5c12826a9af6/EU-SEC-Workshop-Announcement---Agenda---2018-09-03.pdf).  A member of the SixSq team will be presenting the results achieved so far on the multi-party recognition framework pilot schemes. 
-
-
 **When?**
 
 Monday 10 September 2018 from 10:30 to 16:30 CEST
@@ -41,11 +38,4 @@ DIGITALEUROPE OFFICES
 
 Belgium
 
-**How can I register?**
-
-Go to the [Eventbrite page](https://www.eventbrite.com/e/workshop-on-european-security-certification-tickets-48029580769) to sign up. Registration is free but places are strictly limited. 
-
 SixSq’s participation in the [EU-SEC](https://sixsq.com/r-and-d/eusec) project is supported by the Swiss State Secretariat for Education, Research and Innovation [SERI](https://www.sbfi.admin.ch/sbfi/en/home.html).
-
-
-

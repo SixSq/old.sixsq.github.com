@@ -26,7 +26,7 @@ ELASTIC has the three main objectives:
 
 Within the project, SixSq will facilitate the implementation of a transparent cloud to edge ecosystem, with support for cloud-native applications. This will make use of SixSq's expertise in **edge-to-cloud** and **edge-to-edge** products and services to enable smart city and IoT projects.
 
-**Project Website** [https://elastic-project.bsc.es/](https://elastic-project.bsc.es/)
+**Project Website** [https://elastic-project.eu/](https://elastic-project.eu/)
 
 **Funding:** The ELASTIC project has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement Nº 825473.
 
