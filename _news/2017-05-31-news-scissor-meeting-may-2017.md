@@ -10,7 +10,7 @@ top-story: false
 in-focus: false
 ---
 
-Members of the SixSq team are on the beautiful Italian island of Favignana this week for the 8th plenary meeting of the [SCISSOR](https://scissor-project.com/) project.
+Members of the SixSq team are on the beautiful Italian island of Favignana this week for the 8th plenary meeting of the [SCISSOR](https://cordis.europa.eu/project/id/644425) project.
 
 **What is SCISSOR all about?**
 
@@ -48,6 +48,6 @@ The SCISSOR project involves 9 partners from 6 countries:
 - SEA Società Elettrica di Favignana S.p.a., Italy
 
 
-SCISSOR is funded through the European Commission’s H2020 programme under grant agreement 644425. SixSq is supported by the Swiss State Secretariat for Eduication, Research and Innovation SERI under contract number 15.0022.
+SCISSOR is funded through the European Commission’s H2020 programme under grant agreement 644425. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation SERI under contract number 15.0022.
 
-For more information, visit the project website https://scissor-project.com.
+For more information, visit the project [website](https://cordis.europa.eu/project/id/644425).
