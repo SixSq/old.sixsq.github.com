@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <meta http-equiv="refresh" content="{{ page.redirect-delay }}; URL='{{ page.url-target }}'"/>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    <div class="container pt-70">
+      <center>
+        <br/>
+        {{ content | markdownify }}
+        <br/>
+        <h4 class="mb-50">You will now be redirected to: {{ page.page-target }}...</h4>
+        <br/>
+      </center>
+    </div>
+		<!-- End Who is it for? -->	
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>
