@@ -1,6 +1,6 @@
 ---
 title: Making the Case for Edge Computing
-image: https://media.sixsq.com/hs-fs/hubfs/shutterstock_735559831-1.jpg?width=738&name=shutterstock_735559831-1.jpg
+image: https://media.sixsq.com/hubfs/shutterstock_735559831-1-min.jpg
 link: https://media.sixsq.com/blog/case-for-edge-computing
 top-story: true
 ---
