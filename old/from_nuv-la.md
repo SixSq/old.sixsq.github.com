@@ -1,5 +1,5 @@
 ---
-layout: redirect
+layout: redirect_
 title: Nuv.la has now upgraded to Nuvla.io
 url-target: /products-and-services/nuvla-io/overview
 page-target: Nuvla.io service page
