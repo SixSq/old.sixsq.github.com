@@ -21,8 +21,6 @@ There is no denying that we are experiencing a proliferation of so-called smart 
 
 The workshop deals with the different aspects related to innovative large and distributed computing scenarios that are envisioned as the natural evolution of current cloud scenarios. The workshop also address the different aspects of parallel programming, its applicability to those scenarios and any other software required to suitable manage such a complex scenarios, including security and privacy aspects.
 
-More details on the workshop can be found [here](http://www.mf2c-project.eu/wp-content/uploads/2018/04/mF2C-UCC-2018-workshop-CFP-v4-1.pdf).
-
 **When?**
 
 17 to 20 December 2018

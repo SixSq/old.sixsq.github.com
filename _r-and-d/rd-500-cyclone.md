@@ -31,10 +31,6 @@ solution.
 
 **Duration:** 36 Months (ended 31/12/2017) 
 
-**Twitter:** [https://twitter.com/H2020_CYCLONE][@H2020_CYCLONE]
-
-**Facebook:** [https://www.facebook.com/h2020cyclone/][H2020 Cyclone]
-
 **Funding** CYCLONE is funded through the European Commission's H2020
   programme under grant agreement 644925. SixSq is supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]** under contract number 15.0034
 
