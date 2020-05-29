@@ -29,10 +29,6 @@ The workshop deals with the different aspects related to innovative large and di
 
 The workshop is co-located with [IEEE/ACM UCC/BDCAT 2018](http://ucc-conference.org/category/basics.html) in beautiful Zurich, Switzerland.
 
-**How to register**
-
-Visit the UCC 2018 workshop to register [http://ucc-conference.org/category/registration.html](http://ucc-conference.org/category/registration.html).
-
 **Important Dates**
 
 **27 August 2018** Deadline for submission of papers
