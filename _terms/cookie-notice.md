@@ -37,9 +37,11 @@ last_update: 28/04/2020
 
 8. One of the Hubspot cookies is not a session cookie but a persistent cookie. This particular cookie registers when you first visit our website and will record any subsequent visits you may make. This cookie will be stored on your hard drive unless you actively delete it. See [Hubspot terms](https://legal.hubspot.com/privacy-policy) for details.
 
-9. We do not use cookies to identify you but to improve your experience of our sites, however, you can choose not to accept the cookies SixSq uses. Should you disable all cookies, you will still be able to access our websites although some aspects of its functionality may be impaired. If you want to block cookies you can do so through your internet browser.
+9. One of the Microsoft cookies is not a session cookie but a persistent cookie. This particular cookie registers when you first visit our websites and will record any subsequent visits you may make. This cookie will be stored on your hard drive unless you actively delete it. See [Microsoft Privacy terms](https://privacy.microsoft.com/en-us/privacystatement#maincookiessimilartechnologiesmodule) for detail.
 
-10. If you have any questions or comments about our Cookie Notice, communicate with us through [info@sixsq.com](mailto:info@sixsq.com) or write to us at:
+10. We do not use cookies to identify you but to improve your experience of our sites, however, you can choose not to accept the cookies SixSq uses. Should you disable all cookies, you will still be able to access our websites although some aspects of its functionality may be impaired. If you want to block cookies you can do so through your internet browser.
+
+11. If you have any questions or comments about our Cookie Notice, communicate with us through [info@sixsq.com](mailto:info@sixsq.com) or write to us at:
 
 - SixSq Sarl
 - Route de Meyrin, 267 
