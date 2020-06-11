@@ -14,11 +14,11 @@ Members of the SixSq team are in Thessaloniki this week for the latest plenary m
 
 **What is PaaSword all about?**
 
-Although enterprises recognize the compelling economic and operational benefits of running applications and services in the Cloud, security and data privacy concerns are the main barriers to Cloud adoption. Valuable business benefits cannot be unlocked without addressing new data security challenges posed by Cloud Computing. PaaSword aims at fortifying the trust of individuals and corporate customers in Cloud-enabled services and applications. The focus is on secure storage of both corporate and personal sensitive data on Cloud infrastructures.
+Although enterprises recognise the compelling economic and operational benefits of running applications and services in the Cloud, security and data privacy concerns are the main barriers to Cloud adoption. Valuable business benefits cannot be unlocked without addressing new data security challenges posed by Cloud Computing. PaaSword aims at fortifying the trust of individuals and corporate customers in Cloud-enabled services and applications. The focus is on secure storage of both corporate and personal sensitive data on Cloud infrastructures.
 
 **What is SixSq’s contribution?**
 
-SixSq’s cloud management platform, SlipStream, is being used as the PaaS solution for orchestration of distributed applications on Clouds, with the help of Nuvla, the company’s managed SlipStream service.
+SixSq’s [cloud management platform](https://sixsq.com/products-and-services/nuvla-io/overview) is being used as the PaaS solution for orchestration of distributed applications on Clouds.
 
 The project continues until 31 December 2017.
 
@@ -42,4 +42,4 @@ PaasWord is funded through the European Commission’s H2020 programme under gra
 
 For more information, visit the project website [https://paasword.io](https://paasword.io).
 
-For more on the benefits of cloud adoption, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology).
+For more on the benefits of cloud adoption, take a look at our [blog](https://media.sixsq.com/blog/what-is-cloud-technology). For further insights into the benefits of using and edge management platform for data management, read [Data Management with Nuvla.io](https://media.sixsq.com/blog/data-management-with-nuvla.io).

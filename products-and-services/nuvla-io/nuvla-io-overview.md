@@ -20,7 +20,7 @@ redirect_from:
 ## How does it work?
 {: class="text-center"}
 
-### Nuvla.io is a management platform, delivered as a Service.
+### Nuvla.io is an edge management platform, delivered as a Service.
 {: class="text-center pt-20 pb-50"}
 
 ![Nuvla.io Overview](/img/content/diagrams/nuvla-io-overview.png "Nuvla.io Overview")
