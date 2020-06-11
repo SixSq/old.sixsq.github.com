@@ -1,4 +1,5 @@
 ---
+title: Cancom
 image: /img/logo/logo_cancom.png
 class: partners
 category: about

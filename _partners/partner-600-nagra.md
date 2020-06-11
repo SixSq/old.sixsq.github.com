@@ -1,4 +1,5 @@
 ---
+title: Nagra
 image: /img/logo/logo_nagra.png
 class: partners
 category: about

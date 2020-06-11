@@ -1,4 +1,5 @@
 ---
+title: Dell
 image: /img/logo/logo_dell-small.png
 class: partners
 category: about

@@ -12,6 +12,27 @@
       	</div>
       </section>
       <!-- % include welcome-webinar.html % -->
+  		<section id="who-is-it-for" class="pt-20 section-is-it-for bg-grey-f9">
+  			<div class="container">
+  				<div class="row justify-content-center pt-20">
+  					<div class="col-md-12 section-title text-center">
+  							<h2 class="pb-10 fw700">Who is it for?</h2>
+  					</div>
+  				</div>
+  				<div class="row justify-content-center icon-is-it-for pb-10 pt-20">
+            {% for post in site.products-and-services %}
+              {% if post.product == 'nuvla-io' %}
+                {% if post.class == 'target-audience' %}
+                  {% include highlighted-with-image-item-no-truncation.html %}
+                {% endif %}
+              {% endif %}
+            {% endfor %}
+  				</div>
+          <div class="pt-20 pb-50 text-center">
+            <a class="btn-sixsq color-3 text-center" href="/products-and-services/nuvla-io/overview"><i class="far fa-plus-square"></i> Discover Nuvla.io</a>
+          </div>
+  			</div>
+  		</section>
   		<div class="section-services section-full">
   			<div class="container">
   				<div class="row justify-content-center">
@@ -31,12 +52,12 @@
   			<div class="clearfix"></div>
   		</div>
       {% include welcome-newsletter.html %}
-  	  <section class="section-full section-top section-news section-partners relative">
+  	  <section class="section-full bg-grey-f9 section-news section-partners relative">
   			<div class="background-dx"></div>
   			<div class="background-sx"></div>
   			<div class="container">
   				<div class="row">
-  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20" style="display: flex; flex-direction: column;">
+  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
   						<div class="section-title text-center">
   							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
@@ -48,46 +69,9 @@
                   {% endif %}
                 {% endfor %}
   						</div>
-            	<div class="section-news-button mt-30" style="align-self: flex-end;">
+            	<div class="section-news-button mr-20" style="align-self: flex-end;">
             	  <a class="btn-sixsq all" href="/about/partners"><i class="far fa-plus-square"></i>  All partners</a>
             	</div>
-  					</div>
-  					<div class="col-md-6 col-sm-12" style="display: flex; flex-direction: column;">
-  						<div class="section-title text-center pb-20">
-    						<h2 class="pb-10 fw700 text-center">Enabling the edge for.</h2>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-                <div class="focus-need mb-20">
-                {% for post in site.products-and-services %}
-                  {% if post.product == 'nuvla-io' %}
-                    {% if post.class == 'target-audience' %}
-                      {% include highlighted-with-image-no-text-no-action-item.html %}
-                    {% endif %}
-                  {% endif %}
-                {% endfor %}
-                </div>
-                <div class="text-center" style="align-self: flex-end;">
-                  <a class="btn-sixsq mt-20 color-3 text-center" href="/products-and-services/nuvla-io/overview#who-is-it-for"><i class="far fa-plus-square"></i> Discover more</a>
-                </div>
-              </div>
-            </div>
-  				</div>
-  			</div>
-  		</section>
-  		<section class="section-full section-news pb-50 bg-grey-f9 relative">
-  			<div class="container">
-  				<div class="row mb-20">
-  					<div class="col-lg-6 col-md-6 col-sm-12">
-  						<div class="section-title text-center">
-  							<h2 class="pb-10 fw700">What people say about us.</h2>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-  						</div>
-  						<div class="news-homepage-carousel active-screen-news animated">
-                {% for post in site.welcome %}
-                  {% if post.product == 'quotes' %}
-                    {% include welcome-quotes-item.html %}
-                  {% endif %}
-                {% endfor %}
-  						</div>
   					</div>
             {% for post in site.welcome %}
               {% if post.class == 'video' %}
@@ -96,26 +80,26 @@
             {% endfor %}
   				</div>
   			</div>
-  		</section>	
-  		<section class="section-full section-top pb-50 section-news relative">
+  		</section>
+  		<section class="section-full section-top section-news relative">
   			<div class="background-dx"></div>
   			<div class="background-sx"></div>
-  			<div class="container">
+  			<div class="container mb-20">
   				<div class="row">
-  					<div class="col-md-6 col-sm-12">
+  					<div class="col-lg-6 col-md-6 col-sm-12" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
   						<div class="section-title text-center pb-40">
                 <h2 class="pb-10 fw700">In Focus.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-              </div>
+  						</div>
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.news reversed %}
                   {% if post.in-focus %}
-                    {% include welcome-in-focus-item.html %}
+                    {% include welcome-media-item.html %}
                   {% endif %}
                 {% endfor %}
   						</div>
   					</div>
-  					<div class="col-lg-6 col-md-6 col-sm-12">
+  					<div class="col-lg-6 col-md-6 col-sm-12" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
   						<div class="section-title text-center pb-40">
   							<h2 class="pb-10 fw700">Our Latest Thoughts.</h2>
   							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
@@ -123,7 +107,7 @@
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.blog reversed %}
                   {% if post.top-story == true %}
-                    {% include welcome-blog-item.html %}
+                    {% include welcome-media-item.html %}
                   {% endif %}
                 {% endfor %}
   						</div>

@@ -1,4 +1,5 @@
 ---
+title: OnLogic
 image: /img/logo/logo_onlogic.png
 class: partners
 category: about

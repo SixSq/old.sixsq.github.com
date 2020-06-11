@@ -1,5 +1,5 @@
 .section-newsletter {
-	padding: 40px;
+	padding: 50px;
 	background: $gray-bg;
 	z-index: 120;
 	.title-need-contact {
@@ -65,7 +65,7 @@
     color: $light;
 		cursor: pointer;
   	background: $color-dark;
-		margin: 20px 0;
+		margin: 20px 0 0 0;
 		@include transition (all .3s ease);
 		span {
 			font-weight: 600;
