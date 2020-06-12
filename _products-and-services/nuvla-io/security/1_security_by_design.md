@@ -3,7 +3,7 @@ product: nuvla-io
 title: Security by Design
 class: security
 main-feature: true
-icon: fas fa-digital-tachograph
+icon: fad fa-lock-alt
 ---
 
-With the [NuvlaBox](/products-and-services/nuvlabox/overview) software, create a complete edge-to-cloud solution, including secure registration, update, as well as monitoring and notifications. With choices from a wide range of x86 and ARM hardware platforms, the NuvlaBox software connects automatically to your product-name account to extend your IT infrastructure with a fleet of edge devices.
+The Nuvla.io and NuvlaBox software work hand in hand to ensure end-to-end security, including the cloud layer. When creating and connecting edge devices with the [NuvlaBox](/products-and-services/nuvlabox/overview) software, Nuvla.io builds a complete security context, including secure registration, update, as well as monitoring and notifications. 
