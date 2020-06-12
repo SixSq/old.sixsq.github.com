@@ -15,7 +15,7 @@ permalink: /products-and-services/nuvla-io/security
 ## Security by Design
 {: class="text-center" }
 
-Security cannot be an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives , for both Nuvla.io the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  For applications where you need an operating system, we have created the NuvlaBox OS (Operating system, based on Linux), to provide a solid and secure foundation for your edge applications.
+Security cannot be left as an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives, for both Nuvla.io the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  For applications where you need an operating system, we have created the NuvlaBox OS (operating system, based on Linux), to provide a solid and secure foundation for your edge applications.
 
 We have taken particular care in automating security, in order to remove the number one cause of security issues: human error. But we have done it in a way to puts you at the helm, such that the security context is clear, simple and transparent.
 
