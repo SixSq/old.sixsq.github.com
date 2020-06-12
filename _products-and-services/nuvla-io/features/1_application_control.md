@@ -3,7 +3,7 @@ product: nuvla-io
 title: Application Control
 class: feature
 main-feature: false
-icon: fa-bolt
+icon: fad fa-bolt
 ---
 
 From any private or public container repository, securely configure, deploy, monitor and update applications, at scale. 

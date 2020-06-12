@@ -5,4 +5,6 @@ class: target-audience
 image: /img/icon/icon-system-integrator.png
 ---
 
-Delivering more to your customer is paramount. Nuvla.io gives you a simple, yet powerful, platform to integrate app deployment to a wide range of hardware devices at the edge. With our container native and hardware agnostic approach, the choice is yours.
+Climb the value chain by leveraging existing assets with your current and new customers. Using Nuvla.io as a marketplace, you create new revenue streams by delivering high value added benefits to your customers.
+
+You then avoid getting trapped in the commodity race to the bottom, by focusing on high value apps delivered remotely and securely.

@@ -32,9 +32,10 @@ permalink: /products-and-services/nuvla-io/tech-spec
 
 
 ## Service Architecture
-{: class="text-center"}
+{: class="text-center pt-20 pb-50"}
 
 #### The Nuvla.io service architecture includes both technical and business enablement features needed for you to create your own marketplace at the edge.
+{: class="text-center pt-40"}
 
 ![Nuvla.io Detailed](/img/content/diagrams/nuvla-io-service-architecture.png "Nuvla.io Service Architecture and Security")
 {: class="text-center pt-40 pb-20"}
