@@ -9,12 +9,20 @@ summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 permalink: /products-and-services/nuvla-io/security
 ---
 
-## Security First
-{: class="text-center fw700 pb-30" style="font-size: 30px;"}
+<i class="fad fa-lock-alt" style="color: #9B1313;"></i>
+{: class="text-center fw700 pt-0 pb-10" style="font-size: 80px;"}
 
-Security cannot be an afterthought. At SixSq we have build security in the Nuvla.io service by design. Read on to better understand the security primitives built-in, on both the service-side (Nuvla.io itself), as well as the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  We have taken particular care in automating security as much as possible, in order to remove the number one cause of security issues: humans. But we have done it in a way to puts you at the helm, such that the security context is clear, simple and transparent.
+## Security by Design
+{: class="text-center" }
 
-If you want to read about the details, the online documentation has a dedicated section.
+Security cannot be an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives , for both Nuvla.io the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  For applications where you need an operating system, we have created the NuvlaBox OS (Operating system, based on Linux), to provide a solid and secure foundation for your edge applications.
 
-## <a href="https//docs.nuvla.io/nuvla/security"><i class="fa fa-book" style="color: #9B1313"></i> Documentation
-{: class="text-center fw700 pb-30" style="font-size: 30px;"}
+We have taken particular care in automating security, in order to remove the number one cause of security issues: human error. But we have done it in a way to puts you at the helm, such that the security context is clear, simple and transparent.
+
+The Nuvla.io security architecture is simple yet comprehensive. It includes the following main parts:
+
+* <i class="fad fa-check"></i> **Connectivity and network security:** ensuring end-to-end security from the data at the edge to the wide area network
+* <i class="fad fa-check"></i> **Application security**: ensuring your containerised applications are secure and only run where and when needed and on the right data
+* <i class="fad fa-check"></i> **Device system security**: ensuring the operating system is secure, as well as the data it hosts
+
+Don't let security be an afterthought. With Nuvla.io, security is built in by design. We partner with [security experts](/about/partners), providing you with world class security, even for the most challenging applications in heavily regulated industries.

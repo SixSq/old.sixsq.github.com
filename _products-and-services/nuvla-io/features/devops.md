@@ -3,7 +3,7 @@ product: nuvla-io
 title: DevOps powered
 class: feature
 main-feature: false
-icon: fa-fast-forward
+icon: fad fa-fast-forward
 ---
 
 Our team managing the Nuvla.io service follows a mature DevOps process. This means we upgrade Nuvla.io service regularly, responding fast to your feedback.

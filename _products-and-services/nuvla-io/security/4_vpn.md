@@ -3,7 +3,7 @@ product: nuvla-io
 title: Your own Virtual Private Network
 class: security
 main-feature: true
-icon: fa-bolt
+icon: fad fa-chart-network
 ---
 
 Each NuvlaBox is individually secured, from factory setup, automatically including a Virtual Private Network. 

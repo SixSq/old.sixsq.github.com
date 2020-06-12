@@ -3,7 +3,7 @@ product: nuvlabox
 title: Security
 class: feature
 main-feature: true
-icon: fa-user-secret
+icon: fad fa-user-secret
 draft: Applications can also expose web services, over the secured connection, ensuring that the data is encrypted end-to-end.
 ---
 

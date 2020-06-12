@@ -7,9 +7,9 @@
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
 		<!-- Start what do you get? -->	
-		<section class="pt-20 section-is-it-for bg-white">
+		<section class="section-is-it-for bg-white">
 			<div class="container">
-				<div class="row justify-content-center pb-50 pt-50">
+				<div class="row justify-content-center pb-50 pt-20">
 					<div class="col-md-12 section-title">
             {{ page.content | markdownify }}
 					</div>
@@ -23,7 +23,7 @@
 							<h2 class="pb-10 fw700">Discover the main security features.</h2>
 					</div>
 				</div>
-				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
+				<div class="row justify-content-center icon-is-it-for pb-50">
           {% for post in site.products-and-services %}
             {% if post.product == page.product %}
               {% if post.class == page.class %}

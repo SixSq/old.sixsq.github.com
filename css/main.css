@@ -41,7 +41,7 @@ Created: 21/11/2017
   font-weight: 300; }
 
 body {
-  color: #555555;
+  color: #444444;
   font-family: "Ubuntu", sans-serif;
   font-size: 14px;
   font-weight: 300;
@@ -195,7 +195,7 @@ td, th {
 .fw600 {
   font-weight: 600; }
 
-.fw700, .section-intro-product h2 {
+.fw700, .section-is-it-for h2, .section-intro-product h2 {
   font-weight: 700; }
 
 .fsi {
@@ -387,7 +387,7 @@ td, th {
 .pb-25 {
   padding-bottom: 25px; }
 
-.pb-30 {
+.pb-30, .section-is-it-for h2 {
   padding-bottom: 30px; }
 
 .pb-40 {
@@ -1016,6 +1016,19 @@ td, th {
         .menu-product .menu-product-list ul li .active {
           font-weight: 500; }
 
+.section-is-it-for h2 {
+  font-size: 30px; }
+.section-is-it-for p {
+  color: #444444;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  font-weight: 400;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 18px;
+  line-height: 1.5em; }
+.section-is-it-for ul {
+  font-size: 18px;
+  font-weight: normal; }
 .section-is-it-for img {
   width: 100%; }
 .section-is-it-for iframe {
