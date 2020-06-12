@@ -23,7 +23,7 @@
             {% for post in site.products-and-services %}
               {% if post.product == 'nuvla-io' %}
                 {% if post.class == 'target-audience' %}
-                  {% include highlighted-with-image-item-no-truncation.html %}
+                  {% include highlighted-with-image-no-text-no-action-item.html %}
                 {% endif %}
               {% endif %}
             {% endfor %}

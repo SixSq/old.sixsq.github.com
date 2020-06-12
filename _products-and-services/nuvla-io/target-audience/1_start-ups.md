@@ -1,6 +1,6 @@
 ---
 product: nuvla-io
-title: Start-ups wanting a fast go-to-market
+title: Start-ups&colon; Leverage our edge to cloud software infrastructure to deliver insights to your customers. 
 class: target-audience
 image: /img/icon/icon-start-up-ai.png
 ---

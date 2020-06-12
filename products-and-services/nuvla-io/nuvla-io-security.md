@@ -15,7 +15,7 @@ permalink: /products-and-services/nuvla-io/security
 ## Security by Design
 {: class="text-center fw700 pb-30" style="font-size: 30px;"}
 
-#### Security cannot be left as an afterthought. At SixSq we have build security in the Nuvla.io service by design. Read on to better understand the security primitives built-in, on both the service-side (i.e. Nuvla.io), as well as the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  For applications where you need an operating system, we have created the NuvlaBox OS (Operating system, based on Linux), to provide a solid and secure foundation for your adge applications.
+#### Security cannot be an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives , for both Nuvla.io the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device.  For applications where you need an operating system, we have created the NuvlaBox OS (Operating system, based on Linux), to provide a solid and secure foundation for your edge applications.
 
 <p/>
 
@@ -23,11 +23,11 @@ permalink: /products-and-services/nuvla-io/security
 
 <p/>
 
-#### If you want to read about the details, our [<i class="fad fa-book" style="color: #9B1313;"></i> online documentation](https://docs.nuvla.io/nuvla/security) has a dedicated section.
+#### If you want to dig into the details, our [<i class="fad fa-book" style="color: #9B1313;"></i> online documentation](https://docs.nuvla.io/nuvla/security) has a dedicated section.
 
 <p/>
 
-#### The Nuvla.io security arcitecture is simple, yet comprehensive. It includes the following main parts:
+#### The Nuvla.io security architecture is simple yet comprehensive. It includes the following main parts:
 
 <p/>
 
@@ -38,4 +38,4 @@ permalink: /products-and-services/nuvla-io/security
 
 <p/>
 
-#### Don't leave security as an afterthought. With Nuvla.io, you get security built in, by design. We also partner with [security experts](/about/partners), providing you with world class security for the most challenging applications, from heavily regulated industries.
+#### Don't let security be an afterthought. With Nuvla.io, security is built in by design. We also partner with [security experts](/about/partners), providing you with world class security, even for the most challenging applications in heavily regulated industries.

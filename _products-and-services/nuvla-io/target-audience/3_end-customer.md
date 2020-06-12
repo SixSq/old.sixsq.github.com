@@ -1,6 +1,6 @@
 ---
 product: nuvla-io
-title: Large Organisations
+title: Large Organisations&colon; Mine the hidden gems in your data at the edge, within a secured ecosystem.
 class: target-audience
 image: /img/icon/icon-end-customer.png
 ---

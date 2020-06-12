@@ -1,6 +1,6 @@
 ---
 product: nuvla-io
-title: System Integrators & Telcos
+title: System Integrators & Telcos&colon; Monetise your assets by offering a marketplace of added-value apps.
 class: target-audience
 image: /img/icon/icon-system-integrator.png
 ---
