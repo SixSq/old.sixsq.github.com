@@ -26,15 +26,16 @@ redirect_from:
 ![Nuvla.io Overview](/img/content/diagrams/nuvla-io-overview.png "Nuvla.io Overview")
 {: class="text-center pb-50"}
 
-### 1. Find an app in the store (yours, or someone else's)
-{: class="text-center pb-10"} 
-### 2. Point to your target infrastructure ([NuvlaBox](/products-and-services/nuvlabox/overview) or container orchestration engine)
-{: class="text-center pb-10"}
-### 3. Launch!
-{: class="text-center pb-50"}
+### **Go ahead, take Nuvla.io for a spin:**
+{: class="text-center pt-20 pb-20"}
+
+* <i class="fad fa-check"></i> Sign-up on [Nuvla.io](https://nuvla.io/ui/sign-up)
+* <i class="fad fa-check"></i> Create an infrastructure ([NuvlaBox](/products-and-services/nuvlabox/overview) or container orchestration engine)
+* <i class="fad fa-check"></i> Find an existing app or register your own (remember, Nuvla.io is an open platform, container native)
+* <i class="fad fa-check"></i> Launch!
 
 ### Now you can manage, monitor and update your app.
-{: class="text-center pb-50"}
+{: class="text-center pt-20 pb-50"}
  
-### **... and do the same for your fleet of edge devices.**
+### **... and do the same for your fleet of edge devices, at scale.**
 {: class="text-center"}

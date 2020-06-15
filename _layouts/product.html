@@ -6,13 +6,33 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
+		<!-- Start Who is it for? -->	
+		<section id="who-is-it-for" class="section-is-it-for">
+			<div class="container">
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="fw700">Who is it for?</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-20">
+          {% for post in site.products-and-services %}
+            {% if post.product == 'nuvla-io' %}
+              {% if post.class == 'target-audience' %}
+                {% include highlighted-with-image-item-no-truncation.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+				</div>
+			</div>
+		</section>
+		<!-- End Who is it for? -->	
 		<!-- Start what do you get? -->	
-		<section class="section-intro-product">
+		<section class="section-intro-product section-is-it-for bg-white">
 			<div class="container">
         {{ page.content | markdownify }}
 			</div>
 		</section>
-		<section class="bg-white mt-20 section-do-you-get animated">
+		<section class="bg-grey-e4 section-do-you-get animated">
 			<div class="container">
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
@@ -38,27 +58,7 @@
 			</div>
 		</section>
 		<!-- Stop what do you get? -->
-		<!-- Start Who is it for? -->	
-		<section id="who-is-it-for" class="mt-20 section-is-it-for">
-			<div class="container">
-				<div class="row justify-content-center pt-50">
-					<div class="col-md-12 section-title text-center">
-							<h2 class="pb-10 fw700">Who is it for?</h2>
-					</div>
-				</div>
-				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
-          {% for post in site.products-and-services %}
-            {% if post.product == 'nuvla-io' %}
-              {% if post.class == 'target-audience' %}
-                {% include highlighted-with-image-item-no-truncation.html %}
-              {% endif %}
-            {% endif %}
-          {% endfor %}
-				</div>
-			</div>
-		</section>
-    {% include video.html video-id='BHzbEDzyfnQ' title='Here have a look' bg='bg-white' %}
-		<!-- End Who is it for? -->	
+    {% include video.html video-id='BHzbEDzyfnQ' title='Here have a look' bg='bg-grey-f9' %}
     {% include whats-next.html %}
 		<!-- End Section News -->	
       {% include primary-footer.html %}

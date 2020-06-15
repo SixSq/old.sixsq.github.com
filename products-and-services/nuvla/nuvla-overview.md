@@ -19,5 +19,5 @@ redirect_from:
 ## Here's the open source software behind [Nuvla.io](/products-and-services/nuvla-io/overview)
 {: class="text-center"}
 
-### The Nuvla software is open source and can be found on [Github](https://github.com/nuvla/nuvla).
+### The Nuvla software is open source and maintained on [Github](https://github.com/nuvla/nuvla).
 {: class="text-center"}

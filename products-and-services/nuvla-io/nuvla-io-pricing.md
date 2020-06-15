@@ -11,8 +11,11 @@ redirect_from:
 - /pricing
 ---
 
+<i class="fad fa-shopping-cart" style="color: #9B1313;"></i>
+{: class="text-center fw700 pt-0 pb-10" style="font-size: 80px;"}
+
 ## Simple Subscription Pricing
-{: class="pb-50 fw700 text-center" }
+{: class="text-center" }
 
 #### The Nuvla.io pricing is simple and predictable. You start with a 14-day free trial, during which you benefit from our Bronze Support service and a 100% discount on all resources in Nuvla.io. After that, we automatically adapt your monthly discount to your usage of the platform to ensure you have the most cost effective pricing. We do this by continuously monitoring your consumption. The two main resources we meter are:
 

@@ -1026,9 +1026,14 @@ td, th {
   font-family: "Ubuntu", sans-serif;
   font-size: 18px;
   line-height: 1.5em; }
-.section-is-it-for ul {
+.section-is-it-for ul, .section-is-it-for ol {
   font-size: 18px;
   font-weight: normal; }
+.section-is-it-for ol {
+  list-style-type: decimal; }
+.section-is-it-for li {
+  margin-bottom: 10px;
+  margin-top: 10px; }
 .section-is-it-for img {
   width: 100%; }
 .section-is-it-for iframe {

@@ -12,7 +12,7 @@ permalink: /products-and-services/nuvla/tech-spec
 ## How does it work?
 {: class="text-center"}
 
-### The Nuvla software is open source and can be found on [Github](https://github.com/nuvla/nuvla).
+### The Nuvla software is open source and maintained on [Github](https://github.com/nuvla/nuvla).
 {: class="text-center pt-20 pb-20"}
 
 #### You will also find quick **installation instructions on our [documentation website](https://docs.nuvla.io)**.

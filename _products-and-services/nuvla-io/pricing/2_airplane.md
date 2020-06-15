@@ -11,7 +11,7 @@ nb_price: "40.00"
 is_price: "4.80"
 unit: NuvlaBox
 color: #D9E1F2
-icon: fal fa-plane
+icon: fad fa-plane
 nb_limit: 100
 is_limit: 1000
 ---
