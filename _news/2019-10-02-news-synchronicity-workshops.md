@@ -7,8 +7,8 @@ product-name: News
 category: media
 class: news
 image: /img/content/Real_Time_traffic_Data.jpg
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 **Real-time traffic data with energy savings on street lights implemented in Porto and Antwerp**
