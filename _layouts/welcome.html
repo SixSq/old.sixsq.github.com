@@ -94,7 +94,7 @@
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.news reversed %}
                   {% if post.in-focus %}
-                    {% include welcome-media-item.html %}
+                    {% include welcome-media-item.html action-all='News' %}
                   {% endif %}
                 {% endfor %}
   						</div>
@@ -107,7 +107,7 @@
   						<div class="news-homepage-carousel active-screen-news animated">
                 {% for post in site.blog reversed %}
                   {% if post.top-story == true %}
-                    {% include welcome-media-item.html %}
+                    {% include welcome-media-item.html action-all='Blogs' %}
                   {% endif %}
                 {% endfor %}
   						</div>
