@@ -11,10 +11,12 @@ video: https://www.youtube.com/embed/BHzbEDzyfnQ
 image: /img/content/diagrams/nuvla-io-overview.png
 permalink: /products-and-services/nuvla-io/overview
 redirect_from:
+  - /nuvla
   - /nuvla.io
   - /nuvla-io
   - /nuvla-io/overview
-  - /services/nuvla/
+  - /services/nuvla
+  - /products/nuvla
 ---
 
 ## How does it work?
