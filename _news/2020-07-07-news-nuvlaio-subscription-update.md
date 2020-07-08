@@ -13,6 +13,8 @@ in-focus: true
 
 SixSq has updated [Nuvla.io](https://sixsq.com/products-and-services/nuvla-io/overview) to introduce subscriptions and pricing support. Nuvla.io is a secured edge-to-cloud (and back) management platform that enables near-data AI for a connected world. The container native platform supports all forms of cloud infrastructure and allows users to deploy AI and any containerised application at the edge and in the cloud, at scale. 
 
+![Nuvla.io Pricing](/img/content/nuvla-io/pricing.png "Nuvla.io Pricing"){: style="width: 100%;" :}
+
 **Customised payments**
 
 Nuvla.io now integrated with the [Stripe](https://stripe.com/en-ch) payment system, enabling flexible pay-as-you-go subscriptions. This integration supports the [pricing](https://sixsq.com/products-and-services/nuvla-io/pricing) scheme announced recently. 
