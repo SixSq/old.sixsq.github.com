@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 **Multi-Party Recognition Framework for Cloud Security Certifications brings clarity to the compliance process**
