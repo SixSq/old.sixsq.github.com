@@ -6,6 +6,5 @@ main-feature: false
 icon: fab fa-stripe
 ---
 
-**Coming Soon** Nuvla.io integrates the Stripe payment system, providing a simple and trusted mechanism to pay for subscription using popular credit cards and bank transfer.
+Nuvla.io integrates the Stripe payment system, which provides a secure and flexible way to pay for services in a pay-as-you-go model that is automatically adjusted to ensure the customer gets the most advantageous discount available, based on monthly usage.
 
-The subscription scheme will be extended to the app store in the coming months.
