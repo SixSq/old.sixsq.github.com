@@ -8,9 +8,10 @@ category: legal
 product: terms
 product-name: Terms
 icon: fa-user-secret
-permalink: /terms/aai-privacy
+permalink: /terms/privacy
 redirect_from:
   - /legal/aai_privacy.html
+  - /terms/aai-privacy
 applicable_from: 28/04/2020
 last_update: 28/04/2020
 ---
@@ -46,26 +47,30 @@ SixSq Info: info@sixsq.com
 [SixSq](https://sixsq.com "SixSq's Homepage")
 
 
-2\. What personal data we collect from you?
+2\. What personal data do we collect from you?
 ---  
 
-During the process of registration for our services and products, we may collect personal and unique information, which can be used to identify you, such as your email address, name, organisation, and any other information that you might willingly share when you authenticate via a social provider or an identity federation.
+During the process of registration for our services and products, we may collect personal and unique information which can be used to identify you, such as your:
 
-With respect to the Federated Identity Portal, the following data, if available, (with respective attribute names in SAML:OIDC) are required and retrieved from the persons’ Home Organisation:
+- email address
+- name
+- organisation
 
-- email (email:mail)
-- user identifier (eduPersonPrincipalName:preferred_username)
-- type of affiliation (eduPersonAffiliation)
-- person’s affiliation within a particular security domain (eduPersonScopedAffiliation)
-- home organization type (schacHomeOrganizationType)
-- person’s home organization using the domain name of the organization (schacHomeOrganization)
-- persistent, non-reassigned, opaque identifier for a principal (eduPersonTargetedID)
-- the names of an object (commonName)
-- the name(s) that should appear in white-pages-like applications (displayName:name)
-- name strings that are the part of a person’s name that is not their surname (givenName)
-- name strings for the family names of a person (sn)
-- long-lived, non re-assignable, omnidirectional identifier (eduPersonUniqueId:sub)
-- URI (either URL or URN) that indicates a set of rights to specific resources (eduPersonEntitlement)
+and any other information that you might willingly share when you authenticate via a social media provider or identity provider.
+
+We may also ask you to provide further information in order to invoice you electronically for our services. SixSq uses the [Stripe](https://stripe.com) payment service for this. This data is not held by SixSq, but transferred to Stripe. This information can include:
+
+- email
+- name
+- credit card details
+
+Our services may also use the [Intercom](https://www.intercom.com) online service to provide customer support and in-app chat and communication. Intercom receives the following information from us:
+
+- email
+- status of trial
+- key events (e.g. first deployment, first application creation, first NuvlaBox registration)
+
+SixSq uses Stripe and Intercom to provide a better service to its users. None of the above information shall be used for purposes beyond the service provided to SixSq by these third party vendors. 
 
 The processing of personal data is [governed by the General Data Protection Regulation (EU) 2016/679](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex:32016R0679) (GDPR).
 
@@ -117,10 +122,15 @@ Lawful processing of your personal data is ensured by applying the following:
 
 Where do we keep your personal data?
 
-All personal data is kept within EU and Swiss data centres and might be moved between data centres residing in other countries also within the EU and Switzerland. Personal data is protected according to the [Code of Conduct for Service Providers](https://geant3plus.archive.geant.net/uri/dataprotection-code-of-conduct/v1/Pages/default.aspx), a common standard for the research and higher education sector to protect your privacy.
+All personal data is kept within EU and Swiss data centres and might be moved between data centres residing in other countries also within the EU and Switzerland.
 
 
 4\. Applicability 
 ---
 
 Independently of the existing relations with third-party partners and references to other websites, this privacy notice only applies to SixSq's websites and web services like [sixsq.com](https://sixsq.com), [Nuvla.io](https://nuvla.io) and any other public pages with static content, owned by SixSq and related to our services and products. This includes the documentation website [docs.nuvla.io](https://docs.nuvla.io).
+
+5\. Right to forget
+---
+
+If you want us to delete all the private information we have collected from you, please send us an email at: [support@sixsq.com](mailto:support@sixsq.com?subject=Delete my personal information).  All you private information will be deleted from our services within 7 days.
