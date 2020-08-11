@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 Together with the [Department of Economic Development of the Canton of Geneva](https://www.ge.ch/organisation/departement-du-developpement-economique-dde), the University of Geneva and the [HES-SO Geneva](https://www.hes-so.ch/en/about-26.html), [Open Geneva](https://opengeneva.org/en/) has launched a crisis and resilience innovation fund to develop collective solutions for the economic challenges facing the Geneva ecosystem in the wake of the COVID-19 crisis.
