@@ -1,5 +1,5 @@
 ---
-title: Data Management with Nuvla.io 1/3
+title: Data Management with Nuvla.io Part 1
 image: https://media.sixsq.com/hs-fs/hubfs/Blog%20post%20images/edge-to-cloud-big-data.png?width=948&name=edge-to-cloud-big-data.png
 link: https://media.sixsq.com/blog/data-management-with-nuvla.io
 top-story: true

@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 
 SixSq is pleased to announce its membership of the [Swiss Alliance for Data Intensive Services](https://data-service-alliance.ch/). 
