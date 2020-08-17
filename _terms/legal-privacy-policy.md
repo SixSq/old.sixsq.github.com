@@ -139,3 +139,5 @@ Independently of the existing relations with third-party partners and references
 ---
 
 If you want us to delete all the private information we have collected from you, please send us an email at: [support@sixsq.com](mailto:support@sixsq.com?subject=Delete my personal information).  All you private information will be deleted from our services within 7 days.
+
+This will include us requesting that your data be also deleted from third party services (see Section 2 above).
