@@ -64,11 +64,15 @@ We may also ask you to provide further information in order to invoice you elect
 - name
 - credit card details
 
+Please refer to [Stripe's privacy policies](https://stripe.com/en-ch/privacy) for additional information.
+
 Our services may also use the [Intercom](https://www.intercom.com) online service to provide customer support and in-app chat and communication. Intercom receives the following information from us:
 
 - email
 - status of trial
 - key events (e.g. first deployment, first application creation, first NuvlaBox registration)
+
+Please refer to [Intercom's privacy policies](https://www.intercom.com/legal/privacy) for additional information.
 
 SixSq uses Stripe and Intercom to provide a better service to its users. None of the above information shall be used for purposes beyond the service provided to SixSq by these third party vendors. 
 
