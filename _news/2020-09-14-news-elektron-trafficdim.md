@@ -1,7 +1,7 @@
 ---
 layout: news-article
-short-title: Elektron and SixSq launch the first industrialised traffic-based lighting solution in Switzerland
-title: Elektron and SixSq launch the first industrialised traffic-based lighting solution in Switzerland
+short-title: ELEKTRON and SixSq launch the first industrialised traffic-based lighting solution in Switzerland
+title: ELEKTRON and SixSq launch the first industrialised traffic-based lighting solution in Switzerland
 image: /img/content/news/Altendorf TrafficDim 3.jpg
 product: news
 product-name: News

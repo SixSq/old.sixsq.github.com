@@ -14,7 +14,7 @@ redirect_from:
   - /solutions/nuvlacity/overview
 ---
 
-[Elektron](https://www.elektron.ch/en/), the leading Swiss technology company, has teamed up with SixSq to create a next-generation connected Smart Street Lighting solution. 
+[ELEKTRON](https://www.elektron.ch/en/), the leading Swiss technology company, has teamed up with SixSq to create a next-generation connected Smart Street Lighting solution. 
 
 [TrafficDim](https://www.elektron.ch/fr/produits-et-solutions/eclairage/routes/gestion-de-la-lumiere/trafficdim-controle) is the first industrialised solution of its kind and was developed 100% in Switzerland. TrafficDim is ideally suited for adjusting the light intensity on busy roads. It reduces energy consumption and light emissions while complying with the applicable safety standards and norms. The solution achieves this by controlling street lighting based on real-time traffic monitoring. The data is automatically analysed on SixSq's secure edge-to-cloud management platform Nuvla.io, which allows for easy processing of the collected traffic data and continuously transmits the information to the [CityTouch](https://www.lighting.philips.com/main/systems/lighting-systems/citytouch) lighting management system to control the luminaires.
 
