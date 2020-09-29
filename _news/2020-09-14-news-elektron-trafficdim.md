@@ -19,7 +19,7 @@ in-focus: true
 - The solution has been specially engineered for major traffic axes - where it pays off most to reduce energy and light pollution.
 
 
-**Geneva / Au (ZH)** – [ELEKTRON](www.elektron.ch) has been testing traffic-dependent lighting control systems in various pilot projects (Wädenswil/Smart City Lab Basel Wolf) for some time now. Right from the start, ELEKTRON worked closely with cantonal civil engineering offices and traffic engineers, as they already use traffic sensor technology for their analyses. Now ELEKTRON has teamed up with the software technology expert and CERN spin-off SixSq. Together they developed the first industrialised traffic-based lighting solution in Switzerland
+**Geneva / Au (ZH)** – [ELEKTRON](https://www.elektron.ch) has been testing traffic-dependent lighting control systems in various pilot projects (Wädenswil/Smart City Lab Basel Wolf) for some time now. Right from the start, ELEKTRON worked closely with cantonal civil engineering offices and traffic engineers, as they already use traffic sensor technology for their analyses. Now ELEKTRON has teamed up with the software technology expert and CERN spin-off SixSq. Together they developed the first industrialised traffic-based lighting solution in Switzerland
 
 _“We had been working on the topic for some time and had examined different approaches. Only when we started the collaboration with SixSq we made progress. SixSq understood us right from the start and implemented our wishes incredibly fast and competently”_. 
 said Enrico Baumann, CEO ELEKTRON AG.
