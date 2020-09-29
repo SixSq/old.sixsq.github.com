@@ -10,7 +10,7 @@ top-story: false
 in-focus: false
 ---
 
-[CeBIT](https://www.cebit.de/en/) is the largest and most internationally represented computer expo. The trade fair is held each year on the Hanover fairground, the world’s largest exhibition area, in Hanover, Germany. It is considered a barometer of current trends and a measure of the state of the art in information technology.
+[CeBIT](http://www.cebit.de/en/) is the largest and most internationally represented computer expo. The trade fair is held each year on the Hanover fairground, the world’s largest exhibition area, in Hanover, Germany. It is considered a barometer of current trends and a measure of the state of the art in information technology.
 
 SixSq has been selected to be part of the EC Village.
 
@@ -36,4 +36,4 @@ Germany
 
 **How do I register?**
 
-For more information, visit the [CEBIT](https://www.cebit.de/en/) website
+For more information, visit the [CEBIT](http://www.cebit.de/en/) website
