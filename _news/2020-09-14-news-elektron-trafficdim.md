@@ -65,6 +65,6 @@ The leading Swiss technology company is strongly committed to minimising the use
 As market leader in street lighting, ELEKTRON recognized early on that luminaires offer much more than just light. In addition to its wide range from the city centre to the neighbourhoods, street lighting offers ideal conditions for becoming the basic infrastructure for smart applications. That is how smart cities are created today around the connected light point.
 
 For more information, please visit 
-[www.elektron.ch](www.elektron.ch)
+[www.elektron.ch](https://www.elektron.ch)
 
 

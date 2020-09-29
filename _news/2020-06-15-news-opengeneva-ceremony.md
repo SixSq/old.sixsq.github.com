@@ -13,7 +13,7 @@ in-focus: false
 
 Together with the [Department of Economic Development of the Canton of Geneva](https://www.ge.ch/organisation/departement-du-developpement-economique-dde), the University of Geneva and the [HES-SO Geneva](https://www.hes-so.ch/en/about-26.html), [Open Geneva](https://opengeneva.org/en/) has launched a crisis and resilience innovation fund to develop collective solutions for the economic challenges facing the Geneva ecosystem in the wake of the COVID-19 crisis.
 
-Following the  **[Geneva Resilience Hack](https://opengeneva.org/en/projet-resilience/)**, a fruitful two-day brainstorming session covering a wide range of themes, such as remote working, sustainable fashion and technology to support the restaurant industry, a **closing ceremony** will take place at the Palexpo exhibition centre in Geneva. Palexpo will be reopening its doors for the first time since the start of the pandemic to welcome the participants to this socially-distanced event.
+Following the  **[Geneva Resilience Hack](https://opengeneva.org/projet-resilience/)**, a fruitful two-day brainstorming session covering a wide range of themes, such as remote working, sustainable fashion and technology to support the restaurant industry, a **closing ceremony** will take place at the Palexpo exhibition centre in Geneva. Palexpo will be reopening its doors for the first time since the start of the pandemic to welcome the participants to this socially-distanced event.
 
 **What will happen at the Closing Ceremony?**
 

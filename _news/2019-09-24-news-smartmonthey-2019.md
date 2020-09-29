@@ -19,7 +19,7 @@ Between 2015 and 2017, mercury vapour luminaires in Monthey were replaced by LED
 
 **The Smart Solution**
 
-Within the framework of the [CityZen](https://cityzen.ch/cityzen_en.html) association, partners Schréder Swiss and SixSq were chosen to deploy the VolumLight® solution for Smart Monthey. VolumLight® allows the control of lighting according to the volume of traffic in real time. In addition to providing optimal lighting and safety conditions, VolumLight produces valuable traffic data. This is made possible by SixSq's [NuvlaCity](https://sixsq.com/solutions/nuvlacity/overview) solution, an open-source [edge computing](https://media.sixsq.com/blog/what-is-edge-computing) platform for scalable smart city solutions.
+Within the framework of the [CityZen](https://cityzen.ch) association, partners Schréder Swiss and SixSq were chosen to deploy the VolumLight® solution for Smart Monthey. VolumLight® allows the control of lighting according to the volume of traffic in real time. In addition to providing optimal lighting and safety conditions, VolumLight produces valuable traffic data. This is made possible by SixSq's [NuvlaCity](https://sixsq.com/solutions/nuvlacity/overview) solution, an open-source [edge computing](https://media.sixsq.com/blog/what-is-edge-computing) platform for scalable smart city solutions.
 
 Pre-processed and anonymised on the edge, the data is analysed, then represented and communicated to the various stakeholders (decision makers, associations, citizens ...) via a series of interactive maps and dashboards within [ArcGIS Online](https://www.arcgis.com/index.html), the geospatial platform developed by [Esri](https://www.esri.com/en-us/home).
 
@@ -31,4 +31,4 @@ Schréder is a worldwide leader in intelligent outdoor lighting solutions. The c
 
 **About CityZen**
 
-The [CityZen](https://cityzen.ch/cityzen_en.html) initiative brings together Swiss companies with expertise in the field of Smart Cities and acts as a centre of competence for cities and communes which need advice on the concept, integration and realisation of Smart City projects. Thanks to the expertise of SixSq and the other members of the initiative, CityZen covers all the issues which are key to any Smart City strategy: mobility, parking, energy, waste management, security and data management.
+The [CityZen](https://cityzen.ch) initiative brings together Swiss companies with expertise in the field of Smart Cities and acts as a centre of competence for cities and communes which need advice on the concept, integration and realisation of Smart City projects. Thanks to the expertise of SixSq and the other members of the initiative, CityZen covers all the issues which are key to any Smart City strategy: mobility, parking, energy, waste management, security and data management.
