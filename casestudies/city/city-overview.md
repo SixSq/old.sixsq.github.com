@@ -14,7 +14,9 @@ redirect_from:
   - /solutions/nuvlacity/overview
 ---
 
-In partnership with Schréder Swiss, SixSq has developed an **adaptive lighting** solution which brings an unparalleled opportunity to deliver savings. By implementing this solution cities can **reduce energy consumption** by 30%, whilst still respecting safety standards. With this system, lighting levels are continually updated to reflect real-time traffic patterns, providing savings during periods of low circulation and ensuring safety at all times. Operational costs are also reduced thanks to the remote management capabilities of Nuvla.io. The solution has been successfully implemented in numerous European cities.
+[Elektron](https://www.elektron.ch/en/), the leading Swiss technology company, has teamed up with SixSq to create a next-generation connected Smart Street Lighting solution. 
+
+[TrafficDim](https://www.elektron.ch/fr/produits-et-solutions/eclairage/routes/gestion-de-la-lumiere/trafficdim-controle) is the first industrialised solution of its kind and was developed 100% in Switzerland. TrafficDim is ideally suited for adjusting the light intensity on busy roads. It reduces energy consumption and light emissions while complying with the applicable safety standards and norms. The solution achieves this by controlling street lighting based on real-time traffic monitoring. The data is automatically analysed on SixSq's secure edge-to-cloud management platform Nuvla.io, which allows for easy processing of the collected traffic data and continuously transmits the information to the [CityTouch](https://www.lighting.philips.com/main/systems/lighting-systems/citytouch) lighting management system to control the luminaires.
 
 The solution leverages the power of the [NuvlaBox](/products-and-services/nuvlabox/overview) software and the [Nuvla.io](/products-and-services/nuvla-io/overview) to command and control the edge devices hosting the adaptive lighting software. This can be extended to cover monitoring of air quality, sound pollution and much more without further intrusion into the city's infrastructure.
 
