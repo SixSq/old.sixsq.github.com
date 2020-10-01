@@ -6,10 +6,10 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
-    {{ page.content }}
 		<!-- Start what do you get? -->	
 		<section class="section-is-it-for">
 			<div class="container">
+        {{ page.content | markdownify }}
 				<div class="row justify-content-center pt-50">
 					<div class="col-md-12 section-title text-center">
 							<h2 class="fw700">Discover the main features</h2>
