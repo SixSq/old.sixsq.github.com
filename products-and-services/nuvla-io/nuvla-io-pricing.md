@@ -38,9 +38,9 @@ redirect_from:
    1. Gold: contact us
    {: class="ml-20 mt-10 mb-10" style="list-style: disc; font-size: 16px;"}
 
-#### **VPN Client**:
+#### **Free VPN Client**:
 
-#### One free VPN client is included in the subscription. We will charge  <i class="fal fa-euro-sign"></i> 5.00 per month per additional VPN client.
+#### Each user can configure a personal VPN client providing them secure access to their NuvlaBoxes and applications for free.
 {: class="mb-10" }
 
 #### **NuvlaBox** means: an edge device running the [NuvlaBox software](/products-and-services/nuvlabox/overview). 
