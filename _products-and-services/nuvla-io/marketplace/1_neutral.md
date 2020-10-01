@@ -1,5 +1,5 @@
 ---
-product: nuvla-io
+product: nuvla-io__
 title: Neutral and Agnostic
 class: marketplace
 main-feature: false
