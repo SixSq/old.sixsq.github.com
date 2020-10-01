@@ -23,7 +23,7 @@ redirect_from:
  * **App Deployments**: the maximum number of app deployments running on container orchestration engines (Kubernetes or Docker Swarm). In other words, we don't meter the app deployments running in NuvlaBoxes. 
 {: class="ml-20 mt-10 mb-10" style="list-style: disc; font-size: 16px;"}
 
-#### Each month, we take the maximum of these values and apply the best discount, giving you an optimal price. Below you will find an overview of the available discounts. You can also download a [PDF version of the pricing](/products-and-services/nuvla-io/pricing/Nuvla-io-pricing-2020-v1.pdf).
+#### Each month, we take the maximum of these values and apply the best discount, giving you an optimal price. Below you will find an overview of the available discounts. You can also download a [PDF version of the pricing](/products-and-services/nuvla-io/pricing/Nuvla-io-pricing-2020-v1.1.pdf).
 
 #### The way we meter NuvlaBoxes and App Deployments means that you are free to play at the edge, in the cloud or both together (our preferred way).
 
