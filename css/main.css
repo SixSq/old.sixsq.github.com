@@ -1128,24 +1128,13 @@ td, th {
   height: 100%; }
 
 .highlight-image {
+  height: 100%;
   padding: 40px;
-  height: 100%; }
-  .highlight-image:hover {
-    padding: 40px;
-    box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.1);
-    -webkit-transition: all 0.5s ease;
-    -moz-transition: all 0.5s ease;
-    -o-transition: all 0.5s ease;
-    transition: all 0.5s ease; }
-  @media (max-width: 767px) {
-    .highlight-image {
-      padding: 40px;
-      width: 100%;
-      box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.1);
-      -webkit-transition: all 0.5s ease;
-      -moz-transition: all 0.5s ease;
-      -o-transition: all 0.5s ease;
-      transition: all 0.5s ease; } }
+  box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease; }
 
 a.anchor {
   display: block;

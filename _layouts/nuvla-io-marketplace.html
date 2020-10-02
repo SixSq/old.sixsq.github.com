@@ -7,15 +7,19 @@
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
 		<!-- Start what do you get? -->	
-		<section class="section-is-it-for">
+		<section class="section-is-it-for pb-20">
 			<div class="container">
         {{ page.content | markdownify }}
-				<div class="row justify-content-center pt-50">
+			</div>
+    </section>
+		<section class="section-is-it-for bg-grey-e4 pt-50 pb-50">
+			<div class="container">
+				<div class="row justify-content-center">
 					<div class="col-md-12 section-title text-center">
 							<h2 class="fw700">Discover the main features</h2>
 					</div>
 				</div>
-				<div class="row justify-content-center icon-is-it-for pb-50 pt-20">
+				<div class="row justify-content-center icon-is-it-for">
           {% for post in site.products-and-services %}
             {% if post.product == page.product or page.uberproduct == post.product %}
               {% if post.class == page.class %}
@@ -25,6 +29,8 @@
           {% endfor %}
         </div>
 			</div>
+    </section>
+		<section class="section-is-it-for bg-grey-f9 pt-50 pb-50">
       <a class="anchor" id="integration"></a>
 			<div class="container">
 				<div class="row justify-content-center">
@@ -44,6 +50,7 @@ What do we expect from you?
   <li>Apps for the cloud can be as for the edge or Kubernetes Manifest (depends on what infrastructure your customers run)</li>
   <li>We recommend you upload your images in a registry protected by username/password</li>
   <li>Decide how much you want to charge for your app.</li>
+  <li>Decide if you want your apps to be public or private (you share them with your customers).</li>
 </ul>
 
               <h3 class="pt-10">
@@ -53,6 +60,7 @@ What can you expect from SixSq engineers?
 <ul class="bulleted-list pb-10" style="padding-left: 20px;">
   <li>We will dedicate up to 2 days of engineering support</li>
   <li>Walk you through the process if you are not familiar with Nuvla.io</li>
+  <li>Certify you app on the Nuvla.io platform</li>
 </ul>
 
               <h3 class="pt-10">
@@ -75,8 +83,8 @@ Here are a few resources you might find helpful to familiarise yourself with Nuv
   <li>Nuvla.io technical <a href="https://docs.nuvla.io">documentation website</a></li>
 </ul>
 
-              <p class="pb-40">
-You will also find Case Studies (<a href="/casestudies/city/overview">Smart City</a>, <a href="/casestudies/outpost/overview">Outpost and Field Clinics</a>, <a href="/casestudies/retail/overview">Retail</a>, <a href="/casestudies/science/overview">Big Data Science</a>) on our website.
+              <p>
+You will also find Case Studies on our website: <a href="/casestudies/city/overview">Smart City</a>, <a href="/casestudies/outpost/overview">Outpost and Field Clinics</a>, <a href="/casestudies/retail/overview">Retail</a>, <a href="/casestudies/science/overview">Big Data Science</a>.
               </p>
 
 					</div>
