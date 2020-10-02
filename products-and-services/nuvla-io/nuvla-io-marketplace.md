@@ -1,5 +1,5 @@
 ---
-layout: product-features
+layout: nuvla-io-marketplace
 product: nuvla-io
 uberproduct: nuvla-all
 category: nuvla-io
@@ -22,9 +22,9 @@ permalink: /products-and-services/nuvla-io/marketplace
 ### The Nuvla.io Marketplace is there for you!
 {: class="text-center pb-40"}
 
-## Limited offer October only: the integration of your app into the Nuvla.io Marketplace 
+## Limited offer October only: free integration of your app into the Nuvla.io Marketplace 
 {: class="text-center pt-40 pb-40 bg-grey-e4"}
-### Interested? Get in touch!
+### Interested? Read details [here!](#integration)
 {: class="text-center pb-40 bg-grey-e4"}
 
 ## App Vendor Journey

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+		<!-- Start what do you get? -->	
+		<section class="section-is-it-for">
+			<div class="container">
+        {{ page.content | markdownify }}
+				<div class="row justify-content-center pt-50">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="fw700">Discover the main features</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for pb-50 pt-20">
+          {% for post in site.products-and-services %}
+            {% if post.product == page.product or page.uberproduct == post.product %}
+              {% if post.class == page.class %}
+                {% include highlighted-with-image-item-no-truncation.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+        </div>
+			</div>
+      <a class="anchor" id="integration"></a>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-12 section-title">
+							<h2 class="fw700 text-center">App Integration - Limited offer October only: free!</h2>
+
+              <h3>We are nearing the official launch date of the Nuvla.io Marketplace.</h3>
+              <p>
+In preparation, we are offering to app vendors and start-ups free integration in October. This is the easiest way to take advantage of having your apps deployed at scale and in a click at the edge and in the cloud.
+              </p>
+              <h3 class="pt-10">
+What do we expect from you?
+              </h3>
+<ul class="bulleted-list pb-10" style="padding-left: 20px;">
+  <li>Package you app as Docker containers.</li>
+  <li>Apps for the edge must be either a single Docker container, or Docker Compose or Docker Swarm.</li>
+  <li>Apps for the cloud can be as for the edge or Kubernetes Manifest (depends on what infrastructure your customers run)</li>
+  <li>We recommend you upload your images in a registry protected by username/password</li>
+  <li>Decide how much you want to charge for your app.</li>
+</ul>
+
+              <h3 class="pt-10">
+What can you expect from SixSq engineers?
+              </h3>
+
+<ul class="bulleted-list pb-10" style="padding-left: 20px;">
+  <li>We will dedicate up to 2 days of engineering support</li>
+  <li>Walk you through the process if you are not familiar with Nuvla.io</li>
+</ul>
+
+              <h3 class="pt-10">
+What can you expect from Nuvla.io?
+              </h3>
+
+<ul class="bulleted-list pb-10" style="padding-left: 20px;">
+  <li>Nuvla.io meters hourly and invoices monthly</li>
+  <li>You get paid as soon as the customer pays</li>
+  <li>We take a 20% fee</li>
+  <li>We can give you promotional coupons to help you promote your apps to customers</li>
+</ul>
+
+              <h3 class="pt-10">
+Here are a few resources you might find helpful to familiarise yourself with Nuvla.io:
+              </h3>
+
+<ul class="bulleted-list pb-10" style="padding-left: 20px;">
+  <li>SixSq Classroom <a href="https://cutt.ly/sixsq-classroom">YouTube channel</a></li>
+  <li>Nuvla.io technical <a href="https://docs.nuvla.io">documentation website</a></li>
+</ul>
+
+              <p class="pb-40">
+You will also find Case Studies (<a href="/casestudies/city/overview">Smart City</a>, <a href="/casestudies/outpost/overview">Outpost and Field Clinics</a>, <a href="/casestudies/retail/overview">Retail</a>, <a href="/casestudies/science/overview">Big Data Science</a>) on our website.
+              </p>
+
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- Stop what do you get? -->
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

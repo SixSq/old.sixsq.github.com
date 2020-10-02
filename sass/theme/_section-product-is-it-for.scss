@@ -16,6 +16,7 @@
   ul, ol {
     font-size: 18px;
     font-weight: normal;
+    list-style-type: disc;
   }
   ol {
     list-style-type: decimal;
@@ -170,4 +171,11 @@
 		-o-transition: all 0.5s ease;
 		transition: all 0.5s ease;
 	}
+}
+
+a.anchor {
+    display: block;
+    position: relative;
+    top: -100px;
+    visibility: hidden;
 }

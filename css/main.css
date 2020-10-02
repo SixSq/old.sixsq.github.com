@@ -1028,7 +1028,8 @@ td, th {
   line-height: 1.5em; }
 .section-is-it-for ul, .section-is-it-for ol {
   font-size: 18px;
-  font-weight: normal; }
+  font-weight: normal;
+  list-style-type: disc; }
 .section-is-it-for ol {
   list-style-type: decimal; }
 .section-is-it-for li {
@@ -1145,6 +1146,12 @@ td, th {
       -moz-transition: all 0.5s ease;
       -o-transition: all 0.5s ease;
       transition: all 0.5s ease; } }
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden; }
 
 .section-do-you-get .product-page-carousel {
   min-height: 520px; }
