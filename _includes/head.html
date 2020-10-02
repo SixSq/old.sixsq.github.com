@@ -17,11 +17,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {% if page.image %}
     {% assign image = page.image %}
   {% else %}
-    {% assign image = "/img/logo/logo_sixsq.png" %}
+    {% assign image = "/img/social/sixsq-twitter-image.png" %}
   {% endif %}
   <meta property="og:image" content="{{ site.url }}{{ image }}"/>
   <meta property="og:description" content="{{ page.summary }}"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />  
+  
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:description" content="{{ page.summary }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
+  <meta name="twitter:site" content="{{ site.url }}{{ page.url }}" />
+  <meta name="twitter:image" content="{{ site.url }}{{ image }}" />
+  <meta name="twitter:creator" content="@sixsq" />
   
   <script src="https://kit.fontawesome.com/f02ec30b9d.js" crossorigin="anonymous"></script>
 
