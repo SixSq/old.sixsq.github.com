@@ -10,17 +10,19 @@ summary:  Enabling your edge & cloud business with our management platform as a 
 permalink: /products-and-services/nuvla-io/marketplace
 ---
 
-## Marketplace - Beta
+## Marketplace - Pre-launch
 {: class="text-center pt-50 pb-40"}
 
-### Are you an app vendor looking for customers? 
+### **Market your edge and edge-to-cloud applications with the Nuvla.io Marketplace**
 {: class="text-center pb-40"}
 
-### Are you an infrastructure owner looking for the right apps to address your business needs? 
+### We enable simple monetisation of your applications with our Stripe integration
 {: class="text-center pb-40"}
 
-### The Nuvla.io Marketplace is there for you!
+
+### Nuvla.io is a unique platform as a Service that is **cloud neutral**, **container native**, **hardware agnostic**, **open-source** based, **secure**, and **agile**. You can depend on Nuvla.io for the **commercialisation of your applications**.
 {: class="text-center pb-40"}
+
 
 ## Limited offer October only: free integration of your app into the Nuvla.io Marketplace 
 {: class="text-center pt-40 pb-40 bg-grey-e4"}
