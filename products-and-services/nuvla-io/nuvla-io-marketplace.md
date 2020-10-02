@@ -30,7 +30,7 @@ permalink: /products-and-services/nuvla-io/marketplace
 ## App Vendor Journey
 {: class="text-center pt-50"}
 
-### Becoming an app vendor on [Nuvla.io](https://sixsq.com/products-and-services/nuvla-io/overview) is simple and straightforward.
+### Becoming an app vendor on [Nuvla.io](/products-and-services/nuvla-io/overview) is simple and straightforward.
 {: class="text-center pb-20"}
 
 ![vendor journey](/img/page-product/products/vendor-journey.png)
