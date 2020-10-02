@@ -17,12 +17,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   {% if page.image %}
     {% assign image = page.image %}
   {% else %}
-    {% assign image = "/img/social/sixsq-twitter-image.png" %}
+    {% assign image = "/img/social/sixsq-linkedin-image.png" %}
   {% endif %}
   <meta property="og:image" content="{{ site.url }}{{ image }}"/>
   <meta property="og:description" content="{{ page.summary }}"/>
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />  
   
+  {% if page.image %}
+    {% assign image = page.image %}
+  {% else %}
+    {% assign image = "/img/social/sixsq-twitter-image.png" %}
+  {% endif %}
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:description" content="{{ page.summary }}" />
   <meta name="twitter:title" content="{{ page.title }}" />
