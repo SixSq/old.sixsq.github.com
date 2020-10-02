@@ -7,6 +7,7 @@ class: marketplace
 product-name: Nuvla.io
 title: Nuvla.io Marketplace
 summary:  Enabling your edge & cloud business with our management platform as a service.
+image: /img/page-product/products/vendor-journey.png
 permalink: /products-and-services/nuvla-io/marketplace
 ---
 
