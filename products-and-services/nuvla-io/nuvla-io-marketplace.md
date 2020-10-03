@@ -26,9 +26,9 @@ permalink: /products-and-services/nuvla-io/marketplace
 
 
 ## Limited offer October only: free integration of your app into the Nuvla.io Marketplace 
-{: class="text-center pt-40 pb-40 bg-grey-e4" style="border-left: 5px dashed; border-top: 5px dashed; border-right: 5px dashed;"}
+{: class="text-center pt-40 pb-40 bg-grey-e4 highlight-image" style="border-left: 5px dashed; border-top: 5px dashed; border-right: 5px dashed;"}
 ### Interested? Read details [here!](#integration)
-{: class="text-center pb-40 bg-grey-e4" style="border-left: 5px dashed; border-bottom: 5px dashed; border-right: 5px dashed;"}
+{: class="text-center pb-40 bg-grey-e4 highlight-image" style="border-left: 5px dashed; border-bottom: 5px dashed; border-right: 5px dashed;"}
 
 ## App Vendor Journey
 {: class="text-center pt-50"}
