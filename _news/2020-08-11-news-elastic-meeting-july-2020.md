@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true 
+top-story: false
+in-focus: false 
 ---
 
 As a consequence of the latest COVID-19 restrictions, the last [ELASTIC](http://www.elastic-project.eu/) project meeting could not take place in Porto, Portugal as planned. Thanks to the flexibility and willingness of the consortium partners, it was carried out online, with more than 25 people from 8 different organisations and 6 countries participating in a Zoom conference for two consecutive days. What was expected to be a chaotic and unproductive meeting, turned out to be an outstanding example of efficiency and organisation. All partners had time to report on their work and call for discussions, which would in turn, very often, extend beyond the initial time slot allocated for that topic. However, these discussions were conducted in such a manner that they would cover other reports and topics that were scheduled to be addressed later, showing that everything converged nicely to the work in hand at the time of this meeting.
