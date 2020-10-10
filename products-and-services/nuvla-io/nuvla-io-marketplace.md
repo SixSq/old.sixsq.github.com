@@ -5,8 +5,10 @@ uberproduct: nuvla-all
 category: nuvla-io
 class: marketplace
 product-name: Nuvla.io
-title: Nuvla.io Marketplace
-summary:  Enabling your edge & cloud business with our management platform as a service.
+title: Enable your edge with our management platform as a service
+header: Complete edge-to-cloud solution, as a Service
+subheader: Deploy AI and any app at the edge and in the cloud, at scale
+summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 image: /img/page-product/products/vendor-journey.png
 permalink: /products-and-services/nuvla-io/marketplace
 ---

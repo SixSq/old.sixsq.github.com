@@ -2,7 +2,7 @@
 product: nuvla-all
 title: Any edge hardware - ARM &amp; x86
 class: feature
-main-feature: true
+main-feature: false
 icon: fad fa-microchip
 ---
 

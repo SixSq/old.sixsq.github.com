@@ -3,7 +3,7 @@ title: Nagra
 image: /img/logo/logo_elektron.png
 class: partners
 category: about
-top-story: true
+top-story: false
 link: https://www.elektron.ch/en/
 ---
 

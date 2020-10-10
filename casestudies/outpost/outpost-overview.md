@@ -16,7 +16,8 @@ redirect_from:
 
 An NGO based in Geneva approached SixSq to help with the deployment of an application for field clinics in various locations around the world. They needed a robust, scalable solution that did not require an on-site IT specialist and which would work in areas where connectivity is often volatile. Using [NuvlaBox](/products-and-services/nuvlabox/overview) software and [Nuvla.io](/products-and-services/nuvla-io/overview) in combination with the containerised field clinic application, SixSq provided a solution for remote management of the clinic software, including monitoring, updates and alerts. This enables the staff in the field to focus on what they do best and leave the IT to the tech experts.
 
-Here's how it works:
+## Here's how it works:
+{: class="pt-20 pb-0"}
 
 ![Outpost Architecture](/img/content/diagrams/covid-19-isolation-solution.png "Outpost Architecture")
-{: class="pt-20"}
+{: class="pt-20 highlight-image"}

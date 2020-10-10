@@ -3,7 +3,7 @@ title: OnLogic
 image: /img/logo/logo_onlogic.png
 class: partners
 category: about
-top-story: true
+top-story: false
 link: https://www.onlogic.com/
 ---
 

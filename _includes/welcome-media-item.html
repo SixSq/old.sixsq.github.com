@@ -1,6 +1,6 @@
 <div class="item" style="display: flex; flex-direction: column;">
-  <div class="image-content">
-    <img src="{{ post.image }}" alt="news-homepage">
+  <div class="image-content"">
+    <img style="width: 100%;" src="{{ post.image }}" alt="news-homepage">
 	</div>
 	<div class="mt-20">
     {% capture _title %}
@@ -26,11 +26,9 @@
 	</div>
 	<div class="section-news-button ml-20" style="align-self: flex-end;">
   {% if include.action-all == "Blogs" %}
-    <a class="btn-sixsq color-2" href="{{ post.link }}"><i class="far fa-plus-square"></i>  Read blog</a>
-	  <a class="btn-sixsq all mr-20" href="https://media.sixsq.com/blog"><i class="far fa-plus-square"></i>  All {{ include.action-all }}</a>
+    <a class="btn-sixsq color-2" href="{{ post.link }}">Read blog</a>
   {% else %}
-    <a class="btn-sixsq color-2" href="{{ post.url }}"><i class="far fa-plus-square"></i>  Read news</a>
-	  <a class="btn-sixsq all mr-20" href="/media/news"><i class="far fa-plus-square"></i>  All {{ include.action-all }}</a>
+    <a class="btn-sixsq color-2" href="{{ post.url }}">Read news</a>
   {% endif %}
 	</div>
 </div>

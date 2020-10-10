@@ -2,7 +2,7 @@
 product: nuvla-io
 title: As a Service
 class: feature
-main-feature: true
+main-feature: false
 icon: fad fa-magic
 ---
 

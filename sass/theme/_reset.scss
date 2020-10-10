@@ -420,6 +420,36 @@ td, th {
 .bg-grey-e4 {
 	background: $bg-grey-e4;
 }
+.bg-blue-bd {
+	background: $bg-blue-bd;
+}
+.bg-blue-e0 {
+	background: $bg-blue-e0;
+}
 .bg-white {
 	background: #fff;
+}
+.bandw img {
+  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(100%);
+}
+.bandw:hover img {
+  -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+  filter: grayscale(0%);
+}
+.highlight-image img, img.highlight-image {
+//	height: 100%;
+	padding: 40px;
+	box-shadow: $hover-shadow-icon;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+	transition: all 0.5s ease;
+}
+
+a.anchor {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
 }

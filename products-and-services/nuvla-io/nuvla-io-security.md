@@ -5,6 +5,8 @@ category: nuvla-io
 class: security
 product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
+header: Complete edge-to-cloud solution, as a Service
+subheader: Deploy AI and any app at the edge and in the cloud, at scale
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 permalink: /products-and-services/nuvla-io/security
 ---
@@ -24,5 +26,6 @@ The Nuvla.io security architecture is simple yet comprehensive. It includes the 
 * <i class="fad fa-check"></i> **Connectivity and network security:** ensuring end-to-end security from the data at the edge to the wide area network
 * <i class="fad fa-check"></i> **Application security**: ensuring your containerised applications are secure and only run where and when needed and on the right data
 * <i class="fad fa-check"></i> **Device system security**: ensuring the operating system is secure, as well as the data it hosts
+{: style="list-style-type: none;"}
 
 Don't leave security to chance. With Nuvla.io, security is built in by design. We partner with [security experts](/about/partners), providing you with world class security, even for the most challenging applications in heavily regulated industries.

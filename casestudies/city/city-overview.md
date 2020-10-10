@@ -20,7 +20,8 @@ redirect_from:
 
 The solution leverages the power of the [NuvlaBox](/products-and-services/nuvlabox/overview) software and the [Nuvla.io](/products-and-services/nuvla-io/overview) to command and control the edge devices hosting the adaptive lighting software. This can be extended to cover monitoring of air quality, sound pollution and much more without further intrusion into the city's infrastructure.
 
-Here's how it works:
+## Here's how it works:
+{: class="pt-20"}
 
 ![Smart City Architecture](/img/content/diagrams/smartcity-architecture.png "Smart City Architecture")
-{: class="pt-20"}
+{: class="pt-20 highlight-image"}

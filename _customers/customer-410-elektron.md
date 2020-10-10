@@ -2,6 +2,7 @@
 image: /img/logo/logo_elektron.png
 class: customers
 category: about
+top-story: true
 link: https://www.elektron.ch
 ---
 

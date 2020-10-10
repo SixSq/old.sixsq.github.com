@@ -8,7 +8,7 @@
 		padding-bottom: 100px;
 	}
   	.services-1 {
-  	background: url(/img/section-services/service-1.png) no-repeat;
+  	background: url(/img/section-services/service-3.png) no-repeat;
   	background-repeat: no-repeat;
   	background-size: 100% auto;
   	background-position: center top;
@@ -47,26 +47,25 @@
   		@media (max-width: 767px) {
   			padding-top: 280px;
   		}
-  		h2 {
-  		color: #333;
-  		font-size: 250%;
-  		}
-  		.line {
-  			color: #333;
-  			background: #333;
-  			width: 50%;
-  			text-align: left;
-			
-  		}
-  		p {
-  			color:#333;
-  			font-size: 120%;
-  		}
-  		a {
-  			color: #fff;
-  			border: 1px solid #333;
-  			background: #333;
-  		}
+			h2 {
+			color: #fff;
+			font-size: 250%;
+			}
+			.line {
+				color: #fff;
+				background: #fff;
+				width: 50%;
+				text-align: left;
+				
+			}
+			p {
+				color:#fff;
+				font-size: 120%;
+			}
+			a {
+				color:#333;
+				background: #fff;
+			}
   	}
   }
   .services-2 {
@@ -142,7 +141,7 @@
   	}
   }
 	.services-3 {
-		background: url(/img/section-services/service-3.png) no-repeat;
+		background: url(/img/section-services/service-1.png) no-repeat;
 		background-repeat: no-repeat;
 		background-size: 100% auto;
 		background-position: center top;
@@ -196,25 +195,26 @@
 			@media (min-width: 480px) and (max-width: 767px) {
 				padding-top: 200px;
 			}			
-			h2 {
-			color: #fff;
-			font-size: 250%;
-			}
-			.line {
-				color: #fff;
-				background: #fff;
-				width: 50%;
-				text-align: left;
-				
-			}
-			p {
-				color:#fff;
-				font-size: 120%;
-			}
-			a {
-				color:#333;
-				background: #fff;
-			}
+  		h2 {
+  		color: #333;
+  		font-size: 250%;
+  		}
+  		.line {
+  			color: #333;
+  			background: #333;
+  			width: 50%;
+  			text-align: left;
+			
+  		}
+  		p {
+  			color:#333;
+  			font-size: 120%;
+  		}
+  		a {
+  			color: #fff;
+  			border: 1px solid #333;
+  			background: #333;
+  		}
 		}
 	}
 	.services-4 {

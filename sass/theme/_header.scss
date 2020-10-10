@@ -21,6 +21,7 @@
 
 .common-header {
 	padding: 0;
+  background: $header-sticky !important;
 	@include mobile {
     background: $header-sticky !important;
 		padding: 0;
@@ -81,6 +82,7 @@
   .is-sticky {
     .common-header {
       background: $header-sticky;
+      background-color: $header-sticky !important;
     }
   }
 }

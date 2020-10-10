@@ -1,5 +1,5 @@
 ---
-layout: product
+layout: nuvlabox-overview
 product: nuvlabox
 category: product
 class: overview
