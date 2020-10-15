@@ -21,6 +21,8 @@ redirect_from:
   - /nuvla-io/overview
   - /services/nuvla
   - /products/nuvla
+redirect_to:
+  - https://nuvla.io
 ---
 
 ## How does it work?
