@@ -26,7 +26,7 @@ platform through SlipStream.  Through the project, SixSq will further
 enhance the capabilities of the NuvlaBox while hardening both the
 hardware and software for challenging real-world SCADA deployment.
 
-**Project website:** [http://scissor-project.com][web]
+**Project website:** [https://cordis.europa.eu/project/id/644425][web]
 
 **Twitter:** [https://twitter.com/SCISSOR_2015][@SCISSOR_2015]
 
@@ -41,7 +41,7 @@ hardware and software for challenging real-world SCADA deployment.
   SlipStream and concepts for general integration and remote control
   of NuvlaBoxes.
 
-[web]: http://scissor-project.com
+[web]: https://cordis.europa.eu/project/id/644425
 [assystem]: http://www.assystem.com/en/home.html
 [seri]: https://www.sbfi.admin.ch/sbfi/en/home.html
 [@SCISSOR_2015]: https://twitter.com/SCISSOR_2015

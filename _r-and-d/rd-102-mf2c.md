@@ -28,7 +28,7 @@ permalink: /r-and-d/mf2c
 
 Within the project, SixSq will bring its experience in building cloud systems and early work in IoT and edge computing to the overall architecture. Furthermore, SixSq will also share its vision in building highly valuable products and services, such as the open source [Nuvla](https://sixsq.com/products-and-services/nuvla/overview) service and the NuvlaBox product range.  As a professional agile pratitioner, SixSq will contribute and share its industrial software development practices to ensure that mF2C results are of the highest possible quality. SixSq will quikcly integrate mF2C results into its commercial products and services.
 
-**Project Website** [http://mf2c-project.eu](http://mf2c-project.eu)
+**Project Website** [http://www.mf2c-project.eu](http://www.mf2c-project.eu)
 
 **Funding** mf2c is funded through the European Commission's H2020
   programme under grant agreement 730929. SixSq is funded by SERI under contract number 16.0202.
