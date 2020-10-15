@@ -1,18 +1,16 @@
 ---
-layout: product-simple
+layout: nuvla-io-getting-started
 product: nuvla-io
 category: nuvla-io
 class: tech-spec
 product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
-header: Complete edge-to-cloud solution, as a Service
-subheader: Deploy AI and any app at the edge and in the cloud, at scale
+header: Getting Started
+subheader: Nuvla.io is an open system. Discover how it works and become an expert.
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
+banner-icon: fad fa-cogs
 permalink: /products-and-services/nuvla-io/tech-spec
 ---
-
-### The Nuvla.io service has its own  **[documentation website](https://docs.nuvla.io)**.
-{: class="text-center pb-50"}
 
 ## Here's the full picture
 {: class="text-center"}

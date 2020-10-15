@@ -68,9 +68,7 @@
   				<div class="row icon-is-it-for ">
           {% for post in site.partners %}
             {% if post.top-story == true %}
-			      <div class="col-lg-3 col-md-12 col-sm-12 pb-20 item icon animated bandw" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
               {% include welcome-partners-item.html %}
-      	    </div>
             {% endif %}
           {% endfor %}
         	</div>
@@ -96,9 +94,7 @@
   				<div class="row icon-is-it-for">
           {% for post in site.customers %}
             {% if post.top-story == true %}
-			      <div class="col-lg-3 col-md-12 col-sm-12 pb-20 item icon animated bandw" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
               {% include welcome-partners-item.html %}
-      	    </div>
             {% endif %}
           {% endfor %}
         	</div>

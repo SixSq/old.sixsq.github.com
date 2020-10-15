@@ -6,18 +6,13 @@ category: nuvla-io
 class: marketplace
 product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
-header: Complete edge-to-cloud solution, as a Service
-subheader: Deploy AI and any app at the edge and in the cloud, at scale
+header: Marketplace - Pre-launch
+subheader: Market your edge and edge-to-cloud applications with the Nuvla.io Marketplace
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 image: /img/page-product/products/vendor-journey.png
+banner-icon: fad fa-store
 permalink: /products-and-services/nuvla-io/marketplace
 ---
-
-## Marketplace - Pre-launch
-{: class="text-center pt-50 pb-40"}
-
-### **Market your edge and edge-to-cloud applications with the Nuvla.io Marketplace**
-{: class="text-center pb-40"}
 
 ### We enable simple monetisation of your applications with our Stripe integration
 {: class="text-center pb-40"}

@@ -1,9 +1,16 @@
 		<!-- Start Banner -->
 		<section class="default-banner">
-    	<div class="container banner-content pt-0 pb-0">
-          <img class="pt-20 pb-30" style="max-width: 100%" src="/img/content/nuvla/nuvla.io_logo_red_on_transparent_512px.png"/>
-      		<h2 class="header mb-20">{{ page.header }}</h2>
-      		<h2 class="subheader">{{ page.subheader }}, <span style="text-decoration: underline;">with advanced security</span></h2>
+    	<div class="container banner-content pt-0 pb-0 text-center">
+        {% if page.banner-image %}
+          <img class="pt-20 pb-30" style="max-width: 100%" src="{{ page.banner-image }}" alt="{{ page.title }}"/>
+        {% endif %}
+        {% if page.banner-icon %}
+          <div class="banner-icon pt-20 pb-50">
+            <i class="fa {{ page.banner-icon }}"></i>
+          </div>
+        {% endif %}
+        <h2 class="header mb-20">{{ page.header }}</h2>
+    		<h2 class="subheader">{{ page.subheader }}</h2>
     	</div>
 		</section>
 		<!-- Stop Banner -->

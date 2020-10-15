@@ -5,17 +5,12 @@ category: nuvla-io
 class: security
 product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
-header: Complete edge-to-cloud solution, as a Service
-subheader: Deploy AI and any app at the edge and in the cloud, at scale
+header: Security by Design
+subheader: Don't leave security to chance. We spent millions securing Nuvla.io, so that you don't have to.
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
+banner-icon: fad fa-lock-alt
 permalink: /products-and-services/nuvla-io/security
 ---
-
-<i class="fad fa-lock-alt" style="color: #9B1313;"></i>
-{: class="text-center fw700 pt-0 pb-10" style="font-size: 80px;"}
-
-## Security by Design
-{: class="text-center" }
 
 Security cannot be left as an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives, for both Nuvla.io and the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device. 
 

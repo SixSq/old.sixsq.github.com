@@ -7,11 +7,12 @@ class: overview
 product-name: Nuvla.io
 title: Enable your edge with our management platform as a service
 header: Complete edge-to-cloud solution, as a Service
-subheader: Deploy AI and any app at the edge and in the cloud, at scale
+subheader: Deploy AI and any app at the edge and in the cloud, at scale, with advanced security.
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 video: https://www.youtube.com/embed/BHzbEDzyfnQ
 show-classroom: true
 image: /img/content/diagrams/nuvla-io-overview.png
+banner-image: /img/content/nuvla/nuvla.io_logo_red_on_transparent_512px.png
 permalink: /products-and-services/nuvla-io/overview
 redirect_from:
   - /nuvla

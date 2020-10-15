@@ -5,7 +5,6 @@
     {% include standard-header.html %}
 	<main>
     {% include {{ page.product }}-banner.html %}
-    {% include {{ page.product }}-sub-menu.html %}
 
 		<section id="who-is-it-for" class="section-is-it-for">
 			<div class="container">
@@ -70,11 +69,7 @@
 			</div>
 		</section>
 
-    {% include video.html video-id='BHzbEDzyfnQ' title='Here have a look' bg='bg-grey-f9' %}
-    {% if page.show-classroom == true %}
-      {% include video.html video-id='s0NQjTgmaU0' title='Become an Expert' subtitle='Created by this Cristóvão (Cris) Cordeiro, R&D Project Manager at SixSq, this Youtube channel gives you all the detailed information needed to master Nuvla.io and created amazing edge-to-cloud solutions.' %}
-    {% endif %}
-
+    {% include video.html video-id='BHzbEDzyfnQ' title='Here have a look' subtitle="Managing peripherals doesn't have to be complex. Here, see it for yourself." bg='bg-grey-f9' %}
     {% include whats-next.html %}
 		<!-- End Section News -->	
       {% include primary-footer.html %}
