@@ -20,6 +20,10 @@ The [Piximate](https://piximate.net/en/home/) software makes intensive use of vi
 
 Cameras are deployed at strategic points in the store and are connected to an edge device running the [NuvlaBox](/products-and-services/nuvlabox/overview) software. The edge devices and the application software are deployed and managed through the [Nuvla.io](/products-and-services/nuvla-io/overview) edge management platform.
 
+## Here's how it works:
+{: class="pt-20 pb-20"}
+
 ![NuvlaRetail](/img/content/nuvlaretail/nuvlaretail-real-time.png "NuvlaRetail")
+{: class="pb-20 highlight-image"}
 
 When a registered customer enters the store, relevant data is pulled from the company's CRM. Sales staff can then approach the customer armed with name and purchase history, enabling a much more meaningful interaction with the client.

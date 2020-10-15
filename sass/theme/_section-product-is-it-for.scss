@@ -41,7 +41,7 @@
     margin-right: auto;
   }
 	.icon-is-it-for {
-		min-height: 450px;
+//		min-height: 450px;
     ol, ul {
       margin: inherit;
       padding: 0px 0px 20px 25px;;
@@ -65,13 +65,21 @@
 			padding: 40px;
 			height: 100%;
 			&:hover {
-				padding: 40px;
 				background: #fff;
 				box-shadow: $hover-shadow-icon;
 				-webkit-transition: all 0.5s ease;
 				-moz-transition: all 0.5s ease;
 				-o-transition: all 0.5s ease;
 				transition: all 0.5s ease;
+			}
+			@media (min-width: 768px) and (max-width: 992px) {
+				margin-left: 10px;
+				margin-right: 10px;
+			}
+			@media (max-width: 767px) {
+        padding: 20px;
+				margin-left: 10px;
+				margin-right: 10px;
 			}
 			img {
 				width: 60%;
@@ -149,21 +157,4 @@
   width:
   100%;
   height: 100%;
-}
-
-.highlight-image {
-	height: 100%;
-	padding: 40px;
-	box-shadow: $hover-shadow-icon;
-	-webkit-transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	transition: all 0.5s ease;
-}
-
-a.anchor {
-  display: block;
-  position: relative;
-  top: -100px;
-  visibility: hidden;
 }

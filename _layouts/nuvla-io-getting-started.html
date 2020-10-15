@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include {{ page.product }}-banner.html %}
+		<!-- Start what do you get? -->	
+		<section class="section-is-it-for bg-grey-f9 pt-50 pb-50">
+      <a class="anchor" id="marketplace-features"></a>
+			<div class="container">
+				<div class="row justify-content-center">
+					<div class="col-md-12 section-title text-center">
+							<h2 class="fw700">Choose your learning method</h2>
+					</div>
+				</div>
+				<div class="row justify-content-center icon-is-it-for">
+					<div class="col-md-3 col-sm-6 col-xs-12 item icon animated">
+            <div class="icon-title">
+              <i class="fad fa-book"></i>
+            </div>
+            <h3 class="mt-20 mb-0 text-center fw600">Documentation</h3>
+						<p class="button text-center mt-0">
+              Nuvla.io has a dedicated documentation website, with tutorials and more.
+              <a class="btn-sixsq mt-20 color-3 text-center" href="https://docs.nuvla.io">Take a Look</a>
+						</p>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 item icon animated">
+            <div class="icon-title">
+              <i class="fad fa-video"></i>
+            </div>
+            <h3 class="mt-20 mb-0 text-center fw600">Videos</h3>
+						<p class="text-center mt-0">
+              The SixSq classroom is dedicated to teaching step by step how to use and take full advantage of Nuvla.io.
+						</p>
+						<p class="button text-center mt-0">
+              <a class="btn-sixsq mt-20 color-3 text-center" href="https://docs.nuvla.io">Action!</a>
+						</p>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 item icon animated">
+            <div class="icon-title">
+              <i class="fad fa-image"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">Big picture</h3>
+						<p class="text-center mt-0">
+              Let's have a look at how Nuvla.io works with the edge and the cloud. The service architecture is also helpful.
+						</p>
+						<p class="button mt-10 text-center">
+              <a class="btn-sixsq mt-20 color-3 text-center" href="#architecture">Show me</a>
+						</p>
+					</div>
+					<div class="col-md-3 col-sm-6 col-xs-12 item icon animated">
+            <div class="icon-title">
+              <i class="fad fa-skiing"></i>
+            </div>
+            <h3 class="mt-20 text-center fw600">Learn by doing</h3>
+						<p class="text-center mt-0">
+              IF you prefer to explore and learn by doing, just sign-in and we'll give you a few pointers.
+						</p>
+						<p class="button mt-10 text-center">
+              <a class="btn-sixsq mt-20 color-3 text-center" href="https://app.nuvla.io">Sign-up</a>
+						</p>
+					</div>
+        </div>
+			</div>
+    </section>
+
+    <a id="architecture" class="anchor"></a>
+		<section class="section-is-it-for bg-white pt-50 pb-20">
+			<div class="container">
+        {{ page.content | markdownify }}
+			</div>
+    </section>
+
+		<!-- Stop what do you get? -->
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>

@@ -2,6 +2,7 @@
 image: /img/logo/logo_icrc.png
 class: customers
 category: about
+top-story: false
 link: https://www.icrc.org
 ---
 

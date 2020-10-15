@@ -7,6 +7,8 @@ category: about
 top-story: true
 link: http://exoscale.com
 permalink: /partners/exoscale.html
+css-width: 100%
+css-class: pt-50
 ---
 
 SixSq is technology partner to Exoscale, the leading Swiss cloud service provider. With services covering the full cloud infrastructure spectrum, Exoscale provides a simple and scalable experience in order to let its clients focus on their core business.

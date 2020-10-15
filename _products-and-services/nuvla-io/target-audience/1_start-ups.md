@@ -1,6 +1,6 @@
 ---
 product: nuvla-io
-title: Start-ups&colon; Leverage our edge to cloud software infrastructure to deliver insights to your customers. 
+title: Start-ups&colon; Become an app vendor and let Nuvla.io deliver your apps to your customers at the edge and in the cloud, and get paid for it. 
 class: target-audience
 image: /img/icon/icon-start-up-ai.png
 ---

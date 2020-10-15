@@ -4,22 +4,24 @@
   <body class="home-sixsq">
     {% include welcome-header.html %}
     <main>
-      <section class="default-banner banner-slider-1 top-message">
-      	<div class="container">
-      		<h2 class="header text-white mb-30">{{ page.header }}</h2>
-      		<h2 class="subheader text-white">{{ page.subheader }}</h2>
-  				<a class="btn-sixsq" href="/nuvla-io"><i class="far fa-plus-square"></i> {{ page.header-action}}</a>
+      <section class="default-banner">
+      	<div class="container banner-content pt-0 pb-30">
+      		<h2 class="header pt-20">Home of:</h2>
+          <img class="pt-20 pb-30" style="max-width: 100%" src="/img/content/nuvla/nuvla.io_logo_red_on_transparent_512px.png"/>
+      		<h2 class="header mb-20">{{ page.header }}</h2>
+      		<h2 class="subheader">{{ page.subheader }}, <span style="text-decoration: underline;">with advanced security</span></h2>
+  				<a class="btn-sixsq all" href="/nuvla-io">{{ page.header-action}}</a>
       	</div>
       </section>
       <!-- % include welcome-webinar.html % -->
-  		<section id="who-is-it-for" class="pt-20 section-is-it-for bg-grey-f9">
-  			<div class="container">
-  				<div class="row justify-content-center pt-20">
-  					<div class="col-md-12 section-title text-center">
-  							<h2 class="pb-10 fw700">Who is it for?</h2>
-  					</div>
-  				</div>
-  				<div class="row justify-content-center icon-is-it-for pb-10 pt-20">
+      <!-- <section id="who-is-it-for" class="pt-20 section-is-it-for bg-grey-f9">
+        <div class="container">
+          <div class="row justify-content-center pt-20">
+            <div class="col-md-12 section-title text-center">
+                <h2 class="pb-10 fw700">Who is it for?</h2>
+            </div>
+          </div>
+          <div class="row justify-content-center icon-is-it-for pb-10 pt-20">
             {% for post in site.products-and-services %}
               {% if post.product == 'nuvla-io' %}
                 {% if post.class == 'target-audience' %}
@@ -27,13 +29,13 @@
                 {% endif %}
               {% endif %}
             {% endfor %}
-  				</div>
-          <div class="pt-20 pb-50 text-center">
-            <a class="btn-sixsq color-3 text-center" href="/products-and-services/nuvla-io/overview"><i class="far fa-plus-square"></i> Discover Nuvla.io</a>
           </div>
-  			</div>
-  		</section>
-  		<section id="free-integration" class="pt-50 pb-50 section-is-it-for bg-grey-e4">
+          <div class="pt-20 pb-50 text-center">
+            <a class="btn-sixsq color-3 text-center" href="/products-and-services/nuvla-io/overview">Discover Nuvla.io</a>
+          </div>
+        </div>
+      </section> -->
+  		<section id="free-integration" class="pt-50 pb-50 section-is-it-for bg-blue-e0">
   			<div class="container bg-grey-f9 text-center pt-20 pb-20 highlight-image" style="border: 5px dashed;">
           <h1 class="fw700 pb-20">Nuvla.io Marketplace Pre-Launch</h1>
           <h2>Limited offer October only: free integration of your app into the Marketplace</h2>
@@ -43,10 +45,10 @@
   		<div class="section-services section-full">
   			<div class="container">
   				<div class="row justify-content-center">
-  						<div class="col-md-12 section-title text-center mb-50">
-  							<h2 class="pb-10 fw700">Nuvla.io in action.</h2>
-  							<p class="sub-title fw500">Providing a secured edge management platform as a service for control of connected devices at scale.</p>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
+  						<div class="col-md-12 section-title text-center mb-0">
+  							<h2 class="pb-10 fw700">SixSq in action.</h2>
+  							<p class="sub-title fw500">We are a software company, producing secure, scalable and distributed products. Most of our technical software is open source.</p>
+  							<p class="sub-title fw500">Discover the achievements we have enabled with our customers and partners.</p>
   						</div>
   				</div>
   			</div>
@@ -59,68 +61,84 @@
   			<div class="clearfix"></div>
   		</div>
       {% include welcome-newsletter.html %}
-  	  <section class="section-full bg-grey-f9 section-news section-partners relative">
-  			<div class="background-dx"></div>
-  			<div class="background-sx"></div>
-  			<div class="container">
-  				<div class="row">
-  					<div class="col-lg-6 col-md-6 col-sm-12 pb-20" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
-  						<div class="section-title text-center">
-  							<h2 class="pb-10 fw700">Our Strategic Partners.</h2>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-  						</div>
-  						<div class="news-homepage-carousel active-screen-news animated">
-                {% for post in site.partners %}
-                  {% if post.top-story == true %}
-                    {% include welcome-partners-item.html %}
-                  {% endif %}
-                {% endfor %}
-  						</div>
-            	<div class="section-news-button mr-20" style="align-self: flex-end;">
-            	  <a class="btn-sixsq all" href="/about/partners"><i class="far fa-plus-square"></i>  All partners</a>
-            	</div>
-  					</div>
-            {% for post in site.welcome %}
-              {% if post.class == 'video' %}
-                {% include welcome-video.html %}
-              {% endif %}
-            {% endfor %}
-  				</div>
+
+  	  <section class="section-full bg-grey-e4 section-news section-partners section-is-it-for relative" style="height: auto;">
+  			<div class="container text-center">
+  				<h2 class="pb-20 fw700">Our Strategic Partners.</h2>
+  				<div class="row icon-is-it-for ">
+          {% for post in site.partners %}
+            {% if post.top-story == true %}
+              {% include welcome-partners-item.html %}
+            {% endif %}
+          {% endfor %}
+        	</div>
+  			</div>
+				<div class="section-title text-center pt-40">
+        	<a class="btn-sixsq all text-center" href="/about/partners">All partners</a>
+      	</div>
+  		</section>
+
+  	  <section class="section-full bg-grey-f9 section-news relative">
+  			<div class="container text-center" style="display: flex; justify-content: center">
+          {% for post in site.welcome %}
+            {% if post.class == 'video' %}
+              {% include welcome-video.html %}
+            {% endif %}
+          {% endfor %}
   			</div>
   		</section>
-  		<section class="section-full section-top section-news relative">
+
+  	  <section class="section-full bg-grey-e4 section-news section-partners section-is-it-for relative" style="height: auto;">
+  			<div class="container text-center">
+  				<h2 class="pb-20 fw700">Customers.</h2>
+  				<div class="row icon-is-it-for">
+          {% for post in site.customers %}
+            {% if post.top-story == true %}
+              {% include welcome-partners-item.html %}
+            {% endif %}
+          {% endfor %}
+        	</div>
+  			</div>
+				<div class="section-title text-center pt-40">
+        	<a class="btn-sixsq all text-center" href="/about/customers">More customers</a>
+      	</div>
+  		</section>
+
+  		<section class="section-full section-top section-is-it-for section-news relative">
   			<div class="background-dx"></div>
   			<div class="background-sx"></div>
   			<div class="container mb-20">
-  				<div class="row">
-  					<div class="col-lg-6 col-md-6 col-sm-12" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
-  						<div class="section-title text-center pb-40">
-                <h2 class="pb-10 fw700">In Focus.</h2>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-  						</div>
-  						<div class="news-homepage-carousel active-screen-news animated">
-                {% for post in site.news reversed %}
-                  {% if post.in-focus %}
-                    {% include welcome-media-item.html action-all='News' %}
-                  {% endif %}
-                {% endfor %}
-  						</div>
-  					</div>
-  					<div class="col-lg-6 col-md-6 col-sm-12" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
-  						<div class="section-title text-center pb-40">
-  							<h2 class="pb-10 fw700">Our Latest Thoughts.</h2>
-  							<div class="widget-section text-center mt-20"><i class="fas fa-circle"></i></div>
-  						</div>
-  						<div class="news-homepage-carousel active-screen-news animated">
-                {% for post in site.blog reversed %}
-                  {% if post.top-story == true %}
-                    {% include welcome-media-item.html action-all='Blogs' %}
-                  {% endif %}
-                {% endfor %}
-  						</div>
-  					</div>
-  				</div>
-  				<div class="clearfix"></div>
+          <h2 class="pb-10 fw700 text-center">In Focus.</h2>
+  				<div class="row icon-is-it-for">
+            {% for post in site.news reversed %}
+              {% if post.in-focus %}
+                <div class="col-lg-4 col-md-6 col-sm-12 item icon animated" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
+                {% include welcome-media-item.html action-all='News' %}
+                </div>
+              {% endif %}
+            {% endfor %}
+					</div>
+				<div class="section-title text-center pt-40">
+        	<a class="btn-sixsq all text-center" href="/media/news">All news</a>
+      	</div>
+  			</div>
+  		</section>	
+
+  		<section class="section-full section-top section-is-it-for section-news relative bg-grey-f9">
+  			<div class="container mb-20">
+          <h2 class="pb-10 fw700 text-center">Out Latest Thoughts.</h2>
+  				<div class="row icon-is-it-for">
+            {% for post in site.blog reversed %}
+              {% if post.top-story == true %}
+              <div class="col-lg-4 col-md-6 col-sm-12 item icon animated" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
+              {% include welcome-media-item.html action-all='Blogs' %}
+              </div>
+              {% endif %}
+            {% endfor %}
+					</div>
+				<div class="section-title text-center pt-40">
+        	<a class="btn-sixsq all text-center" href="https://media.sixsq.com/blog">All blog posts</a>
+      	</div>
   			</div>
   		</section>	
   		<!-- End Section News -->	

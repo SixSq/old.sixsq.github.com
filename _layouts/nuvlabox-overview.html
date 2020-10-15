@@ -6,35 +6,14 @@
 	<main>
     {% include {{ page.product }}-banner.html %}
     {% include {{ page.product }}-sub-menu.html %}
-		<!-- Start what do you get? -->	
-		<section class="section-intro-product">
+
+		<section class="section-intro-product section-is-it-for bg-white">
 			<div class="container">
         {{ page.content | markdownify }}
 			</div>
 		</section>
-    <section class="section-is-it-for bg-white">
-    	<div class="container">
-    			<div class="col-md-12 mt-20 section-title text-center pt-50">
-    				<h2 class="pb-10 fw700">Standing on the shoulders of giants</h2>
-            <h4 class="mt-20 ml-20 mr-50">Nuvla builds on the important work of other open source projects. Here are the key technologies, tools and libraries we use to build Nuvla. This ensures a software which is scalable, easy to test and operate, as well as simple to extend and evolve.</h4>
-            <div class="row justify-content-center icon-is-it-for pb-50 pt-50">
-              {% for post in site.products-and-services %}
-                {% if post.class == 'tech' %}
-    							<div class="col-md-4 col-sm-4 icon item animated">
-  									<img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
-  									<h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
-  									<p class="mt-10 text-center">{{ post.content }}</p>
-                  	<div class="section-news-button">
-                      <a class="btn-sixsq mt-20 color-2" href="{{ post.link }}">Learn more</a>
-                  	</div>
-    							</div>
-                {% endif %}
-              {% endfor %}
-            </div>
-    			</div>
-      </div>
-    </section>
 
+		<!-- Start what do you get? -->	
 	  <section class="section-full bg-grey-e4 section-news section-partners section-is-it-for relative" style="height: auto;">
 			<div class="container text-center">
 				<h2 class="pb-20 fw700">Key Features.</h2>
@@ -55,8 +34,8 @@
     	</div>
 		</section>
 
+		<!-- Stop what do you get? -->
     {% include video.html video-id='BHzbEDzyfnQ' title='Here have a look' bg='bg-grey-f9' %}
-		<!-- End Who is it for? -->	
     {% include whats-next.html %}
 		<!-- End Section News -->	
       {% include primary-footer.html %}

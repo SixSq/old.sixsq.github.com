@@ -5,13 +5,6 @@
     {% include standard-header.html %}
 	<main>
     {% include {{ page.product }}-banner.html %}
-    {% include {{ page.product }}-sub-menu.html %}
-		<!-- Start what do you get? -->	
-		<section class="section-is-it-for">
-			<div class="container pt-20 pb-50">
-        {{ page.content | markdownify }}
-      </div>
-		</section>
 		<section class="mt-20 section-is-it-for">
 			<div class="container">
 				<div class="row justify-content-center icon-is-it-for pb-50 bg-grey1">
@@ -24,6 +17,11 @@
           {% endfor %}
         </div>
 			</div>
+		</section>
+		<section class="section-is-it-for">
+			<div class="container pt-50 pb-50">
+        {{ page.content | markdownify }}
+      </div>
 		</section>
 		<!-- Stop what do you get? -->
     {% include whats-next.html %}

@@ -1,19 +1,26 @@
 //-------- Home --------//
 .default-banner {
-	background: $p1-color;
-  padding: 175px 0 100px 0;
-	background: url(/img/banner/city.png) no-repeat bottom center/cover;
+  color: black !important;
+	background-color: $bg-grey-e4;//#BDE7FF;
+  padding: 90px 0 40px 0;
+  // #01A5FD
+//	background: url(/img/banner/city.png__) no-repeat bottom center/cover;
   @include mobile {
   }
   h2.header {
-    font-size: 48px;
+    font-size: 24px;
     font-weight: 600;
     text-transform: uppercase;
+    padding: 0px 0 0px 0;
   }
   h2.subheader {
-    font-size: 250%;
+    font-size: 150%;
     font-weight: 700;
-    padding: 10px 0 25px 0;
+    padding: 0px 0 25px 0;
+  }
+  .banner-content {
+//    background-color: transparentize(black, 0.5);
+    padding-top: 0px;
   }
 }
 
@@ -80,7 +87,8 @@
     }
 	}
 	&.banner-nuvla-io, &.banner-developer {
-		background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover;
+//  	background: url(/img/banner/city.png__) no-repeat bottom center/cover;
+//		background: url(/img/banner/nuvla-io.png) no-repeat bottom center/cover;
 		@include mobile {
 		}
     .banner-content {
@@ -149,7 +157,7 @@
 	h2 {
 		font-size: 48px;
 		font-weight: 600;
-		text-transform: uppercase;
+//		text-transform: uppercase;
 		@include tablet {
 			font-size: 36px;
 		}
@@ -161,6 +169,9 @@
 		font-size: 18px;
 		line-height: 30px;
 	}
+  img {
+    max-width: 100%;
+  }
 	.video {
 		position: relative;
 		margin-left: -15px;

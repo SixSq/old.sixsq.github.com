@@ -2,7 +2,7 @@
 product: nuvla-all
 title: Enable your Edge
 class: feature
-main-feature: true
+main-feature: false
 icon: fad fa-digital-tachograph
 ---
 

@@ -22,4 +22,4 @@ permalink: /products-and-services/nuvlabox/tech-spec
 {: class="text-center pt-20 pb-20"}
 
 ![NuvlaBox Detailed](/img/content/diagrams/nuvlabox-detailed.png "NuvlaBox Detailed")
-{: class="text-center pb-50"}
+{: class="text-center pb-50 highlight-image"}
