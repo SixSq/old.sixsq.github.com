@@ -16,7 +16,7 @@ applicable_from: 28/04/2020
 last_update: 28/04/2020
 ---
 
-[History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-privacy-policy.md)
+[History](https://github.com/SixSq/sixsq.github.com/commits/master/_terms/legal-aai-privacy-policy.md)
 
 1\. Who are we?
 ---  
