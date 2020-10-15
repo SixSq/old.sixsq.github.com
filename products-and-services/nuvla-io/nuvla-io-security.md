@@ -10,6 +10,8 @@ subheader: Don't leave security to chance. We spent millions securing Nuvla.io, 
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 banner-icon: fad fa-lock-alt
 permalink: /products-and-services/nuvla-io/security
+redirect_to:
+  - https://nuvla.io/security
 ---
 
 Security cannot be left as an afterthought. At SixSq we have built security into the Nuvla.io service by design. Read on to better understand the built-in security primitives, for both Nuvla.io and the [NuvlaBox](/products-and-services/nuvlabox/overview) software, which turns any x86 or ARM single board hardware into a smart edge device. 

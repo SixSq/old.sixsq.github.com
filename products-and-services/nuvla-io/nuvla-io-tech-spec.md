@@ -10,6 +10,8 @@ subheader: Nuvla.io is an open system. Discover how it works and become an exper
 summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 banner-icon: fad fa-cogs
 permalink: /products-and-services/nuvla-io/tech-spec
+redirect_to:
+  - https://nuvla.io/getting-started
 ---
 
 ## Here's the full picture

@@ -12,6 +12,8 @@ banner-icon: fad fa-shopping-cart
 permalink: /products-and-services/nuvla-io/pricing
 redirect_from:
 - /pricing
+redirect_to:
+  - https://nuvla.io/pricing
 ---
 
 #### The Nuvla.io pricing is simple and predictable. You start with a 14-day free trial, during which you benefit from our Bronze Support service and a 100% discount on all resources in Nuvla.io. After that, we automatically adapt your monthly discount to your usage of the platform to ensure you have the most cost effective pricing. We do this by continuously monitoring your consumption. The two main resources we meter are:

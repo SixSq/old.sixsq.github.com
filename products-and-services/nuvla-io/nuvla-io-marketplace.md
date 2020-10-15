@@ -12,6 +12,8 @@ summary:  Deploy AI and any app at the edge and in the cloud, at scale.
 image: /img/page-product/products/vendor-journey.png
 banner-icon: fad fa-store
 permalink: /products-and-services/nuvla-io/marketplace
+redirect_to:
+  - https://nuvla.io/marketplace
 ---
 
 ### We enable simple monetisation of your applications with our Stripe integration
