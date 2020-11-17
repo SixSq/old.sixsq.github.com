@@ -698,6 +698,18 @@ a.anchor {
 .small-image {
   max-width: 50%; }
 
+.highlight {
+  padding: 40px;
+  box-shadow: 0px 15px 30px 0px rgba(0, 0, 0, 0.1);
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease; }
+
+.social-media-list {
+  list-style-type: none !important;
+  padding-left: 0 !important; }
+
 .header-welcome, .header-std {
   position: relative;
   z-index: 99999; }
@@ -2086,6 +2098,9 @@ a.anchor {
   font-weight: 800; }
 .section-news-article a {
   font-weight: 600; }
+.section-news-article ul {
+  list-style-type: disc;
+  padding-left: 20px; }
 .section-news-article .date {
   font-weight: 600;
   margin-bottom: 20px; }

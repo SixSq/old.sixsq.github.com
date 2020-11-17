@@ -8,8 +8,8 @@
               </div>
             {% endif %}
             <h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
-            <p class="date mt-20 text-center fw600">{{ post.date | date_to_long_string }}</p>
-						<p class="mt-10 text-center">{{ post.content | strip_html | truncatewords: 30 }}</p>
+            <p class="date mt-20 fw600">{{ post.date | date_to_long_string }}</p>
+						<p class="mt-10">{{ post.content | strip_html | truncatewords: 30 }}</p>
 						<p class="button mt-10 text-center">
               {% if post.link %}
                 {% assign url = post.link  %}

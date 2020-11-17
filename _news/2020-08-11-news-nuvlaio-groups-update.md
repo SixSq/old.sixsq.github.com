@@ -7,8 +7,7 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+in-focus: false
 ---
 
 SixSq is proud to announce the introduction of the **Switch Group** feature, in response to user requests to improve the management at scale of apps, edge devices and container orchestration engine resources.
