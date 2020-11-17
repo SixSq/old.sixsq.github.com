@@ -2,7 +2,7 @@
 layout: news-article
 short-title: A marketplace to enable business at the edge
 title: Launch of Nuvla-io Marketplace Provides Sales Platform for Vendors of Edge Computing Apps
-image: /img/logo/logo_nuvla-io-by-sixsq.png
+image: /img/content/marketplace.png
 product: news
 product-name: News
 class: news
