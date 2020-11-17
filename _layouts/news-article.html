@@ -14,7 +14,7 @@
             <h1 class="list_title mt-10 mb-10">{{ page.title }}</h1>
             {% include social-media-share.html %}
             {% if page.class == "news" or page.class == "jobs" %}
-              <div class="date">{{ page.date | date: "%d %B %Y" }}</div>
+              <div class="date">{{ page.date | date: "%d %B %Y" }} - Geneva, Switzerland</div>
             {% endif %}
             {% if page.author %}
               <div class="date">{{ page.date | date: "%d %B %Y" }} - by {{ page.author }}</div>
