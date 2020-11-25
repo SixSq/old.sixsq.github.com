@@ -7,8 +7,8 @@ product: news
 product-name: News
 class: news
 category: media
-top-story: true
-in-focus: true
+top-story: false
+in-focus: false
 ---
 **Next-generation solution for smart, efficient street lighting**
 
