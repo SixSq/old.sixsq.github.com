@@ -471,3 +471,14 @@ a.anchor {
   list-style-type: none !important;
   padding-left: 0 !important;
 }
+
+.cropped {
+    width: 300px; /* width of container */
+    height: 168px; /* height of container */
+    overflow: hidden;
+    //border: 5px solid black;
+}
+
+.cropped img {
+    margin: 0px 0px 0px 0px;
+}

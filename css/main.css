@@ -710,6 +710,16 @@ a.anchor {
   list-style-type: none !important;
   padding-left: 0 !important; }
 
+.cropped {
+  width: 300px;
+  /* width of container */
+  height: 168px;
+  /* height of container */
+  overflow: hidden; }
+
+.cropped img {
+  margin: 0px 0px 0px 0px; }
+
 .header-welcome, .header-std {
   position: relative;
   z-index: 99999; }

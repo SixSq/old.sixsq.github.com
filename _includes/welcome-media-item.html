@@ -1,6 +1,6 @@
 <div class="item" style="display: flex; flex-direction: column;">
-  <div class="image-content"">
-    <img style="width: 100%;" src="{{ post.image }}" alt="news-homepage">
+  <div class="image-content cropped">
+    <img style="width: 100%;{{ post.css-style-image }}" src="{{ post.image }}" alt="news-homepage">
 	</div>
 	<div class="mt-20">
     {% capture _title %}

@@ -9,6 +9,7 @@ class: news
 category: media
 top-story: true
 in-focus: true
+css-style-image: padding-top&colon; 50px&semi;
 ---
 
 - City authorities can improve urban environments by leveraging [Securaxis](https://securaxis.com/) sound recognition software 
@@ -63,4 +64,3 @@ SixSq’s active participation in numerous international cloud initiatives has s
 
 For more information, please visit 
 [sixsq.com](https://sixsq.com/).
-
