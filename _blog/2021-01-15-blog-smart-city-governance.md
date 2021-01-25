@@ -5,4 +5,4 @@ link: https://media.sixsq.com/blog/smart-city-governance-for-open-data-and-edge-
 top-story: true
 ---
 
-Open data and edge computing will transform smart cities. In this blog post, we look at why strong governance is a critical part of establishing trust and boost innovation.
+Open data and edge computing will transform smart cities. In this blog post, we look at why strong governance is a critical part of establishing trust and boosting innovation.
