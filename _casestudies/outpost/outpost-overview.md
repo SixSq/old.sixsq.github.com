@@ -1,12 +1,13 @@
 ---
 layout: casestudies-overview
+title: Deploy secure and dependable IT in the field
 product: outpost
 category: casestudies
 class: overview
 product-name: Outpost
 title: Deploy secure and dependable IT in the field
 summary: Nuvla.io ensures deployment simplicity wherever your field offices are located.
-cfa: /something
+image: /img/banner/outpost.png
 permalink: /casestudies/outpost/overview
 redirect_from:
   - /outpost

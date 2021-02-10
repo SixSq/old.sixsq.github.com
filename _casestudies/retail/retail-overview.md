@@ -1,12 +1,12 @@
 ---
 layout: casestudies-overview
+title: In-store (real-time) analytics
 product: retail
 category: casestudies
 class: overview
 product-name: Retail
-title: In-store (real-time) analytics
 summary: Retail 2.0 — reinventing the shopping experience with meaningful insights.
-cfa: /something
+image: /img/banner/retail.png
 permalink: /casestudies/retail/overview
 redirect_from:
   - /retail

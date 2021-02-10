@@ -1,12 +1,12 @@
 ---
 layout: casestudies-overview
+title: Managing Big Data for Big Science
 product: science
 category: casestudies
 class: overview
 product-name: Science
-title: Managing Big Data for Big Science
 summary: GNSS Big Data processing at the edge to foster innovation
-cfa: /something
+image: /img/banner/science.png
 permalink: /casestudies/science/overview
 video-id: BHzbEDzyfnQ
 redirect_from:
