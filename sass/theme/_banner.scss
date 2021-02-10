@@ -32,6 +32,15 @@
     background-size: auto 100%;
     background-position: left center;
 	}
+	&.banner-overview {
+		background: url(/img/banner/casestudies.png) no-repeat bottom center/cover;
+		@include mobile {
+		}
+    .banner-content {
+      background-color: transparentize(black, 0.7);
+      padding-top: 20px;
+    }
+	}
 	&.banner-city {
 		background: url(/img/banner/city.png) no-repeat bottom center/cover;
 		@include mobile {

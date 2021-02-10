@@ -858,6 +858,11 @@ a.anchor {
     .banner-page-int {
       background-size: auto 100%;
       background-position: left center; } }
+  .banner-page-int.banner-overview {
+    background: url(/img/banner/casestudies.png) no-repeat bottom center/cover; }
+    .banner-page-int.banner-overview .banner-content {
+      background-color: rgba(0, 0, 0, 0.3);
+      padding-top: 20px; }
   .banner-page-int.banner-city {
     background: url(/img/banner/city.png) no-repeat bottom center/cover; }
     .banner-page-int.banner-city .banner-content {

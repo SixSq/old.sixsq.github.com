@@ -1,17 +1,18 @@
 ---
 layout: casestudies-overview
+title:  City Smart Edge Services
+summary: Embed remotely-managed edge devices in city infrastructure to provide future-proof solution. Respond, analyse, predict, govern.
 product: city
 category: casestudies
 class: overview
 product-name: City
-title:  City Smart Edge Services
-summary: Embed remotely-managed edge devices in city infrastructure to provide future-proof solution. Respond, analyse, predict, govern.
-cfa: /something
-permalink: /casestudies/city/overview
+cssclass: casestudy-section casestudy-city-volumlight
 redirect_from:
   - /city
   - /nuvlacity
   - /solutions/nuvlacity/overview
+image: /img/banner/city.png
+permalink: /casestudies/city/overview
 ---
 Edge computing opens up new possibilites for the smart city. Using the [Nuvla.io](/products-and-services/nuvla-io/overview) management platform, smart city operators have not only a real-time snapshot of what is happening throughout the city, but they can also analyse the data provided by edge sensors to manage resources, [fuse data](https://media.sixsq.com/blog/data-fusion-at-the-edge), inform planning and implement strong [governance](https://media.sixsq.com/blog/smart-city-governance-for-open-data-and-edge-computing). Plus they can update, add and upgrade their fleet of apps running at the edge at any time.
 
