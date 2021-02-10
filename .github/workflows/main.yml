@@ -30,4 +30,4 @@ jobs:
         file: ./.container/Dockerfile
         platforms: linux/amd64
         push: true
-        tags: sixsq/nuvla-io.github.com:latest
+        tags: sixsq/sixsq.github.com:latest
