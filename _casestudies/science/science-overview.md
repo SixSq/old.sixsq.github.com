@@ -27,7 +27,7 @@ The volume of raw data produced and stored by the project at the edge and in the
 Users are able to define and run search parameters, allowing them to efficiently interrogate the available data, regardless of location (edge or cloud). In addition, Nuvla.io automatically suggests which applications are available to process that data. Data is automatically and continuously analysed such that non-essential data can be discarded, making sure storage space is optimised. 
 
 ![Big Data Science Architecture](/img/content/diagrams/edge-to-cloud-big-data.png "Big Data Science Architecture")
-{: class="pt-20 pb-20 center highlight-image" style="width: 60%;"}
+{: class="pt-20 pb-20 center highlight-image"}
 
 This rich set of functionalities enables our clients to push their boundaries by bridging the gap between edge and cloud.
 
