@@ -20,5 +20,5 @@ An NGO based in Geneva approached SixSq to help with the deployment of an applic
 ## Here's how it works:
 {: class="pt-20 pb-0"}
 
-![Outpost Architecture](/img/content/diagrams/covid-19-isolation-solution.png "Outpost Architecture")
+![Outpost Architecture](/img/content/diagrams/nuvla-io-outpost.png "Outpost Architecture")
 {: class="pt-20 highlight-image"}
