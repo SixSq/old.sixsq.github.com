@@ -1,7 +1,7 @@
 ---
-title: Always know how your edge is doing
+title: Always know how your edge is doing with notifications and alerts
 image: https://media.sixsq.com/hubfs/hermes-min.png
-link: https://media.sixsq.com/blog/edge-computing-alerts-and-notifications
+link: https://media.sixsq.com/blog/edge-computing-notifications-and-alerts
 top-story: true
 ---
 
