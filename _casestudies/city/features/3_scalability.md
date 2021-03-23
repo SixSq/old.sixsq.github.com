@@ -6,4 +6,4 @@ main-feature: true
 icon: fad fa-warehouse
 ---
 
-In a smart city transformation, starting with one vertical application, in this case lighting, is easier and less risky than rolling out an entire horizontal platform. Cities can follow up with the addition of air quality monitoring, sound pollution tracking systems and much more, without further intrusion into the city’s infrastructure.
+In an smart airport, harbour or city transformation, starting with one vertical application, in this case video analysis or lighting, is easier and less risky than rolling out an entire horizontal platform. Operators can then follow up with the addition sensors and applications, such as audio analysis, air quality monitoring, security and much more, without costly intrusion into the critical infrastructure itself.

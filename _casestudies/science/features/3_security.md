@@ -1,5 +1,5 @@
 ---
-product: science
+product: aerospace
 title: Security
 class: feature
 main-feature: true

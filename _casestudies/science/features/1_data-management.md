@@ -1,5 +1,5 @@
 ---
-product: science
+product: aerospace
 title: Data management
 class: feature
 main-feature: true

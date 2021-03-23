@@ -1,5 +1,5 @@
 ---
-product: science
+product: aerospace
 title: Built for Scale
 class: feature
 main-feature: true

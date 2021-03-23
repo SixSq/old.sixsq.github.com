@@ -1,21 +1,22 @@
 ---
 layout: casestudies-overview
-title: Managing Big Data for Big Science
-product: science
+title: Managing Big Data for Aerospace
+product: aerospace
 category: casestudies
 class: overview
-product-name: Science
+product-name: Aerospace
 summary: GNSS Big Data processing at the edge to foster innovation
 image: /img/banner/science.png
 permalink: /casestudies/science/overview
 video-id: BHzbEDzyfnQ
 redirect_from:
+  - /aerospace
   - /science
   - /nuvlascience
   - /solutions/nuvlascience/overview
 ---
 
-Global Navigation Satellite System (GNSS) refers to a constellation of satellites providing signals from space that transmit positioning and timing (e.g. GPS, Galilei, GLONASS) data to GNSS receivers. The receivers then use this data to determine location. SixSq is working with partners [NSL](https://www.nsl.eu.com/) and [University of Nottingham](https://www.nottingham.ac.uk/) on the GNSS Big Data project, which is creating a disruptive solution to provide the GNSS developer community and public authorities with tools to gather new insights from GNSS data. Our customer is the **European Space Agency ([ESA](https://gssc.esa.int/))**.
+Global Navigation Satellite System (GNSS) refers to a constellation of satellites providing signals from space that transmit positioning and timing (e.g. GPS, Galilei, GLONASS) data to GNSS receivers. The receivers then use this data to determine location. SixSq is working with partners [GMVNSL](https://gmvnsl.com) and [University of Nottingham](https://www.nottingham.ac.uk/) on the GNSS Big Data project, which is creating a disruptive solution to provide the GNSS developer community and public authorities with tools to gather new insights from GNSS data. Our customer is the **European Space Agency ([ESA](https://gssc.esa.int/))**.
 
 ## Here's how it works
 {: class="pt-20 pb-20"}
@@ -31,4 +32,4 @@ Users are able to define and run search parameters, allowing them to efficiently
 
 This rich set of functionalities enables our clients to push their boundaries by bridging the gap between edge and cloud.
 
-This case study is a good example of successful usage of Nuvla.io data management features for the benefits of the Big Data science community built by European Space Agency (ESA) around [GNSS](http://www.esa.int/Our_Activities/Navigation).
+This case study is a good example of successful usage of Nuvla.io data management features for the benefits of the Big Data aerospace community built by European Space Agency (ESA) around [GNSS](http://www.esa.int/Our_Activities/Navigation).
