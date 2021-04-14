@@ -1,5 +1,4 @@
-			<div class="col-md-4 col-sm-6 col-xs-12 item icon animated">
-        <div class="cards">
+	<div class="col-md-4 col-sm-6 col-xs-12 item icon animated cards">
           <div class="top text-center">
           {% if post.image %}
             <img src="{{ post.image }}" alt="{{ post.title }}"/>
@@ -10,12 +9,15 @@
             </div>
           {% endif %}
           </div>
-          <p class="mt-10 center">{{ post.content | strip_html }}</p>
+          <div>
+              <p class="mt-10 pt-20 pb-20 center" style="text-align: justify">{{ post.content | strip_html }}</p>
+          </div>
           {% if post.link %}
             {% assign url = post.link  %}
           {% else %}
             {% assign url = post.url  %}
           {% endif %}
-          <a class="btn-sixsq color-3 text-center bottom" href="{{ url }}">Take a Look</a>
-        </div>
-			</div>
+          <div>
+              <a class="btn-sixsq color-3 text-center bottom" href="{{ url }}">Take a Look</a>
+          </div>
+	</div>

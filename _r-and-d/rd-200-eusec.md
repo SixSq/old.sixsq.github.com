@@ -2,7 +2,7 @@
 layout: article-r-and-d
 title: EU-SEC
 head-title: EU-SEC&#58; portable, inexpensive, self managing &amp; secure cloud
-image: /img/logo/logo_EU_SEC.jpeg
+image: /img/logo/logo_EU_SEC.png
 class: r-and-d
 category: resources
 product: about

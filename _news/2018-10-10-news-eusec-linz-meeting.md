@@ -2,7 +2,7 @@
 layout: news-article
 short-title: European Security Certification on the Agenda in Linz
 title: European Security Certification on the Agenda in Linz
-image: /img/logo/logo_EU_SEC.jpeg
+image: /img/logo/logo_EU_SEC.png
 product: news
 product-name: News
 class: news
