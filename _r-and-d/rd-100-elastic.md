@@ -52,6 +52,6 @@ The project involves nine partners:
 
 - [Gestione Ed Eserizio del Sistema Tranviario SPA](https://www.ratpdev.com/en/home), Italy
 
-- [Citta Metropolitana di Firenze](https://www.ratpdev.it/gest/), Italy
+- [Citta Metropolitana di Firenze](http://www.cittametropolitana.fi.it), Italy
 
 
