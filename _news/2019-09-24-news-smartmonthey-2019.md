@@ -15,7 +15,7 @@ The city of Monthey wants to live up to its European Energy Award and has its si
 
 **The Background**
 
-Between 2015 and 2017, mercury vapour luminaires in Monthey were replaced by LEDs and equipped with a remote management system based on [Owlet](https://www.schreder.com/en/products/owlet-iot-smart-city-control-systems), a solution for optimising energy consumption developed by [Schréder Swiss SA](https://www.schreder.com/fr-ch). Smart lighting is made possible through the use of sensors detecting presence of traffic on the roads. This provides the right light at the right time. The luminaires can be further leveraged by the installation of sensors to carry out tasks such as counting vehicles and measuring noise pollution, etc. Anonymised data derived from these sensors can be used to inform the city's decision making on mobility and other issues. 
+Between 2015 and 2017, mercury vapour luminaires in Monthey were replaced by LEDs and equipped with a remote management system based on [Owlet](https://www.schreder.com/en/product-technical-control-system/owlet-iot), a solution for optimising energy consumption developed by [Schréder Swiss SA](https://www.schreder.com/fr-ch). Smart lighting is made possible through the use of sensors detecting presence of traffic on the roads. This provides the right light at the right time. The luminaires can be further leveraged by the installation of sensors to carry out tasks such as counting vehicles and measuring noise pollution, etc. Anonymised data derived from these sensors can be used to inform the city's decision making on mobility and other issues. 
 
 **The Smart Solution**
 

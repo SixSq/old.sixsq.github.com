@@ -10,7 +10,7 @@ top-story: false
 in-focus: false
 ---
 
-[Schréder Swiss](http://www.schreder.com/), one of Europe’s leading suppliers of street lighting equipment, in partnership with [EKZ (Elektrizitätswerke des Kantons Zürich)](https://www.ekz.ch/de/ueber-ekz/newsroom/medienmitteilungen-2018/watt-dor-verkehrsbeobachtendes-licht.html), has been presented with the Watt d’Or 2018 award for the Energy Technologies Category. The prize is awarded by the Swiss Federal Office of Energy to innovative Swiss companies and organisations which have developed practical, sustainable energy solutions.
+[Schréder Swiss](http://www.schreder.com/), one of Europe’s leading suppliers of street lighting equipment, in partnership with [EKZ (Elektrizitätswerke des Kantons Zürich)](https://www.bfe.admin.ch/bfe/en/home/swiss-federal-office-of-energy/watt-d-or/winners-of-the-watt-dor-awards/winners-of-the-2018-watt-d-or-awards.html), has been presented with the Watt d’Or 2018 award for the Energy Technologies Category. The prize is awarded by the Swiss Federal Office of Energy to innovative Swiss companies and organisations which have developed practical, sustainable energy solutions.
 
 The new light units designed by the Canton of Zurich (EKZ) and Schréder Swiss give real meaning to the term “Intelligent Lighting”. They make it possible to adapt light intensity gradually and continuously, according to the volume of traffic. This not only improves energy efficiency while reducing light pollution, but also provides benefits to residents and nocturnal creatures. Depending on the situation, this intelligent lighting system delivers up to **70% energy savings**.
 

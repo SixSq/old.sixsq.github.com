@@ -50,7 +50,7 @@ The project involves nine partners:
 
 - [THALES Italia SPA](https://www.thalesgroup.com/en/italy), Italy
 
-- [Gestione Ed Eserizio del Sistema Tranviario SPA](https://www.ratpdev.it/gest/), Italy
+- [Gestione Ed Eserizio del Sistema Tranviario SPA](https://www.ratpdev.com/en/home), Italy
 
 - [Citta Metropolitana di Firenze](https://www.ratpdev.it/gest/), Italy
 
