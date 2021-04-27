@@ -38,7 +38,7 @@ _“With Nuvla.io, Securaxis can share the hardware blueprint of what the soluti
 - Gaetan Vannay
 - Chief of Staff
 - +41 79 777 0341
-- [gvannay@securaxis.com](gvannay@securaxis.com)
+- [gvannay@securaxis.com](mailto:gvannay@securaxis.com)
 
 <br/>
 **SixSq**
@@ -46,7 +46,7 @@ _“With Nuvla.io, Securaxis can share the hardware blueprint of what the soluti
 - Louise Merifield
 - Operations Manager 
 - +41 77 44 68 170
-- [merifield@sixsq.com](merifield@sixsq.com) 
+- [merifield@sixsq.com](mailto:merifield@sixsq.com) 
 
 <br/>
 **About Securaxis**
