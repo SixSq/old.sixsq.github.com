@@ -9,7 +9,7 @@ cssclass: terms
 category: legal
 product: terms
 product-name: Terms
-icon: fad fa-file-certificate
+icon: fas fa-file-certificate
 banner-icon: fad fa-file-certificate
 permalink: /terms/app-license
 applicable_from: 01/05/2021
