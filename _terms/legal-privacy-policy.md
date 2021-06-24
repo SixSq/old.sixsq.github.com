@@ -21,7 +21,7 @@ last_update: 28/04/2020
 1\. Who are we?
 ---  
 
-The Software, Products and Services made available to you are provided by SixSq Sàrl (SixSq) located at: {{ site.address }}. 
+The Software, Products and Services made available to you are provided by SixSq SA (SixSq) located at: {{ site.address }}. 
 
 SixSq is the data controller which collects your personal information, thus deciding (upon your consent) how that data is processed and for what purposes. 
 
