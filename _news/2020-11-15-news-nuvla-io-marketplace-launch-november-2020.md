@@ -7,7 +7,7 @@ product: news
 product-name: News
 class: news
 category: media
-in-focus: true
+in-focus: false
 css-style-image: width&colon; 80&percnt;&semi; padding-top&colon; 10px&semi;
 ---
 
