@@ -1,4 +1,13 @@
 .section-news-article {
+  font-size: 16px;
+  font-weight: 300;
+  p {
+    text-align: justify;
+  }
+  h3 {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
   strong {
     font-weight: 800;
   }
