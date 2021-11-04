@@ -11,7 +11,7 @@
 			<div class="container">
 				<div class="row justify-content-center icon-is-it-for pb-50 pt-50">
           {% for post in site.jobs %}
-            {% include highlighted-with-image-item.html %}
+            {% include highlighted-with-image-item-no-date.html %}
           {% else %}
             {{ page.content | markdownify }}
           {% endfor %}

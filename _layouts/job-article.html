@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+  <body class="sixsq bg-grey-f9">
+    {% include standard-header.html %}
+	<main>
+    {% include jobs-item-banner.html %}
+    {% include {{ page.product }}-sub-menu.html %}
+    <section class="section-news-article">
+      <div class="container mt-20">
+        <div class="row">
+          <!-- Social network shares -->
+          <div class="col-md-8">
+            <h1 class="list_title mt-10 mb-10">{{ page.title }}</h1>
+            {% include social-media-share.html %}
+            {% if page.class == "news" or page.class == "jobs" %}
+              <div class="date">{{ page.date | date: "%d %B %Y" }} - Geneva, Switzerland</div>
+            {% endif %}
+            {% if page.author %}
+              <div class="date">{{ page.date | date: "%d %B %Y" }} - by {{ page.author }}</div>
+            {% endif %}
+          </div>
+          <div class="col-md-4">
+            {% if page.image %}
+              <img style="padding-top: 10px; max-height: 21em; max-width: 21em" src="{{ page.image }}" />
+            {% endif %}
+          </div>
+          <div class="col-md-12 mb-20">
+            {{ page.content | markdownify }}
+            {% include about-sixsq.md %}
+            {% include social-media-share.html %}
+          </div>
+        </div>
+      </div>
+    </section>
+
+  <script type="text/javascript">
+    window.twttr=(function(d,s,id){var t,js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return}js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);return window.twttr||(t={_e:[],ready:function(f){t._e.push(f)}})}(document,"script","twitter-wjs"));
+    </script>
+    
+    <script type="text/javascript">$("#menu_{{ page.class }} > a, nav li#sub_{{ page.sub }} > a").addClass("current");</script>
+    {% include whats-next.html %}
+		<!-- End Section News -->	
+      {% include primary-footer.html %}
+    </main>
+    {% include secondary-footer.html %}
+  </body>
+</html>
