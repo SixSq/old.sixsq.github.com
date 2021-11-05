@@ -41,7 +41,7 @@ Further qualifications and experience will be considered. If you can bring somet
 * 5+ years Technical experience with Edge & Cloud Solutions and/or SaaS Services
 * 5+ years of experience in managing, integrating or building/developing/deploying applications.
 * BS degree or equivalent; advanced degree desirable in Computer Science or Technology related degree.
-* Fluency in French and English . Other languages are an asset 
+* Fluency in French and English. Other languages are an asset.
 
 Equivalent qualifications will be considered.  Be creative!
 

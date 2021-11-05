@@ -13,10 +13,10 @@ The Sales Executive is a customer trusted advisor, who contributes to the design
 
 ### The role
 
-  * Meet or exceed agreed sales targets on assigned accounts/geography
-  * Create and manage Pursuits & Licensing Plan for the assigned accounts
-  * Land on time Volume Licensing revenue (generating Annual Recurring Revenue) by overseeing the deals from identification to close
-  * Share best practices and learnings with the rest of the SixSq team 
+  * Meet or exceed agreed sales targets on assigned accounts/geography.
+  * Create and manage Pursuits & Licensing Plan for the assigned accounts.
+  * Land on time Volume Licensing revenue (generating Annual Recurring Revenue) by overseeing the deals from identification to close.
+  * Share best practices and learnings with the rest of the SixSq team.
 
 
 ### What to expect
