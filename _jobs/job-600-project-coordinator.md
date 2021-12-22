@@ -50,8 +50,7 @@ We are looking for candidates with the following skills and experience:
 - Minimum 2-year experience in project coordination
 
 
-Nice to have
-----
+**Nice to have**
 
 - Experience in project financial reporting
 - Fluent in French
@@ -59,14 +58,12 @@ Nice to have
 - Experience in European or international projects
 
 
-Education
-----
+**Education**
 
 University Degree and/or equivalent in-work experience.
 
 
-Language skills
-----
+**Language skills**
 
 SixSq operates in English and French. All official documentation is written in English.
 

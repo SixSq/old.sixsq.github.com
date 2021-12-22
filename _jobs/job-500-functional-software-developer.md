@@ -51,8 +51,7 @@ We are looking for candidates with the following skills and experience:
 - Good command of Linux (Nuvla.io runs on Ubuntu)
 
 
-Nice to have
-----
+**Nice to have**
 
 - Functional language programming experience (e.g. Clojure/Clojurescript, Scala, Haskell)
 - Experience with micro-service architecture (Nuvla.io is a set of Docker images orchestrated using Kubernetes)
@@ -66,14 +65,12 @@ Nice to have
 - E-payment integration experience (e.g. Stripe, Paypal) - Nuvla.io uses Stripe
 
 
-Education
-----
+**Education**
 
 University Degree or equivalent in a technical discipline and/or in-work experience.
 
 
-Language skills
-----
+**Language skills**
 
 SixSq operates in English and French. All official documentation is written in English.
 
