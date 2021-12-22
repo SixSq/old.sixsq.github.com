@@ -5,7 +5,6 @@ product: about
 class: jobs
 category: about
 product-name: Jobs
-summary: Our team of software developers, innovators and sales force enthusiasts is our most precious asset. Do you have what it takes to be part of the adventure?
 ---
 
 
