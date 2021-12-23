@@ -47,7 +47,7 @@ We are looking for candidates with the following skills and experience:
 - Ability to communicate effectively with internal teams, partners and customers
 - Experience or interest in agile methodologies (e.g. Scrum, Kanban, DevOps)
 - Experience in integration with Elasticsearch, other NoSQL databases, Kafka or Zookeeper
-- Experience of the bash scripting language
+- Experience of a shell scripting language (e.g. bash)
 - Good command of Linux (Nuvla.io runs on Ubuntu)
 
 

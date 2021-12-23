@@ -47,7 +47,7 @@ We are looking for candidates with the following skills and experience:
 - Ability to communicate effectively with internal teams, partners and customers
 - Experience or interest in agile methodologies (e.g. Scrum, Kanban, DevOps)
 - Experience in Docker and/or Kubernetes
-- Experience of the bash scripting language
+- Experience of a shell scripting language (e.g. bash)
 - Good knowledge of Linux (NuvlaEdge micro-services are often based on Ubuntu)
 
 
