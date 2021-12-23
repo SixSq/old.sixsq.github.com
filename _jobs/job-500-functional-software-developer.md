@@ -49,6 +49,8 @@ We are looking for candidates with the following skills and experience:
 - Experience in integration with Elasticsearch, other NoSQL databases, Kafka or Zookeeper
 - Experience of a shell scripting language (e.g. bash)
 - Good command of Linux (Nuvla.io runs on Ubuntu)
+- Experience with Rest APIs
+- Experience with React for browser/UI development
 
 
 **Nice to have**
