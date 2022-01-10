@@ -75,7 +75,7 @@ SixSq operates in English and French. All official documentation is written in E
 
 The candidate must be a Swiss or European citizen. Having already a Swiss work permit would be an advantage.
 
-We expect you to start early 2022 and will receive training on SixSq product portfolio overview and detailed processes, methodology and tools.
+We expect you to start early 2022 and you will receive training on SixSq product portfolio overview and detailed processes, methodology and tools.
 
 Travel within Europe for short periods should be expected, as part of our involvement in European research projects and customer progress meetings.
 
