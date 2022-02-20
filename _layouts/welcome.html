@@ -121,16 +121,14 @@
   		</section>
 
   		<section class="section-full section-top section-is-it-for section-news relative">
-  			<div class="background-dx"></div>
-  			<div class="background-sx"></div>
+        <!-- <div class="background-dx"></div>
+        <div class="background-sx"></div> -->
   			<div class="container mb-20">
           <h2 class="pb-10 fw700 text-center">In Focus.</h2>
   				<div class="row icon-is-it-for">
             {% for post in site.news reversed %}
               {% if post.in-focus %}
-                <div class="col-lg-4 col-md-6 col-sm-12 item icon animated" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
                 {% include welcome-media-item.html action-all='News' %}
-                </div>
               {% endif %}
             {% endfor %}
 					</div>
@@ -146,9 +144,7 @@
   				<div class="row icon-is-it-for">
             {% for post in site.blog reversed %}
               {% if post.top-story == true %}
-              <div class="col-lg-4 col-md-6 col-sm-12 item icon animated" style="align-item: center; display: flex; flex-direction: column; justify-content: space-between">
-              {% include welcome-media-item.html action-all='Blogs' %}
-              </div>
+                {% include welcome-media-item.html action-all='Blogs' %}
               {% endif %}
             {% endfor %}
 					</div>
