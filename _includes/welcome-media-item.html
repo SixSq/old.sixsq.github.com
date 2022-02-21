@@ -1,4 +1,4 @@
-<div class="item" style="display: flex; flex-direction: column;">
+<div class="col-md-4 col-sm-6 col-xs-12 item icon animated cards">
   <div class="image-content cropped">
     <img style="width: 100%;{{ post.css-style-image }}" src="{{ post.image }}" alt="news-homepage">
 	</div>
@@ -10,7 +10,7 @@
 				{{ post.title }}
 			{% endif %}
 		{% endcapture %}
-    <div style="min-height: 175px">
+    <div style="min-height: 200px">
     {% if include.action-all == "Blogs" %}
       <a href="{{ post.link }}">
         <h3 class="mb-10">{{ _title }}</h3>
@@ -20,8 +20,8 @@
         <h3 class="mb-10">{{ _title }}</h3>
       </a>
     {% endif %}
-  		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
   		<p class="date">{{ post.date | date: "%d %B %Y" }}</p>
+  		<p>{{ post.content | strip_html | truncatewords: 30 }}</p>
     </div>
 	</div>
 	<div class="section-news-button ml-20" style="align-self: flex-end;">

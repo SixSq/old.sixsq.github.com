@@ -1,13 +1,15 @@
 		<div class="col-md-4 col-sm-6 col-xs-12 item icon animated cards">
             {% if post.image %}
-              <img src="{{ post.image }}" alt="{{ post.title }}" width="100%">
+              <div class="image-content cropped">
+                <img style="width: 100%;{{ post.css-style-image }}" src="{{ post.image }}" alt="news-homepage">
+              </div>
             {% endif %}
             {% if post.icon %}
               <div class="icon-title">
                 <i class="fa {{ post.icon }}"></i>
               </div>
             {% endif %}
-            <h3 class="mt-20 text-center fw600">{{ post.title }}</h3>
+            <h3 class="mt-20 fw600">{{ post.title }}</h3>
             <div>
                 <p class="date mt-20" style="text-align: left">{{ post.date | date_to_long_string }}</p>
 				<p class="mt-10" style="text-align: justify">{{ post.content | strip_html | truncatewords: 30 }}</p>
