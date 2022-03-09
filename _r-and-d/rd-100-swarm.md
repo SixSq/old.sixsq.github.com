@@ -7,7 +7,7 @@ class: r-and-d
 category: resources
 product: about
 product-name: R&D
-permalink: /r-and-d/elastic
+permalink: /r-and-d/swarm
 ---
 
 ### Smart and Widely-distributed Appliances for Renewable energy Management (SWARM) 
