@@ -10,14 +10,33 @@ product-name: R&D
 permalink: /r-and-d/eusec
 ---
 
-The EU-SEC project is studying ways to improve approaches to trust, assurance and compliance in the ICT market. To achieve its goal the project EU-SEC will create a framework under which existing, certification and assurance approaches in the ICT market can co-exist.
+**Investigating effective and efficient approaches to trust, assurance and compliance in the ICT market**
 
-The EU-SEC framework will equip stakeholders in the ICT security ecosystem with a validated governance structure, a reference architecture, and the corresponding set of tools to improve the efficiency and effectiveness of their current approach to security governance, risk management, assurance and compliance. The EU-SEC aims to enhance trustworthiness and transparency in the ICT supply chain through business cases developed and piloted by industrial partners. 
+The [EU-SEC](https://www.sec-cert.eu/) project studied ways to improve approaches to trust, assurance and compliance in the ICT market. To achieve its goal, EU-SEC created a framework under which existing certification and assurance approaches in the ICT market could co-exist.
 
-**Funding** EU-SEC is funded through the European Commission's H2020
-  programme under grant agreement 731845 . SixSq is funded by SERI under contract number 17.0004.
+The multinational and multidisciplinary consortium worked to improve the effectiveness and efficiency of existing approaches for assurance and compliance in the ICT market. The three core ideas behind the EU-SEC project were that an effective and efficient approach to trust, assurance and compliance has to:
 
-The project involves nine partners from seven countries:
+- Balance the need of nations and business sectors to develop their specific certification schemas, bearing in mind the need to reduce compliance costs
+
+- Avoid humans, namely auditors, doing activities that could be performed by machines (e.g. data collection)
+
+- Ensure that accurate and reliable evidence/information is provided to the relevant people, in a timely fashion, leveraging automatic means as much as possible.
+
+
+The project's main outcomes were:
+
+- [Multi-Party Recognition Framework](https://www.sec-cert.eu/eu-sec/Multi-Party_Recognition_Framework)
+
+- [Continuous Auditing Certification](https://www.sec-cert.eu/eu-sec/Continuous_Auditing_Certification)
+
+- [Privacy Code of Conduct](https://www.sec-cert.eu/eu-sec/pcoc)
+
+**Funding** 
+
+EU-SEC was funded through the European Commission's H2020
+  programme under grant agreement 731845. SixSq was funded by SERI under contract number 17.0004.
+
+The project involved nine partners from seven countries:
 
 - [Fraunhofer](https://www.fraunhofer.de), Germany. Consortium leader.
 

@@ -10,9 +10,7 @@ product-name: R&D
 permalink: /r-and-d/password
 ---
 
-Security and data protection issues are a significant barrier to wider
-use of cloud platforms.  PaaSword focused on reducing those barriers by
-providing trusted, secure storage on cloud services.  It was used for
+Security and data protection issues are a significant barrier to wider use of cloud platforms.  PaaSword focused on reducing those barriers by providing trusted, secure storage on cloud services.  It was used for
 encryption, advanced policy-based placement and context-aware access
 control to realize secure, trusted cloud storage. 
 
@@ -27,11 +25,11 @@ components.
 **Funding** PaaSword was funded through the European Commission's H2020
   programme under grant agreement 644814. SixSq was supported by the Swiss State Secretariat for Education, Research and Innovation **[SERI][seri]** under contract number 15.0047.
 
-**Duration:** 36 Months (ended 31/12/2017) 
+**Duration:** 36 Months (ended December 2017) 
 
 **Partners:** 10 lead by [CAS][cas]
 
-**Goal for SixSq:** Main contribution was bringing a “use case” for
+**Goal for SixSq:** Main contribution was bringing a use case for
   deployment of applications needing secure storage to the cloud.
   Integration of project software into SlipStream *Platform as a
   Service* feature set. SlipStream was the forerunner to [Nuvla.io](https://nuvla.io/).

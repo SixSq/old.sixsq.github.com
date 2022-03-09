@@ -10,21 +10,17 @@ product-name: R&D
 permalink: /r-and-d/scissor
 ---
 
-With a holistic approach, [SCISSOR][web] designs a new generation
+With a holistic approach, [SCISSOR][web] designed a new generation
 SCADA security monitoring framework to allow for connected, yet
 secure, industrial control systems.  The framework contains four
 primary components: monitoring, control, analysis/decision, and a
 human-machine interface.  Cloud technologies touch all of these
-components, giving the system a unprecedented level of flexibility,
+components, giving the system an unprecedented level of flexibility,
 computing power and responsiveness.
 
-SixSq brings its NuvlaBox concept and technology to the project.  This
-allows a cloud computing platform to be embedded directly into the
-system allowing tailored, local analysis of monitoring information.
-Use of the NuvlaBox also allows remote control of the computing
-platform through SlipStream.  Through the project, SixSq will further
-enhance the capabilities of the NuvlaBox while hardening both the
-hardware and software for challenging real-world SCADA deployment.
+SixSq brought its [NuvlaBox](https://sixsq.com/products-and-services/nuvlabox/overview) concept and technology to the project.  Embedding a cloud computing platform directly into the system allowed tailored, local analysis of monitoring information.
+
+Use of the NuvlaBox software also provided remote control of the computing platform.  Through the project, SixSq further enhanced the capabilities of the NuvlaBox while improving resilience of the software for challenging real-world SCADA deployments.
 
 **Project website:** [https://cordis.europa.eu/project/id/644425][web]
 
@@ -39,7 +35,7 @@ hardware and software for challenging real-world SCADA deployment.
 
 **Goal for SixSq:** Bringing NuvlaBox as platform for embedded cloud.
   SlipStream and concepts for general integration and remote control
-  of NuvlaBoxes.
+  of NuvlaBoxes. SlipStream was the forerunner to [Nuvla.io](https://nuvla.io/).
 
 [web]: https://cordis.europa.eu/project/id/644425
 [assystem]: http://www.assystem.com/en/home.html
