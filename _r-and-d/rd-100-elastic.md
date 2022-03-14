@@ -18,8 +18,7 @@ ELASTIC has the three main objectives:
  
 - The vision of ELASTIC is that by extending the **elasticity concept across the compute continuum in a fog computing environment**, combined with the usage of advanced hardware architectures at the edge side, can significantly increase the capabilities of the extreme-scale analytics integrating both responsive data-in-motion and latent data-at-rest analytics into a single solution.
  
-- ELASTIC will consider a realistic yet visionary **smart mobility use-case**, which will elaborate of huge amounts of data coming from a large set of IoT sensors distributed along the Florence tramway network. ELASTIC will adopt a very innovative federated/distributed fog architecture, supporting elasticity across the compute continuum whilst fulfilling real-time, energy, communication and secure properties.
-
+- ELASTIC will consider a realistic yet visionary **[smart mobility use-case](https://elastic-project.eu/use-case)**, which will elaborate of huge amounts of data coming from a large set of IoT sensors distributed along the Florence tramway network. ELASTIC will adopt a very innovative federated/distributed fog architecture, supporting elasticity across the compute continuum whilst fulfilling real-time, energy, communication and secure properties.
 
 
 **SixSq's role in the project:** 
@@ -30,7 +29,7 @@ Within the project, SixSq will facilitate the implementation of a transparent cl
 
 **Funding:** The ELASTIC project has received funding from the European Union’s Horizon 2020 research and innovation programme under the grant agreement Nº 825473.
 
-**Duration:** 01 December 2018 to 30 November 2021.
+**Duration:** 01 December 2018 to 30 June 2022.
 
 **Partners:** 
 
