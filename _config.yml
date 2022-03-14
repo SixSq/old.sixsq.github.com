@@ -7,6 +7,7 @@ summary: Nuvla.io is an edge management platform. Nuvla.io is an edge management
 keywords: edge management service, edge management platform, edge as a service, edge computing, cloud computing, Nuvla.io, Nuvla, NuvlaBox, Science, Outpost, Smart City, IoT, IIoT, Industry 4.0, artificial intelligence, ai, machine learning, ml, big data, Docker, Kubernetes, Docker Swarm, ARM, x86, single board computer, iot management platform, iot management service, fog computing, fog management platform, fog management service
 google-tag-id: GTM-M77XBLH
 color-primary: #9B1313
+calendly-href: https://calendly.com/nuvla-io-demo/30min?hide_gdpr_banner=1
 collections:
   blog:
     output: false
