@@ -6,7 +6,7 @@
 
 .section-news {
 	@media (max-width: 767px) {
-		padding-bottom: 0px;
+		padding-bottom: 10px;
 	}
   .row > div {
   	@media (max-width: 767px) {
@@ -73,8 +73,8 @@
 	}
 	.video-section {
 		@media (max-width: 767px) {
-			margin-top: 50px;
-			margin-bottom: 50px;
+			margin-top: 0px;
+			margin-bottom: 0px;
 		}
 		.content-video {
     	position: relative;

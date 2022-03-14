@@ -5,29 +5,31 @@
     {% include welcome-header.html %}
     <main>
       <section class="default-banner">
-      	<div class="container banner-content pt-0 pb-20">
-  				<div class="row justify-content-center">
+      	<div class="container banner-content pt-0">
+  				<div class="row justify-content-center video-section">
   					<div class="col-md-12 section-title text-center">
           		<h2 class="header mb-20">{{ page.header }}</h2>
           		<h2 class="subheader">{{ page.subheader }}
                 <!-- <span style="text-decoration: underline;">with advanced security</span> -->
               </h2>
   					</div>
-    			<div class="container">
-    				<div class="row justify-content-center pt-20">
-    					<div class="col-md-12 section-title text-center">
-    							<h2 class="" style="font-size: 30px;">Why the Edge?</h2>
-    					</div>
-				</div>
-				<div class="row justify-content-center pt-20 pb-40">
-					<div class="col-md-12 section-title text-center">
-            <img class="highlight pl-0 pt-0 pr-0 pb-0 highlight" src="/img/content/animations/why-edge.gif">
-					</div>
-				</div>
-			</div>
-  				<a class="btn-sixsq all" href="https://nuvla.io">{{ page.header-action}}</a>
-      	</div>
+				  </div>
+        </div>
       </section>
+  	  <section class="section-full bg-grey-f9 section-news">
+  			<div class="container text-center" style="display: flex; justify-content: center">
+          {% for post in site.welcome %}
+            {% if post.section == 'video-main' %}
+              {% if post.class == 'video' %}
+                {% include welcome-video.html %}
+              {% endif %}
+            {% endif %}
+          {% endfor %}
+  			</div>
+				<div class="col-md-12 section-title text-center pb-20">
+          <a class="btn-sixsq all" href="https://nuvla.io">{{ page.header-action}}</a>
+    		</div>
+  		</section>
       <!-- % include welcome-webinar.html % -->
       <!-- <section id="who-is-it-for" class="pt-20 section-is-it-for bg-grey-f9">
         <div class="container">
@@ -97,8 +99,10 @@
   	  <section class="section-full bg-grey-f9 section-news relative">
   			<div class="container text-center" style="display: flex; justify-content: center">
           {% for post in site.welcome %}
-            {% if post.class == 'video' %}
-              {% include welcome-video.html %}
+            {% if post.section == 'video-feature' %}
+              {% if post.class == 'video' %}
+                {% include welcome-video.html %}
+              {% endif %}
             {% endif %}
           {% endfor %}
   			</div>

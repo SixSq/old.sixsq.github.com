@@ -9,7 +9,9 @@
 								<h3 class="fw600"><a href="{{ post.link }}">{{ post.subtitle }}</a></h3>
 								<p>{{ post.content }}</p>
 							</div>
+              {% if post.show-button == true %}
 							<div class="section-news-button pt-10 mb-20 mr-20" style="align-self: center;">
 								<a class="btn-sixsq all" href="/media/videos">All videos</a>
 							</div>
+              {% endif %}
 						</div>
