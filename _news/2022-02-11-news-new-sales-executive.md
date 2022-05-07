@@ -2,7 +2,7 @@
 layout: news-article
 short-title: SixSq pleased to announce appointment of new Sales Executive
 title: SixSq pleased to announce appointment of new Sales Executive
-image: /img/staff/claire.png
+image: /img/content/news/claire.png
 product: news
 product-name: News
 class: news

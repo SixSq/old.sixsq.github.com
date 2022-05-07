@@ -2,7 +2,7 @@
 layout: news-article
 short-title: Bilal Bouchelaghem joins SixSq as Sales Executive
 title: Bilal Bouchelaghem joins SixSq as Sales Executive
-image: /img/staff/bilal.jpg
+image: /img/content/news/bilal.jpg
 product: news
 product-name: News
 class: news

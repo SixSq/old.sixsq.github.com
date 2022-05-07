@@ -1,6 +1,6 @@
 ---
 name: Konstantin Skaburskas
-title: Senior Software Engineer
+title: Tech. Lead + Scrum Master
 training: MSc Biomedical Engineering 
 misc: Ex-CERN
 image: /img/staff/konstan.png

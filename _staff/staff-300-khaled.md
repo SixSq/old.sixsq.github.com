@@ -1,6 +1,6 @@
 ---
 name: Khaled Basbous
-title: Software Engineer
+title: Senior Software Engineer
 training: MSc Computer Engineering
 image: /img/staff/khaled.png
 class: staff
