@@ -29,7 +29,7 @@ last_update: 28/04/2020
 
     c. *Functionality cookies*. These are used to recognise you when you return to our websites. This enables us to personalise our content for you, greet you by name and remember your preferences (for example, your choice of language or region).
 
-5. Please note that third parties (including, for example, providers of external services like web traffic analysis services) may also use cookies, over which we have no control (e.g. Hubspot, Google, Freshdesk, Intercom). These cookies are likely to be analytical/performance cookies or targeting cookies.
+5. Please note that third parties (including, for example, providers of external services like web traffic analysis services) may also use cookies, over which we have no control (e.g. Hubspot, Google, Freshdesk, Intercom, Calendly). These cookies are likely to be analytical/performance cookies or targeting cookies.
 
 6. You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our sites.
 
@@ -39,11 +39,13 @@ last_update: 28/04/2020
 
 9. One of the Microsoft cookies is not a session cookie but a persistent cookie. This particular cookie registers when you first visit our websites and will record any subsequent visits you may make. This cookie will be stored on your hard drive unless you actively delete it. See [Microsoft Privacy terms](https://privacy.microsoft.com/en-us/privacystatement#maincookiessimilartechnologiesmodule) for detail.
 
-10. We do not use cookies to identify you but to improve your experience of our sites, however, you can choose not to accept the cookies SixSq uses. Should you disable all cookies, you will still be able to access our websites although some aspects of its functionality may be impaired. If you want to block cookies you can do so through your internet browser.
+10. One of the Calendly cookies is not a session cookie but a persistent cookie. This particular cookie registers when you first visit our websites and will record any subsequent visits you may make. This cookie will be stored on your hard drive unless you actively delete it. See [Calendly Privacy terms](https://calendly.com/privacy) for detail.
 
-11. If you have any questions or comments about our Cookie Notice, communicate with us through [info@sixsq.com](mailto:info@sixsq.com) or write to us at:
+11. We do not use cookies to identify you but to improve your experience of our sites, however, you can choose not to accept the cookies SixSq uses. Should you disable all cookies, you will still be able to access our websites although some aspects of its functionality may be impaired. If you want to block cookies you can do so through your internet browser.
 
-- SixSq Sarl
+12. If you have any questions or comments about our Cookie Notice, communicate with us through [info@sixsq.com](mailto:info@sixsq.com) or write to us at:
+
+- SixSq SA
 - Route de Meyrin, 267 
 - 1217 Meyrin 
 - Geneva 
