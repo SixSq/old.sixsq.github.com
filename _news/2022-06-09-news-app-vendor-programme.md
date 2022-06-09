@@ -2,14 +2,13 @@
 layout: news-article
 short-title: SixSq announces Nuvla.io App Vendor Programme to unlock business at the edge
 title: SixSq announces Nuvla.io App Vendor Programme to unlock business at the edge 
-image: /img/content/nuvla/nuvla.io_logo_red_on_transparent_512px.png
+image: /img/content/news/app-vendor-programme.png
 product: news
 product-name: News
 class: news
 category: media
 top-story: true
 in-focus: true
-css-style-image: padding-top&colon; 50px&semi;
 ---
 
 Nuvla.io App Vendor Programme enables:
@@ -65,7 +64,7 @@ Operations Manager and Co-founder
 <br/>
 +41 77 44 68 170
 <br/>
-[merifield@sixsq.com](merifield@sixsq.com)
+[merifield@sixsq.com](mailto:merifield@sixsq.com)
 
 
 
@@ -79,7 +78,7 @@ SixSq is part of the Ekinops Group, a leading network equipment and solutions pr
 For more information, visit: 
 <br/>
 [sixsq.com](https://sixsq.com/)
-
+<br/>
 [ekinops.com](https://www.ekinops.com/)
 
 
