@@ -8,7 +8,7 @@ product-name: News
 class: news
 category: media
 top-story: false
-in-focus: false
+in-focus: true
 css-style-image:
 ---
 
