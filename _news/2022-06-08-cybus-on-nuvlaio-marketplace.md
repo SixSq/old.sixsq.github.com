@@ -38,7 +38,7 @@ Operations Manager and Co-founder
 <br/>
 +41 77 44 68 170
 <br/>
-[merifield@sixsq.com](merifield@sixsq.com)
+[merifield@sixsq.com](mailto:merifield@sixsq.com)
 
 **Cybus**
 

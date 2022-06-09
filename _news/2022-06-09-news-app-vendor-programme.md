@@ -23,7 +23,7 @@ Nuvla.io App Vendor Programme enables:
 
 Building on the success of [Nuvla.io](https://nuvla.io/) B2B SaaS, edge solution experts SixSq SA, an [Ekinops](https://www.ekinops.com/) company, today announced the launch of the **Nuvla.io App Vendor Programme to accelerate the delivery and monetisation of edge computing applications.** 
 
-SixSq’s Nuvla.io is a proven digital platform for industrialisation and automation of edge applications and device management.
+SixSq’s Nuvla.io is a proven B2B digital platform for industrialisation and automation of containerised edge applications and device management.
 
 
 ### Delivering simplified go-to-market for App Vendors
@@ -79,7 +79,30 @@ For more information, visit:
 <br/>
 [sixsq.com](https://sixsq.com/)
 <br/>
-[ekinops.com](https://www.ekinops.com/)
+
+### About Ekinops
+
+Ekinops is a leading provider of open, trusted and innovative network connectivity solutions to service providers around the world. Our programmable and highly scalable solutions enable the fast, flexible, and cost-effective deployment of new services for both high-speed, high-capacity optical transport as well as virtualization-enabled managed enterprise services. 
+
+Our product portfolio consists of three highly complementary product and service sets: EKINOPS360, OneAccess and Compose.
+EKINOPS360 provides optical transport solutions for metro, regional and long-distance networks with WDM for high-capacity point-to-point, ring, and optical mesh architectures, and OTN for improved bandwidth utilization and efficient multi-service aggregation.
+
+OneAccess offers a wide choice of physical and virtualized deployment options for access network functions.
+Compose supports service providers in making their networks software-defined with a variety of software management tools and services, including the scalable SD-WAN Xpress and SixSq Edge-to-Cloud solutions.
+As service providers embrace SDN and NFV deployment models, Ekinops enables future-proofed deployment today, enabling operators to seamlessly migrate to an open, virtualized delivery model at a time of their choosing.
+
+A global organization, Ekinops (EKI) - a public company traded on the Euronext Paris exchange operates on four continents.
+<br/>
+Name : Ekinops
+<br/>
+ISIN Code : FR0011466069
+<br/>
+Mnemonic code : EKI
+<br/>
+Number of shares : 26 162 922
+
+
+For more information, visit: [www.ekinops.com](https://www.ekinops.com/).
 
 
 
