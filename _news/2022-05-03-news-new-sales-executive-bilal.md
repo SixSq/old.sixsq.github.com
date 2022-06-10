@@ -33,7 +33,7 @@ Sales Executive
 <br/>
 +41 78 232 52 00
 <br/>
-[bilal.bouchelaghem@sixsq.com](bilal.bouchelaghem@sixsq.com)
+<bilal.bouchelaghem@sixsq.com>
 
 
 **Louise Merifield**
@@ -42,6 +42,6 @@ Operations Manager
 <br/>
 +41 77 44 68 170
 <br/>
-[merifield@sixsq.com](merifield@sixsq.com)
+<merifield@sixsq.com>
 
 
