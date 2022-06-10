@@ -2,14 +2,13 @@
 layout: news-article
 short-title: C2RO’s ENTERA Video Analytics Agent now available on SixSq’s Nuvla.io Marketplace 
 title: C2RO’s ENTERA Video Analytics Agent now available on SixSq’s Nuvla.io Marketplace
-image: /img/logo/logo_ekinops.png
+image: /img/logo/logo_c2ro.png
 product: news
 product-name: News
 class: news
 category: media
 top-story: true
 in-focus: true
-css-style-image: padding-top&colon; 50px&semi;
 ---
 
 **SixSq’s Nuvla.io ecosystem facilitates the deployment, management and update of C2RO’s ENTERA Video Analytics Agent** 

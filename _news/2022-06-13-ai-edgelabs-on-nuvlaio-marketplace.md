@@ -2,25 +2,24 @@
 layout: news-article
 short-title: AI EdgeLabs available on Nuvla.io Marketplace for Cyber protection at the edge
 title: AI EdgeLabs available on Nuvla.io Marketplace for Cyber protection at the edge
-image: /img/logo/logo_ekinops.png
+image: /img/vendors/ai-edgelabs-logo.svg
 product: news
 product-name: News
 class: news
 category: media
 top-story: true
 in-focus: true
-css-style-image: padding-top&colon; 50px&semi;
 ---
 
 **SixSq’s Nuvla.io ecosystem facilitates the deployment, management, and update of AI EdgeLab’s cyber security sensors**
 
-**Geneva, 13 June 2022.** SixSq, an Ekinops Company, and [AI EdgeLabs](https://edgelabs.ai/) today announced a partnership to make AI EdgeLabs cyber security sensors available via the Nuvla.io Marketplace. This collaboration significantly simplifies the creation of a complete cyber defense solution for edge/IoT/OT devices, by enabling the purchase, deployment and management of AI EdgeLabs cyber security sensors.
+**Geneva, 13 June 2022.** SixSq, an Ekinops Company, and [AI EdgeLabs](https://edgelabs.ai/) today announced a partnership to make AI EdgeLabs cyber security sensors available via the Nuvla.io Marketplace. This collaboration significantly simplifies the integration of a complete cyber defense solution for edge/IoT/OT devices, by enabling the purchase, deployment and management of AI EdgeLabs cyber security sensors.
 
 AI EdgeLabs is a powerful and autonomous cybersecurity [AI platform](https://edgelabs.ai/platform/) that helps security teams respond immediately to ongoing attacks and protect Edge/IoT infrastructures against malware, DDoS, botnets, and other threats. AI EdgeLabs delivers cybersecurity measures by bringing network visibility, early threat detection, and automated incident response to the Edge and on-premise environments.
 
 Cybersecurity is not an issue pertaining to specific industries which is why AI EdgeLabs is uniquely designed to solve the pain points of each one, from manufacturing to retail, healthcare, agriculture, telecommunications, transportation and logistics, smart cities, financial services, and more. 
 
-_“We believe that **edge/IoT/OT cybersecurity for critical infrastructure and automated industry** should be protected with a flawless embedded function. The solution should be easy to deploy, fast and ready for immediate use. Considering the level of connectivity in this field, AI is the only option to analyse data and secure the edge and connected IoT/OT,”_  says [Inna Ushakova](https://www.linkedin.com/in/innaushakova/), CEO at AI EdgeLabs.
+_“To remain competitive, we believe businesses should be protected with real time, AI-powered, and accurate embedded solutions. Said solutions should be easy to deploy, fast, and ready for immediate use. Considering the level of connectivity in the field, AI is the best option to analyse data and secure the Edge and connected IoT/OT”_ says [Inna Ushakova](https://www.linkedin.com/in/innaushakova/), CEO at AI EdgeLabs.
 
 With AI EdgeLabs available in the Nuvla.io Marketplace, companies can now cyber protect their edge assets.
 

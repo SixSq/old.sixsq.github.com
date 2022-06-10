@@ -2,14 +2,13 @@
 layout: news-article
 short-title: Cybus Connectware is now available on the SixSq’s Nuvla.io Marketplace for intelligent manufacturing monitoring
 title: Cybus Connectware is now available on the SixSq’s Nuvla.io Marketplace for intelligent manufacturing monitoring
-image: /img/logo/logo_ekinops.png
+image: /img/logo/logo_cybus.png
 product: news
 product-name: News
 class: news
 category: media
 top-story: true
 in-focus: true
-css-style-image: padding-top&colon; 50px&semi;
 ---
 
 **SixSq’s Nuvla.io ecosystem facilitates the deployment, management and update of the Manufacturing Data Platform “Cybus Connectware”**
