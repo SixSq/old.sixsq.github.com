@@ -2,7 +2,7 @@
 layout: news-article
 short-title: Securaxis’s SONAL Sound Analysis Agent now available on SixSq’s Nuvla.io Marketplace 
 title: Securaxis’s SONAL Sound Analysis Agent now available on SixSq’s Nuvla.io Marketplace 
-image: /img/logo/logo_securaxis.png
+image: /img/logo/logo_SECURAXIS.png
 product: news
 product-name: News
 class: news
