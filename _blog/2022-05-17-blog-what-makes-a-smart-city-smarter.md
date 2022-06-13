@@ -1,8 +1,8 @@
 ---
-title: What makes a smart city even smarter? Shared edge infrastructure
-image: https://media.sixsq.com/hubfs/shutterstock_279416225-min.png
-link: https://media.sixsq.com/blog/what-makes-a-smart-city-even-smarter
+title: Privacy Intrusion&#58; Hold all the cards with Edge Computing
+image: https://media.sixsq.com/hubfs/shutterstock_1287301606-min.jpg
+link: https://media.sixsq.com/blog/privacy-intrusion-hold-all-the-cards-with-edge-computing
 top-story: true
 ---
 
-Create a future-proof solution for your smart city by implementing a shared infrastructure.
+Are you worried about the privacy and security of your business data? Find out how edge computing can help.

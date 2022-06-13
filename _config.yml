@@ -3,6 +3,7 @@ url: https://sixsq.com
 address: SixSq, Route de Meyrin, 267, 1217, Meyrin, Geneva, Switzerland
 markdown: kramdown
 encoding: utf-8
+future: true
 summary: Nuvla.io is an edge management platform. Nuvla.io is an edge management service. Nuvla.io is edge management as a service (SaaS). NuvlaBox turns single board computer (x86 and ARM) into smart edge device. Nuvla is open source edge management. Cloud neutral and multi-cloud. Nuvla.io is container native. Package your application as docker container and it can be deployed at the edge and in the cloud. Nuvla also supports Kubernetes and Docker Swarm. Nuvla.io supports edge on a subscription model. Our customers use Nuvla.io and NuvlaBox to create solutions for smart city, science, retail, outpost. Nuvla.io accelerates AI deployment at the edge. Nuvla.io supports IoT, IIoT, Industry 4.0, artificial intelligence (AI), machine learning (ML) and big data applications. 
 keywords: edge management service, edge management platform, edge as a service, edge computing, cloud computing, Nuvla.io, Nuvla, NuvlaBox, Science, Outpost, Smart City, IoT, IIoT, Industry 4.0, artificial intelligence, ai, machine learning, ml, big data, Docker, Kubernetes, Docker Swarm, ARM, x86, single board computer, iot management platform, iot management service, fog computing, fog management platform, fog management service
 google-tag-id: GTM-M77XBLH
