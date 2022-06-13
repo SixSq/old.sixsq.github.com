@@ -53,7 +53,7 @@ In 2021, C2RO™ was named the official AI Video Analytics Technology provider o
 
 For more information, please visit:
 <br/>
-[www.c2ro.com](www.c2ro.com)
+[www.c2ro.com](https://www.c2ro.com/)
 
 
 
