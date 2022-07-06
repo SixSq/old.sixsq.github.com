@@ -8,7 +8,7 @@ product-name: News
 class: news
 category: media
 top-story: true
-in-focus: false
+in-focus: true
 ---
 
 **Geneva, 5 July, 2022** – SixSq, an [Ekinops](https://www.ekinops.com/) company, is proud to announce its participation in the 5G-EMERGE project, which aims to develop solutions that leverage 5G technology and satellite broadcasting to put Europe at the vanguard of media delivery technology. The project is part of the [European Space Agency](https://www.esa.int/) (ESA) programme of Advanced Research in Telecommunications Systems ([ARTES](https://www.esa.int/Applications/Telecommunications_Integrated_Applications/ARTES/About_ARTES)) and will be led by the European Broadcasting Union ([EBU](https://www.ebu.ch/home)).

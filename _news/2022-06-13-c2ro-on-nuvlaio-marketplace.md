@@ -8,7 +8,7 @@ product-name: News
 class: news
 category: media
 top-story: true
-in-focus: true
+in-focus: false
 ---
 
 **SixSq’s Nuvla.io ecosystem facilitates the deployment, management and update of C2RO’s ENTERA Video Analytics Agent** 
