@@ -16,7 +16,7 @@ SixSq is building the most advanced edge-to-cloud B2B SaaS platform: [Nuvla.io](
 
 Nuvla.io is mostly built using the functional language Clojure and the web ui Clojurescript. We therefore are looking for developers with experience in functional languages or willing to learn this amazing paradigm and join a great community. The solution also leverages Elasticsearch, Zookeeper and Kafka. And our operations target public cloud infrastructures and Kubernetes as the container orchestration engine.
 
-The core team is based in Geneva, in beautiful Switzerland. While remote working is possible, a regular presence in Geneva is expected. As the company operates using mature agile methodologies, experience or interest in agile development is required, since this is how we think and do things.
+The core team is based in Geneva, in beautiful Switzerland. While remote working is possible but we are expecting not more than two hours difference in timezone. Also, a regular presence in Geneva is expected. As the company operates using mature agile methodologies, experience or interest in agile development is required, since this is how we think and do things.
 
 Expect to be given time and space to learn before jumping right in to developing production code for Nuvla.io. As an agile team, we expect each developer to be able to contribute to feature definition, architecture, design, implementation, testing and operations support.  Also, you will be expected to share and present your work to your peers, Nuvla.io Tech Lead, Scrum Master and Product Owner for feedback and guidance.
 
